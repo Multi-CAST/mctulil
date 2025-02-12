@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="2001">
     <corpus c_name="tulil">
         <text t_name="alrm" annotators="Chenxi Meng" speaker="TL01">
-            <file f_name="mc_tulil_alrm" audio="mc_tulil_alrm.wav" updated="2019-07-05">
+            <file f_name="mc_tulil_alrm" audio="mc_tulil_alrm.wav" updated="2019-09-15">
                 <unit uid="0001" start_time="8521" end_time="13891">
                     <utterance_id>tulil_alrm_0001</utterance_id>
                     <utterance>ngang o ava nga itəne moli Augustine Rickie.</utterance>
@@ -3811,7 +3811,7 @@
                 <unit uid="0030" start_time="278566" end_time="284165">
                     <utterance_id>tulil_alrm_0030</utterance_id>
                     <utterance>io ngang ngətira ngane, 'gəri idə? gu tərea abət to ngiməngar bema?'</utterance>
-                    <utterance_translation>Then I askied him said, "What is it? which thing you talked about?"</utterance_translation>
+                    <utterance_translation>Then I asked him, "What is it? What thing are you talking about?"</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>

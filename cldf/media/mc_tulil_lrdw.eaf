@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2019-07-06T07:28:58+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2019-09-15T22:57:18+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_tulil_lrdw.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ad9ac3fa-a6b0-43b5-aa53-942b7f1a7e3e</PROPERTY>
@@ -2689,12 +2689,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a7915" ANNOTATION_REF="a131" PREVIOUS_ANNOTATION="a2697">
-                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a439" ANNOTATION_REF="a131" PREVIOUS_ANNOTATION="a7915">
+            <REF_ANNOTATION ANNOTATION_ID="a439" ANNOTATION_REF="a131" PREVIOUS_ANNOTATION="a2697">
                 <ANNOTATION_VALUE>to</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -9903,11 +9898,6 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2738" ANNOTATION_REF="a2697">
                 <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a7929" ANNOTATION_REF="a7915">
-                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17123,11 +17113,6 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8844" ANNOTATION_REF="a7929">
-                <ANNOTATION_VALUE>0.1:a</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8845" ANNOTATION_REF="a1371">
                 <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -22812,11 +22797,6 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9977" ANNOTATION_REF="a8841">
                 <ANNOTATION_VALUE>5008</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a9978" ANNOTATION_REF="a8844">
-                <ANNOTATION_VALUE>5002</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

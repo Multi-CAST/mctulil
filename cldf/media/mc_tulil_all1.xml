@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="2001">
     <corpus c_name="tulil">
         <text t_name="all1" annotators="Chenxi Meng" speaker="TL01">
             <file f_name="mc_tulil_all1" audio="mc_tulil_all1.wav" updated="2019-07-05">

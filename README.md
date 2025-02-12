@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Meng, Chenxi. 2019. Multi-CAST Tulil. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1907. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#tulil) (date accessed)
+  > Meng, Chenxi. 2020. Multi-CAST Tulil. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2001. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#tulil) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -109,7 +109,7 @@ information on all annotated categories, including those not listed here.
 
 | GRAID | ⟨:s⟩ | ⟨:a⟩ | ⟨:ncs⟩ | ⟨:p⟩ | ⟨:obl⟩ | ⟨:g⟩ | ⟨:l⟩ | ⟨:pred⟩ | ⟨:poss⟩ | ⟨:other⟩ | totals |
 |:--------------|-------:|-------:|---------:|-------:|---------:|-------:|-------:|----------:|----------:|-----------:|---------:|
-| **⟨0.1⟩** | 132 | 119 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 251 |
+| **⟨0.1⟩** | 132 | 118 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 250 |
 | **⟨0.2⟩** | 14 | 29 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 43 |
 | **⟨0.h⟩** | 132 | 122 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 254 |
 | **⟨0.d⟩** | 62 | 34 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 96 |
@@ -129,7 +129,7 @@ information on all annotated categories, including those not listed here.
 | **⟨other.h⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other⟩** | 6 | 0 | 0 | 8 | 0 | 49 | 51 | 169 | 0 | 0 | 283 |
-| | 734 | 406 | 0 | 412 | 112 | 124 | 154 | 268 | 220 | 44 | 2474 |
+| | 734 | 405 | 0 | 412 | 112 | 124 | 154 | 268 | 220 | 44 | 2473 |
 
 
 **Clause boundaries**
