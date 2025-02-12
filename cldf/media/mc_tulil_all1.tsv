@@ -42,12 +42,12 @@ tulil	all1	0003	=e	=SG.CL:FEM	=rn	=rn
 tulil	all1	0003	b=	ASP=	=other	=other				
 tulil	all1	0003	i-mətor	3SG.F.PST-sit	v:pred	v		pred		
 tulil	all1	0003	#	#	##	##				
-tulil	all1	0003	0	0	0.h:s	0	h	s	1002	new
+tulil	all1	0003	0	0	0.h:s	0	h	s	1002	
 tulil	all1	0003	b=	ASP=	=other	=other				
 tulil	all1	0003	i-mətor	3SG.F.PST-sit	v:pred	v		pred		
 tulil	all1	0003	kia	first	other	other				
 tulil	all1	0003	#	#	##	##				
-tulil	all1	0003	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0003	0	0	0.h:s	0	h	s	1003	bridging
 tulil	all1	0003	me	and	other	other				
 tulil	all1	0003	doto	when;if	other	other				
 tulil	all1	0003	vəti	day	np:dt	np		dt		
@@ -55,7 +55,7 @@ tulil	all1	0003	təgə	one	rn	rn
 tulil	all1	0003	=von	=SG.CL:DIM	=rn	=rn				
 tulil	all1	0003	o	TOP	other	other				
 tulil	all1	0003	v=	3SG.M.POSS=	=ln_pro.h:poss	=ln_pro	h	poss	1004	
-tulil	all1	0003	ativon	brother	np:dt_s	np		dt_s	1003	bridging
+tulil	all1	0003	ativon	brother	np:dt_s	np		dt_s	1003	
 tulil	all1	0003	o	TOP	other	other				
 tulil	all1	0003	və-ppi	3SG.M.PST-RED~walk;go	v:pred	v		pred		
 tulil	all1	0003	tə=	to=	=adp	=adp				
@@ -413,7 +413,7 @@ tulil	all1	0016	doto	when;if	other	other
 tulil	all1	0016	və-təvək	3SG.M.PST-cross	v:pred	v		pred		
 tulil	all1	0016	tə=	to=	=adp	=adp				
 tulil	all1	0016	be	at	adp	adp				
-tulil	all1	0016	vəret	side	np:l	np		l	1033	
+tulil	all1	0016	vəret	side	np:l	np		l	1033	bridging
 tulil	all1	0016	=e	=SG.CL:FEM	=rn	=rn				
 tulil	all1	0016	e-mu	3SG.F-IN	rn	rn				
 tulil	all1	0016	%	%	%	%				
@@ -746,7 +746,7 @@ tulil	all1	0027	0	0	0.h:s	0	h	s	1031
 tulil	all1	0027	ta-t~ton	3PL.NPST-RED~look	v:pred	v		pred		
 tulil	all1	0027	tuk	give	adp	adp				
 tulil	all1	0027	=a	=PAT	=ln	=ln				
-tulil	all1	0027	ailand	island	np:obl	np		obl	1033	bridging
+tulil	all1	0027	ailand	island	np:obl	np		obl	1033	
 tulil	all1	0027	tat-e	3PL-QUOT	other	other				
 tulil	all1	0027	ailand	island	other	other				
 tulil	all1	0027	#	#	#rc	#rc				

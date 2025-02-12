@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2207">
+<multicast version="2211">
  <corpus c_name="tulil">
   <text t_name="all1" annotators="Chenxi Meng" speaker="TL01">
-   <file f_name="mc_tulil_all1" audio="mc_tulil_all1.wav" updated="2020-09-14">
+   <file f_name="mc_tulil_all1" audio="mc_tulil_all1.wav" updated="2022-07-25">
     <unit uid="0001" start_time="2170" end_time="5000">
      <utterance_id>tulil_all1_0001</utterance_id>
      <utterance>ngang o nga itəne Augustine Rickie.</utterance>
@@ -249,7 +249,6 @@
        <gloss>0</gloss>
        <graid>0.h:s</graid>
        <refind>1002</refind>
-       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>b=</gword>
@@ -276,6 +275,7 @@
        <gloss>0</gloss>
        <graid>0.h:s</graid>
        <refind>1003</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>me</gword>
@@ -318,7 +318,6 @@
        <gloss>brother</gloss>
        <graid>np:dt_s</graid>
        <refind>1003</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>o</gword>
@@ -2308,6 +2307,7 @@
        <gloss>side</gloss>
        <graid>np:l</graid>
        <refind>1033</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>=e</gword>
@@ -4142,7 +4142,6 @@
        <gloss>island</gloss>
        <graid>np:obl</graid>
        <refind>1033</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>tat-e</gword>

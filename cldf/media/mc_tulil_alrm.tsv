@@ -643,7 +643,7 @@ tulil	alrm	0028	təgə	one	rn	rn
 tulil	alrm	0028	=von	=3SG.DIM	=rn	=rn				
 tulil	alrm	0028	o	TOP	other	other				
 tulil	alrm	0028	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	2001	
-tulil	alrm	0028	məln	brother.in.law	np.h:a	np	h	a	2003	new
+tulil	alrm	0028	məln	brother.in.law	np.h:a	np	h	a	2003	
 tulil	alrm	0028	=a	=SG.CL:MASC	=rn	=rn				
 tulil	alrm	0028	Fidelis	Fidelis	pn_np:appos	pn_np		appos		
 tulil	alrm	0028	Vəninar	Vəninar	rn	rn				
@@ -2076,9 +2076,8 @@ tulil	alrm	0100	=e	=SG.CL:FEM	=rn	=rn
 tulil	alrm	0100	i-m~mənəvən	3SG.F.PST-RED~fall	v:pred	v		pred		
 tulil	alrm	0100	%	%	%	%				
 tulil	alrm	0100	o	TOP	other	other				
-tulil	alrm	0100	iləm	flood	np:s	np		s	2088	
+tulil	alrm	0100	iləm	flood	np:s	np		s	2088	bridging
 tulil	alrm	0100	=a	=SG.CL:MASC	=rn	=rn				
-tulil	alrm	0100	0	0	0:a	0		a	2088	bridging
 tulil	alrm	0100	v-anəng	3SG.M.PST-run	v:pred	v		pred		
 tulil	alrm	0100	ba	in	adp	adp				
 tulil	alrm	0100	ioi	water	np:g	np		g	2027	

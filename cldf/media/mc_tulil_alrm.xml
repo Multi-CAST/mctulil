@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2207">
+<multicast version="2211">
  <corpus c_name="tulil">
   <text t_name="alrm" annotators="Chenxi Meng" speaker="TL01">
-   <file f_name="mc_tulil_alrm" audio="mc_tulil_alrm.wav" updated="2020-12-01">
+   <file f_name="mc_tulil_alrm" audio="mc_tulil_alrm.wav" updated="2022-07-25">
     <unit uid="0001" start_time="8521" end_time="13891">
      <utterance_id>tulil_alrm_0001</utterance_id>
      <utterance>ngang o ava nga itəne moli Augustine Rickie.</utterance>
@@ -3623,7 +3623,6 @@
        <gloss>brother.in.law</gloss>
        <graid>np.h:a</graid>
        <refind>2003</refind>
-       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>=a</gword>
@@ -11668,18 +11667,12 @@
        <gloss>flood</gloss>
        <graid>np:s</graid>
        <refind>2088</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>=a</gword>
        <gloss>=SG.CL:MASC</gloss>
        <graid>=rn</graid>
-      </segment>
-      <segment>
-       <gword>0</gword>
-       <gloss>0</gloss>
-       <graid>0:a</graid>
-       <refind>2088</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>v-anəng</gword>
