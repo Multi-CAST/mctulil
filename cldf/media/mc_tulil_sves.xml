@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="tulil">
         <text t_name="sves" annotators="Chenxi Meng" speaker="TL05">
-            <file f_name="mc_tulil_sves" audio="mc_tulil_sves.wav" updated="2019-07-05">
+            <file f_name="mc_tulil_sves" audio="mc_tulil_sves.wav" updated="2020-08-06">
                 <unit uid="0001" start_time="6010" end_time="11457">
                     <utterance_id>tulil_sves_0001</utterance_id>
                     <utterance>do da nganəngar be amolia ana va dərnge.</utterance>
@@ -76,9 +76,9 @@
                     <utterance_translation>My name is Miss something.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ngang</gword>
@@ -5052,9 +5052,9 @@
                     <utterance_translation>I'm-- something,</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ngang</gword>
@@ -5074,9 +5074,9 @@
                     <utterance_translation>I'm Sisili Viru.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ngang</gword>
@@ -5101,9 +5101,9 @@
                     <utterance_translation>I've told this story.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ngə-məngar</gword>
@@ -5138,9 +5138,9 @@
                     <utterance_translation>That's it, and it ends.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>u-bət</gword>
@@ -5153,9 +5153,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>

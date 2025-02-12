@@ -9,27 +9,27 @@ tulil	alrm	0001	=e	=SG.CL:FEM	nc	nc
 tulil	alrm	0001	moli	again	nc	nc				
 tulil	alrm	0001	Augustine	Augustine	nc	nc				
 tulil	alrm	0001	Rickie	Rickie	nc	nc				
-tulil	alrm	0002	(#)	(#)	nc	nc				
+tulil	alrm	0002	#	#	#nc	#nc				
 tulil	alrm	0002	me	and	nc	nc				
 tulil	alrm	0002	do	here;now	nc	nc				
 tulil	alrm	0002	ava	again	nc	nc				
 tulil	alrm	0002	ngə-mətor	1SG.PST-sit	nc	nc				
-tulil	alrm	0002	(#)	(#)	nc	nc				
+tulil	alrm	0002	#	#	#nc	#nc				
 tulil	alrm	0002	da	PURP	nc	nc				
 tulil	alrm	0002	ngan-ume	1SG.NPST-tell	nc	nc				
 tulil	alrm	0002	bem	at	nc	nc				
 tulil	alrm	0002	=a	=PAT	nc	nc				
 tulil	alrm	0002	a-pir	ART-story	nc	nc				
-tulil	alrm	0002	(#)	(#)	nc	nc				
+tulil	alrm	0002	#	#	#nc	#nc				
 tulil	alrm	0002	me	and	nc	nc				
 tulil	alrm	0002	kori	NEG	nc	nc				
 tulil	alrm	0002	go	NSPEC	nc	nc				
 tulil	alrm	0002	a-pir	ART-story	nc	nc				
-tulil	alrm	0002	(#)	(#)	nc	nc				
+tulil	alrm	0002	#	#	#nc	#nc				
 tulil	alrm	0002	a-pir	ART-story	nc	nc				
 tulil	alrm	0002	təre	true	nc	nc				
 tulil	alrm	0002	moli	real	nc	nc				
-tulil	alrm	0002	(#)	(#)	nc	nc				
+tulil	alrm	0002	#	#	#nc	#nc				
 tulil	alrm	0002	to	REL	nc	nc				
 tulil	alrm	0002	avar	also	nc	nc				
 tulil	alrm	0002	ngang	1SG	nc	nc				
@@ -83,7 +83,7 @@ tulil	alrm	0005	=a	=SG.CL:MASC	=rn	=rn
 tulil	alrm	0005	a-vi	3SG.M-PROX1	other:dt	other		dt		
 tulil	alrm	0005	o	TOP	other	other				
 tulil	alrm	0005	ngunu-kər	1DL.PST-rise	v:pred	v		pred		
-tulil	alrm	0005	tang	REFL	pro.1:p	pro	1	p	2006	bridging
+tulil	alrm	0005	tang	REFL	refl.1:p	refl	1	p	2006	bridging
 tulil	alrm	0005	mən=	from=	=adp	=adp				
 tulil	alrm	0005	do	here;now	other:l	other		l		
 tulil	alrm	0005	təkə=	to=	=adp	=adp				
@@ -99,8 +99,7 @@ tulil	alrm	0005	west	west	np:g	np		g	2008	new
 tulil	alrm	0005	coast	coast	rn	rn				
 tulil	alrm	0005	be	at	rn	rn				
 tulil	alrm	0005	central	central	rn_np	rn_np			2009	new
-tulil	alrm	0005	new	new	rn	rn				
-tulil	alrm	0005	ireland	ireland	rn	rn				
+tulil	alrm	0005	New Ireland	New_Ireland	rn_pn_np	rn_pn_np				
 tulil	alrm	0005	ba	in	adp	adp				
 tulil	alrm	0005	məngəd	home	np:appos	np		appos	2010	new
 tulil	alrm	0005	=a	=SG.CL:MASC	=rn	=rn				
@@ -766,7 +765,7 @@ tulil	alrm	0035	#	#	#ds	#ds
 tulil	alrm	0035	0	0	0.2:a	0	2	a	2001	
 tulil	alrm	0035	do	here;now	other	other				
 tulil	alrm	0035	ngi-kər	2SG.NPST-get_up	v:pred	v		pred		
-tulil	alrm	0035	tang	REFL	pro.h:p	pro	h	p	2001	
+tulil	alrm	0035	tang	REFL	refl.h:p	refl	h	p	2001	
 tulil	alrm	0035	mən=	from=	=adp	=adp				
 tulil	alrm	0035	do	here;now	other:l	other		l	2010	
 tulil	alrm	0035	#	#	##ds	##ds				
@@ -1008,7 +1007,7 @@ tulil	alrm	0050	0	0	0.1:a	0	1	a	2006
 tulil	alrm	0050	io	then	other	other				
 tulil	alrm	0050	bə=	ASP=	=other	=other				
 tulil	alrm	0050	ngunu-mu	1DL.PST-put	v:pred	v		pred		
-tulil	alrm	0050	idə	3N	pro:p	pro		p	2006	
+tulil	alrm	0050	idə	3N	pro:p	pro		p	2047	
 tulil	alrm	0050	nə-mu	LOC-IN	dem_other	dem_other				
 tulil	alrm	0050	ba	in	adp	adp				
 tulil	alrm	0050	ro	bamboo	np:g	np		g	2052	
@@ -1031,7 +1030,7 @@ tulil	alrm	0052	#	#	#ds	#ds
 tulil	alrm	0052	0	0	0.2:a	0	2	a	2054	bridging
 tulil	alrm	0052	do	here;now	other	other				
 tulil	alrm	0052	i-kər	2DL.NPST-arise	v:pred	v		pred		
-tulil	alrm	0052	tang	REFL	pro.h:p	pro	h	p	2054	
+tulil	alrm	0052	tang	REFL	refl.h:p	refl	h	p	2054	
 tulil	alrm	0052	mən=	from=	=adp	=adp				
 tulil	alrm	0052	do	here;now	other:l	other		l		
 tulil	alrm	0052	#	#	#ds	#ds				
@@ -1253,7 +1252,7 @@ tulil	alrm	0063	təpm	with	nc	nc
 tulil	alrm	0063	=a	=PAT	nc	nc				
 tulil	alrm	0063	kəbit	rope	nc_np	nc_np			2061	
 tulil	alrm	0063	=e	=SG.CL:FEM	nc	nc				
-tulil	alrm	0063	#	#	#	#				
+tulil	alrm	0063	#	#	##	##				
 tulil	alrm	0063	0	0	0.1:a	0	1	a	2001	
 tulil	alrm	0063	da	PURP	other	other				
 tulil	alrm	0063	ngə-p~pe	1SG.PST-RED~tie	v:pred	v		pred		
@@ -1270,7 +1269,7 @@ tulil	alrm	0063	kəvənav	rain	rn_np	rn_np			2002
 tulil	alrm	0063	=e	=SG.CL:FEM	=rn	=rn				
 tulil	alrm	0063	nə-mu	LOC-IN	rn	rn				
 tulil	alrm	0063	nə-bət	LOC-PROX2	rn	rn				
-tulil	alrm	0063	#	#	#	#				
+tulil	alrm	0063	#	#	##	##				
 tulil	alrm	0063	0	0	0:a	0		a	2052	
 tulil	alrm	0063	to	to	other	other				
 tulil	alrm	0063	b=	ASP=	=other	=other				
@@ -1282,12 +1281,12 @@ tulil	alrm	0063	bə=	ASP=	=other	=other
 tulil	alrm	0063	kəvənave	rain	np:obl	np		obl	2002	
 tulil	alrm	0063	=e	=SG.CL:FEM	=rn	=rn				
 tulil	alrm	0063	nə-bət	LOC-PROX2	other	other				
-tulil	alrm	0064	(#)	(#)	nc	nc				
+tulil	alrm	0064	#	#	#nc	#nc				
 tulil	alrm	0064	be	at	nc	nc				
 tulil	alrm	0064	von	3SG.DIM	nc	nc				
 tulil	alrm	0064	to	REL	nc	nc				
 tulil	alrm	0064	bə=	ASP=	nc	nc				
-tulil	alrm	0064	ngə-p~pur	1SG.PST-RED~pur	v:pred	v		pred		
+tulil	alrm	0064	ngə-p~pur	1SG.PST-RED~pur	nc	nc				
 tulil	alrm	0064	təkə=	to=	nc	nc				
 tulil	alrm	0064	nə-bo	LOC-UP	nc	nc				
 tulil	alrm	0064	tə=	to=	nc	nc				
@@ -1302,14 +1301,14 @@ tulil	alrm	0064	nang	tree	nc	nc
 tulil	alrm	0064	=a	=SG.CL:MASC	nc	nc				
 tulil	alrm	0064	a-vi	3SG.M-PROX1	nc	nc				
 tulil	alrm	0064	to	REL	nc	nc				
-tulil	alrm	0064	ngə-t~tak	1SG.PST-RED~call	v:pred	v		pred		
+tulil	alrm	0064	ngə-t~tak	1SG.PST-RED~call	nc	nc				
 tulil	alrm	0064	toktok	end	nc	nc				
 tulil	alrm	0064	bem	at	nc	nc				
 tulil	alrm	0064	=a	=3SG.M.PAT	nc	nc				
 tulil	alrm	0064	me	and	nc	nc				
 tulil	alrm	0064	idə	3N	nc	nc				
 tulil	alrm	0064	kori	NEG	nc	nc				
-tulil	alrm	0064	nga-tak	1SG.NPST-call	v:pred	v		pred		
+tulil	alrm	0064	nga-tak	1SG.NPST-call	nc	nc				
 tulil	alrm	0064	bem	at	nc	nc				
 tulil	alrm	0065	doto	when;if	nc	nc				
 tulil	alrm	0065	bə=	ASP=	nc	nc				
@@ -1504,7 +1503,7 @@ tulil	alrm	0074	#	#	##	##
 tulil	alrm	0074	io	then	other	other				
 tulil	alrm	0074	vən	3SG.AUG	cl_pro:a	cl_pro		a	2064	
 tulil	alrm	0074	idə-məkən	3N.PST-plant?	v:pred	v		pred		
-tulil	alrm	0074	tang	REFL	pro:p	pro		p		
+tulil	alrm	0074	tang	REFL	refl:p	refl		p		
 tulil	alrm	0074	nə-mə	LOC-DOWN	dem_other	dem_other				
 tulil	alrm	0074	be	at	adp	adp				
 tulil	alrm	0074	vət	3SG.SEG	np:l	np		l	2066	new
@@ -1517,14 +1516,14 @@ tulil	alrm	0075	#	#	##	##
 tulil	alrm	0075	vən	3SG.AUG	cl_pro:a	cl_pro		a	2064	
 tulil	alrm	0075	idə-məkən	3N.PST-plant	v:pred	v		pred		
 tulil	alrm	0075	mat	get	rv	rv				
-tulil	alrm	0075	tang	REFL	pro:p	pro		p	2064	
+tulil	alrm	0075	tang	REFL	refl:p	refl		p	2064	
 tulil	alrm	0075	nə-bət	LOC-PROX2	dem_other:l	dem_other		l	2066	
 tulil	alrm	0075	#	#	#	#				
 tulil	alrm	0075	o	TOP	other	other				
 tulil	alrm	0075	bərivu	wind	np:a	np		a	2065	
 tulil	alrm	0075	=a	=SG.CL:MASC	=rn	=rn				
 tulil	alrm	0075	və-bənakən	3SG.M.PST-turnover	v:pred	v		pred		
-tulil	alrm	0075	tang	REFL	pro:p	pro		p	2065	
+tulil	alrm	0075	tang	REFL	refl:p	refl		p	2065	
 tulil	alrm	0075	#	#	##neg	##neg				
 tulil	alrm	0075	0	0	0:s	0		s	2065	
 tulil	alrm	0075	bə=	ASP=	=other	=other				
@@ -1683,7 +1682,7 @@ tulil	alrm	0082	#	#	#nc	#nc
 tulil	alrm	0082	to	SUB	nc	nc				
 tulil	alrm	0082	vədau	3PL.AUG	nc	nc				
 tulil	alrm	0082	u-bət	3N-PROX2	nc	nc				
-tulil	alrm	0082	(#)	(#)	nc	nc				
+tulil	alrm	0082	#	#	#nc	#nc				
 tulil	alrm	0082	to	to	nc	nc				
 tulil	alrm	0082	vədau	3PL.AUG	nc	nc				
 tulil	alrm	0082	idə-matər	3N.PST-stand	nc	nc				
@@ -2588,7 +2587,7 @@ tulil	alrm	0119	iləm	flood	np:a	np		a	2088
 tulil	alrm	0119	=a	=SG.CL:MASC	=rn	=rn				
 tulil	alrm	0119	və-r~rup	3SG.M.PST-RED~gather	v:pred	v		pred		
 tulil	alrm	0119	mat	get	rv	rv				
-tulil	alrm	0119	tang	REFL	pro:p	pro		p		
+tulil	alrm	0119	tang	REFL	refl:p	refl		p		
 tulil	alrm	0119	nə-bo	LOC-UP	dem_other	dem_other				
 tulil	alrm	0119	nandi	like_this	other	other				
 tulil	alrm	0119	təkə=	to=	=adp	=adp				
@@ -2767,7 +2766,7 @@ tulil	alrm	0127	#	#	##	##
 tulil	alrm	0127	0	0	0.1:a	0	1	a	2006	
 tulil	alrm	0127	tove	because	other	other				
 tulil	alrm	0127	du-məri~mərit	1PL.PST-RED~pity	v:pred	v		pred		
-tulil	alrm	0127	tang	REFL	pro:p	pro		p	2006	
+tulil	alrm	0127	tang	REFL	refl:p	refl		p	2006	
 tulil	alrm	0127	#	#	#	#				
 tulil	alrm	0127	0	0	0.1:a	0	1	a	2006	
 tulil	alrm	0127	to	SUB	other	other				
@@ -2927,7 +2926,7 @@ tulil	alrm	0137	io	then	other	other
 tulil	alrm	0137	ip	3DL.M	pro.h:dt_a	pro	h	dt_a	2085	
 tulil	alrm	0137	o	TOP	other	other				
 tulil	alrm	0137	ik-kər	3DL.M-arise	v:pred	v		pred		
-tulil	alrm	0137	tang	REFL	pro.h:p	pro	h	p	2085	
+tulil	alrm	0137	tang	REFL	refl.h:p	refl	h	p	2085	
 tulil	alrm	0137	#	#	##	##				
 tulil	alrm	0137	#	#	#ac	#ac				
 tulil	alrm	0137	0	0	0.h:s	0	h	s	2085	
@@ -2946,7 +2945,7 @@ tulil	alrm	0137	%	%	%	%
 tulil	alrm	0137	o	TOP	other	other				
 tulil	alrm	0137	0	0	0.h:a	0	h	a	2085	
 tulil	alrm	0137	ik-kər	3DL.M.PST-arise	v:pred	v		pred		
-tulil	alrm	0137	tang	REFL	pro:p	pro		p	2085	
+tulil	alrm	0137	tang	REFL	refl:p	refl		p	2085	
 tulil	alrm	0137	#	#	#	#				
 tulil	alrm	0137	0	0	0.h:a	0	h	a	2085	
 tulil	alrm	0137	o	TOP	other	other				
@@ -2967,7 +2966,7 @@ tulil	alrm	0137	da	PURP	other	other
 tulil	alrm	0137	udu	1PL	pro.1:a	pro	1	a	2006	
 tulil	alrm	0137	ava	again	other	other				
 tulil	alrm	0137	du-rup	1PL.PST-gather	v:pred	v		pred		
-tulil	alrm	0137	tang	REFL	pro:p	pro		p	2034	
+tulil	alrm	0137	tang	REFL	refl:p	refl		p	2034	
 tulil	alrm	0138	#	#	##	##				
 tulil	alrm	0138	io	then	other	other				
 tulil	alrm	0138	ta	3PL	pro.h:a	pro	h	a	2036	
@@ -3367,7 +3366,7 @@ tulil	alrm	0158	udu	1PL	nc	nc
 tulil	alrm	0158	do	here;now	nc	nc				
 tulil	alrm	0158	be	at	nc	nc				
 tulil	alrm	0158	Rəbəul	Rəbəul	nc	nc				
-tulil	alrm	0158	(#)	(#)	nc	nc				
+tulil	alrm	0158	#	#	#nc	#nc				
 tulil	alrm	0158	to	REL	nc	nc				
 tulil	alrm	0158	lok	man	nc	nc				
 tulil	alrm	0158	=pənik	=PL.CL:DIM	nc	nc				
@@ -3378,7 +3377,7 @@ tulil	alrm	0158	=a	=PAT	nc	nc
 tulil	alrm	0158	pern	climb	nc	nc				
 tulil	alrm	0158	=a	=PAT	nc	nc				
 tulil	alrm	0158	ləmat	coconut	nc	nc				
-tulil	alrm	0159	(#)	(#)	nc	nc				
+tulil	alrm	0159	#	#	#nc	#nc				
 tulil	alrm	0159	nə-mumə	LOC-DOWN.FAR	nc	nc				
 tulil	alrm	0159	be	at	nc	nc				
 tulil	alrm	0159	New Ireland	New_Ireland	nc_pn_np	nc_pn_np				
@@ -3393,7 +3392,7 @@ tulil	alrm	0159	=a	=PAT	nc	nc
 tulil	alrm	0159	pern	climb	nc	nc				
 tulil	alrm	0159	=a	=PAT	nc	nc				
 tulil	alrm	0159	ləmat	coconut	nc_np	nc_np				
-tulil	alrm	0160	(#)	(#)	nc	nc				
+tulil	alrm	0160	#	#	#nc	#nc				
 tulil	alrm	0160	məgət	today	nc	nc				
 tulil	alrm	0160	o	TOP	nc	nc				
 tulil	alrm	0160	ka	SUBJ	nc	nc				
@@ -3411,18 +3410,18 @@ tulil	alrm	0160	be	at	nc	nc
 tulil	alrm	0160	vəti	day	nc	nc				
 tulil	alrm	0160	təgəvon	one	nc	nc				
 tulil	alrm	0160	=von	=SG.CL:DIM	nc	nc				
-tulil	alrm	0161	(#)	(#)	nc	nc				
+tulil	alrm	0161	#	#	#nc	#nc				
 tulil	alrm	0161	mərek	good	nc	nc				
 tulil	alrm	0161	ko	only	nc	nc				
 tulil	alrm	0161	to	NC	nc	nc				
 tulil	alrm	0161	vənu	sun	nc	nc				
 tulil	alrm	0161	=a	=SG.CL:MASC	nc	nc				
-tulil	alrm	0162	(#)	(#)	nc	nc				
+tulil	alrm	0162	#	#	#nc	#nc				
 tulil	alrm	0162	me	and	nc	nc				
 tulil	alrm	0162	iap	3SG.M	nc	nc				
 tulil	alrm	0162	a-perən	3SG.M.NPST-climb	nc	nc				
 tulil	alrm	0162	konəng	only	nc	nc				
-tulil	alrm	0163	(#)	(#)	nc	nc				
+tulil	alrm	0163	#	#	#nc	#nc				
 tulil	alrm	0163	go	NSPEC	nc	nc				
 tulil	alrm	0163	idil	small	nc	nc				
 tulil	alrm	0163	konəng	only	nc	nc				
@@ -3437,10 +3436,10 @@ tulil	alrm	0163	do	here;now	nc	nc
 tulil	alrm	0163	konəng	only	nc	nc				
 tulil	alrm	0163	a-bo	3SG.M-UP	nc	nc				
 tulil	alrm	0163	a-perən	3SG.M.NPST-climb	nc	nc				
-tulil	alrm	0163	(#)	(#)	nc	nc				
+tulil	alrm	0163	#	#	#nc	#nc				
 tulil	alrm	0163	tə-təm	3PL.PST-know	nc	nc				
 tulil	alrm	0163	mərek	good	nc	nc				
-tulil	alrm	0164	(#)	(#)	nc	nc				
+tulil	alrm	0164	#	#	#nc	#nc				
 tulil	alrm	0164	io	then	nc	nc				
 tulil	alrm	0164	doto	when;if	nc	nc				
 tulil	alrm	0164	lok	man	nc	nc				
@@ -3450,8 +3449,8 @@ tulil	alrm	0164	da	PURP	nc	nc
 tulil	alrm	0164	tə-p~pern	3PL.PST-RED~climb	nc	nc				
 tulil	alrm	0164	=a	=PAT	nc	nc				
 tulil	alrm	0164	ləmat	coconut	nc	nc				
-tulil	alrm	0165	(#)	(#)	nc	nc				
-tulil	alrm	0165	(#)	(#)	nc	nc				
+tulil	alrm	0165	#	#	#nc	#nc				
+tulil	alrm	0165	#	#	#nc	#nc				
 tulil	alrm	0165	doto	when;if	nc	nc				
 tulil	alrm	0165	tə-m~man	3PL.PST-RED~remove	nc	nc				
 tulil	alrm	0165	=a	=PAT	nc	nc				
@@ -3459,21 +3458,21 @@ tulil	alrm	0165	ləmat	coconut	nc	nc
 tulil	alrm	0165	tə=	to=	nc	nc				
 tulil	alrm	0165	be	at	nc	nc				
 tulil	alrm	0165	ibən	land	nc	nc				
-tulil	alrm	0165	(#)	(#)	nc	nc				
+tulil	alrm	0165	#	#	#nc	#nc				
 tulil	alrm	0165	o	TOP	nc	nc				
 tulil	alrm	0165	vanəm	few	nc	nc				
 tulil	alrm	0165	o	TOP	nc	nc				
 tulil	alrm	0165	ngi-nau	2SG.NPST-drag	nc	nc				
 tulil	alrm	0165	bətəpm	on_surface_of	nc	nc				
 tulil	alrm	0165	=a	=3SG.M.PAT	nc	nc				
-tulil	alrm	0165	(#)	(#)	nc	nc				
+tulil	alrm	0165	#	#	#nc	#nc				
 tulil	alrm	0165	o	TOP	nc	nc				
 tulil	alrm	0165	bə=	ASP=	nc	nc				
 tulil	alrm	0165	kori	NEG	nc	nc				
 tulil	alrm	0165	go	NSPEC	nc	nc				
 tulil	alrm	0165	ioi	water	nc	nc				
 tulil	alrm	0165	nə-mu	LOC-IN	nc	nc				
-tulil	alrm	0166	(#)	(#)	nc	nc				
+tulil	alrm	0166	#	#	#nc	#nc				
 tulil	alrm	0166	me	and	nc	nc				
 tulil	alrm	0166	a-tirip	ART-kulau	nc	nc				
 tulil	alrm	0166	moli	real	nc	nc				
@@ -3481,22 +3480,22 @@ tulil	alrm	0166	=a	=SG.CL:MASC	nc	nc
 tulil	alrm	0166	o	TOP	nc	nc				
 tulil	alrm	0166	ngin-at	2SG.NPST-get	nc	nc				
 tulil	alrm	0166	=a	=3SG.M.PAT	nc	nc				
-tulil	alrm	0166	(#)	(#)	nc	nc				
+tulil	alrm	0166	#	#	#nc	#nc				
 tulil	alrm	0166	o	TOP	nc	nc				
 tulil	alrm	0166	a-bo	3SG.M-UP	nc	nc				
 tulil	alrm	0166	ngi-talən	2SG.NPST-RED~shakea	nc	nc				
 tulil	alrm	0166	=a	=3SG.M.PAT	nc	nc				
 tulil	alrm	0166	nandi	like_this	nc	nc				
-tulil	alrm	0166	(#)	(#)	nc	nc				
+tulil	alrm	0166	#	#	#nc	#nc				
 tulil	alrm	0166	o	TOP	nc	nc				
 tulil	alrm	0166	kapukapuk	RED~empty	nc	nc				
 tulil	alrm	0166	bərodəm	inside	nc	nc				
 tulil	alrm	0166	=a	=3SG.M.PAT	nc	nc				
-tulil	alrm	0167	(#)	(#)	nc	nc				
+tulil	alrm	0167	#	#	#nc	#nc				
 tulil	alrm	0167	məgəte	like	nc	nc				
 tulil	alrm	0167	kərerət	dry	nc	nc				
 tulil	alrm	0167	=a	=3SG.M.PAT	nc	nc				
-tulil	alrm	0168	(#)	(#)	nc	nc				
+tulil	alrm	0168	#	#	#nc	#nc				
 tulil	alrm	0168	tove	because	nc	nc				
 tulil	alrm	0168	ioi	water	nc	nc				
 tulil	alrm	0168	o	TOP	nc	nc				
@@ -3509,7 +3508,7 @@ tulil	alrm	0168	nə-mu	LOC-IN	nc	nc
 tulil	alrm	0168	ba	in	nc	nc				
 tulil	alrm	0168	a-tiriv	ART-kulau	nc	nc				
 tulil	alrm	0168	=a	=SG.CL:MASC	nc	nc				
-tulil	alrm	0168	(#)	(#)	nc	nc				
+tulil	alrm	0168	#	#	#nc	#nc				
 tulil	alrm	0168	me	and	nc	nc				
 tulil	alrm	0168	bə=	ASP=	nc	nc				
 tulil	alrm	0168	tomoma	half	nc	nc				
@@ -3519,8 +3518,8 @@ tulil	alrm	0168	nə-mu	LOC-IN	nc	nc
 tulil	alrm	0168	ba	in	nc	nc				
 tulil	alrm	0168	a-tiriv	ART-kulau	nc	nc				
 tulil	alrm	0168	=a	=SG.CL:MASC	nc	nc				
-tulil	alrm	0169	(#)	(#)	nc	nc				
-tulil	alrm	0169	(#)	(#)	nc	nc				
+tulil	alrm	0169	#	#	#nc	#nc				
+tulil	alrm	0169	#	#	#nc	#nc				
 tulil	alrm	0169	doto	when;if	nc	nc				
 tulil	alrm	0169	ngin-at	2SG.NPST-get	nc	nc				
 tulil	alrm	0169	=a	=pro:p	nc	nc				
@@ -3529,20 +3528,20 @@ tulil	alrm	0169	nə-mu	LOC-IN	nc	nc
 tulil	alrm	0169	o	TOP	nc	nc				
 tulil	alrm	0169	ngi-talən	2SG.NPST-RED~shakea	nc	nc				
 tulil	alrm	0169	=a	=3SG.M.PAT	nc	nc				
-tulil	alrm	0169	(#)	(#)	nc	nc				
+tulil	alrm	0169	#	#	#nc	#nc				
 tulil	alrm	0169	o	TOP	nc	nc				
 tulil	alrm	0169	kapukapuk	RED~empty	nc	nc				
-tulil	alrm	0170	(#)	(#)	nc	nc				
+tulil	alrm	0170	#	#	#nc	#nc				
 tulil	alrm	0170	io	then	nc	nc				
 tulil	alrm	0170	ti	lest	nc	nc				
 tulil	alrm	0170	ngi-t~tən	2SG.NPST-RED~think	nc	nc				
 tulil	alrm	0170	ngin-e	2SG-QUOT	nc	nc				
-tulil	alrm	0170	(#)	(#)	nc	nc				
+tulil	alrm	0170	#	#	#nc	#nc				
 tulil	alrm	0170	a-bət	3SG.M-PROX2	nc	nc				
 tulil	alrm	0170	o	TOP	nc	nc				
 tulil	alrm	0170	kurek	bad	nc	nc				
 tulil	alrm	0170	=a	=SG.CL:MASC	nc	nc				
-tulil	alrm	0171	(#)	(#)	nc	nc				
+tulil	alrm	0171	#	#	#nc	#nc				
 tulil	alrm	0171	kori	NEG	nc	nc				
 tulil	alrm	0171	a-tiriv	ART-kulau	nc	nc				
 tulil	alrm	0171	=a	=SG.CL:MASC	nc	nc				
@@ -3550,20 +3549,20 @@ tulil	alrm	0171	a-bo	3SG.M-UP	nc	nc
 tulil	alrm	0171	o	TOP	nc	nc				
 tulil	alrm	0171	mərek	good	nc	nc				
 tulil	alrm	0171	=a	=3SG.M.PAT	nc	nc				
-tulil	alrm	0171	(#)	(#)	nc	nc				
+tulil	alrm	0171	#	#	#nc	#nc				
 tulil	alrm	0171	ngin-da	2SG-eat	nc	nc				
-tulil	alrm	0172	(#)	(#)	nc	nc				
+tulil	alrm	0172	#	#	#nc	#nc				
 tulil	alrm	0172	me	and	nc	nc				
 tulil	alrm	0172	ngi-nakən	2SG.NPST-drinka	nc	nc				
 tulil	alrm	0172	=a	=3SG.M.PAT	nc	nc				
-tulil	alrm	0172	(#)	(#)	nc	nc				
+tulil	alrm	0172	#	#	#nc	#nc				
 tulil	alrm	0172	məie	but	nc	nc				
 tulil	alrm	0172	bə	ASP	nc	nc				
 tulil	alrm	0172	kori	NEG	nc	nc				
 tulil	alrm	0172	go	NSPEC	nc	nc				
 tulil	alrm	0172	ioi	water	nc	nc				
 tulil	alrm	0172	laik	big	nc	nc				
-tulil	alrm	0173	(#)	(#)	nc	nc				
+tulil	alrm	0173	#	#	#nc	#nc				
 tulil	alrm	0173	bə=	ASP=	nc	nc				
 tulil	alrm	0173	tomom	half	nc	nc				
 tulil	alrm	0173	=a	=PAT	nc	nc				
@@ -3571,9 +3570,9 @@ tulil	alrm	0173	ioi	water	nc	nc
 tulil	alrm	0173	nə-mu	LOC-IN	nc	nc				
 tulil	alrm	0173	bərodəm	inside	nc	nc				
 tulil	alrm	0173	=a	=3SG.M.PAT	nc	nc				
-tulil	alrm	0174	(#)	(#)	nc	nc				
+tulil	alrm	0174	#	#	#nc	#nc				
 tulil	alrm	0174	io	then	nc	nc				
-tulil	alrm	0174	(#)	(#)	nc	nc				
+tulil	alrm	0174	#	#	#nc	#nc				
 tulil	alrm	0174	doto	when;if	nc	nc				
 tulil	alrm	0174	da	PURP	nc	nc				
 tulil	alrm	0174	du-m~mat	1PL.PST-RED~get	nc	nc				
@@ -3583,17 +3582,17 @@ tulil	alrm	0174	a-tirip	ART-kulau	nc	nc
 tulil	alrm	0174	mən=	from=	nc	nc				
 tulil	alrm	0174	be	at	nc	nc				
 tulil	alrm	0174	ibən	land	nc	nc				
-tulil	alrm	0174	(#)	(#)	nc	nc				
+tulil	alrm	0174	#	#	#nc	#nc				
 tulil	alrm	0174	o	TOP	nc	nc				
 tulil	alrm	0174	kapukapuk	RED~empty	nc	nc				
-tulil	alrm	0175	(#)	(#)	nc	nc				
-tulil	alrm	0175	(#)	(#)	nc	nc				
+tulil	alrm	0175	#	#	#nc	#nc				
+tulil	alrm	0175	#	#	#nc	#nc				
 tulil	alrm	0175	ngi-t~talən	2SG.NPST-RED~shake	nc	nc				
 tulil	alrm	0175	=a	=3SG.M.PAT	nc	nc				
-tulil	alrm	0175	(#)	(#)	nc	nc				
+tulil	alrm	0175	#	#	#nc	#nc				
 tulil	alrm	0175	o	TOP	nc	nc				
 tulil	alrm	0175	kapukapuk	RED~empty	nc	nc				
-tulil	alrm	0176	(#)	(#)	nc	nc				
+tulil	alrm	0176	#	#	#nc	#nc				
 tulil	alrm	0176	me	and	nc	nc				
 tulil	alrm	0176	ləmat	coconut	nc	nc				
 tulil	alrm	0176	kərerət	dry	nc	nc				
@@ -3606,44 +3605,44 @@ tulil	alrm	0176	go	NSPEC	nc	nc
 tulil	alrm	0176	ioi	water	nc	nc				
 tulil	alrm	0176	nə-mu	LOC-IN	nc	nc				
 tulil	alrm	0176	bərodəm	inside	nc	nc				
-tulil	alrm	0176	(#)	(#)	nc	nc				
+tulil	alrm	0176	#	#	#nc	#nc				
 tulil	alrm	0176	b=	ASP=	nc	nc				
 tulil	alrm	0176	idə-təv	idətəv	nc	nc				
 tulil	alrm	0176	=a	=PAT	nc	nc				
 tulil	alrm	0176	ioi	water	nc	nc				
 tulil	alrm	0176	bərodəm	inside	nc	nc				
-tulil	alrm	0177	(#)	(#)	nc	nc				
+tulil	alrm	0177	#	#	#nc	#nc				
 tulil	alrm	0177	io	then	nc	nc				
 tulil	alrm	0177	məgəte	like	nc	nc				
 tulil	alrm	0177	tipur	bush	nc	nc				
 tulil	alrm	0177	təgət	one	nc	nc				
 tulil	alrm	0177	u-bət	3N-PROX2	nc	nc				
-tulil	alrm	0177	(#)	(#)	nc	nc				
+tulil	alrm	0177	#	#	#nc	#nc				
 tulil	alrm	0177	to	REL	nc	nc				
 tulil	alrm	0177	it-tuk	3N.NPST-grow	nc	nc				
 tulil	alrm	0177	ba	in	nc	nc				
 tulil	alrm	0177	lak	lake	nc	nc				
-tulil	alrm	0177	(#)	(#)	nc	nc				
+tulil	alrm	0177	#	#	#nc	#nc				
 tulil	alrm	0177	irir	grass.sp.	nc	nc				
-tulil	alrm	0177	(#)	(#)	nc	nc				
+tulil	alrm	0177	#	#	#nc	#nc				
 tulil	alrm	0177	to	REL	nc	nc				
 tulil	alrm	0177	ta-t~tak	3PL.NPST-RED~call	nc	nc				
 tulil	alrm	0177	bem	at	nc	nc				
 tulil	alrm	0177	tat-e	3PL-QUOT	nc	nc				
 tulil	alrm	0177	irir	grass.sp.	nc	nc				
-tulil	alrm	0178	(#)	(#)	nc	nc				
+tulil	alrm	0178	#	#	#nc	#nc				
 tulil	alrm	0178	to	SUB	nc	nc				
 tulil	alrm	0178	it-tuk	3N.NPST-grow	nc	nc				
 tulil	alrm	0178	ba	in	nc	nc				
 tulil	alrm	0178	lak	lake	nc	nc				
-tulil	alrm	0178	(#)	(#)	nc	nc				
+tulil	alrm	0178	#	#	#nc	#nc				
 tulil	alrm	0178	u-bət	3N-PROX2	nc	nc				
 tulil	alrm	0178	o	TOP	nc	nc				
 tulil	alrm	0178	ar	still;also	nc	nc				
 tulil	alrm	0178	bə	ASP	nc	nc				
 tulil	alrm	0178	kəre~kərerət	RED~dry	nc	nc				
 tulil	alrm	0178	idə	3N	nc	nc				
-tulil	alrm	0178	(#)	(#)	nc	nc				
+tulil	alrm	0178	#	#	#nc	#nc				
 tulil	alrm	0178	me	and	nc	nc				
 tulil	alrm	0178	ber	plant.sp.	nc	nc				
 tulil	alrm	0178	to	SUB	nc	nc				
@@ -3651,7 +3650,7 @@ tulil	alrm	0178	idə-t~tuk	3N.PST-RED~grow	nc	nc
 tulil	alrm	0178	nə-mu	LOC-IN	nc	nc				
 tulil	alrm	0178	ba	in	nc	nc				
 tulil	alrm	0178	lak	lake	nc	nc				
-tulil	alrm	0179	(#)	(#)	nc	nc				
+tulil	alrm	0179	#	#	#nc	#nc				
 tulil	alrm	0179	me	and	nc	nc				
 tulil	alrm	0179	gəlom	plant.sp.	nc	nc				
 tulil	alrm	0179	u-bət	3N-PROX2	nc	nc				
@@ -3659,14 +3658,14 @@ tulil	alrm	0179	ar	still;also	nc	nc
 tulil	alrm	0179	bə	ASP	nc	nc				
 tulil	alrm	0179	kəre~kərerət	RED~dry	nc	nc				
 tulil	alrm	0179	idə	3N	nc	nc				
-tulil	alrm	0180	(#)	(#)	nc	nc				
+tulil	alrm	0180	#	#	#nc	#nc				
 tulil	alrm	0180	ba	in	nc	nc				
 tulil	alrm	0180	maok	time;space	nc	nc				
 tulil	alrm	0180	=a	=SG.CL:MASC	nc	nc				
 tulil	alrm	0180	a-umu	3SG.M-IN	nc	nc				
 tulil	alrm	0180	o	TOP	nc	nc				
 tulil	alrm	0180	tate	3PL-QUOT	nc	nc				
-tulil	alrm	0180	(#)	(#)	nc	nc				
+tulil	alrm	0180	#	#	#nc	#nc				
 tulil	alrm	0180	ibən	land	nc	nc				
 tulil	alrm	0180	=e	=SG.CL:FEM	nc	nc				
 tulil	alrm	0180	e-bət	3SG.F-PROX2	nc	nc				
@@ -3681,11 +3680,11 @@ tulil	alrm	0180	ar	still;also	nc	nc
 tulil	alrm	0180	b=	ASP=	nc	nc				
 tulil	alrm	0180	idə-t~təp	3N.PST-RED~dry	nc	nc				
 tulil	alrm	0180	mərek	good	nc	nc				
-tulil	alrm	0180	(#)	(#)	nc	nc				
+tulil	alrm	0180	#	#	#nc	#nc				
 tulil	alrm	0180	ar	still;also	nc	nc				
 tulil	alrm	0180	bə	ASP	nc	nc				
 tulil	alrm	0180	iavava	dust	nc	nc				
-tulil	alrm	0181	(#)	(#)	nc	nc				
+tulil	alrm	0181	#	#	#nc	#nc				
 tulil	alrm	0181	io	then	nc	nc				
 tulil	alrm	0181	nə-bət	LOC-PROX2	nc	nc				
 tulil	alrm	0181	o	TOP	nc	nc				
@@ -3694,20 +3693,20 @@ tulil	alrm	0181	da	PURP	nc	nc
 tulil	alrm	0181	ngə-məti	1SG.PST-explain	nc	nc				
 tulil	alrm	0181	da	on	nc	nc				
 tulil	alrm	0181	tikilik	little	nc	nc				
-tulil	alrm	0181	(#)	(#)	nc	nc				
+tulil	alrm	0181	#	#	#nc	#nc				
 tulil	alrm	0181	to	SUB	nc	nc				
 tulil	alrm	0181	kakak	niece	nc	nc				
 tulil	alrm	0181	e-mu	3SG.F-IN	nc	nc				
 tulil	alrm	0181	i-tir	3SG.F.PST-ask	nc	nc				
 tulil	alrm	0181	ngang	1SG	nc	nc				
 tulil	alrm	0181	et-e	3SG.F-QUOT	nc	nc				
-tulil	alrm	0181	(#)	(#)	nc	nc				
+tulil	alrm	0181	#	#	#nc	#nc				
 tulil	alrm	0181	me	and	nc	nc				
 tulil	alrm	0181	a-tirip	ART-kulau	nc	nc				
-tulil	alrm	0181	(#)	(#)	nc	nc				
+tulil	alrm	0181	#	#	#nc	#nc				
 tulil	alrm	0181	to	REL	nc	nc				
 tulil	alrm	0181	kapukapuk	RED~empty	nc	nc				
-tulil	alrm	0181	(#)	(#)	nc	nc				
+tulil	alrm	0181	#	#	#nc	#nc				
 tulil	alrm	0181	eh	eh	nc	nc				
 tulil	alrm	0181	nga	1SG.POSS	nc	nc				
 tulil	alrm	0181	kaku	niece	nc	nc				
@@ -3715,12 +3714,12 @@ tulil	alrm	0181	=e	=SG.CL:FEM	nc	nc
 tulil	alrm	0181	ngi-tir	2SG.PST-ask	nc	nc				
 tulil	alrm	0181	ngang	1SG	nc	nc				
 tulil	alrm	0181	nandi	like_this	nc	nc				
-tulil	alrm	0182	(#)	(#)	nc	nc				
+tulil	alrm	0182	#	#	#nc	#nc				
 tulil	alrm	0182	a-tirip	ART-kulau	nc	nc				
-tulil	alrm	0182	(#)	(#)	nc	nc				
+tulil	alrm	0182	#	#	#nc	#nc				
 tulil	alrm	0182	to	REL	nc	nc				
 tulil	alrm	0182	kapukapuk	RED~empty	nc	nc				
-tulil	alrm	0182	(#)	(#)	nc	nc				
+tulil	alrm	0182	#	#	#nc	#nc				
 tulil	alrm	0182	o	TOP	nc	nc				
 tulil	alrm	0182	bə	ASP	nc	nc				
 tulil	alrm	0182	vənu	sun	nc	nc				
@@ -3728,7 +3727,7 @@ tulil	alrm	0182	=a	=SG.CL:MASC	nc	nc
 tulil	alrm	0182	bə=	ASP=	nc	nc				
 tulil	alrm	0182	və-t~ton	3SG.M.PST-RED~look	nc	nc				
 tulil	alrm	0182	vareot	long_time	nc	nc				
-tulil	alrm	0182	(#)	(#)	nc	nc				
+tulil	alrm	0182	#	#	#nc	#nc				
 tulil	alrm	0182	io	then	nc	nc				
 tulil	alrm	0182	b=	ASP=	nc	nc				
 tulil	alrm	0182	idə-t~təv	3N.PST-RED~dry	nc	nc				
@@ -3740,60 +3739,60 @@ tulil	alrm	0182	bərodəm	inside	nc	nc
 tulil	alrm	0182	=a	=PAT	nc	nc				
 tulil	alrm	0182	u-bət	3N-PROX2	nc	nc				
 tulil	alrm	0182	a-tirip	ART-kulau	nc	nc				
-tulil	alrm	0183	(#)	(#)	nc	nc				
-tulil	alrm	0183	(#)	(#)	nc	nc				
+tulil	alrm	0183	#	#	#nc	#nc				
+tulil	alrm	0183	#	#	#nc	#nc				
 tulil	alrm	0183	io	then	nc	nc				
 tulil	alrm	0183	doto	when;if	nc	nc				
 tulil	alrm	0183	da	PURP	nc	nc				
-tulil	alrm	0183	(#)	(#)	nc	nc				
+tulil	alrm	0183	#	#	#nc	#nc				
 tulil	alrm	0183	ngi-nakən	2SG.NPST-drink	nc	nc				
 tulil	alrm	0183	=a	=3SG.M.PAT	nc	nc				
-tulil	alrm	0183	(#)	(#)	nc	nc				
+tulil	alrm	0183	#	#	#nc	#nc				
 tulil	alrm	0183	o	TOP	nc	nc				
 tulil	alrm	0183	bə	ASP	nc	nc				
 tulil	alrm	0183	kori	NEG	nc	nc				
-tulil	alrm	0183	(#)	(#)	nc	nc				
+tulil	alrm	0183	#	#	#nc	#nc				
 tulil	alrm	0183	ngi-nakən	2SG.NPST-drink	nc	nc				
 tulil	alrm	0183	=a	=PAT	nc	nc				
 tulil	alrm	0183	a-tirip	ART-kulau	nc	nc				
 tulil	alrm	0183	təkədəm	whole	nc	nc				
 tulil	alrm	0183	=a	=SG.CL:MASC	nc	nc				
-tulil	alrm	0183	(#)	(#)	nc	nc				
+tulil	alrm	0183	#	#	#nc	#nc				
 tulil	alrm	0183	me	and	nc	nc				
 tulil	alrm	0183	bə	ASP	nc	nc				
 tulil	alrm	0183	ioi	water	nc	nc				
 tulil	alrm	0183	o	TOP	nc	nc				
 tulil	alrm	0183	bə=	ASP=	nc	nc				
 tulil	alrm	0183	tomom	half	nc	nc				
-tulil	alrm	0183	(#)	(#)	nc	nc				
+tulil	alrm	0183	#	#	#nc	#nc				
 tulil	alrm	0183	bə	ASP	nc	nc				
 tulil	alrm	0183	tikilik	little	nc	nc				
 tulil	alrm	0183	konəng	only	nc	nc				
-tulil	alrm	0184	(#)	(#)	nc	nc				
+tulil	alrm	0184	#	#	#nc	#nc				
 tulil	alrm	0184	io	then	nc	nc				
 tulil	alrm	0184	nging	2SG	nc	nc				
 tulil	alrm	0184	lange	want	nc	nc				
-tulil	alrm	0184	(#)	(#)	nc	nc				
+tulil	alrm	0184	#	#	#nc	#nc				
 tulil	alrm	0184	da	PURP	nc	nc				
-tulil	alrm	0184	(#)	(#)	nc	nc				
+tulil	alrm	0184	#	#	#nc	#nc				
 tulil	alrm	0184	ngi-nakən	2SG.NPST-drink	nc	nc				
 tulil	alrm	0184	me	and	nc	nc				
-tulil	alrm	0184	(#)	(#)	nc	nc				
+tulil	alrm	0184	#	#	#nc	#nc				
 tulil	alrm	0184	bə=	ASP=	nc	nc				
 tulil	alrm	0184	kori	NEG	nc	nc				
-tulil	alrm	0184	(#)	(#)	nc	nc				
+tulil	alrm	0184	#	#	#nc	#nc				
 tulil	alrm	0184	ngi-nakən	2SG.NPST-drink	nc	nc				
 tulil	alrm	0184	=a	=PAT	nc	nc				
 tulil	alrm	0184	go	NSPEC	nc	nc				
 tulil	alrm	0184	laik	big	nc	nc				
-tulil	alrm	0184	(#)	(#)	nc	nc				
+tulil	alrm	0184	#	#	#nc	#nc				
 tulil	alrm	0184	tove	because	nc	nc				
 tulil	alrm	0184	b=	ASP=	nc	nc				
 tulil	alrm	0184	idə-t~təv	3N.PST-RED~dry	nc	nc				
 tulil	alrm	0184	=a	=PAT	nc	nc				
 tulil	alrm	0184	ioi	water	nc	nc				
 tulil	alrm	0184	bərodəm	inside	nc	nc				
-tulil	alrm	0185	(#)	(#)	nc	nc				
+tulil	alrm	0185	#	#	#nc	#nc				
 tulil	alrm	0185	mərek	good	nc	nc				
 tulil	alrm	0185	be	at	nc	nc				
 tulil	alrm	0185	ngi=	2SG.POSS=	nc	nc				

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="tulil">
         <text t_name="jkpp" annotators="Chenxi Meng" speaker="TL02">
-            <file f_name="mc_tulil_jkpp" audio="mc_tulil_jkpp.wav" updated="2019-07-05">
+            <file f_name="mc_tulil_jkpp" audio="mc_tulil_jkpp.wav" updated="2020-09-14">
                 <unit uid="0001" start_time="7106" end_time="10743">
                     <utterance_id>tulil_jkpp_0001</utterance_id>
                     <utterance>do ava nganəngar be nga ləm.</utterance>
@@ -4187,7 +4187,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro.h:p</graid>
+                            <graid>refl.h:p</graid>
                             <refind>3042</refind>
                         </segment>
                         <segment>
@@ -6761,7 +6761,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro.h:p</graid>
+                            <graid>refl.h:p</graid>
                             <refind>3068</refind>
                         </segment>
                         <segment>
@@ -7119,7 +7119,7 @@
                 <unit uid="0048" start_time="773960" end_time="791264">
                     <utterance_id>tulil_jkpp_0048</utterance_id>
                     <utterance>dumənan, ngətulai ta, ava dutər kona bəli laika, ar mənibərui, vanənga ana kəvop, kəvop bidəmata, io verən nandi nəmumə, təbəro.</utterance>
-                    <utterance_translation>I heard, I brought them, we met a huge pig, still morning, he chased it with dogs, the dogs caught it, then the pig ra down to the river.</utterance_translation>
+                    <utterance_translation>I heard, I brought them, we met a huge pig, still morning, he chased it with dogs, the dogs caught it, then the pig ran down to the river.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -7242,7 +7242,7 @@
                         <segment>
                             <gword>=a</gword>
                             <gloss>=3SG.M.PAT</gloss>
-                            <graid>=pro.h:p</graid>
+                            <graid>=pro:p</graid>
                             <refind>3083</refind>
                         </segment>
                         <segment>
@@ -7362,7 +7362,7 @@
                         <segment>
                             <gword>=a</gword>
                             <gloss>=3SG.M.PAT</gloss>
-                            <graid>=pro.h:p</graid>
+                            <graid>=pro:p</graid>
                             <refind>3083</refind>
                         </segment>
                         <segment>
@@ -7394,7 +7394,7 @@
                         <segment>
                             <gword>=a</gword>
                             <gloss>=3SG.M.PAT</gloss>
-                            <graid>=pro.h:p</graid>
+                            <graid>=pro:p</graid>
                             <refind>3083</refind>
                         </segment>
                         <segment>
@@ -9589,7 +9589,7 @@
                         <segment>
                             <gword>ta</gword>
                             <gloss>1PL</gloss>
-                            <graid>pro.h:p</graid>
+                            <graid>pro.1:p</graid>
                         </segment>
                         <segment>
                             <gword>ngan-e</gword>
@@ -11137,7 +11137,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro.h:p</graid>
+                            <graid>refl.h:p</graid>
                             <refind>3002</refind>
                         </segment>
                         <segment>
@@ -12419,8 +12419,8 @@
                         </segment>
                         <segment>
                             <gword>ta-və</gword>
-                            <gloss>1PL-NSPEC</gloss>
-                            <graid>dem_pro:dt_poss</graid>
+                            <gloss>3PL-NSPEC</gloss>
+                            <graid>dem_pro.h:dt_poss</graid>
                             <refind>3134</refind>
                             <isnref>bridging</isnref>
                         </segment>
@@ -12446,7 +12446,7 @@
                         </segment>
                         <segment>
                             <gword>ta</gword>
-                            <gloss>1PL.POSS</gloss>
+                            <gloss>3PL.POSS</gloss>
                             <graid>ln_pro.h:poss</graid>
                             <refind>3134</refind>
                         </segment>
@@ -16131,9 +16131,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
@@ -16156,9 +16156,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>

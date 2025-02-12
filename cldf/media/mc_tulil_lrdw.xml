@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="tulil">
         <text t_name="lrdw" annotators="Chenxi Meng" speaker="TL04">
-            <file f_name="mc_tulil_lrdw" audio="mc_tulil_lrdw.wav" updated="2019-09-15">
+            <file f_name="mc_tulil_lrdw" audio="mc_tulil_lrdw.wav" updated="2020-08-06">
                 <unit uid="0001" start_time="14440" end_time="24204">
                     <utterance_id>tulil_lrdw_0001</utterance_id>
                     <utterance>mərek vəvat bətma Mr. Mark me va ləidi, kori ngətəma ve itəne.</utterance>
@@ -54,9 +54,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>kori</gword>
@@ -64,9 +64,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ngə-təm</gword>
@@ -101,9 +101,9 @@
                     <utterance_translation>Thank you.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>mərek</gword>
@@ -123,9 +123,9 @@
                     <utterance_translation>now I'm going to tell a story about dog and wallaby.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>do</gword>
@@ -133,9 +133,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ngan-əngar</gword>
@@ -3973,9 +3973,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ava</gword>
@@ -7039,9 +7039,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -7089,9 +7089,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>doto</gword>
@@ -7099,9 +7099,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>at-a~manənga</gword>
@@ -7134,9 +7134,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>kori</gword>
@@ -7149,9 +7149,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>kori</gword>
@@ -7171,29 +7171,14 @@
                     <utterance_translation>he walk around, he walk around, when he jumps the dog won't really know, where the wallaby went? because he [wallaby] always jumps, he jumped with his tail and his long legs, legs and tails pushed him down, when at a slope he will jump from the up down.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
-                        </segment>
-                        <segment>
-                            <gword>aloktang</gword>
-                            <gloss>3SG.M.NPST-circle_around</gloss>
-                            <graid>nc</graid>
-                        </segment>
-                        <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
-                        </segment>
-                        <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>aloktang</gword>
@@ -7201,14 +7186,29 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
+                        </segment>
+                        <segment>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
+                        </segment>
+                        <segment>
+                            <gword>aloktang</gword>
+                            <gloss>3SG.M.NPST-circle_around</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
+                        </segment>
+                        <segment>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>io</gword>
@@ -7221,9 +7221,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>at-atang</gword>
@@ -7231,9 +7231,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -7266,9 +7266,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>a-təm</gword>
@@ -7286,9 +7286,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>tudək</gword>
@@ -7306,9 +7306,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>v-i</gword>
@@ -7321,9 +7321,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>tove</gword>
@@ -7331,9 +7331,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>at-a~matang</gword>
@@ -7341,14 +7341,14 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>və-m~matang</gword>
@@ -7401,9 +7401,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>idə</gword>
@@ -7426,9 +7426,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>da</gword>
@@ -7436,9 +7436,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>doto</gword>
@@ -7461,14 +7461,14 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>at-atang</gword>
@@ -7506,14 +7506,14 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>at-atang</gword>
@@ -7543,9 +7543,9 @@
                     <utterance_translation>like that, the story about wallaby and dog, like this, thanks.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>nə-bət</gword>
@@ -7608,9 +7608,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>mərek</gword>
@@ -7625,9 +7625,9 @@
                     <utterance_translation>at first the two were friends with each other but they harmed each other because the dog bit wallaby's hands, then the wallaby became like this, this and this.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>maməni</gword>
@@ -7640,9 +7640,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ip-var</gword>
@@ -7660,9 +7660,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -7670,9 +7670,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>it-leir</gword>
@@ -7690,9 +7690,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
@@ -7740,9 +7740,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>io</gword>
@@ -7802,9 +7802,9 @@
                     <utterance_translation>then it's just his legs, and his tail that are pushing him (a)</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -7837,9 +7837,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -7862,9 +7862,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>idə</gword>
@@ -7877,9 +7877,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>it-təmən</gword>
@@ -7899,9 +7899,9 @@
                     <utterance_translation>like that and thanks a lot.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>nəbət</gword>
@@ -7914,9 +7914,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>

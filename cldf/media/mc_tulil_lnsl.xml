@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="tulil">
         <text t_name="lnsl" annotators="Chenxi Meng" speaker="TL03">
-            <file f_name="mc_tulil_lnsl" audio="mc_tulil_lnsl.wav" updated="2019-07-05">
+            <file f_name="mc_tulil_lnsl" audio="mc_tulil_lnsl.wav" updated="2020-08-19">
                 <unit uid="0001" start_time="13802" end_time="19853">
                     <utterance_id>tulil_lnsl_0001</utterance_id>
                     <utterance>(nganə-) nganəngar be apir bema evi mutəre.</utterance>
@@ -268,7 +268,7 @@
                 <unit uid="0004" start_time="38790" end_time="48172">
                     <utterance_id>tulil_lnsl_0004</utterance_id>
                     <utterance>nəbət to ittəlavənung, məlanga vətəre, nəbət to ittəlavənung.</utterance>
-                    <utterance_translation>when/where she was drying herself under the sun, the lizard met her, when/where she was drying.</utterance_translation>
+                    <utterance_translation>When/where she was drying herself under the sun, the lizard met her, when/where she was drying.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -362,7 +362,7 @@
                 <unit uid="0005" start_time="48172" end_time="53325">
                     <utterance_id>tulil_lnsl_0005</utterance_id>
                     <utterance>io vətire, ate, "nging o mənəbi nə nging?"</utterance>
-                    <utterance_translation>The he asked her he said, 'Where do you come from?'</utterance_translation>
+                    <utterance_translation>The he asked her he said, "Where do you come from?"</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -438,7 +438,7 @@
                 <unit uid="0006" start_time="53325" end_time="60804">
                     <utterance_id>tulil_lnsl_0006</utterance_id>
                     <utterance>ete, "ava ngang o nga məngəda amu, ba vokie emu nəmu ba tivən."</utterance>
-                    <utterance_translation>She said, "as for me, my home is just in there, in the hole inside the stone."</utterance_translation>
+                    <utterance_translation>She said, "As for me, my home is just in there, in the hole inside the stone."</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -541,7 +541,7 @@
                 <unit uid="0007" start_time="60804" end_time="65611">
                     <utterance_id>tulil_lnsl_0007</utterance_id>
                     <utterance>io iep itir liu tuka ete, "me nging?"</utterance>
-                    <utterance_translation>Then she asked him back, she said, "and you?"</utterance_translation>
+                    <utterance_translation>Then she asked him back, she said, "And you?"</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -720,7 +720,7 @@
                 <unit uid="0010" start_time="73146" end_time="76210">
                     <utterance_id>tulil_lnsl_0010</utterance_id>
                     <utterance>ate, 'io, mərek.'</utterance>
-                    <utterance_translation>He said, "good."</utterance_translation>
+                    <utterance_translation>He said, "Good."</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -1079,7 +1079,7 @@
                         <segment>
                             <gword>nging</gword>
                             <gloss>2SG</gloss>
-                            <graid>0.2:dt_s</graid>
+                            <graid>pro.2:dt_s</graid>
                             <refind>4001</refind>
                         </segment>
                         <segment>
@@ -1224,7 +1224,7 @@
                 <unit uid="0017" start_time="107318" end_time="110570">
                     <utterance_id>tulil_lnsl_0017</utterance_id>
                     <utterance>ete, 'io mərek.'</utterance>
-                    <utterance_translation>she said, "good."</utterance_translation>
+                    <utterance_translation>She said, "Good."</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -1322,7 +1322,7 @@
                 <unit uid="0019" start_time="113930" end_time="115997">
                     <utterance_id>tulil_lnsl_0019</utterance_id>
                     <utterance>"məgət o ngun nganə nging, nəmmə təba ioi."</utterance>
-                    <utterance_translation>"today us, you and me, go down there to the water."</utterance_translation>
+                    <utterance_translation>"Today us, you and me, go down there to the water."</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -1384,7 +1384,7 @@
                 <unit uid="0020" start_time="115997" end_time="120930">
                     <utterance_id>tulil_lnsl_0020</utterance_id>
                     <utterance>məlanga vənan nandi ate, "oʔo kori."</utterance>
-                    <utterance_translation>The lizard heard this, he said, "no."</utterance_translation>
+                    <utterance_translation>The lizard heard this, he said, "No."</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -1664,7 +1664,7 @@
                 <unit uid="0024" start_time="132796" end_time="138363">
                     <utterance_id>tulil_lnsl_0024</utterance_id>
                     <utterance>atorotel avar tədor ete, kori, da iep ve vare.</utterance>
-                    <utterance_translation>The turtle was also strong, she said, no, she is going to be her friend.</utterance_translation>
+                    <utterance_translation>The turtle was also strong, she said, no, she was going to be her friend.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -1793,7 +1793,7 @@
                 <unit uid="0026" start_time="142006" end_time="145230">
                     <utterance_id>tulil_lnsl_0026</utterance_id>
                     <utterance>mənəbət, məlanga vuna vənok da vətauk da ikiou.</utterance>
-                    <utterance_translation>From then, the lizard threw his hand to grab her mouth.</utterance_translation>
+                    <utterance_translation>From then, the lizard threw his hand to grab her [= the conch shell's] mouth.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2380,7 +2380,7 @@
                 <unit uid="0035" start_time="170836" end_time="172779">
                     <utterance_id>tulil_lnsl_0035</utterance_id>
                     <utterance>idəpaləta do ikiova.</utterance>
-                    <utterance_translation>her mouth broke open here.</utterance_translation>
+                    <utterance_translation>Her mouth broke open here.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2424,7 +2424,7 @@
                 <unit uid="0036" start_time="172779" end_time="177027">
                     <utterance_id>tulil_lnsl_0036</utterance_id>
                     <utterance>idəmətiməti təvi da ikiova nandi to ipərratmi ne.</utterance>
-                    <utterance_translation>her mouth was gradually openning like this because they were scrambling for her.</utterance_translation>
+                    <utterance_translation>Her mouth was gradually opening like this because they were scrambling for her.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2505,7 +2505,7 @@
                 <unit uid="0037" start_time="177027" end_time="184806">
                     <utterance_id>tulil_lnsl_0037</utterance_id>
                     <utterance>mata atorotel iton do to bə kəbərək to bidəpaləta ikiova.</utterance>
-                    <utterance_translation>at that time the turtle saw here that there was blood because her mouth was broke open.</utterance_translation>
+                    <utterance_translation>At that time the turtle saw here that there was blood because her mouth was broke open.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2607,7 +2607,7 @@
                 <unit uid="0038" start_time="184806" end_time="188647">
                     <utterance_id>tulil_lnsl_0038</utterance_id>
                     <utterance>iraot pikət ko ne mənba məlanga vənok.</utterance>
-                    <utterance_translation>she pulled in a jerk at her from the lizard's hand.</utterance_translation>
+                    <utterance_translation>She pulled in a jerk at her from the lizard's hand.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2833,7 +2833,7 @@
                 <unit uid="0041" start_time="197385" end_time="202959">
                     <utterance_id>tulil_lnsl_0041</utterance_id>
                     <utterance>me atorotel o inok o uvi, to dənma inok, do.</utterance>
-                    <utterance_translation>and the turltle's hands are these, her handprints, here.</utterance_translation>
+                    <utterance_translation>And the turtle's hands are these, her handprints, here.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2996,7 +2996,7 @@
                 <unit uid="0043" start_time="209040" end_time="213041">
                     <utterance_id>tulil_lnsl_0043</utterance_id>
                     <utterance>io, evi o məgət o bə ləmləme o bə ba ioi.</utterance>
-                    <utterance_translation>then, today she is living inside the water.</utterance_translation>
+                    <utterance_translation>Then, today she is living inside the water.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3071,7 +3071,7 @@
                 <unit uid="0044" start_time="213041" end_time="216602">
                     <utterance_id>tulil_lnsl_0044</utterance_id>
                     <utterance>tove atorotel imerən təpme o təba ioi.</utterance>
-                    <utterance_translation>because the turtle ran away with her, it was into the water.</utterance_translation>
+                    <utterance_translation>Because the turtle ran away with her, it was into the water.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3140,7 +3140,7 @@
                 <unit uid="0045" start_time="216602" end_time="221315">
                     <utterance_id>tulil_lnsl_0045</utterance_id>
                     <utterance>doto da atorotel imerən təpme mənəmbo, kori itəvat təpme gəmon.</utterance>
-                    <utterance_translation>when the turtle ran away with her from up there, she didn't stop in a near place.</utterance_translation>
+                    <utterance_translation>When the turtle ran away with her from up there, she didn't stop in a near place.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3237,7 +3237,7 @@
                 <unit uid="0046" start_time="221315" end_time="230730">
                     <utterance_id>tulil_lnsl_0046</utterance_id>
                     <utterance>ar nəmmə kup təbe vət to da avar məlanga o bə kori ataup bə mate, ar bə maik moli, ba kəvukəvuk.</utterance>
-                    <utterance_translation>still far down there to the place so that the lizard can't get hold of her, still really far, far into the deep sea.</utterance_translation>
+                    <utterance_translation>Still far down there to the place so that the lizard can't get hold of her, still really far, far into the deep sea.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3387,7 +3387,7 @@
                 <unit uid="0047" start_time="230730" end_time="240435">
                     <utterance_id>tulil_lnsl_0047</utterance_id>
                     <utterance>doto da məgət to da ngibərəta evi, o to bə ngibərəte o bə ba ioi, ba tivən nəmə ba viuve, me davə o bə kori.</utterance>
-                    <utterance_translation>today if you want to meet her, you meet her in the water, in the rock down there in the sea, but not up there.</utterance_translation>
+                    <utterance_translation>Today if you want to meet her, you meet her in the water, in the rock down there in the sea, but not up there.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3571,7 +3571,7 @@
                 <unit uid="0048" start_time="240435" end_time="244703">
                     <utterance_id>tulil_lnsl_0048</utterance_id>
                     <utterance>tove kəra mənu vəti to ipvi ipərratmi ne.</utterance>
-                    <utterance_translation>because it's according to the part of the story that the two scrambling for her.</utterance_translation>
+                    <utterance_translation>Because it's according to the part of the story that the two scrambling for her.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3635,7 +3635,7 @@
                 <unit uid="0049" start_time="244703" end_time="253580">
                     <utterance_id>tulil_lnsl_0049</utterance_id>
                     <utterance>io məgət, doto da (də-) gəta da nginata go mutəre, o tatamat idə doto bidəngəp.</utterance>
-                    <utterance_translation>then today, when someone, you want to get some shell, they get them when they die.</utterance_translation>
+                    <utterance_translation>Then today, when someone, you want to get some shell, they get them when they die.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3752,7 +3752,7 @@
                 <unit uid="0050" start_time="253580" end_time="260874">
                     <utterance_id>tulil_lnsl_0050</utterance_id>
                     <utterance>ba doto məte tatela vətə ba ioi io taton təbeme, io tatate.</utterance>
-                    <utterance_translation>or when they search meat in the water, they see it, they get it.</utterance_translation>
+                    <utterance_translation>Or when they search meat in the water, they see it, they get it.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3874,7 +3874,7 @@
                 <unit uid="0051" start_time="260874" end_time="265724">
                     <utterance_id>tulil_lnsl_0051</utterance_id>
                     <utterance>evi o tatəməta vətə mənəmu bəme, o tatəmət.</utterance>
-                    <utterance_translation>this one, they eat meat from inside it, they eat (it).</utterance_translation>
+                    <utterance_translation>This one, they eat meat from inside it, they eat (it).</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3961,7 +3961,7 @@
                 <unit uid="0052" start_time="265724" end_time="273751">
                     <utterance_id>tulil_lnsl_0052</utterance_id>
                     <utterance>io tatate, məgət o udu (da mat-) da mat idə o təda mmatme, uvi o avar idəmətor be mmatme.</utterance>
-                    <utterance_translation>then they get it, today we get them for work, these still exist in work.</utterance_translation>
+                    <utterance_translation>Then they get it, today we get them for work, these still exist in work.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3984,9 +3984,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>məgət</gword>
@@ -4019,9 +4019,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -4073,12 +4073,12 @@
                 <unit uid="0053" start_time="273751" end_time="294490">
                     <utterance_id>tulil_lnsl_0053</utterance_id>
                     <utterance>təda kula kəletuak, me ttak bem tang, pon nogət na men, me be atade o tatate o tapəlok do na vərita avi, tatu vərita do beme, da təda pon.</utterance>
-                    <utterance_translation>for buying women, and calling each other, blow first at the dance, and at church events, they get it and they pierce this small hole, they put a small hole here on it, for blowing [i.e. playing].</utterance_translation>
+                    <utterance_translation>For buying women, and calling each other, blow first at the dance, and at church events, they get it and they pierce this small hole, they put a small hole here on it, for blowing [i.e. playing].</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>təda</gword>
@@ -4146,9 +4146,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -4176,9 +4176,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ta-mat</gword>
@@ -4191,9 +4191,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -4236,9 +4236,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>tat-u</gword>
@@ -4271,9 +4271,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>da</gword>
@@ -4295,12 +4295,12 @@
                 <unit uid="0054" start_time="294490" end_time="300100">
                     <utterance_id>tulil_lnsl_0054</utterance_id>
                     <utterance>io doto da ngibone, o ngibəvone nandi.</utterance>
-                    <utterance_translation>then when you want to blow it, you blow like this.</utterance_translation>
+                    <utterance_translation>Then when you want to blow it, you blow like this.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>io</gword>
@@ -4308,9 +4308,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>doto</gword>
@@ -4333,9 +4333,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -4377,9 +4377,9 @@
                     <utterance_translation>This is when for church event, they blow like this.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -4422,9 +4422,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -4446,12 +4446,12 @@
                 <unit uid="0057" start_time="339530" end_time="346497">
                     <utterance_id>tulil_lnsl_0057</utterance_id>
                     <utterance>me doto da dəkula kəletuak ba go vakue, o dəpone nandi.</utterance>
-                    <utterance_translation>and when we want to buy wives or some wife, we blow like this.</utterance_translation>
+                    <utterance_translation>And when we want to buy wives or some wife, we blow like this.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -4459,9 +4459,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>doto</gword>
@@ -4509,9 +4509,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -4550,12 +4550,12 @@
                 <unit uid="0059" start_time="367158" end_time="375800">
                     <utterance_id>tulil_lnsl_0059</utterance_id>
                     <utterance>nandi, o do doto təda kula kəletuak, ba pon nogət ne na men, o dəpone nandi.</utterance>
-                    <utterance_translation>like this, this is when for buying wives, or play first at the dance, we blow like this.</utterance_translation>
+                    <utterance_translation>Like this, this is when for buying wives, or play first at the dance, we blow like this.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>nandi</gword>
@@ -4568,9 +4568,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>do</gword>
@@ -4643,9 +4643,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -4675,9 +4675,9 @@
                     <utterance_translation>This is the end, that is a story about the shell.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>toktok</gword>
@@ -4695,9 +4695,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>nə-bət</gword>

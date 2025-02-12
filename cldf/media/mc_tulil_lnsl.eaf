@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2019-07-05T09:35:03+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-08-19T06:41:57+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_tulil_lnsl.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:845e7abe-6d1b-4cd2-990d-878210f8d042</PROPERTY>
@@ -4179,7 +4179,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5560" ANNOTATION_REF="a96" PREVIOUS_ANNOTATION="a3806">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4214,7 +4214,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5665" ANNOTATION_REF="a96" PREVIOUS_ANNOTATION="a3812">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4264,7 +4264,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5668" ANNOTATION_REF="a97">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4334,7 +4334,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5699" ANNOTATION_REF="a97" PREVIOUS_ANNOTATION="a3838">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4364,7 +4364,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5700" ANNOTATION_REF="a97" PREVIOUS_ANNOTATION="a3843">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4379,7 +4379,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5701" ANNOTATION_REF="a97" PREVIOUS_ANNOTATION="a3846">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4424,7 +4424,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5702" ANNOTATION_REF="a97" PREVIOUS_ANNOTATION="a3855">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4459,7 +4459,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5703" ANNOTATION_REF="a97" PREVIOUS_ANNOTATION="a3863">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4479,7 +4479,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5579" ANNOTATION_REF="a98">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4489,7 +4489,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5580" ANNOTATION_REF="a98" PREVIOUS_ANNOTATION="a3867">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4514,7 +4514,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5582" ANNOTATION_REF="a98" PREVIOUS_ANNOTATION="a3872">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4544,7 +4544,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5704" ANNOTATION_REF="a100">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4589,7 +4589,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5670" ANNOTATION_REF="a100" PREVIOUS_ANNOTATION="a3885">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4609,7 +4609,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5614" ANNOTATION_REF="a101">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4619,7 +4619,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5615" ANNOTATION_REF="a101" PREVIOUS_ANNOTATION="a3891">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4669,7 +4669,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5617" ANNOTATION_REF="a101" PREVIOUS_ANNOTATION="a3901">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4699,7 +4699,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5619" ANNOTATION_REF="a103">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4714,7 +4714,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5620" ANNOTATION_REF="a103" PREVIOUS_ANNOTATION="a3908">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4789,7 +4789,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5621" ANNOTATION_REF="a103" PREVIOUS_ANNOTATION="a3922">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4814,7 +4814,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5583" ANNOTATION_REF="a104">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4834,7 +4834,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5584" ANNOTATION_REF="a104" PREVIOUS_ANNOTATION="a3930">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8326,7 +8326,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5563" ANNOTATION_REF="a5560">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8361,7 +8361,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5671" ANNOTATION_REF="a5665">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8411,7 +8411,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5674" ANNOTATION_REF="a5668">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8481,7 +8481,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5709" ANNOTATION_REF="a5699">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8511,7 +8511,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5710" ANNOTATION_REF="a5700">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8526,7 +8526,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5711" ANNOTATION_REF="a5701">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8571,7 +8571,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5712" ANNOTATION_REF="a5702">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8606,7 +8606,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5713" ANNOTATION_REF="a5703">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8626,7 +8626,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5585" ANNOTATION_REF="a5579">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8636,7 +8636,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5586" ANNOTATION_REF="a5580">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8661,7 +8661,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5588" ANNOTATION_REF="a5582">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8691,7 +8691,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5714" ANNOTATION_REF="a5704">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8736,7 +8736,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5676" ANNOTATION_REF="a5670">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8756,7 +8756,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5623" ANNOTATION_REF="a5614">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8766,7 +8766,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5624" ANNOTATION_REF="a5615">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8816,7 +8816,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5626" ANNOTATION_REF="a5617">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8846,7 +8846,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5628" ANNOTATION_REF="a5619">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8861,7 +8861,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5629" ANNOTATION_REF="a5620">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8936,7 +8936,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5630" ANNOTATION_REF="a5621">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8961,7 +8961,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5589" ANNOTATION_REF="a5583">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8981,7 +8981,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5590" ANNOTATION_REF="a5584">
-                <ANNOTATION_VALUE>(#)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9943,7 +9943,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8119" ANNOTATION_REF="a4111">
-                <ANNOTATION_VALUE>0.2:dt_s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pro.2:dt_s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12473,7 +12473,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8625" ANNOTATION_REF="a5563">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12508,7 +12508,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8632" ANNOTATION_REF="a5671">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12558,7 +12558,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8642" ANNOTATION_REF="a5674">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12628,7 +12628,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8656" ANNOTATION_REF="a5709">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12658,7 +12658,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8662" ANNOTATION_REF="a5710">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12673,7 +12673,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8665" ANNOTATION_REF="a5711">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12718,7 +12718,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8674" ANNOTATION_REF="a5712">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12753,7 +12753,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8681" ANNOTATION_REF="a5713">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12773,7 +12773,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8685" ANNOTATION_REF="a5585">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12783,7 +12783,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8687" ANNOTATION_REF="a5586">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12808,7 +12808,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8692" ANNOTATION_REF="a5588">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12838,7 +12838,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8697" ANNOTATION_REF="a5714">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12883,7 +12883,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8706" ANNOTATION_REF="a5676">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12903,7 +12903,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8710" ANNOTATION_REF="a5623">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12913,7 +12913,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8712" ANNOTATION_REF="a5624">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12963,7 +12963,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8722" ANNOTATION_REF="a5626">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12993,7 +12993,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8727" ANNOTATION_REF="a5628">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13008,7 +13008,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8730" ANNOTATION_REF="a5629">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13083,7 +13083,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8745" ANNOTATION_REF="a5630">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13108,7 +13108,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8750" ANNOTATION_REF="a5589">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13128,7 +13128,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8754" ANNOTATION_REF="a5590">
-                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14059,22 +14059,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9004" ANNOTATION_REF="a57">
-                <ANNOTATION_VALUE>when/where she was drying herself under the sun, the lizard met her, when/where she was drying.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>When/where she was drying herself under the sun, the lizard met her, when/where she was drying.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9005" ANNOTATION_REF="a58">
-                <ANNOTATION_VALUE>The he asked her he said, 'Where do you come from?'</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>The he asked her he said, "Where do you come from?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9006" ANNOTATION_REF="a59">
-                <ANNOTATION_VALUE>She said, "as for me, my home is just in there, in the hole inside the stone."</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>She said, "As for me, my home is just in there, in the hole inside the stone."</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9007" ANNOTATION_REF="a60">
-                <ANNOTATION_VALUE>Then she asked him back, she said, "and you?"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Then she asked him back, she said, "And you?"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14089,7 +14089,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9010" ANNOTATION_REF="a63">
-                <ANNOTATION_VALUE>He said, "good."</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>He said, "Good."</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14124,7 +14124,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9017" ANNOTATION_REF="a68">
-                <ANNOTATION_VALUE>she said, "good."</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>She said, "Good."</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14134,12 +14134,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9019" ANNOTATION_REF="a1266">
-                <ANNOTATION_VALUE>"today us, you and me, go down there to the water."</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"Today us, you and me, go down there to the water."</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9020" ANNOTATION_REF="a69">
-                <ANNOTATION_VALUE>The lizard heard this, he said, "no."</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>The lizard heard this, he said, "No."</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14159,7 +14159,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9024" ANNOTATION_REF="a71">
-                <ANNOTATION_VALUE>The turtle was also strong, she said, no, she is going to be her friend.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>The turtle was also strong, she said, no, she was going to be her friend.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14169,7 +14169,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9026" ANNOTATION_REF="a73">
-                <ANNOTATION_VALUE>From then, the lizard threw his hand to grab her mouth.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>From then, the lizard threw his hand to grab her [= the conch shell's] mouth.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14214,22 +14214,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9035" ANNOTATION_REF="a79">
-                <ANNOTATION_VALUE>her mouth broke open here.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Her mouth broke open here.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9036" ANNOTATION_REF="a80">
-                <ANNOTATION_VALUE>her mouth was gradually openning like this because they were scrambling for her.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Her mouth was gradually opening like this because they were scrambling for her.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9037" ANNOTATION_REF="a81">
-                <ANNOTATION_VALUE>at that time the turtle saw here that there was blood because her mouth was broke open.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>At that time the turtle saw here that there was blood because her mouth was broke open.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9038" ANNOTATION_REF="a82">
-                <ANNOTATION_VALUE>she pulled in a jerk at her from the lizard's hand.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>She pulled in a jerk at her from the lizard's hand.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14244,7 +14244,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9041" ANNOTATION_REF="a85">
-                <ANNOTATION_VALUE>and the turltle's hands are these, her handprints, here.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And the turtle's hands are these, her handprints, here.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14254,62 +14254,62 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9043" ANNOTATION_REF="a87">
-                <ANNOTATION_VALUE>then, today she is living inside the water.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Then, today she is living inside the water.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9044" ANNOTATION_REF="a88">
-                <ANNOTATION_VALUE>because the turtle ran away with her, it was into the water.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Because the turtle ran away with her, it was into the water.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9045" ANNOTATION_REF="a89">
-                <ANNOTATION_VALUE>when the turtle ran away with her from up there, she didn't stop in a near place.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>When the turtle ran away with her from up there, she didn't stop in a near place.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9046" ANNOTATION_REF="a90">
-                <ANNOTATION_VALUE>still far down there to the place so that the lizard can't get hold of her, still really far, far into the deep sea.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Still far down there to the place so that the lizard can't get hold of her, still really far, far into the deep sea.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9047" ANNOTATION_REF="a91">
-                <ANNOTATION_VALUE>today if you want to meet her, you meet her in the water, in the rock down there in the sea, but not up there.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Today if you want to meet her, you meet her in the water, in the rock down there in the sea, but not up there.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9048" ANNOTATION_REF="a92">
-                <ANNOTATION_VALUE>because it's according to the part of the story that the two scrambling for her.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Because it's according to the part of the story that the two scrambling for her.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9049" ANNOTATION_REF="a93">
-                <ANNOTATION_VALUE>then today, when someone, you want to get some shell, they get them when they die.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Then today, when someone, you want to get some shell, they get them when they die.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9050" ANNOTATION_REF="a94">
-                <ANNOTATION_VALUE>or when they search meat in the water, they see it, they get it.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Or when they search meat in the water, they see it, they get it.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9051" ANNOTATION_REF="a95">
-                <ANNOTATION_VALUE>this one, they eat meat from inside it, they eat (it).</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>This one, they eat meat from inside it, they eat (it).</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9052" ANNOTATION_REF="a96">
-                <ANNOTATION_VALUE>then they get it, today we get them for work, these still exist in work.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Then they get it, today we get them for work, these still exist in work.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9053" ANNOTATION_REF="a97">
-                <ANNOTATION_VALUE>for buying women, and calling each other, blow first at the dance, and at church events, they get it and they pierce this small hole, they put a small hole here on it, for blowing [i.e. playing].</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>For buying women, and calling each other, blow first at the dance, and at church events, they get it and they pierce this small hole, they put a small hole here on it, for blowing [i.e. playing].</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9054" ANNOTATION_REF="a98">
-                <ANNOTATION_VALUE>then when you want to blow it, you blow like this.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Then when you want to blow it, you blow like this.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14324,7 +14324,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9057" ANNOTATION_REF="a101">
-                <ANNOTATION_VALUE>and when we want to buy wives or some wife, we blow like this.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And when we want to buy wives or some wife, we blow like this.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14334,7 +14334,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9059" ANNOTATION_REF="a103">
-                <ANNOTATION_VALUE>like this, this is when for buying wives, or play first at the dance, we blow like this.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Like this, this is when for buying wives, or play first at the dance, we blow like this.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

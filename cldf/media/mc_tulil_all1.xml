@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="tulil">
         <text t_name="all1" annotators="Chenxi Meng" speaker="TL01">
-            <file f_name="mc_tulil_all1" audio="mc_tulil_all1.wav" updated="2019-07-05">
+            <file f_name="mc_tulil_all1" audio="mc_tulil_all1.wav" updated="2020-09-14">
                 <unit uid="0001" start_time="2170" end_time="5000">
                     <utterance_id>tulil_all1_0001</utterance_id>
                     <utterance>ngang o nga itəne Augustine Rickie.</utterance>
@@ -358,7 +358,7 @@
                 <unit uid="0004" start_time="34216" end_time="45856">
                     <utterance_id>tulil_all1_0004</utterance_id>
                     <utterance>vəpi təga gup io kəvənau laike itəra nəbo ba tipur io to vəteltel ana kəvop.</utterance>
-                    <utterance_translation>He went to hunt then heavy rain came to him there in the bush then he wandered around with dogs.</utterance_translation>
+                    <utterance_translation>He went to hunt, then heavy rain came to him there in the bush, then he wandered around with dogs.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -1405,7 +1405,7 @@
                         <segment>
                             <gword>=e</gword>
                             <gloss>=3SG.F.PAT</gloss>
-                            <graid>=pro.h:p</graid>
+                            <graid>=pro:p</graid>
                             <refind>1018</refind>
                         </segment>
                     </annotations>
@@ -1651,7 +1651,7 @@
                         <segment>
                             <gword>i=</gword>
                             <gloss>3SG.F.POSS.AL=</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=ln_pro:poss</graid>
                             <refind>1018</refind>
                         </segment>
                         <segment>
@@ -2400,7 +2400,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro.h:p</graid>
+                            <graid>refl:p</graid>
                             <refind>1018</refind>
                         </segment>
                         <segment>
@@ -2946,7 +2946,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro.h:obl</graid>
+                            <graid>refl.h:obl</graid>
                             <refind>1003</refind>
                         </segment>
                         <segment>
@@ -3163,7 +3163,6 @@
                             <gword>#</gword>
                             <gloss>#</gloss>
                             <graid>#</graid>
-                            <refind>1018</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -4206,7 +4205,6 @@
                             <gword>#</gword>
                             <gloss>#</gloss>
                             <graid>#</graid>
-                            <refind>1033</refind>
                         </segment>
                         <segment>
                             <gword>0</gword>

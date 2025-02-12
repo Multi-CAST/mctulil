@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="tulil">
         <text t_name="alrm" annotators="Chenxi Meng" speaker="TL01">
-            <file f_name="mc_tulil_alrm" audio="mc_tulil_alrm.wav" updated="2019-09-15">
+            <file f_name="mc_tulil_alrm" audio="mc_tulil_alrm.wav" updated="2020-12-01">
                 <unit uid="0001" start_time="8521" end_time="13891">
                     <utterance_id>tulil_alrm_0001</utterance_id>
                     <utterance>ngang o ava nga itəne moli Augustine Rickie.</utterance>
@@ -66,9 +66,9 @@
                     <utterance_translation>and now I'm sitting again to tell a story, not a story, a real story that I worked on.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -91,9 +91,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>da</gword>
@@ -121,9 +121,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -146,9 +146,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>a-pir</gword>
@@ -166,9 +166,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
@@ -382,7 +382,7 @@
                 <unit uid="0005" start_time="43230" end_time="72547">
                     <utterance_id>tulil_alrm_0005</utterance_id>
                     <utterance>be lalənga 1994, o ngang o nga-- ngana nga məlna avi o, ngunu kərtang məndo, təkənəmumə da ngunutteltel mat nəmumə be west coast be central new ireland ba məngəda to tattak bema tate, be Lambu.</utterance>
-                    <utterance_translation>in year 1994, me with my cousin, we got up from here, went to wander down there at west coast in central new ireland, at the place which they called Lambu.</utterance_translation>
+                    <utterance_translation>in year 1994, me with my cousin, we got up from here, went to wander down there at west coast in central New Ireland, at the place which they called Lambu.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -479,7 +479,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro.1:p</graid>
+                            <graid>refl.1:p</graid>
                             <refind>2006</refind>
                             <isnref>bridging</isnref>
                         </segment>
@@ -566,14 +566,9 @@
                             <isnref>new</isnref>
                         </segment>
                         <segment>
-                            <gword>new</gword>
-                            <gloss>new</gloss>
-                            <graid>rn</graid>
-                        </segment>
-                        <segment>
-                            <gword>ireland</gword>
-                            <gloss>ireland</gloss>
-                            <graid>rn</graid>
+                            <gword>New Ireland</gword>
+                            <gloss>New_Ireland</gloss>
+                            <graid>rn_pn_np</graid>
                         </segment>
                         <segment>
                             <gword>ba</gword>
@@ -4319,7 +4314,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro.h:p</graid>
+                            <graid>refl.h:p</graid>
                             <refind>2001</refind>
                         </segment>
                         <segment>
@@ -5706,7 +5701,7 @@
                             <gword>idə</gword>
                             <gloss>3N</gloss>
                             <graid>pro:p</graid>
-                            <refind>2006</refind>
+                            <refind>2047</refind>
                         </segment>
                         <segment>
                             <gword>nə-mu</gword>
@@ -5844,7 +5839,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro.h:p</graid>
+                            <graid>refl.h:p</graid>
                             <refind>2054</refind>
                         </segment>
                         <segment>
@@ -7097,7 +7092,7 @@
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>#</graid>
+                            <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -7185,7 +7180,7 @@
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>#</graid>
+                            <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -7253,9 +7248,9 @@
                     <utterance_translation>[UNCLEAR]</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>be</gword>
@@ -7280,7 +7275,7 @@
                         <segment>
                             <gword>ngə-p~pur</gword>
                             <gloss>1SG.PST-RED~pur</gloss>
-                            <graid>v:pred</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>təkə=</gword>
@@ -7355,7 +7350,7 @@
                         <segment>
                             <gword>ngə-t~tak</gword>
                             <gloss>1SG.PST-RED~call</gloss>
-                            <graid>v:pred</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>toktok</gword>
@@ -7390,7 +7385,7 @@
                         <segment>
                             <gword>nga-tak</gword>
                             <gloss>1SG.NPST-call</gloss>
-                            <graid>v:pred</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>bem</gword>
@@ -8477,7 +8472,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro:p</graid>
+                            <graid>refl:p</graid>
                         </segment>
                         <segment>
                             <gword>nə-mə</gword>
@@ -8553,7 +8548,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro:p</graid>
+                            <graid>refl:p</graid>
                             <refind>2064</refind>
                         </segment>
                         <segment>
@@ -8591,7 +8586,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro:p</graid>
+                            <graid>refl:p</graid>
                             <refind>2065</refind>
                         </segment>
                         <segment>
@@ -9465,9 +9460,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
@@ -14503,7 +14498,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro:p</graid>
+                            <graid>refl:p</graid>
                         </segment>
                         <segment>
                             <gword>nə-bo</gword>
@@ -15504,7 +15499,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro:p</graid>
+                            <graid>refl:p</graid>
                             <refind>2006</refind>
                         </segment>
                         <segment>
@@ -16422,7 +16417,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro.h:p</graid>
+                            <graid>refl.h:p</graid>
                             <refind>2085</refind>
                         </segment>
                         <segment>
@@ -16522,7 +16517,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro:p</graid>
+                            <graid>refl:p</graid>
                             <refind>2085</refind>
                         </segment>
                         <segment>
@@ -16635,7 +16630,7 @@
                         <segment>
                             <gword>tang</gword>
                             <gloss>REFL</gloss>
-                            <graid>pro:p</graid>
+                            <graid>refl:p</graid>
                             <refind>2034</refind>
                         </segment>
                     </annotations>
@@ -18893,9 +18888,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
@@ -18955,9 +18950,9 @@
                     <utterance_translation>down there at New Ireland, young men they know well about how to climb for coconuts.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>nə-mumə</gword>
@@ -19037,9 +19032,9 @@
                     <utterance_translation>today he would climb for three coconuts, four or six, today in one day.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>məgət</gword>
@@ -19134,9 +19129,9 @@
                     <utterance_translation>even it's sunny its fine.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>mərek</gword>
@@ -19171,9 +19166,9 @@
                     <utterance_translation>and he just climb.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -19203,9 +19198,9 @@
                     <utterance_translation>just a small kid like Pius, his head just up to here, he can also climb, they know well.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>go</gword>
@@ -19278,9 +19273,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>tə-təm</gword>
@@ -19300,9 +19295,9 @@
                     <utterance_translation>then when the young men climbed for coconuts.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>io</gword>
@@ -19357,14 +19352,14 @@
                     <utterance_translation>when they removed the coconuts to the ground, a few of them, you removed the husk on it, there's a no water inside.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>doto</gword>
@@ -19402,9 +19397,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -19437,9 +19432,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -19479,9 +19474,9 @@
                     <utterance_translation>and a real kulau, you get it, you shake it and it's 'kapukapuk' inside it.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -19519,9 +19514,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -19549,9 +19544,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -19581,9 +19576,9 @@
                     <utterance_translation>like it's dried.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>məgəte</gword>
@@ -19608,9 +19603,9 @@
                     <utterance_translation>because water is not full inside the kulau, and just half water inside the kulau.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>tove</gword>
@@ -19673,9 +19668,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -19730,14 +19725,14 @@
                     <utterance_translation>when you get it from inside, you shake it and its 'kapukapuk'</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>doto</gword>
@@ -19780,9 +19775,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -19802,9 +19797,9 @@
                     <utterance_translation>les you think, this is a bad one.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>io</gword>
@@ -19827,9 +19822,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>a-bət</gword>
@@ -19859,9 +19854,9 @@
                     <utterance_translation>no, this kulau I mentioned is good, you eat (it).</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>kori</gword>
@@ -19899,9 +19894,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ngin-da</gword>
@@ -19916,9 +19911,9 @@
                     <utterance_translation>and you drink it, like there is not a lot of water.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -19936,9 +19931,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>məie</gword>
@@ -19978,9 +19973,9 @@
                     <utterance_translation>The water inside it is only half.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>bə=</gword>
@@ -20025,9 +20020,9 @@
                     <utterance_translation>when they get these kulaus from the ground, it's 'kapukapuk'.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>io</gword>
@@ -20035,9 +20030,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>doto</gword>
@@ -20085,9 +20080,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -20107,14 +20102,14 @@
                     <utterance_translation>you shake it and it is 'kapukapuk.'</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ngi-t~talən</gword>
@@ -20127,9 +20122,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -20149,9 +20144,9 @@
                     <utterance_translation>and dry coconut, few of them did not have water inside, the water inside dried out.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -20214,9 +20209,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>b=</gword>
@@ -20251,9 +20246,9 @@
                     <utterance_translation>like one type of grass that grows in the lake, irir, they caall it irir.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>io</gword>
@@ -20281,9 +20276,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
@@ -20306,9 +20301,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>irir</gword>
@@ -20316,9 +20311,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
@@ -20353,9 +20348,9 @@
                     <utterance_translation>which is growing in the lake, these were also dried out, and ber, which grows inside the lake.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
@@ -20378,9 +20373,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>u-bət</gword>
@@ -20413,9 +20408,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -20460,9 +20455,9 @@
                     <utterance_translation>and gəlom these are also dried out.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -20507,9 +20502,9 @@
                     <utterance_translation>at that time they said, in that place, like lakes are also dried out well, and full of dust.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ba</gword>
@@ -20542,9 +20537,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ibən</gword>
@@ -20617,9 +20612,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ar</gword>
@@ -20644,9 +20639,9 @@
                     <utterance_translation>Then there I'm going to explain a little bit what niece there asked me, she said, 'and coconuts that are 'kapukapuk'?' you asked me like this.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>io</gword>
@@ -20689,9 +20684,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
@@ -20724,9 +20719,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -20739,9 +20734,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
@@ -20754,9 +20749,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>eh</gword>
@@ -20801,9 +20796,9 @@
                     <utterance_translation>The coconuts which are 'kapukapuk' is when the sun was shining for a long time, and the water inside the coconuts has dried.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>a-tirip</gword>
@@ -20811,9 +20806,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>to</gword>
@@ -20826,9 +20821,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -20866,9 +20861,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>io</gword>
@@ -20933,14 +20928,14 @@
                     <utterance_translation>Then when you want to drink, you don't drink the whole kulau, but the water inside is just half, just a little.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>io</gword>
@@ -20958,9 +20953,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ngi-nakən</gword>
@@ -20973,9 +20968,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>o</gword>
@@ -20993,9 +20988,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ngi-nakən</gword>
@@ -21023,9 +21018,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>me</gword>
@@ -21058,9 +21053,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>bə</gword>
@@ -21085,9 +21080,9 @@
                     <utterance_translation>Then you want to drink, but you can't drink a lot, because the water has dried inside.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>io</gword>
@@ -21105,9 +21100,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>da</gword>
@@ -21115,9 +21110,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ngi-nakən</gword>
@@ -21130,9 +21125,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>bə=</gword>
@@ -21145,9 +21140,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>ngi-nakən</gword>
@@ -21170,9 +21165,9 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>tove</gword>
@@ -21212,9 +21207,9 @@
                     <utterance_translation>Thank you for asking.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>(#)</gword>
-                            <gloss>(#)</gloss>
-                            <graid>nc</graid>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
+                            <graid>#nc</graid>
                         </segment>
                         <segment>
                             <gword>mərek</gword>

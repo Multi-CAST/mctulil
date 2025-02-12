@@ -250,7 +250,7 @@ tulil	all1	0010	to	SUB	other	other
 tulil	all1	0010	ioi	water	np:a	np		a	1009	
 tulil	all1	0010	=voi	=SG.FLAT	=rn	=rn				
 tulil	all1	0010	idə-r~re	3N.PST-RED~carry	v:pred	v		pred		
-tulil	all1	0010	=e	=3SG.F.PAT	=pro.h:p	=pro	h	p	1018	
+tulil	all1	0010	=e	=3SG.F.PAT	=pro:p	=pro		p	1018	
 tulil	all1	0011	#	#	##neg	##neg				
 tulil	all1	0011	0	0	0:s	0		s	1018	
 tulil	all1	0011	tor	wood	np:dt_s	np		dt_s	1018	
@@ -294,7 +294,7 @@ tulil	all1	0012	o	TOP	other	other
 tulil	all1	0012	0	0	0:a	0		a	1018	
 tulil	all1	0012	i-tar	3SG.F.PST-stick	v:pred	v		pred		
 tulil	all1	0012	=a	=PAT	=ln	=ln				
-tulil	all1	0012	i=	3SG.F.POSS.AL=	=pro:poss	=pro		poss	1018	
+tulil	all1	0012	i=	3SG.F.POSS.AL=	=ln_pro:poss	=ln_pro		poss	1018	
 tulil	all1	0012	nung	bottom	np:p	np		p	1020	bridging
 tulil	all1	0012	=a	=SG.CL:MASC	=rn	=rn				
 tulil	all1	0012	nə-mə	LOC-DOWN	dem_other	dem_other				
@@ -431,7 +431,7 @@ tulil	all1	0016	o	TOP	other	other
 tulil	all1	0016	ava	again	other	other				
 tulil	all1	0016	0	0	0.h:a	0	h	a	1003	
 tulil	all1	0016	və-bənakən	3SG.M.PST-turn	v:pred	v		pred		
-tulil	all1	0016	tang	REFL	pro.h:p	pro	h	p	1018	
+tulil	all1	0016	tang	REFL	refl:p	refl		p	1018	
 tulil	all1	0016	#	#	#	#				
 tulil	all1	0016	0	0	0.h:s	0	h	s	1003	
 tulil	all1	0016	da	PURP	other	other				
@@ -531,7 +531,7 @@ tulil	all1	0019	və-ton	3SG.M.PST-look	v:pred	v		pred
 tulil	all1	0019	kəbərion	dream	np:p	np		p	1024	new
 tulil	all1	0019	moli	again	other	other				
 tulil	all1	0019	nə	APPL	adp	adp				
-tulil	all1	0019	tang	REFL	pro.h:obl	pro	h	obl	1003	
+tulil	all1	0019	tang	REFL	refl.h:obl	refl	h	obl	1003	
 tulil	all1	0019	#	#	#rc	#rc				
 tulil	all1	0019	0	0	0.h:s	0	h	s	1003	
 tulil	all1	0019	to	REL	other	other				
@@ -571,7 +571,7 @@ tulil	all1	0020	və-toti	3SG.M.PST-see	v:pred	v		pred
 tulil	all1	0020	tor	wood	np:p	np		p	1018	
 tulil	all1	0020	=e	=SG.CL:FEM	=rn	=rn				
 tulil	all1	0020	e-vi	3SG.F-PROX1	rn	rn				
-tulil	all1	0020	#	#	#	#			1018	
+tulil	all1	0020	#	#	#	#				
 tulil	all1	0020	0	0	0.d:s	0	d	s	1018	
 tulil	all1	0020	to	SUB	other	other				
 tulil	all1	0020	kəra	just_then	other	other				
@@ -758,7 +758,7 @@ tulil	all1	0027	ba	in	adp	adp
 tulil	all1	0027	viuv	sea	np:l	np		l	1016	
 tulil	all1	0027	=e	=SG.CL:FEM	=rn	=rn				
 tulil	all1	0027	nə-mə	LOC-DOWN	dem_other	dem_other				
-tulil	all1	0027	#	#	#	#			1033	
+tulil	all1	0027	#	#	#	#				
 tulil	all1	0027	0	0	0:s	0		s	1033	
 tulil	all1	0027	me	and	other	other				
 tulil	all1	0027	a-liu	3SG.M.NPST-return	v:pred	v		pred		

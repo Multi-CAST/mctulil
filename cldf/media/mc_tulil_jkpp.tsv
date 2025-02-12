@@ -750,7 +750,7 @@ tulil	jkpp	0028	#	#	##	##
 tulil	jkpp	0028	io	then	other	other				
 tulil	jkpp	0028	e-Tadar	ART.F-Tadar	pn_np.h:a	pn_np	h	a	3042	
 tulil	jkpp	0028	i-kər	3SG.F.PST-raise	v:pred	v		pred		
-tulil	jkpp	0028	tang	REFL	pro.h:p	pro	h	p	3042	
+tulil	jkpp	0028	tang	REFL	refl.h:p	refl	h	p	3042	
 tulil	jkpp	0028	#	#	##neg	##neg				
 tulil	jkpp	0028	ar	still	other	other				
 tulil	jkpp	0028	kori	NEG	other	other				
@@ -1208,7 +1208,7 @@ tulil	jkpp	0046	0	0	0.h:a	0	h	a	3068
 tulil	jkpp	0046	iap	3SG.M	pro.h:dt_a	pro	h	dt_a	3068	
 tulil	jkpp	0046	o	TOP	other	other				
 tulil	jkpp	0046	və-kər	3SG.M.PST-raise	v:pred	v		pred		
-tulil	jkpp	0046	tang	REFL	pro.h:p	pro	h	p	3068	
+tulil	jkpp	0046	tang	REFL	refl.h:p	refl	h	p	3068	
 tulil	jkpp	0046	mənibərui	morning	other	other				
 tulil	jkpp	0046	#	#	##	##				
 tulil	jkpp	0046	0	0	0.h:a_ds	0	h	a_ds	3068	
@@ -1295,7 +1295,7 @@ tulil	jkpp	0048	mənibərui	morning	other	other
 tulil	jkpp	0048	#	#	##	##				
 tulil	jkpp	0048	0	0	0.h:a	0	h	a	3068	
 tulil	jkpp	0048	v-anəng	3SG.M.PST-chase	v:pred	v		pred		
-tulil	jkpp	0048	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	3083	
+tulil	jkpp	0048	=a	=3SG.M.PAT	=pro:p	=pro		p	3083	
 tulil	jkpp	0048	a-n	3SG.M-COM	adp	adp				
 tulil	jkpp	0048	=a	=PAT	=ln	=ln				
 tulil	jkpp	0048	kəvop	dog	np:obl	np		obl	3070	
@@ -1316,13 +1316,13 @@ tulil	jkpp	0049	#	#	##	##
 tulil	jkpp	0049	0	0	0.1:a	0	1	a	3071	
 tulil	jkpp	0049	du-vən	1PL.PST-hit	v:pred	v		pred		
 tulil	jkpp	0049	m	APPL	rv	rv				
-tulil	jkpp	0049	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	3083	
+tulil	jkpp	0049	=a	=3SG.M.PAT	=pro:p	=pro		p	3083	
 tulil	jkpp	0049	#	#	##	##				
 tulil	jkpp	0049	0	0	0.1:a	0	1	a	3071	
 tulil	jkpp	0049	du-tət	1PL.PST-cut	v:pred	v		pred		
 tulil	jkpp	0049	ləm	new;fresh	rv	rv				
 tulil	jkpp	0049	n	APPL	rv	rv				
-tulil	jkpp	0049	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	3083	
+tulil	jkpp	0049	=a	=3SG.M.PAT	=pro:p	=pro		p	3083	
 tulil	jkpp	0049	#	#	##	##				
 tulil	jkpp	0049	0	0	0.1:a	0	1	a	3071	
 tulil	jkpp	0049	tə-m~man	3PL.PST-RED~remove	v:pred	v		pred		
@@ -1717,7 +1717,7 @@ tulil	jkpp	0064	#	#	##	##
 tulil	jkpp	0064	0	0	0.1:a_ds	0	1	a_ds	3002	
 tulil	jkpp	0064	ngə-məngar	1SG.PST-say	v:pred	v		pred		
 tulil	jkpp	0064	tuk	give	rv	rv				
-tulil	jkpp	0064	ta	1PL	pro.h:p	pro	h	p		
+tulil	jkpp	0064	ta	1PL	pro.1:p	pro	1	p		
 tulil	jkpp	0064	ngan-e	1SG-QUOT	other	other				
 tulil	jkpp	0064	#	#	##ds	##ds				
 tulil	jkpp	0064	0	0	0.1:s	0	1	s	3104	
@@ -1992,7 +1992,7 @@ tulil	jkpp	0079	0	0	0.1:a	0	1	a	3002
 tulil	jkpp	0079	io	then	other	other				
 tulil	jkpp	0079	da	PURP	other	other				
 tulil	jkpp	0079	ngə-kər	1SG.PST-raise	v:pred	v		pred		
-tulil	jkpp	0079	tang	REFL	pro.h:p	pro	h	p	3002	
+tulil	jkpp	0079	tang	REFL	refl.h:p	refl	h	p	3002	
 tulil	jkpp	0079	#	#	##	##				
 tulil	jkpp	0079	0	0	0.1:s	0	1	s	3002	
 tulil	jkpp	0079	da	PURP	other	other				
@@ -2221,12 +2221,12 @@ tulil	jkpp	0087	0	0	0.1:a	0	1	a	3002
 tulil	jkpp	0087	ngə-tir	1SG.PST-ask	v:pred	v		pred		
 tulil	jkpp	0087	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	3112	
 tulil	jkpp	0087	#	#	#ds	#ds				
-tulil	jkpp	0087	ta-və	1PL-NSPEC	dem_pro:dt_poss	dem_pro		dt_poss	3134	bridging
+tulil	jkpp	0087	ta-və	3PL-NSPEC	dem_pro.h:dt_poss	dem_pro	h	dt_poss	3134	bridging
 tulil	jkpp	0087	b=	ASP=	=other	=other				
 tulil	jkpp	0087	imanmanin	bitter;sour	other:pred	other		pred		
 tulil	jkpp	0087	n	APPL	rv	rv				
 tulil	jkpp	0087	=a	=PAT	=ln	=ln				
-tulil	jkpp	0087	ta	1PL.POSS	ln_pro.h:poss	ln_pro	h	poss	3134	
+tulil	jkpp	0087	ta	3PL.POSS	ln_pro.h:poss	ln_pro	h	poss	3134	
 tulil	jkpp	0087	kəl	face	np:s	np		s	3135	bridging
 tulil	jkpp	0087	=vənik	=vənik	=rn	=rn				
 tulil	jkpp	0087	#	#	##neg	##neg				
@@ -2893,12 +2893,12 @@ tulil	jkpp	0110	#	#	#nc	#nc
 tulil	jkpp	0110	nga	1SG.POSS	nc	nc				
 tulil	jkpp	0110	bokbok	talk	nc	nc				
 tulil	jkpp	0110	u-vi	3N-PROX1	nc	nc				
-tulil	jkpp	0110	(#)	(#)	nc	nc				
+tulil	jkpp	0110	#	#	#nc	#nc				
 tulil	jkpp	0110	to	REL	nc	nc				
 tulil	jkpp	0110	ngə-bokbok	1SG.PST-talk	nc	nc				
 tulil	jkpp	0110	be	at	nc	nc				
 tulil	jkpp	0110	vət-bət	3SG.SEG-PROX2	nc	nc				
-tulil	jkpp	0110	(#)	(#)	nc	nc				
+tulil	jkpp	0110	#	#	#nc	#nc				
 tulil	jkpp	0110	to	REL	nc	nc				
 tulil	jkpp	0110	b=	ASP=	nc	nc				
 tulil	jkpp	0110	inə-mənan	2PL.PST-listen	nc	nc				

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2019-07-05T09:32:53+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-09-14T21:08:24+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_tulil_all1.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:35bcb3be-db8a-4d04-abb3-c3e7651b3e66</PROPERTY>
@@ -10647,7 +10647,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5392" ANNOTATION_REF="a1908">
-                <ANNOTATION_VALUE>=pro.h:p</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=pro:p</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10867,7 +10867,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5435" ANNOTATION_REF="a1390">
-                <ANNOTATION_VALUE>=pro:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=ln_pro:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11552,7 +11552,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5567" ANNOTATION_REF="a981">
-                <ANNOTATION_VALUE>pro.h:p</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>refl:p</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12052,7 +12052,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5667" ANNOTATION_REF="a1039">
-                <ANNOTATION_VALUE>pro.h:obl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>refl.h:obl</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14558,11 +14558,6 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a6149" ANNOTATION_REF="a5707">
-                <ANNOTATION_VALUE>1018</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6150" ANNOTATION_REF="a5708">
                 <ANNOTATION_VALUE>1018</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -14805,11 +14800,6 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6198" ANNOTATION_REF="a5891">
                 <ANNOTATION_VALUE>1016</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a6199" ANNOTATION_REF="a5894">
-                <ANNOTATION_VALUE>1033</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15133,7 +15123,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6322" ANNOTATION_REF="a132">
-                <ANNOTATION_VALUE>He went to hunt then heavy rain came to him there in the bush then he wandered around with dogs.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>He went to hunt, then heavy rain came to him there in the bush, then he wandered around with dogs.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
