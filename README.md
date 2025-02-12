@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Meng, Chenxi. 2021. Multi-CAST Tulil. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#tulil) (date accessed)
+  > Meng, Chenxi. 2022. Multi-CAST Tulil. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2207. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#tulil) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
