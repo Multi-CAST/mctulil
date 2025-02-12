@@ -1,0 +1,897 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+tulil	sves	0001	#	#	#nc	#nc				
+tulil	sves	0001	do	now;here	nc	nc				
+tulil	sves	0001	da	PURP	nc	nc				
+tulil	sves	0001	ngan-əngar	1SG.NPST-say	nc	nc				
+tulil	sves	0001	be	at	nc	nc				
+tulil	sves	0001	a-moli	ART-person	nc	nc				
+tulil	sves	0001	=a	=SG.CL:MASC	nc	nc				
+tulil	sves	0001	a-n	3SG.M-with	nc	nc				
+tulil	sves	0001	=a	=PAT	nc	nc				
+tulil	sves	0001	va	3SG.M.POSS	nc	nc				
+tulil	sves	0001	dərng	old	nc	nc				
+tulil	sves	0001	=e	=SG.CL:FEM	nc	nc				
+tulil	sves	0002	(#)	(#)	nc	nc				
+tulil	sves	0002	ngang	1SG	nc	nc				
+tulil	sves	0002	e-venang	ART-something	nc	nc				
+tulil	sves	0003	#	#	##	##				
+tulil	sves	0003	0	0	0.1:a	0	1	a		
+tulil	sves	0003	do	NC	nc	nc				
+tulil	sves	0003	ngan-əngar	1SG.NPST-say	v:pred	v		pred		
+tulil	sves	0003	be	at	rv_adp	rv_adp				
+tulil	sves	0003	a-moli	ART-person	np.h:p	np	h	p	6001	new
+tulil	sves	0003	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0003	a-n	3SG.M-with	rn	rn				
+tulil	sves	0003	=a	=PAT	=rn	=rn				
+tulil	sves	0003	va	3SG.M.POSS	rn_pro.h:poss	rn_pro	h	poss	6001	
+tulil	sves	0003	dərng	old	rn_np.h	rn_np	h		6002	bridging
+tulil	sves	0003	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0003	#	#	#	#				
+tulil	sves	0003	to	SUB	other	other				
+tulil	sves	0003	ve	3SG.F.POSS	ln_pro.h:poss	ln_pro	h	poss	6002	
+tulil	sves	0003	dərng	old	np.h:s	np	h	s	6001	
+tulil	sves	0003	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0003	o	TOP	other	other				
+tulil	sves	0003	molimoli	people	np.h:pred	np	h	pred		
+tulil	sves	0003	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0003	be	at	rn	rn				
+tulil	sves	0003	gup	hunt	rn	rn				
+tulil	sves	0003	#	#	#appos	#appos				
+tulil	sves	0003	gup	hunt	vother:pred	vother		pred		
+tulil	sves	0003	mat	get	rv	rv				
+tulil	sves	0003	=a	=pat	=ln	=ln				
+tulil	sves	0003	bəli	pig	np:p	np		p	6003	new
+tulil	sves	0003	kuobər	wild	rn	rn				
+tulil	sves	0003	ba	in	adp	adp				
+tulil	sves	0003	tipur	woods	np:l	np		l	6004	new
+tulil	sves	0003	#	#	#	#				
+tulil	sves	0003	0	0	0.h:a	0	h	a	6001	
+tulil	sves	0003	to	SUB	other	other				
+tulil	sves	0003	və-təm	3SG.M.PST-know	v:pred	v		pred		
+tulil	sves	0003	=a	=PAT	=ln	=ln				
+tulil	sves	0003	gup	hunt	np:p	np		p	6005	bridging
+tulil	sves	0004	#	#	##	##				
+tulil	sves	0004	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0004	io	then	other	other				
+tulil	sves	0004	vənu	day	np:dt	np		dt		
+tulil	sves	0004	tarə	many.NHUM	rn	rn				
+tulil	sves	0004	o	TOP	other	other				
+tulil	sves	0004	və-p~pi	3SG.M.PST-RED~NSPEC	v:pred	v		pred		
+tulil	sves	0004	tə=	to=	=adp	=adp				
+tulil	sves	0004	ba	in	adp	adp				
+tulil	sves	0004	tipur	woods	np:g	np		g	6004	
+tulil	sves	0004	#	#	#	#				
+tulil	sves	0004	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0004	və-ng~gup	3SG.M.PST-RED~hunt	v:pred	v		pred		
+tulil	sves	0005	#	#	##	##				
+tulil	sves	0005	0	0	0.h:a	0	h	a	6001	
+tulil	sves	0005	io	then	other	other				
+tulil	sves	0005	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	sves	0005	bəli	pig	np:p	np		p	6006	bridging
+tulil	sves	0005	tuk	give/RECIP	adp	adp				
+tulil	sves	0005	=a	=PAT	=ln	=ln				
+tulil	sves	0005	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	6001	
+tulil	sves	0005	dərng	old	np.h:g	np	h	g	6002	
+tulil	sves	0005	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0005	e-n	3SG.F-with	rn	rn				
+tulil	sves	0005	=a	=PAT	=rn	=rn				
+tulil	sves	0005	ip=	3DL.M.POSS=	=rn_pro.h:poss	=rn_pro	h	poss	6007	bridging
+tulil	sves	0005	vil	son/daughter	rn_np.h	rn_np	h		6008	new
+tulil	sves	0005	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0006	#	#	##	##				
+tulil	sves	0006	0	0	0.h:a	0	h	a	6009	bridging
+tulil	sves	0006	io	then	other	other				
+tulil	sves	0006	tə-mət	3PL.HUM.PST-eat	v:pred	v		pred		
+tulil	sves	0006	idə	3N	pro:p	pro		p	6006	
+tulil	sves	0007	#	#	##	##				
+tulil	sves	0007	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0007	iova	then_again	other	other				
+tulil	sves	0007	vəti	day	np:dt	np		dt		
+tulil	sves	0007	təgə	one	rn	rn				
+tulil	sves	0007	=von	=SG.CL:DIM	=rn	=rn				
+tulil	sves	0007	o	TOP	other	other				
+tulil	sves	0007	va	again	other	other				
+tulil	sves	0007	və-p~pi	3SG.M.PST-RED~NSPEC	v:pred	v		pred		
+tulil	sves	0007	moli	again	rv	rv				
+tulil	sves	0008	#	#	##	##				
+tulil	sves	0008	idil	small	np.h:dt_s	np	h	dt_s	6008	
+tulil	sves	0008	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0008	b=	ASP=	=other	=other				
+tulil	sves	0008	idə-mat	3N-get	v:pred	v		pred		
+tulil	sves	0008	n	APPL	rv	rv				
+tulil	sves	0008	=a	=3SG.M	=pro.h:s_iv	=pro	h	s_iv	6008	
+tulil	sves	0008	#	#	#	#				
+tulil	sves	0008	da	PURP	other	other				
+tulil	sves	0008	a-n	3SG.M-with	pro.h:s	pro	h	s	6008	
+tulil	sves	0008	=a	=PAT	=ln	=ln				
+tulil	sves	0008	va=	3SG.M.POSS=	=ln_pro.h:poss	=ln_pro	h	poss	6008	
+tulil	sves	0008	tti	father	np.h:obl	np	h	obl	6001	
+tulil	sves	0008	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0008	tə=	to=	=adp	=adp				
+tulil	sves	0008	ba	in	adp	adp				
+tulil	sves	0008	tipur	woods	np:pred_g	np		pred_g	6004	
+tulil	sves	0008	#	#	#	#				
+tulil	sves	0008	da-va	PURP-again	other	other				
+tulil	sves	0008	ip	3DL.M	pro.h:s	pro	h	s	6010	bridging
+tulil	sves	0008	katum	all	rn	rn				
+tulil	sves	0008	i-tə=	3DL.M.NPST-to=	=rn_pro.h	=rn_pro	h			
+tulil	sves	0008	ba	in	adp	adp				
+tulil	sves	0008	tipur	woods	np:pred_g	np		pred_g	6004	
+tulil	sves	0008	#	#	#	#				
+tulil	sves	0008	0	0	0.h:s	0	h	s	6010	
+tulil	sves	0008	ik-gup	3DL.M.NPST-hunt	v:pred	v		pred		
+tulil	sves	0009	#	#	#nc	#nc				
+tulil	sves	0009	io	then	nc	nc				
+tulil	sves	0009	mata	later	nc	nc				
+tulil	sves	0009	a-vi	3SG.M-this	nc	nc				
+tulil	sves	0009	va=	3SG.M.POSS=	=nc_pro.h	=nc_pro	h		6008	
+tulil	sves	0009	ttia	father	nc_np.h	nc_np	h		6001	
+tulil	sves	0009	a-n	3SG.M-with	nc	nc				
+tulil	sves	0009	=a	=3SG.M	=nc_pro.h	=nc_pro	h		6008	
+tulil	sves	0010	#	#	##	##				
+tulil	sves	0010	0	0	0.h:s	0	h	s	6010	
+tulil	sves	0010	io	then	other	other				
+tulil	sves	0010	ipə-p~pi	3SG.M.PST-RED~NSPEC	v:pred	v		pred		
+tulil	sves	0010	tə=	to=	=adp	=adp				
+tulil	sves	0010	ba	in	adp	adp				
+tulil	sves	0010	tipur	woods	np:g	np		g	6004	
+tulil	sves	0010	it-n	3DL.M-with	adp	adp				
+tulil	sves	0010	=a	=PAT	=ln	=ln				
+tulil	sves	0010	kəvop	dog(.PL)	np:obl	np		obl	6011	bridging
+tulil	sves	0010	#	#	#	#				
+tulil	sves	0010	0	0	0.h:s	0	h	s	6011	
+tulil	sves	0010	da	PURP	other	other				
+tulil	sves	0010	tə-gup	3PL.HUM.PST-hunt	v:pred	v		pred		
+tulil	sves	0011	#	#	##neg	##neg				
+tulil	sves	0011	0	0	0.h:a	0	h	a	6001	
+tulil	sves	0011	io	then	other	other				
+tulil	sves	0011	mata	until	other	other				
+tulil	sves	0011	a-vi	3SG.M-this	dem_pro.h:dt	dem_pro	h	dt		
+tulil	sves	0011	laik	big	np.h:appos	np	h	appos		
+tulil	sves	0011	=a	=SG.CL:MASC	rn	rn				
+tulil	sves	0011	o	TOP	other	other				
+tulil	sves	0011	kori	NEG	other	other				
+tulil	sves	0011	vən-m	3SG.M.PST.hit-APPL	v:pred	v		pred		
+tulil	sves	0011	=a	=PAT	=ln	=ln				
+tulil	sves	0011	go	NSPEC	ln	ln				
+tulil	sves	0011	bəli	pig	np:p	np		p		
+tulil	sves	0011	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0011	#	#	##	##				
+tulil	sves	0011	0	0	0.h:a	0	h	a	6001	
+tulil	sves	0011	io	then	other	other				
+tulil	sves	0011	bə=	ASP=	=other	=other				
+tulil	sves	0011	v-ən	3SG.M.PST-hit	v:pred	v		pred		
+tulil	sves	0011	ko	only	rv	rv				
+tulil	sves	0011	mat	get	rv	rv				
+tulil	sves	0011	=a	=PAT	=ln	=ln				
+tulil	sves	0011	a-vi	3SG.M-this	dem_pro.h:p	dem_pro	h	p	6008	
+tulil	sves	0011	idil	small	np.h:appos	np	h	appos		
+tulil	sves	0011	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0012	#	#	##	##				
+tulil	sves	0012	0	0	0.h:a	0	h	a	6001	
+tulil	sves	0012	io	then	other	other				
+tulil	sves	0012	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	sves	0012	=a	=3SG.M	=pro.h:p	=pro	h	p	6008	
+tulil	sves	0013	#	#	##	##				
+tulil	sves	0013	0	0	0.h:a	0	h	a	6001	
+tulil	sves	0013	io	then	other	other				
+tulil	sves	0013	vərai	3SG.M.PST.mumu	v:pred	v		pred		
+tulil	sves	0013	mat	get	rv	rv				
+tulil	sves	0013	=a	=3SG.M	=pro.h:p	=pro	h	p	6008	
+tulil	sves	0013	ba	in	adp	adp				
+tulil	sves	0013	tipur	woods	np:l	np		l	6004	
+tulil	sves	0014	#	#	##	##				
+tulil	sves	0014	0	0	0.h:a	0	h	a	6001	
+tulil	sves	0014	və-man	3SG.M.PST-remove	v:pred	v		pred		
+tulil	sves	0014	=a	=PAT	=ln	=ln				
+tulil	sves	0014	və=	3SG.M.POSS.INAL=	=ln_pro.h:poss	=ln_pro	h	poss	6008	
+tulil	sves	0014	lat	head	np:p	np		p	6012	bridging
+tulil	sves	0014	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0015	#	#	##	##				
+tulil	sves	0015	0	0	0.h:a	0	h	a	6001	
+tulil	sves	0015	və=	3SG.M.POSS.INAL=	=ln_pro.h:poss	=ln_pro	h	poss	6008	
+tulil	sves	0015	lat	head	np:dt_obl	np		dt_obl	6012	
+tulil	sves	0015	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0015	o	TOP	other	other				
+tulil	sves	0015	və-tuk	3SG.M.PST-give	v:pred	v		pred		
+tulil	sves	0015	=a	=PAT	=ln	=ln				
+tulil	sves	0015	kəvop	dog	np:p	np		p	6011	
+tulil	sves	0015	n	APPL	adp	adp				
+tulil	sves	0015	=a	=SG.CL:MASC	=pro:obl	=pro		obl		
+tulil	sves	0015	me	and	other	other				
+tulil	sves	0015	və=	3SG.M.POSS.INAL=	=ln_pro.h:poss	=ln_pro	h	poss	6008	
+tulil	sves	0015	katə	foot	np:appos	np		appos	6013	bridging
+tulil	sves	0015	me	and	rn	rn				
+tulil	sves	0015	və=	3SG.M.POSS.INAL=	=rn_pro.h:poss	=rn_pro	h	poss	6008	
+tulil	sves	0015	nok	hand	rn_np	rn_np			6014	bridging
+tulil	sves	0016	#	#	##	##				
+tulil	sves	0016	0	0	0.h:a	0	h	a	6001	
+tulil	sves	0016	me	and	other	other				
+tulil	sves	0016	bə=	ASP=	=other	=other				
+tulil	sves	0016	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	sves	0016	konəng	only	rv	rv				
+tulil	sves	0016	n	APPL	rv	rv				
+tulil	sves	0016	=a	=PAT	=ln	=ln				
+tulil	sves	0016	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	6008	
+tulil	sves	0016	mədərv	middle	np:p	np		p	6015	bridging
+tulil	sves	0016	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0017	#	#	##	##				
+tulil	sves	0017	0	0	0.h:a	0	h	a	6001	
+tulil	sves	0017	v-orən	3SG.M.PST-wrap	v:pred	v		pred		
+tulil	sves	0017	mat	get	rv	rv				
+tulil	sves	0017	=e	=3SG.F	=pro:p	=pro		p	6015	
+tulil	sves	0017	#	#	#	#				
+tulil	sves	0017	0	0	0.h:a	0	h	a	6001	
+tulil	sves	0017	0	0	0:p	0		p	6015	
+tulil	sves	0017	da	PURP	other	other				
+tulil	sves	0017	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	sves	0017	tə=	to=	=adp	=adp				
+tulil	sves	0017	ba	in	adp	adp				
+tulil	sves	0017	məngəd	home	np:g	np		g	6016	bridging
+tulil	sves	0017	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0017	tuk	give	adp	adp				
+tulil	sves	0017	=a	=PAT	=ln	=ln				
+tulil	sves	0017	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	6001	
+tulil	sves	0017	dərng	old	np.h:obl	np	h	obl	6002	
+tulil	sves	0017	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0018	#	#	##	##				
+tulil	sves	0018	me	and	other	other				
+tulil	sves	0018	iap	3SG.M	pro.h:a	pro	h	a	6001	
+tulil	sves	0018	v-ət	3SG.M.PST-eat	v:pred	v		pred		
+tulil	sves	0018	mat	finish	rv	rv				
+tulil	sves	0018	bem	at	rv	rv				
+tulil	sves	0018	=a	=SG.CL:MASC	=pro.h:p	=pro	h	p	6015	
+tulil	sves	0019	#	#	##	##				
+tulil	sves	0019	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0019	io	then	other	other				
+tulil	sves	0019	və-p~pi	3SG.M.PST-RED~NSPEC	v:pred	v		pred		
+tulil	sves	0020	#	#	##	##				
+tulil	sves	0020	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0020	bə=	ASP=	=other	=other				
+tulil	sves	0020	və-liu	3SG.M.PST-return	v:pred	v		pred		
+tulil	sves	0020	tə=	to=	=adp	=adp				
+tulil	sves	0020	ba	in	adp	adp				
+tulil	sves	0020	məngəd	home	np:g	np		g	6016	
+tulil	sves	0020	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0020	təpm	with	adp	adp				
+tulil	sves	0020	=a	=PAT	=ln	=ln				
+tulil	sves	0020	gati	share	np:obl	np		obl	6017	bridging
+tulil	sves	0020	=voi	=SG.CL:FLAT	=rn	=rn				
+tulil	sves	0020	voi-vi	SG.FLAT-this	rn	rn				
+tulil	sves	0020	n	APPL	rn	rn				
+tulil	sves	0020	=a	=PAT	=rn	=rn				
+tulil	sves	0020	idil	small	rn_np.h:poss	rn_np	h	poss	6008	
+tulil	sves	0020	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0020	a-vi	3SG.M-this	rn	rn				
+tulil	sves	0020	va	3SG.M.POSS	rn_pro.h:poss	rn_pro	h	poss	6008	
+tulil	sves	0020	vəret	side	rn	rn				
+tulil	sves	0020	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0020	#	#	#	#				
+tulil	sves	0020	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0020	to	SUB	other	other				
+tulil	sves	0020	və-liu	3SG.M.PST-return	v:pred	v		pred		
+tulil	sves	0020	təpm	with	adp	adp				
+tulil	sves	0020	=e	=3SG.M	=pro.h:obl	=pro	h	obl	6017	
+tulil	sves	0020	#	#	#	#				
+tulil	sves	0020	da	PURP	other	other				
+tulil	sves	0020	bə=	ASP=	=other	=other				
+tulil	sves	0020	mev	for	adp	adp				
+tulil	sves	0020	=a	=PAT	=ln	=ln				
+tulil	sves	0020	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	6001	
+tulil	sves	0020	dərng	old	np.h:obl	np	h	obl	6002	
+tulil	sves	0020	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0020	ba	in	adp	adp				
+tulil	sves	0020	məngəd	home	np:l	np		l	6016	
+tulil	sves	0020	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0021	#	#	##	##				
+tulil	sves	0021	io	then	other	other				
+tulil	sves	0021	bə=	ASP=	=other	=other				
+tulil	sves	0021	lət-n	arrive-APPL	v:pred	v		pred		
+tulil	sves	0021	=a	=3SG.M	=pro.h:s_sv	=pro	h	s_sv	6001	
+tulil	sves	0021	ba	in	adp	adp				
+tulil	sves	0021	məngəd	home	np:g	np		g	6016	
+tulil	sves	0021	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0021	təpm	with	adp	adp				
+tulil	sves	0021	=a	=PAT	=ln	=ln				
+tulil	sves	0021	kərip	parcel	np:obl	np		obl	6017	
+tulil	sves	0021	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0021	e-vi	3SG.F-this	rn	rn				
+tulil	sves	0021	n	APPL	rn	rn				
+tulil	sves	0021	=a	=PAT	=rn	=rn				
+tulil	sves	0021	molimoli	people	rn_np	rn_np			6017	
+tulil	sves	0021	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0021	a-vi	3SG.M-this	rn	rn				
+tulil	sves	0021	va	3SG.M.POSS	rn_pro.h:poss	rn_pro	h	poss	6008	
+tulil	sves	0021	vəret	side	rn_np	rn_np			6017	
+tulil	sves	0021	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0021	idil	small	rn_np.h:poss	rn_np	h	poss	6008	
+tulil	sves	0021	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0021	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	6008	
+tulil	sves	0021	vəret	side	np:appos	np		appos	6017	
+tulil	sves	0021	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0021	#	#	#	#				
+tulil	sves	0021	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0021	da	PURP	other	other				
+tulil	sves	0021	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	sves	0021	mev	for	adp	adp				
+tulil	sves	0021	=a	=PAT	=ln	=ln				
+tulil	sves	0021	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	6001	
+tulil	sves	0021	dərng	old	np.h:obl	np	h	obl	6002	
+tulil	sves	0021	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0021	ba	in	rn	rn				
+tulil	sves	0021	məngəd	home	rn	rn			6016	
+tulil	sves	0021	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0022	#	#	##	##				
+tulil	sves	0022	io	then	other	other				
+tulil	sves	0022	lət-n	arrive-APPL	v:pred	v		pred		
+tulil	sves	0022	=a	=3SG.M	=pro.h:s_sv	=pro	h	s_sv	6001	
+tulil	sves	0022	təpm	with	adp	adp				
+tulil	sves	0022	=e	=SG.CL:FEM	=pro:obl	=pro		obl	6017	
+tulil	sves	0022	gati	share	np:appos	np		appos		
+tulil	sves	0022	=voi	=3SG.CL:FLAT	=rn	=rn				
+tulil	sves	0022	voi-vi	SG.FLAT-this	rn	rn				
+tulil	sves	0022	#	#	#	#				
+tulil	sves	0022	0	0	0.h:a	0	h	a	6001	
+tulil	sves	0022	io	then	other	other				
+tulil	sves	0022	və-təvat	3SG.M.PST-release	v:pred	v		pred		
+tulil	sves	0022	nə	APPL	rv	rv				
+tulil	sves	0022	voi	SG.CL:FLAT	pro:p	pro		p	6017	
+tulil	sves	0022	ga	cross	adp	adp				
+tulil	sves	0022	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	6001	
+tulil	sves	0022	dərng	old	ln_np.h:poss	ln_np	h	poss	6002	
+tulil	sves	0022	=e	=SG.CL:FEM	=ln	=ln				
+tulil	sves	0022	imi	3SG.F.POSS.eye	np.h:l	np	h	l	6018	bridging
+tulil	sves	0022	#	#	#	#				
+tulil	sves	0022	da	PURP	other	other				
+tulil	sves	0022	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	6001	
+tulil	sves	0022	dərng	old	np.h:a	np	h	a	6002	
+tulil	sves	0022	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0022	b=	ASP=	=other	=other				
+tulil	sves	0022	e-tət	3SG.F.PST-eat	v:pred	v		pred		
+tulil	sves	0022	poi	SG.CL:FLAT	pro:p	pro		p	6017	
+tulil	sves	0023	#	#	##	##				
+tulil	sves	0023	io	then	other	other				
+tulil	sves	0023	mata	until	other	other				
+tulil	sves	0023	e-vi	3SG.F-this	dem_pro.h:a	dem_pro	h	a	6002	
+tulil	sves	0023	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	6001	
+tulil	sves	0023	dərng	old	np.h:appos	np	h	appos	6002	
+tulil	sves	0023	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0023	b=	ASP=	=other	=other				
+tulil	sves	0023	i-məti	3SG.F.PST-untie	v:pred	v		pred		
+tulil	sves	0023	da	on	rv_adp	rv_adp				
+tulil	sves	0023	gati	share	np:p	np		p	6017	
+tulil	sves	0023	=voi	=SG.CL:FLAT	=rn	=rn				
+tulil	sves	0023	voi-vi	=3SG.CL:FLAT-this	rn	rn				
+tulil	sves	0024	#	#	##	##				
+tulil	sves	0024	0	0	0.h:s	0	h	s	6002	
+tulil	sves	0024	io	then	other	other				
+tulil	sves	0024	da	PURP	other	other				
+tulil	sves	0024	b=	ASP=	=other	=other				
+tulil	sves	0024	i-m~mət	3SG.F.PST-RED~eat	v:pred	v		pred		
+tulil	sves	0025	#	#	##	##				
+tulil	sves	0025	0	0	0.h:s	0	h	s	6002	
+tulil	sves	0025	b=	ASP=	=other	=other				
+tulil	sves	0025	i-m~mət	3SG.F.PST-RED~eat	v:pred	v		pred		
+tulil	sves	0025	navodi	like.this	other	other				
+tulil	sves	0025	#	#	##	##				
+tulil	sves	0025	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0025	io	then	other	other				
+tulil	sves	0025	b=	ASP=	=other	=other				
+tulil	sves	0025	i-tir	3SG.F.PST-ask	v:pred	v		pred		
+tulil	sves	0025	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	6001	
+tulil	sves	0026	#	#	##	##				
+tulil	sves	0026	0	0	0.h:a_ds	0	h	a_ds	6002	
+tulil	sves	0026	b=	ASP=	=other	=other				
+tulil	sves	0026	i-tir	3SG.F.PST-ask	v:pred	v		pred		
+tulil	sves	0026	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	6001	
+tulil	sves	0026	e-te	3SG.F-QUOT	other	other				
+tulil	sves	0026	#	#	##ds	##ds				
+tulil	sves	0026	me	and	other	other				
+tulil	sves	0026	nging	2SG	pro.2:dt	pro	2	dt	6001	
+tulil	sves	0026	o	TOP	other	other				
+tulil	sves	0026	ngunu	1DL.POSS	ln_pro.1:poss	ln_pro	1	poss	6007	
+tulil	sves	0026	vil	offspring	np.h:s	np	h	s	6008	
+tulil	sves	0026	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0026	o	TOP	other	other				
+tulil	sves	0026	b=	ASP=	=other	=other				
+tulil	sves	0026	a-bi	3SG.M-where	other:pred	other		pred		
+tulil	sves	0027	#	#	##ds	##ds				
+tulil	sves	0027	ngunu	1DL.POSS	ln_pro.1:poss	ln_pro	1	poss	6007	
+tulil	sves	0027	vil	offspring	np.h:s	np	h	s	6008	
+tulil	sves	0027	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0027	o	TOP	other	other				
+tulil	sves	0027	b=	ASP=	=other	=other				
+tulil	sves	0027	a-bi	3SG.M-where	other:pred	other		pred		
+tulil	sves	0028	#	#	##neg	##neg				
+tulil	sves	0028	a-vi	3SG.M-this	dem_pro.h:s	dem_pro	h	s	6001	
+tulil	sves	0028	məna	NC	nc	nc				
+tulil	sves	0028	kori	NEG	other	other				
+tulil	sves	0028	və-bokbok	3SG.M.PST-talk	v:pred	v		pred		
+tulil	sves	0028	me	and	other	other				
+tulil	sves	0028	#	#	##neg	##neg				
+tulil	sves	0028	0	0	0.h:a	0	h	a	6001	
+tulil	sves	0028	məna	NC	nc	nc				
+tulil	sves	0028	kori	NEG	other	other				
+tulil	sves	0028	və-kiat	3SG.M.PST-answer	v:pred	v		pred		
+tulil	sves	0028	=a	=PAT	=ln	=ln				
+tulil	sves	0028	e-vi	3SG.F-this	ln_dem_pro.h:poss	ln_dem_pro	h	poss	6002	
+tulil	sves	0028	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	6001	
+tulil	sves	0028	dərng	old	ln_np.h:poss	ln_np	h	poss	6002	
+tulil	sves	0028	=e	=SG.CL:FEM	=ln	=ln				
+tulil	sves	0028	e-vi	3SG.F-this	ln	ln				
+tulil	sves	0028	i=	3SG.F.POSS.INAL=	=ln_pro.h:poss	=ln_pro	h	poss	6002	
+tulil	sves	0028	kən	voice	np:p	np		p	6019	bridging
+tulil	sves	0028	#	#	#	#				
+tulil	sves	0028	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0028	to	SUB	other	other				
+tulil	sves	0028	i-tir	3SG.F.PST-ask	v:pred	v		pred		
+tulil	sves	0028	=a	=3SG.F.PAT	=pro.h:p	=pro	h	p	6001	
+tulil	sves	0028	#	#	#	#				
+tulil	sves	0028	0	0	0.h:s	0	h	s	6002	
+tulil	sves	0028	i-bokbok	3SG.F.PST-talk	v:pred	v		pred		
+tulil	sves	0028	nandi	like.this	other	other				
+tulil	sves	0029	#	#	##	##				
+tulil	sves	0029	0	0	0.h:s_ds	0	h	s_ds	6002	
+tulil	sves	0029	ava	again	other	other				
+tulil	sves	0029	i-tir	3SG.F.PST-ask	v:pred	v		pred		
+tulil	sves	0029	moli	again	rv	rv				
+tulil	sves	0029	e-te	3SG.F-QUOT	other:pred	other		pred		
+tulil	sves	0029	#	#	##ds	##ds				
+tulil	sves	0029	məie	but	other	other				
+tulil	sves	0029	ngunu	1DL.POSS	ln_pro.1:poss	ln_pro	1	poss	6007	
+tulil	sves	0029	vil	offspring	np.h:s	np	h	s	6008	
+tulil	sves	0029	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0029	b=	ASP=	=other	=other				
+tulil	sves	0029	a-bi	3SG.M-where	intrg_other:pred	intrg_other		pred		
+tulil	sves	0030	#	#	##	##				
+tulil	sves	0030	0	0	0.h:s_ds	0	h	s_ds	6001	
+tulil	sves	0030	io	then	other	other				
+tulil	sves	0030	v-əngar	3SG.M.PST-say	v:pred	v		pred		
+tulil	sves	0030	ko	only	rv	rv				
+tulil	sves	0030	tuk	to	adp	adp				
+tulil	sves	0030	=e	=3SG.F.PAT	=pro.h:g	=pro	h	g	6002	
+tulil	sves	0030	a-te	3SG.M-QUOT	other	other				
+tulil	sves	0030	#	#	##ds	##ds				
+tulil	sves	0030	me	and	other	other				
+tulil	sves	0030	gəri	what	intrg_other:pred	intrg_other		pred		
+tulil	sves	0030	u-bət	3N-that	dem_pro:s	dem_pro		s	6017	
+tulil	sves	0030	#	#	#ds_rc	#ds_rc				
+tulil	sves	0030	0	0	0.2:a	0	2	a	6002	
+tulil	sves	0030	0	0	0:p	0		p	6017	
+tulil	sves	0030	to	REL	other	other				
+tulil	sves	0030	ngin-ə~mət	1SG.NPST-RED~eat	v:pred	v		pred		
+tulil	sves	0031	#	#	##ds	##ds				
+tulil	sves	0031	gəri	what	intrg_other:pred	intrg_other		pred		
+tulil	sves	0031	u-bət	3N-that	dem_pro:s	dem_pro		s	6017	
+tulil	sves	0031	#	#	#ds_rc	#ds_rc				
+tulil	sves	0031	0	0	0.1:a	0	1	a	6002	
+tulil	sves	0031	0	0	0:p	0		p	6017	
+tulil	sves	0031	to	REL	other	other				
+tulil	sves	0031	ngin-ə~mət	1SG.NPST-RED~eat	v:pred	v		pred		
+tulil	sves	0032	#	#	##	##				
+tulil	sves	0032	io	then	other	other				
+tulil	sves	0032	e-vi	3SG.F-this	dem_pro.h:dt_s	dem_pro	h	dt_s	6002	
+tulil	sves	0032	o	TOP	other	other				
+tulil	sves	0032	bə=	ASP=	=other	=other				
+tulil	sves	0032	t~təp	RED-stop	v:pred	v		pred		
+tulil	sves	0032	konəng	only	rv	rv				
+tulil	sves	0032	n	APPL	rv	rv				
+tulil	sves	0032	=e	=3SG.F	=pro.h:s_sv	=pro	h	s_sv	6002	
+tulil	sves	0032	me	and	other	other				
+tulil	sves	0032	#	#	#neg	#neg				
+tulil	sves	0032	bə=	ASP=	=other	=other				
+tulil	sves	0032	kori	NEG	other	other				
+tulil	sves	0032	go	NSPEC	ln	ln				
+tulil	sves	0032	bokbok	talk	np:pred	np		pred		
+tulil	sves	0033	#	#	##	##				
+tulil	sves	0033	me	and	other	other				
+tulil	sves	0033	bə=	ASP=	=other	=other				
+tulil	sves	0033	ttəp	RED-stop	v:pred	v		pred		
+tulil	sves	0033	konəng	only	rv	rv				
+tulil	sves	0033	n	APPL	rv	rv				
+tulil	sves	0033	=e	=3SG.F.PAT	=pro.h:s_sv	=pro	h	s_sv	6002	
+tulil	sves	0033	me	and	other	other				
+tulil	sves	0033	#	#	##	##				
+tulil	sves	0033	b=	ASP=	=other	=other				
+tulil	sves	0033	idə-nən	3N.PST-shiver	v:pred	v		pred		
+tulil	sves	0033	n	APPL	rv	rv				
+tulil	sves	0033	=e	=3SG.F.PAT	=pro.h:s_iv	=pro	h	s_iv	6002	
+tulil	sves	0033	təpm	with	adp	adp				
+tulil	sves	0033	=a	=PAT	=ln	=ln				
+tulil	sves	0033	ve	3SG.F.POSS	ln_pro.h:poss	ln_pro	h	poss	6002	
+tulil	sves	0033	kədikən	anger	np:obl	np		obl	6020	new
+tulil	sves	0033	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0034	#	#	##	##				
+tulil	sves	0034	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0034	da	PURP	other	other				
+tulil	sves	0034	vəd	for	adp	adp				
+tulil	sves	0034	=a	=PAT	=ln	=ln				
+tulil	sves	0034	a-vi	3SG.M-this	dem_pro:dt	dem_pro		dt	6001	
+tulil	sves	0034	da	PURP	other	other				
+tulil	sves	0034	e-pən	3SG.F.NPST-hit/kill	v:pred	v		pred		
+tulil	sves	0034	m	APPL	rv	rv				
+tulil	sves	0034	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	6001	
+tulil	sves	0034	a-vi	3SG.M-this	ln_dem_pro.h:appos	ln_dem_pro	h	appos	6001	
+tulil	sves	0034	it=	3DL.M.POSS=	=ln_pro.h:poss	=ln_pro	h	poss		
+tulil	sves	0034	ti	parent	np.h:appos	np	h	appos		
+tulil	sves	0034	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0035	#	#	##	##				
+tulil	sves	0035	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0035	da	PURP	other	other				
+tulil	sves	0035	e-pən	3SG.F.NPST-hit/kill	v:pred	v		pred		
+tulil	sves	0035	m	APPL	rv	rv				
+tulil	sves	0035	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	6001	
+tulil	sves	0035	nə-bət	LOC-that	dem_other	dem_other				
+tulil	sves	0036	#	#	#nc	#nc				
+tulil	sves	0037	#	#	##	##				
+tulil	sves	0037	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0037	bə=	ASP=	=other	=other				
+tulil	sves	0037	v-engəp	3SG.M.PST-sleep	v:pred	v		pred		
+tulil	sves	0037	nə-bət	LOC-that	dem_other	dem_other				
+tulil	sves	0037	ga	across	adp	adp				
+tulil	sves	0037	imi	3SG.F.POSS.eye	pro.h:l	pro	h	l	6018	
+tulil	sves	0038	#	#	##	##				
+tulil	sves	0038	me	and	other	other				
+tulil	sves	0038	iep	3SG.F	pro.h:s	pro	h	s	6002	
+tulil	sves	0038	o	TOP	other	other				
+tulil	sves	0038	b=	ASP=	=other	=other				
+tulil	sves	0038	e-bət	3SG.F-that	dem_other:pred	dem_other		pred		
+tulil	sves	0038	konəng	only	other	other				
+tulil	sves	0038	#	#	#	#				
+tulil	sves	0038	to	SUB	other	other				
+tulil	sves	0038	b=	ASP=	=other	=other				
+tulil	sves	0038	idə-nən	3N.PST-shiver	v:pred	v		pred		
+tulil	sves	0038	n	APPL	rv	rv				
+tulil	sves	0038	=e	=3SG.F.PAT	=pro.h:s_iv	=pro	h	s_iv	6002	
+tulil	sves	0038	#	#	#	#				
+tulil	sves	0038	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0038	da	PURP	other	other				
+tulil	sves	0038	et-atme	3SG.F.NPST-here;now	v:pred	v		pred		
+tulil	sves	0038	da	PURP	rv	rv				
+tulil	sves	0038	gəri	what	intrg_other:p	intrg_other		p	6021	new
+tulil	sves	0038	təpm	with	adp	adp				
+tulil	sves	0038	=a	=PAT	=rn	=rn				
+tulil	sves	0038	a-vi	3SG.M-this	dem_pro:obl	dem_pro		obl		
+tulil	sves	0038	it=	3DL.M.POSS=	=ln_pro.h:poss	=ln_pro	h	poss		
+tulil	sves	0038	ti	parent	np.h:appos	np	h	appos		
+tulil	sves	0038	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0038	#	#	#	#				
+tulil	sves	0038	to	SUB	other	other				
+tulil	sves	0038	bə=	ASP=	=other	=other				
+tulil	sves	0038	kədikən	anger	np:pred	np		pred		
+tulil	sves	0038	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0038	ba	in	rn	rn				
+tulil	sves	0038	i=	3SG.F.POSS.INAL=	=rn	=rn				
+tulil	sves	0038	ronəng	stomach	rn	rn				
+tulil	sves	0038	bem	at	adp	adp				
+tulil	sves	0038	=a	=PAT	=ln	=ln				
+tulil	sves	0038	ip	3DL.M.POSS	ln_pro.h:poss	ln_pro	h	poss	6007	
+tulil	sves	0038	vil	offspring	np.h:obl	np	h	obl	6008	
+tulil	sves	0038	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0039	#	#	##	##				
+tulil	sves	0039	nanbət	like.that	other:pred	other		pred		
+tulil	sves	0039	konəng	only	other	other				
+tulil	sves	0039	#	#	#	#				
+tulil	sves	0039	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0039	iap	3SG.M	pro.h:dt_s	pro	h	dt_s	6001	
+tulil	sves	0039	o	TOP	other	other				
+tulil	sves	0039	bə=	ASP=	=other	=other				
+tulil	sves	0039	v-engəp	3SG.M.PST-sleep	v:pred	v		pred		
+tulil	sves	0039	#	#	##	##				
+tulil	sves	0039	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0039	v-engəp	3SG.M.PST-sleep	v:pred	v		pred		
+tulil	sves	0039	mormor	snoring	rv	rv				
+tulil	sves	0039	#	#	#ac	#ac				
+tulil	sves	0039	to	SUB	other	other				
+tulil	sves	0039	dəv	full	v:pred	v		pred		
+tulil	sves	0039	=a	=3SG.M.PAT	=pro.h:s_sv	=pro	h	s_sv	6001	
+tulil	sves	0039	me	and	other	other				
+tulil	sves	0039	#	#	#	#				
+tulil	sves	0039	popou	tired	v:pred	v		pred		
+tulil	sves	0039	və	3SG.M.POSS.INAL	ln_pro.h:poss	ln_pro	h	poss	6001	
+tulil	sves	0039	katə	foot.PL	np:s_sv	np		s_sv	6022	bridging
+tulil	sves	0039	mən=	from=	=adp	=adp				
+tulil	sves	0039	ba	in	adp	adp				
+tulil	sves	0039	tipur	forest	np:l	np		l	6004	
+tulil	sves	0040	#	#	##	##				
+tulil	sves	0040	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0040	v-engəp	3SG.M.PST-sleep	v:pred	v		pred		
+tulil	sves	0040	nanbət	like.that	other	other				
+tulil	sves	0040	#	#	#	#				
+tulil	sves	0040	to	SUB	other	other				
+tulil	sves	0040	bə=	ASP=	=other	=other				
+tulil	sves	0040	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	6001	
+tulil	sves	0040	vəne	breath	np:pred	np		pred		
+tulil	sves	0040	=vən	=SG.CL:AUG	=rn	=rn				
+tulil	sves	0041	#	#	##	##				
+tulil	sves	0041	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0041	me	and	other	other				
+tulil	sves	0041	e-vi	3SG.F-this	dem_pro:dt_a	dem_pro		dt_a	6002	
+tulil	sves	0041	o	TOP	other	other				
+tulil	sves	0041	i-t~tən	3SG.F.PST-RED~think	v:pred	v		pred		
+tulil	sves	0041	ko	only	other	other				
+tulil	sves	0041	#	#	#cc:p	#cc		p		
+tulil	sves	0041	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0041	da	PURP	other	other				
+tulil	sves	0041	e-pən	3SG.F.NPST-hit	v:pred	v		pred		
+tulil	sves	0041	m	APPL	rv	rv				
+tulil	sves	0041	=a	=PAT	=ln	=ln				
+tulil	sves	0041	a-vi	3SG.M-this	dem_pro.h:p	dem_pro	h	p	6001	
+tulil	sves	0041	bem	at	adp	adp				
+tulil	sves	0041	=a	=PAT	=ln	=ln				
+tulil	sves	0041	a-vi	3SG.M-this	dem_pro.h:obl	dem_pro	h	obl	6008	
+tulil	sves	0041	idil	small	np.h:appos	np	h	appos	6008	
+tulil	sves	0041	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0042	#	#	##	##				
+tulil	sves	0042	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0042	i-t~tən	3SG.F.PST-RED~think	v:pred	v		pred		
+tulil	sves	0042	konəng	only	other	other				
+tulil	sves	0042	da	PURP	rv_adp	rv_adp				
+tulil	sves	0042	go	NSPEC	ln	ln				
+tulil	sves	0042	təreuk	thing.PL	np:p	np		p	6021	
+tulil	sves	0042	#	#	#	#				
+tulil	sves	0042	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0042	da	PURP	other	other				
+tulil	sves	0042	e-tatme	3SG.F.NPST-work	v:pred	v		pred		
+tulil	sves	0042	da	PURP	rv_adp	rv_adp				
+tulil	sves	0042	gəri	what	intrg_other:p	intrg_other		p	6021	
+tulil	sves	0042	təpm	with	adp	adp				
+tulil	sves	0042	=a	=3SG.M	=pro.h:obl	=pro	h	obl	6001	
+tulil	sves	0043	#	#	##	##				
+tulil	sves	0043	kavar	just.then	other	other				
+tulil	sves	0043	von	3SG.DIM	pro:dt	pro		dt		
+tulil	sves	0043	#	#	#rc	#rc				
+tulil	sves	0043	0	0	0.h:s	0	h	s	6002	
+tulil	sves	0043	to	REL	other	other				
+tulil	sves	0043	i-tən	3SG.F.PST-think	v:pred	v		pred		
+tulil	sves	0043	mat	finish	rv	rv				
+tulil	sves	0043	%	%	%	%				
+tulil	sves	0043	0	0	0.h:s_ds	0	h	s_ds	6002	
+tulil	sves	0043	et-e	3SG.F-QUOT	other:pred	other		pred		
+tulil	sves	0043	#	#	##ds	##ds				
+tulil	sves	0043	0	0	0.1:a	0	1	a	6002	
+tulil	sves	0043	do	now	other	other				
+tulil	sves	0043	nga-tadəm	1SG.NPST-make_fire	v:pred	v		pred		
+tulil	sves	0043	=a	=PAT	=rv	=rv				
+tulil	sves	0043	turin	fire	np:p	np		p	6023	new
+tulil	sves	0044	#	#	##	##				
+tulil	sves	0044	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0044	io	then	other	other				
+tulil	sves	0044	i-tadəm	3SG.F.PST-make_fire	v:pred	v		pred		
+tulil	sves	0044	=a	=PAT	=rv	=rv				
+tulil	sves	0044	turin	fire	np:p	np		p	6023	
+tulil	sves	0044	nə-bət	LOC-that	dem_other	dem_other				
+tulil	sves	0044	term	next_to	adp	adp				
+tulil	sves	0044	=a	=PAT	=pro.h:l	=pro	h	l	6001	
+tulil	sves	0045	#	#	##	##				
+tulil	sves	0045	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0045	me	and	other	other				
+tulil	sves	0045	i-mu	3SG.F.PST-put	v:pred	v		pred		
+tulil	sves	0045	tivən	rock	np:p	np		p	6024	new
+tulil	sves	0045	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0045	nə-mu	LOC-IN	dem_other	dem_other				
+tulil	sves	0045	ba	in	adp	adp				
+tulil	sves	0045	turin	fire	np:g	np		g	6023	
+tulil	sves	0046	#	#	##	##				
+tulil	sves	0046	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0046	io	then	other	other				
+tulil	sves	0046	i-tadəm	3SG.F.PST-make_fire	v:pred	v		pred		
+tulil	sves	0046	=a	=PAT	=ln	=ln				
+tulil	sves	0046	turin	fire	np:p	np		p	6023	
+tulil	sves	0046	bətəpm	over	adp	adp				
+tulil	sves	0046	=a	=PAT	=ln	=ln				
+tulil	sves	0046	tivən	rock	np:other	np		other	6024	
+tulil	sves	0046	=bət	=SG.CL:SEG	=rn	=rn				
+tulil	sves	0047	#	#	##	##				
+tulil	sves	0047	tivən	rock	np:s	np		s	6024	
+tulil	sves	0047	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0047	təgət	one	np:pred	np		pred		
+tulil	sves	0047	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0048	#	#	##	##				
+tulil	sves	0048	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0048	mata	at_that_time	other:dt	other		dt		
+tulil	sves	0048	a-vi	3SG.M-this	dem_pro.h:dt_s	dem_pro	h	dt_s	6001	
+tulil	sves	0048	o	TOP	other	other				
+tulil	sves	0048	bə=	ASP=	=other	=other				
+tulil	sves	0048	v-engəp	3SG.M.PST-sleep	v:pred	v		pred		
+tulil	sves	0048	mormor	snore	rv	rv				
+tulil	sves	0048	#	#	##	##				
+tulil	sves	0048	bə=	ASP=	=other	=other				
+tulil	sves	0048	mormor	snore	np:pred	np		pred		
+tulil	sves	0048	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0048	ba	in	adp	adp				
+tulil	sves	0048	və	3SG.M.POSS.INAL	ln_pro.h:poss	ln_pro	h	poss	6001	
+tulil	sves	0048	kəlom	mouth	np:l	np		l	6025	bridging
+tulil	sves	0048	nə-bət	LOC-that	dem_other	dem_other				
+tulil	sves	0049	#	#	##	##				
+tulil	sves	0049	ar	still	other	other				
+tulil	sves	0049	von	3SG.DIM	pro:dt	pro		dt		
+tulil	sves	0049	#	#	#rc	#rc				
+tulil	sves	0049	to	REL	other	other				
+tulil	sves	0049	bə=	ASP=	=other	=other				
+tulil	sves	0049	lem	hot	v:pred	v		pred		
+tulil	sves	0049	tənin	all.over	rv	rv				
+tulil	sves	0049	n	APPL	rv	rv				
+tulil	sves	0049	=a	=PAT	=ln	=ln				
+tulil	sves	0049	tivən	rock	np:s_sv	np		s_sv	6024	
+tulil	sves	0049	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0049	e-vi	3SG.F-this	rn	rn				
+tulil	sves	0049	nə-mu	LOC-IN	dem_other	dem_other				
+tulil	sves	0049	ba	in	adp	adp				
+tulil	sves	0049	turin	fire	np:l	np		l	6023	
+tulil	sves	0049	%	%	%	%				
+tulil	sves	0049	o	TOP	other	other				
+tulil	sves	0049	kavar	just_then	other	other				
+tulil	sves	0049	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0049	i-mat	3SG.M.PST-get	v:pred	v		pred		
+tulil	sves	0049	=a	=PAT	=ln	=ln				
+tulil	sves	0049	doed	tong	np:p	np		p	6026	new
+tulil	sves	0049	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0049	#	#	#	#				
+tulil	sves	0049	i-tukmən	3SG.M.PST-pick	v:pred	v		pred		
+tulil	sves	0049	mat	get	rv	rv				
+tulil	sves	0049	=a	=PAT	=ln	=ln				
+tulil	sves	0049	tivən	rock	np:p	np		p	6024	
+tulil	sves	0049	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0049	e-vi	3SG.F-this	rn	rn				
+tulil	sves	0049	nə-mu	LOC-IN	dem_other	dem_other				
+tulil	sves	0049	ba	in	adp	adp				
+tulil	sves	0049	turin	fire	np:l	np		l	6023	
+tulil	sves	0049	o	TOP	other	other				
+tulil	sves	0049	#	#	#	#				
+tulil	sves	0049	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0049	i-t~təng	3SG.F.PST-RED~push.into	v:pred	v		pred		
+tulil	sves	0049	n	APPL	rv	rv				
+tulil	sves	0049	=e	=3SG.F.PAT	=ln	=ln				
+tulil	sves	0049	nə-bo	LOC-UP	dem_other	dem_other				
+tulil	sves	0049	mət	in_mouth	adp	adp				
+tulil	sves	0049	=a	=3SG.M.PAT	=pro.h:g	=pro	h	g	6001	
+tulil	sves	0049	#	#	##	##				
+tulil	sves	0049	0	0	0.h:s	0	h	s	6002	
+tulil	sves	0049	me	and	other	other				
+tulil	sves	0049	i-vətuk	3SG.F.PST-step.on	v:pred	v		pred		
+tulil	sves	0049	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	sves	0049	gəm	between_legs	adp	adp				
+tulil	sves	0049	=a	=3SG.M.PAT	=pro.h:g	=pro	h	g	6001	
+tulil	sves	0050	#	#	##	##				
+tulil	sves	0050	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0050	me	and	other	other				
+tulil	sves	0050	və-t~təvəkup	3SG.M.PST-RED~struggle	v:pred	v		pred		
+tulil	sves	0050	#	#	##	##				
+tulil	sves	0050	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0050	me	and	other	other				
+tulil	sves	0050	iep	3SG.F	pro.h:dt_a	pro	h	dt_a	6002	
+tulil	sves	0050	o	TOP	other	other				
+tulil	sves	0050	i-kəng	3SG.F.PST-push	v:pred	v		pred		
+tulil	sves	0050	təgət	keep	rv	rv				
+tulil	sves	0050	n	APPL	rv	rv				
+tulil	sves	0050	=a	=PAT	=ln	=ln				
+tulil	sves	0050	doed	tong	np:p	np		p	6026	
+tulil	sves	0050	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0050	nə-bo	LOC-UP	dem_other	dem_other				
+tulil	sves	0050	mət	in_mouth	adp	adp				
+tulil	sves	0050	=a	=3SG.M.PAT	=pro.h:l	=pro	h	l	6001	
+tulil	sves	0050	təpm	with	adp	adp				
+tulil	sves	0050	=a	=PAT	=ln	=ln				
+tulil	sves	0050	tivən	rock	np:obl	np		obl	6024	
+tulil	sves	0050	lok	hot	rn	rn				
+tulil	sves	0050	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0050	e-vi	3SG.F.PST-this	rn	rn				
+tulil	sves	0051	#	#	##	##				
+tulil	sves	0051	0	0	0.h:s	0	h	s	6002	
+tulil	sves	0051	da	PURP	other	other				
+tulil	sves	0051	i-rəgən	3SG.F.PST-close	v:pred	v		pred		
+tulil	sves	0051	mət	in_mouth	adp	adp				
+tulil	sves	0051	=a	=3SG.M.PAT	=pro.h:l	=pro	h	l	6001	
+tulil	sves	0052	#	#	##neg	##neg				
+tulil	sves	0052	0	0	0.h:a	0	h	a	6001	
+tulil	sves	0052	io	then	other	other				
+tulil	sves	0052	kori	NEG	other	other				
+tulil	sves	0052	və-pun	3SG.M.PST-throw	v:pred	v		pred		
+tulil	sves	0052	=a	=PAT	=ln	=ln				
+tulil	sves	0052	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	6001	
+tulil	sves	0052	vəne	breath	np:p	np		p	6027	bridging
+tulil	sves	0052	=a	=SG.CL:MASC	=rn	=rn				
+tulil	sves	0052	#	#	##	##				
+tulil	sves	0052	me	and	other	other				
+tulil	sves	0052	idə-nən	3N.PST-shiver	v:pred	v		pred		
+tulil	sves	0052	n	APPL	rv	rv				
+tulil	sves	0052	=a	=3SG.M.PAT	=pro.h:s_iv	=pro	h	s_iv	6001	
+tulil	sves	0053	#	#	##	##				
+tulil	sves	0053	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0053	dame	SUBJ	other	other				
+tulil	sves	0053	da	PURP	other	other				
+tulil	sves	0053	a-pəlut	3SG.M.NPST-escape	v:pred	v		pred		
+tulil	sves	0053	me	and	other	other				
+tulil	sves	0053	#	#	#neg	#neg				
+tulil	sves	0053	kori	NEG	other:pred	other		pred		
+tulil	sves	0053	#	#	##	##				
+tulil	sves	0053	0	0	0.h:s	0	h	s	6002	
+tulil	sves	0053	avar	also	other	other				
+tulil	sves	0053	i-vətuk	3SG.F.PST-step	v:pred	v		pred		
+tulil	sves	0053	moli	again	rv	rv				
+tulil	sves	0053	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	sves	0053	gəm	between_legs	adp	adp				
+tulil	sves	0053	=a	=3SG.M.PAT	=pro.h:g	=pro	h	g	6001	
+tulil	sves	0054	#	#	#nc	#nc				
+tulil	sves	0054	io	then	nc	nc				
+tulil	sves	0054	nə-bət	LOC-that	nc	nc				
+tulil	sves	0054	kori	NEG	nc	nc				
+tulil	sves	0054	me	and	nc	nc				
+tulil	sves	0054	bə=	ASP=	nc	nc				
+tulil	sves	0054	toktok	end	nc	nc				
+tulil	sves	0054	=e	NC	nc	nc				
+tulil	sves	0054	#	#	##	##				
+tulil	sves	0054	io	then	other	other				
+tulil	sves	0054	iap	3SG.M	pro.h:s	pro	h	s	6001	
+tulil	sves	0054	ar	still	other	other				
+tulil	sves	0054	v-əngəp	3SG.M.PST-die	v:pred	v		pred		
+tulil	sves	0054	bətm	with	adp	adp				
+tulil	sves	0054	=a	=PAT	=ln	=ln				
+tulil	sves	0054	tivən	rock	np:obl	np		obl	6024	
+tulil	sves	0054	lok	hot	rn	rn				
+tulil	sves	0054	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0054	e-vi	3SG.F-this	rn	rn				
+tulil	sves	0054	#	#	#rc	#rc				
+tulil	sves	0054	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0054	to	REL	other	other				
+tulil	sves	0054	i-t~təng	3SG.F.PST-RED~push.into	v:pred	v		pred		
+tulil	sves	0054	n	APPL	rv	rv				
+tulil	sves	0054	=e	=3SG.F.PST	=pro:p	=pro		p	6024	
+tulil	sves	0054	mət	in_mouth	adp	adp				
+tulil	sves	0054	=a	=3SG.M.PST	=pro.h:l	=pro	h	l	6001	
+tulil	sves	0055	#	#	##	##				
+tulil	sves	0055	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0055	ar	until	other	other				
+tulil	sves	0055	v-əngəp	3SG.M.PST-die	v:pred	v		pred		
+tulil	sves	0055	#	#	#	#				
+tulil	sves	0055	0	0	0.h:a	0	h	a	6002	
+tulil	sves	0055	io	then	other	other				
+tulil	sves	0055	kəra	just	other	other				
+tulil	sves	0055	i-man	3SG.F.PST-remove	v:pred	v		pred		
+tulil	sves	0055	=a	=PAT	=ln	=ln				
+tulil	sves	0055	i=	3SG.F.POSS.INAL=	=ln_pro.h:poss	=ln_pro	h	poss	6002	
+tulil	sves	0055	nok	hand	np:p	np		p	6028	bridging
+tulil	sves	0055	məgem	leave_behind	adp	adp				
+tulil	sves	0055	=a	=PAT	=ln	=ln				
+tulil	sves	0055	tivən	rock	np:obl	np		obl	6024	
+tulil	sves	0055	=e	=SG.CL:FEM	=rn	=rn				
+tulil	sves	0055	nə-bo	LOC-UP	dem_other	dem_other				
+tulil	sves	0055	mət	in_mouth	adp	adp				
+tulil	sves	0055	=a	=3SG.M.PAT	=pro.h:l	=pro	h	l	6001	
+tulil	sves	0055	me	and	other	other				
+tulil	sves	0055	i=	3SG.F.POSS.INAL=	=ln_pro.h:poss	=ln_pro	h	poss	6002	
+tulil	sves	0055	katə	foot.PL	np:dt_p	np		dt_p	6029	bridging
+tulil	sves	0055	nə-mə	LOC-DOWN	other	other				
+tulil	sves	0055	#	#	#rc	#rc				
+tulil	sves	0055	0	0	0.h:s	0	h	s	6001	
+tulil	sves	0055	to	SUB	other	other				
+tulil	sves	0055	i-vətuk	3SG.F.PST-step	v:pred	v		pred		
+tulil	sves	0055	vəkai	steady	rv	rv				
+tulil	sves	0055	n	INT	adp	adp				
+tulil	sves	0055	=a	=PAT?/pro?	=pro:obl	=pro		obl	6029	
+tulil	sves	0055	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	sves	0055	gəm	between_legs	adp	adp				
+tulil	sves	0055	=a	=3SG.M.PAT	=pro.h:g	=pro	h	g	6001	
+tulil	sves	0056	#	#	#nc	#nc				
+tulil	sves	0056	nə-bət	LOC-that	nc	nc				
+tulil	sves	0056	konəng	only	nc	nc				
+tulil	sves	0057	(#)	(#)	nc	nc				
+tulil	sves	0057	ngang	1SG	nc	nc				
+tulil	sves	0057	e-venang	ART.F-something	nc	nc				
+tulil	sves	0058	(#)	(#)	nc	nc				
+tulil	sves	0058	ngang	1SG	nc	nc				
+tulil	sves	0058	Sisili	Cecily	nc	nc				
+tulil	sves	0058	eViru	ART.F-Viru	nc	nc				
+tulil	sves	0059	(#)	(#)	nc	nc				
+tulil	sves	0059	ngə-məngar	1SG.PST-talk	nc	nc				
+tulil	sves	0059	be	at	nc	nc				
+tulil	sves	0059	u-vi	3N-this	nc	nc				
+tulil	sves	0059	a-pir	ART-story	nc	nc				
+tulil	sves	0059	u-vi	3N-this	nc	nc				
+tulil	sves	0060	(#)	(#)	nc	nc				
+tulil	sves	0060	u-bət	3N-that	nc	nc				
+tulil	sves	0060	konəng	only	nc	nc				
+tulil	sves	0060	(#)	(#)	nc	nc				
+tulil	sves	0060	me	and	nc	nc				
+tulil	sves	0060	toktok	end	nc	nc				

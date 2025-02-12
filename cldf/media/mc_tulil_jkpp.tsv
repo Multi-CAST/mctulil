@@ -1,0 +1,2905 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+tulil	jkpp	0001	#	#	#nc	#nc				
+tulil	jkpp	0001	do	now	nc	nc				
+tulil	jkpp	0001	ava	again	nc	nc				
+tulil	jkpp	0001	ngan-əngar	1SG.NPST-say	nc	nc				
+tulil	jkpp	0001	be	at	nc	nc				
+tulil	jkpp	0001	nga	1SG.POSS	nc	nc				
+tulil	jkpp	0001	ləm	live	nc	nc				
+tulil	jkpp	0002	#	#	##	##				
+tulil	jkpp	0002	0	0	0.h:a	0	h	a	3001	new
+tulil	jkpp	0002	ngang	1SG	pro.1:dt_p	pro	1	dt_p	3002	bridging
+tulil	jkpp	0002	o	TOP	other	other				
+tulil	jkpp	0002	tə-mat	3PL.PST-get	v:pred	v		pred		
+tulil	jkpp	0002	ngang	1SG	pro.1:p	pro	1	p	3002	
+tulil	jkpp	0002	be	at	adp	adp				
+tulil	jkpp	0002	təgəta	one.CL:MASC	np:other	np		other		
+tulil	jkpp	0002	nereita	six.CL:MASC	rn	rn				
+tulil	jkpp	0002	ko	plus	rn	rn				
+tulil	jkpp	0002	mukəm_magərung	three.CL:MASC	rn	rn				
+tulil	jkpp	0002	me	and	rn	rn				
+tulil	jkpp	0002	balakətəria	four.CL:MASC	rn	rn				
+tulil	jkpp	0002	me	and	rn	rn				
+tulil	jkpp	0002	tuain	egg	rn	rn				
+tulil	jkpp	0002	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0002	laləng	year	np:appos	np		appos		
+tulil	jkpp	0002	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0002	a-vi	3SG.M-PROX1	rn	rn				
+tulil	jkpp	0003	#	#	##	##				
+tulil	jkpp	0003	laik	big	np.h:pred	np	h	pred		
+tulil	jkpp	0003	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0003	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0003	nanbət	like_that	other	other				
+tulil	jkpp	0003	#	#	##	##				
+tulil	jkpp	0003	məte	like	other	other				
+tulil	jkpp	0003	laik	big	other:pred	other		pred		
+tulil	jkpp	0003	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0003	#	#	##	##				
+tulil	jkpp	0003	me	and	other	other				
+tulil	jkpp	0003	pən	fight	np:dt_s	np		dt_s	3003	new
+tulil	jkpp	0003	laik	big	rn	rn				
+tulil	jkpp	0003	u-bət	3N-PROX2	rn	rn				
+tulil	jkpp	0003	to	belong_to	rn	rn				
+tulil	jkpp	0003	a-mənə	ART-people(Kuanua)	rn	rn				
+tulil	jkpp	0003	Siapan	Japan	rn_pn_np	rn_pn_np				
+tulil	jkpp	0003	o	TOP	other	other				
+tulil	jkpp	0003	ar	still	other	other				
+tulil	jkpp	0003	kotək	absent	v:pred	v		pred		
+tulil	jkpp	0003	idə	3N	pro:s_sv	pro		s_sv	3003	
+tulil	jkpp	0004	#	#	##	##				
+tulil	jkpp	0004	nə-bət	LOC-PROX2	dem_other	dem_other				
+tulil	jkpp	0004	məte	like	other	other				
+tulil	jkpp	0004	laik	big	np:pred	np		pred		
+tulil	jkpp	0004	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0004	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0004	#	#	##	##				
+tulil	jkpp	0004	təre	true	other	other				
+tulil	jkpp	0004	moli	real	other	other				
+tulil	jkpp	0004	du	1PL.POSS	ln_pro.1:poss	ln_pro	1	poss	3004	bridging
+tulil	jkpp	0004	ləm	life	np:s	np		s	3005	bridging
+tulil	jkpp	0004	bəvon	before	rn	rn				
+tulil	jkpp	0004	avar	also	other	other				
+tulil	jkpp	0004	kəməron	different	other:pred	other		pred		
+tulil	jkpp	0004	#	#	#neg	#neg				
+tulil	jkpp	0004	0	0	0.1:s	0	1	s	3004	
+tulil	jkpp	0004	to	SUB	other	other				
+tulil	jkpp	0004	kori	NEG	other	other				
+tulil	jkpp	0004	du-tuk	1PL.PST-grow	v:pred	v		pred		
+tulil	jkpp	0004	vəvat	very	rv	rv				
+tulil	jkpp	0004	#	#	##neg	##neg				
+tulil	jkpp	0004	məte	like	other	other				
+tulil	jkpp	0004	kori	NEG	other	other				
+tulil	jkpp	0004	go	NSPEC	other	other				
+tulil	jkpp	0004	idə-tu	3N.PST-grow	v:pred	v		pred		
+tulil	jkpp	0004	udu	1PL	pro.1:s_iv	pro	1	s_iv	3004	
+tulil	jkpp	0004	#	#	#ac	#ac				
+tulil	jkpp	0004	0	0	0.1:a	0	1	a	3004	
+tulil	jkpp	0004	tove	because	other	other				
+tulil	jkpp	0004	məgət	today	other:dt	other		dt		
+tulil	jkpp	0004	o	TOP	other	other				
+tulil	jkpp	0004	bə=	ASP=	=other	=other				
+tulil	jkpp	0004	də-mət	1PL.NPST-eat	v:pred	v		pred		
+tulil	jkpp	0004	=a	=PAT	=ln	=ln				
+tulil	jkpp	0004	mətmət	food	np:p	np		p	3006	bridging
+tulil	jkpp	0004	mərek	good	rn	rn				
+tulil	jkpp	0004	#	#	#	#				
+tulil	jkpp	0004	me	and	other	other				
+tulil	jkpp	0004	it-tu	3N.NPST-grow	v:pred	v		pred		
+tulil	jkpp	0004	udu	1PL	pro.1:s_iv	pro	1	s_iv	3004	
+tulil	jkpp	0004	#	#	##	##				
+tulil	jkpp	0004	bəvon	before	other:s	other		s		
+tulil	jkpp	0004	o	TOP	other	other				
+tulil	jkpp	0004	kori	NEG	other:pred	other		pred		
+tulil	jkpp	0005	#	#	##	##				
+tulil	jkpp	0005	io	then	other	other				
+tulil	jkpp	0005	laik	big	other:pred	other		pred		
+tulil	jkpp	0005	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0005	nanbət	like_that	other	other				
+tulil	jkpp	0006	#	#	##	##				
+tulil	jkpp	0006	io	then	other	other				
+tulil	jkpp	0006	lət	arrive	v:pred	v		pred		
+tulil	jkpp	0006	n	APPL	rv	rv				
+tulil	jkpp	0006	=a	=PAT	=ln	=ln				
+tulil	jkpp	0006	pən	fight	np:s_sv	np		s_sv	3003	
+tulil	jkpp	0006	i-to	3N.belong_to	rn	rn				
+tulil	jkpp	0006	a-Siapan	ART-Japan	rn_pn_np	rn_pn_np				
+tulil	jkpp	0006	#	#	##	##				
+tulil	jkpp	0006	0	0	0:s	0		s	3003	
+tulil	jkpp	0006	me	and	other	other				
+tulil	jkpp	0006	pən	fight	np:dt_s	np		dt_s	3003	
+tulil	jkpp	0006	u-bət	3N-PROX2	rn	rn				
+tulil	jkpp	0006	o	TOP	other	other				
+tulil	jkpp	0006	idə-mətor	3N.PST-sit	v:pred	v		pred		
+tulil	jkpp	0006	mata	for	adp	adp				
+tulil	jkpp	0006	laləng	year	np:other	np		other	3007	new
+tulil	jkpp	0006	balakətəria	four.CL:MASC	rn	rn				
+tulil	jkpp	0007	#	#	##	##				
+tulil	jkpp	0007	0	0	0.1:s	0	1	s	3004	
+tulil	jkpp	0007	be	at	adp	adp				
+tulil	jkpp	0007	təm	knowledge	np:other	np		other		
+tulil	jkpp	0007	u-bət	3N-PROX2	rn	rn				
+tulil	jkpp	0007	udu	1PL	pro.1:dt_s	pro	1	dt_s	3004	
+tulil	jkpp	0007	o	TOP	other	other				
+tulil	jkpp	0007	du-tərut	1PL.PST-hide	v:pred	v		pred		
+tulil	jkpp	0007	ti	lest	adp	adp				
+tulil	jkpp	0007	u-vi	3N-PROX1	dem_pro:obl	dem_pro		obl	3008	new
+tulil	jkpp	0007	#	#	#rc	#rc				
+tulil	jkpp	0007	0	0	0:s	0		s	3008	
+tulil	jkpp	0007	to	REL	other	other				
+tulil	jkpp	0007	it-i~miau	3N.NPST-RED~fly	v:pred	v		pred		
+tulil	jkpp	0007	ba	in	adp	adp				
+tulil	jkpp	0007	maok	space	np:l	np		l	3009	unused
+tulil	jkpp	0007	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0007	a-tepelin	ART-airplane	np:appos	np		appos	3008	
+tulil	jkpp	0008	#	#	##	##				
+tulil	jkpp	0008	0	0	0.1:s	0	1	s	3004	
+tulil	jkpp	0008	io	then	other	other				
+tulil	jkpp	0008	du-tərut	1PL.PST-hide	v:pred	v		pred		
+tulil	jkpp	0008	ba	in	adp	adp				
+tulil	jkpp	0008	bek	cave	np:l	np		l	3010	new
+tulil	jkpp	0008	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0008	term	next_to	rn	rn				
+tulil	jkpp	0008	=a	=PAT	=rn	=rn				
+tulil	jkpp	0008	Vurvəgi	Vurvəgi	rn_pn_np	rn_pn_np			3011	new
+tulil	jkpp	0008	#	#	##	##				
+tulil	jkpp	0008	0	0	0.h:a	0	h	a		
+tulil	jkpp	0008	nə-bət	LOC-PROX2	dem_other:dt	dem_other		dt		
+tulil	jkpp	0008	o	TOP	other	other				
+tulil	jkpp	0008	tə-t~tak	3PL.PST-RED~call	v:pred	v		pred		
+tulil	jkpp	0008	be	at	rv	rv				
+tulil	jkpp	0008	vət-bət	3N.SEG-PROX2	dem_pro:p	dem_pro		p	3010	
+tulil	jkpp	0008	#	#	#	#				
+tulil	jkpp	0008	0	0	0.h:s	0	h	s		
+tulil	jkpp	0008	to	REL	other	other				
+tulil	jkpp	0008	tat-e	3PL-QUOT	other:pred	other		pred		
+tulil	jkpp	0008	Ga	across	adp	adp				
+tulil	jkpp	0008	kora	mango	ln_np	ln_np				
+tulil	jkpp	0008	və=	3SG.M.POSS=	=ln	=ln				
+tulil	jkpp	0008	katə	foot.PL	np:other	np		other	3012	new
+tulil	jkpp	0009	#	#	##	##				
+tulil	jkpp	0009	0	0	0.1:s	0	1	s	3013	bridging
+tulil	jkpp	0009	nan	mom	np.h:dt	np	h	dt	3001	
+tulil	jkpp	0009	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0009	e-Diat	ART.F-Diat	rn_pn_np.h	rn_pn_np	h			
+tulil	jkpp	0009	du-mengəp	1PL.PST-sleep	v:pred	v		pred		
+tulil	jkpp	0009	ba	in	adp	adp				
+tulil	jkpp	0009	vərai	pit	np:l	np		l	3010	
+tulil	jkpp	0009	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0009	#	#	##neg	##neg				
+tulil	jkpp	0009	kori	NEG	other	other				
+tulil	jkpp	0009	go	NSPEC	rn	rn				
+tulil	jkpp	0009	pək	bright	np:predex	np		predex		
+tulil	jkpp	0009	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0009	#	#	##	##				
+tulil	jkpp	0009	vul	dark	np:predex	np		predex		
+tulil	jkpp	0009	=vət	=vət	=rn	=rn				
+tulil	jkpp	0010	#	#	##	##				
+tulil	jkpp	0010	0	0	0.h:s	0	h	s	3001	
+tulil	jkpp	0010	io	then	other	other				
+tulil	jkpp	0010	bərtəm	night	np:dt	np		dt	3014	new
+tulil	jkpp	0010	o	TOP	other	other				
+tulil	jkpp	0010	nan	mom	np.h:dt_s	np	h	dt_s	3001	
+tulil	jkpp	0010	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0010	o	TOP	other	other				
+tulil	jkpp	0010	b=	ASP=	=other	=other				
+tulil	jkpp	0010	i-ngəp	3SG.F.PST-die	v:pred	v		pred		
+tulil	jkpp	0010	#	#	##neg	##neg				
+tulil	jkpp	0010	ngang	1SG	pro.1:dt_s	pro	1	dt_s	3002	
+tulil	jkpp	0010	o	TOP	other	other				
+tulil	jkpp	0010	ar	still	other	other				
+tulil	jkpp	0010	kori	NEG	other	other				
+tulil	jkpp	0010	go	NSPEC	lv	lv				
+tulil	jkpp	0010	laik	big	other:pred	other		pred		
+tulil	jkpp	0010	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0010	#	#	#	#				
+tulil	jkpp	0010	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0010	me	and	other	other				
+tulil	jkpp	0010	ngə-m~mi	1SG.PST-RED~suck	v:pred	v		pred		
+tulil	jkpp	0010	bem	at	adp	adp				
+tulil	jkpp	0010	=e	=3SG.F.PAT	=pro.h:obl	=pro	h	obl	3001	
+tulil	jkpp	0010	#	#	##neg	##neg				
+tulil	jkpp	0010	məte	like	other	other				
+tulil	jkpp	0010	kori	NEG	other	other				
+tulil	jkpp	0010	go	NSPEC	ln	ln				
+tulil	jkpp	0010	mərek	good	np:predex	np		predex		
+tulil	jkpp	0010	=pət	=pət	=rn	=rn				
+tulil	jkpp	0010	#	#	##neg	##neg				
+tulil	jkpp	0010	ko	NEG	other	other				
+tulil	jkpp	0010	go	NSPEC	ln	ln				
+tulil	jkpp	0010	viuv	taste	np:predex	np		predex		
+tulil	jkpp	0010	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0010	ba	in	adp	adp				
+tulil	jkpp	0010	umək	breast	np:l	np		l	3015	bridging
+tulil	jkpp	0010	#	#	##neg	##neg				
+tulil	jkpp	0010	me	and	other	other				
+tulil	jkpp	0010	ngang	1SG	pro.1:a	pro	1	a	3002	
+tulil	jkpp	0010	avar	also	other	other				
+tulil	jkpp	0010	kori	NEG	other	other				
+tulil	jkpp	0010	ngə-təm	1SG.PST-know	v:pred	v		pred		
+tulil	jkpp	0010	#	#	#cc:p	#cc		p		
+tulil	jkpp	0010	0	0	0.h:s	0	h	s	3001	
+tulil	jkpp	0010	ngan-e	1SG-QUOT	other	other				
+tulil	jkpp	0010	b=	ASP=	=other	=other				
+tulil	jkpp	0010	i-ngəp	3SG.F.PST-die	v:pred	v		pred		
+tulil	jkpp	0011	#	#	##	##				
+tulil	jkpp	0011	du	1PL.POSS	ln_pro.1:poss	ln_pro	1	poss	3004	
+tulil	jkpp	0011	laik	big	ln_np.h:poss	ln_np	h	poss	3016	new
+tulil	jkpp	0011	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0011	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	3016	
+tulil	jkpp	0011	itən	name	np:s	np		s	3017	bridging
+tulil	jkpp	0011	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0011	Turogua	Turogua	pn_np:pred	pn_np		pred		
+tulil	jkpp	0011	#	#	##	##				
+tulil	jkpp	0011	dərng	old	np.h:dt_poss	np	h	dt_poss	3016	
+tulil	jkpp	0011	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0011	a-vi	3SG.M-PROX1	rn	rn				
+tulil	jkpp	0011	#	#	#rc	#rc				
+tulil	jkpp	0011	to	REL	other	other				
+tulil	jkpp	0011	v=	3SG.M.POSS=	=ln_pro.h:poss	=ln_pro	h	poss	3016	
+tulil	jkpp	0011	uil	son;daughter	np.h:s	np	h	s	3018	new
+tulil	jkpp	0011	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0011	to-Kidol	ART.M-Kidol	pn_np.h:pred	pn_np	h	pred		
+tulil	jkpp	0011	#	#	#	#				
+tulil	jkpp	0011	0	0	0.h:a	0	h	a	3016	
+tulil	jkpp	0011	me	and	other	other				
+tulil	jkpp	0011	və-bena	3SG.M.PST-marry	v:pred	v		pred		
+tulil	jkpp	0011	=a	=PAT	=ln	=ln				
+tulil	jkpp	0011	e-Nunu	ART.F-Nunu	pn_np.h:p	pn_np	h	p	3019	new
+tulil	jkpp	0012	#	#	##	##				
+tulil	jkpp	0012	io	then	other	other				
+tulil	jkpp	0012	iap	3SG.M	pro.h:dt_s	pro	h	dt_s	3016	
+tulil	jkpp	0012	o	TOP	other	other				
+tulil	jkpp	0012	ləm	live	other:pred	other		pred		
+tulil	jkpp	0012	=a	=3SG.M.PAT	=pro.h:s	=pro	h	s	3016	
+tulil	jkpp	0012	a-n	3SG.M-COM	adp	adp				
+tulil	jkpp	0012	=udu	=1PL	=pro.1:obl	=pro	1	obl	3004	
+tulil	jkpp	0012	ngə=	1SG.POSS.INAL=	=ln_pro.1:poss	=ln_pro	1	poss	3002	
+tulil	jkpp	0012	mativon	brother	np.h:appos	np	h	appos	3020	bridging
+tulil	jkpp	0012	=nəvənik	=PL.CL:DIM	=rn	=rn				
+tulil	jkpp	0012	katum	all	rn	rn				
+tulil	jkpp	0012	ta	3PL	rn	rn			3020	
+tulil	jkpp	0012	məte	like	rn	rn				
+tulil	jkpp	0012	to-Pipite	ART.M-Pipite	rn_pn_np	rn_pn_np			3021	new
+tulil	jkpp	0012	e-Lula	ART.F-Lula	rn_pn_np	rn_pn_np			3022	new
+tulil	jkpp	0012	Tavinor	Tavinor	rn_pn_np	rn_pn_np			3023	new
+tulil	jkpp	0012	Tade	Tade	rn_pn_np	rn_pn_np			3024	new
+tulil	jkpp	0012	me	and	rn	rn				
+tulil	jkpp	0012	to-Melekit	ART.M-Melekit	rn_pn_np	rn_pn_np			3025	new
+tulil	jkpp	0012	me	and	rn	rn				
+tulil	jkpp	0012	ngang	1SG	rn_pro.1	rn_pro	1		3002	
+tulil	jkpp	0012	#	#	##	##				
+tulil	jkpp	0012	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0012	o	TOP	other	other				
+tulil	jkpp	0012	toktok	end	other:pred	other		pred		
+tulil	jkpp	0012	#	#	##	##				
+tulil	jkpp	0012	bemə	bemə	nc	nc				
+tulil	jkpp	0012	ngang	1SG	pro.1:s	pro	1	s		
+tulil	jkpp	0013	#	#	##	##				
+tulil	jkpp	0013	io	then	other	other				
+tulil	jkpp	0013	nan	mom	np.h:s	np	h	s	3001	
+tulil	jkpp	0013	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0013	b=	ASP=	=other	=other				
+tulil	jkpp	0013	i-ngəp	3SG.F.PST-die	v:pred	v		pred		
+tulil	jkpp	0013	#	#	##	##				
+tulil	jkpp	0013	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0013	io	then	other	other				
+tulil	jkpp	0013	bə=	ASP=	=other	=other				
+tulil	jkpp	0013	ngan-əkələ	1SG.NPST-do	v:pred	v		pred		
+tulil	jkpp	0014	#	#	##	##				
+tulil	jkpp	0014	kurek	bad	other:predex	other		predex		
+tulil	jkpp	0014	ba	in	adp	adp				
+tulil	jkpp	0014	du	1PL.POSS	ln_pro.1:poss	ln_pro	1	poss	3004	
+tulil	jkpp	0014	ronəng	stomach	np:l	np		l	3026	bridging
+tulil	jkpp	0014	vədəm	for	adp	adp				
+tulil	jkpp	0014	=e	=3SG.F.PAT	=pro.h:obl	=pro	h	obl	3001	
+tulil	jkpp	0015	#	#	#nc	#nc				
+tulil	jkpp	0015	io	then	nc	nc				
+tulil	jkpp	0015	betəm	betəm	nc	nc				
+tulil	jkpp	0015	u-bət	3N-PROX2	nc	nc				
+tulil	jkpp	0015	nandi	like_this	nc	nc				
+tulil	jkpp	0015	ba	in	nc	nc				
+tulil	jkpp	0015	pən	fight	nc_np	nc_np			3003	
+tulil	jkpp	0015	o	TOP	nc	nc				
+tulil	jkpp	0015	məte	like	nc	nc				
+tulil	jkpp	0015	bidəmat	bidəmat	nc	nc				
+tulil	jkpp	0015	məni	məni	nc	nc				
+tulil	jkpp	0015	nidə	nidə	nc	nc				
+tulil	jkpp	0016	#	#	##	##				
+tulil	jkpp	0016	0	0	0.h:s	0	h	s	3004	
+tulil	jkpp	0016	io	then	other	other				
+tulil	jkpp	0016	tə-kər	3PL.PST-lift	v:pred	v		pred		
+tulil	jkpp	0016	təpm	with	adp	adp				
+tulil	jkpp	0016	=e	=3SG.F.PAT	=pro.h:obl	=pro	h	obl	3002	
+tulil	jkpp	0016	tə=	to=	=adp	=adp				
+tulil	jkpp	0016	ba	in	adp	adp				
+tulil	jkpp	0016	məngəda	home	np:g	np		g	3027	bridging
+tulil	jkpp	0016	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0016	#	#	#rc	#rc				
+tulil	jkpp	0016	0	0	0.h:a	0	h	a	3004	
+tulil	jkpp	0016	to	REL	other	other				
+tulil	jkpp	0016	tə-t~tak	3PL.PST-RED~call	v:pred	v		pred		
+tulil	jkpp	0016	tat-e	3PL-QUOT	rv	rv				
+tulil	jkpp	0016	be	at	rv	rv				
+tulil	jkpp	0016	Toburut	Toburut	pn_np:p	pn_np		p	3028	new
+tulil	jkpp	0016	#	#	##	##				
+tulil	jkpp	0016	itən	name	np:s	np		s	3029	bridging
+tulil	jkpp	0016	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0016	e-vi	3SG.F-PROX1	rn	rn				
+tulil	jkpp	0016	o	TOP	other	other				
+tulil	jkpp	0016	e-to	3SG.F-belong_to	adp	adp				
+tulil	jkpp	0016	Bior	Tolai	pn_np:pred	pn_np		pred		
+tulil	jkpp	0016	#	#	##	##				
+tulil	jkpp	0016	me	and	other	other				
+tulil	jkpp	0016	burut	burut	np:s	np		s	3029	
+tulil	jkpp	0016	nə-bo	LOC-UP	dem_other	dem_other				
+tulil	jkpp	0016	Bior	Bior	pn_np:pred	pn_np		pred		
+tulil	jkpp	0016	#	#	#neg	#neg				
+tulil	jkpp	0016	Tulil	Tulil	pn_np:s	pn_np		s	3030	bridging
+tulil	jkpp	0016	o	TOP	other	other				
+tulil	jkpp	0016	kori	NEG	other:pred	other		pred		
+tulil	jkpp	0016	#	#	##	##				
+tulil	jkpp	0016	Tulil	Tulil	pn_np:s	pn_np		s	3030	
+tulil	jkpp	0016	o	TOP	other	other				
+tulil	jkpp	0016	navodi	like_this	other	other				
+tulil	jkpp	0016	ba	in	adp	adp				
+tulil	jkpp	0016	Iaor	fear	np:pred	np		pred		
+tulil	jkpp	0017	#	#	##	##				
+tulil	jkpp	0017	0	0	0.h:a	0	h	a	3004	
+tulil	jkpp	0017	tə-mərov	3PL.PST-bury	v:pred	v		pred		
+tulil	jkpp	0017	=e	=3SG.F.PAT	=pro.h:p	=pro	h	p	3001	
+tulil	jkpp	0017	#	#	##neg	##neg				
+tulil	jkpp	0017	me	and	other	other				
+tulil	jkpp	0017	ngang	1SG	pro.1:dt_s	pro	1	dt_s	3002	
+tulil	jkpp	0017	o	TOP	other	other				
+tulil	jkpp	0017	kori	NEG	other	other				
+tulil	jkpp	0017	go	NSPEC	lv	lv				
+tulil	jkpp	0017	laik	big	other:pred	other		pred		
+tulil	jkpp	0017	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0017	#	#	##	##				
+tulil	jkpp	0017	0	0	0.h:s	0	h	s	3004	
+tulil	jkpp	0017	bə=	ASP=	=other	=other				
+tulil	jkpp	0017	tə-bokbok	3PL.PST-talk	v:pred	v		pred		
+tulil	jkpp	0017	tuk	give	adp	adp				
+tulil	jkpp	0017	ngang	1SG	pro.1:obl	pro	1	obl	3002	
+tulil	jkpp	0018	#	#	##	##				
+tulil	jkpp	0018	0	0	0.h:a	0	h	a	3004	
+tulil	jkpp	0018	me	and	other	other				
+tulil	jkpp	0018	bəvon	before	other:dt	other		dt		
+tulil	jkpp	0018	o	TOP	other	other				
+tulil	jkpp	0018	var	also	other	other				
+tulil	jkpp	0018	du-bitəmut	1PL.PST-believe	v:pred	v		pred		
+tulil	jkpp	0018	vəvat	very	rv	rv				
+tulil	jkpp	0018	bətm	with	rv	rv				
+tulil	jkpp	0018	=a	=PAT	=ln	=ln				
+tulil	jkpp	0018	voin	ghost	np:p	np		p	3031	new
+tulil	jkpp	0018	#	#	##	##				
+tulil	jkpp	0018	me	and	other	other				
+tulil	jkpp	0018	avar	also	other	other				
+tulil	jkpp	0018	bokbok	talk	np:predex	np		predex		
+tulil	jkpp	0018	=pət	=pət	=rn	=rn				
+tulil	jkpp	0018	navodi	like_this	rn	rn				
+tulil	jkpp	0018	ba	in	nc	nc				
+tulil	jkpp	0018	#	#	#	#				
+tulil	jkpp	0018	doto	when;if	other	other				
+tulil	jkpp	0018	məte	like	other	other				
+tulil	jkpp	0018	nan	mom	np.h:s	np	h	s	3001	
+tulil	jkpp	0018	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0018	b=	ASP=	=other	=other				
+tulil	jkpp	0018	i-ngəp	3SG.F.PST-die	v:pred	v		pred		
+tulil	jkpp	0018	#	#	#	#				
+tulil	jkpp	0018	0	0	0.h:s	0	h	s	3001	
+tulil	jkpp	0018	o	TOP	other	other				
+tulil	jkpp	0018	b=	ASP=	=other	=other				
+tulil	jkpp	0018	i-mətor	3SG.F.PST-sit	v:pred	v		pred		
+tulil	jkpp	0018	avar	also	other	other				
+tulil	jkpp	0018	bə=	ASP=	=other	=other				
+tulil	jkpp	0018	ba	in	adp	adp				
+tulil	jkpp	0018	məngəd	home	np:l	np		l	3032	new
+tulil	jkpp	0018	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0018	to	belong_to	rn	rn				
+tulil	jkpp	0018	voin	ghost	rn_np	rn_np			3031	
+tulil	jkpp	0018	#	#	##	##				
+tulil	jkpp	0018	0	0	0.h:s	0	h	s	3004	
+tulil	jkpp	0018	o	TOP	other	other				
+tulil	jkpp	0018	məngədə	home;village	np:dt_s	np		dt_s	3032	
+tulil	jkpp	0018	təgət	one	rn	rn				
+tulil	jkpp	0018	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0018	me	and	other	other				
+tulil	jkpp	0018	ta-t~tak	3PL.NPST-RED~call	v:pred	v		pred		
+tulil	jkpp	0018	bem	at	adp	adp				
+tulil	jkpp	0018	=a	=3SG.M.PAT	=pro.h:obl	=pro	h	obl		
+tulil	jkpp	0018	tat-e	3PL-QUOT	other	other				
+tulil	jkpp	0018	#	#	#cc	#cc				
+tulil	jkpp	0018	urəng	waterfall	np:s	np		s	3033	bridging
+tulil	jkpp	0018	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0018	o	TOP	other	other				
+tulil	jkpp	0018	Ravup	Ravup	pn_np:pred	pn_np		pred		
+tulil	jkpp	0019	#	#	##neg	##neg				
+tulil	jkpp	0019	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0019	ngang	1SG	pro.1:dt_a	pro	1	dt_a	3002	
+tulil	jkpp	0019	o	TOP	other	other				
+tulil	jkpp	0019	kori	NEG	other	other				
+tulil	jkpp	0019	ngə-toti	1SG.PST-see	v:pred	v		pred		
+tulil	jkpp	0019	urəng	waterfall	np:p	np		p	3032	
+tulil	jkpp	0019	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0019	a-vi	3SG.M-PROX1	rn	rn				
+tulil	jkpp	0019	#	#	##	##				
+tulil	jkpp	0019	e-Vuet	ART.F-Vuet	pn_np.h:a	pn_np	h	a	3034	new
+tulil	jkpp	0019	i-mume	3SG.F.PST-tell	v:pred	v		pred		
+tulil	jkpp	0019	ngang	1SG	pro.1:p	pro	1	p	3002	
+tulil	jkpp	0019	#	#	#	#				
+tulil	jkpp	0019	0	0	0.h:a	0	h	a	3034	
+tulil	jkpp	0019	məte	like	other	other				
+tulil	jkpp	0019	iep	3SG.F	pro.h:dt_a	pro	h	dt_a	3034	
+tulil	jkpp	0019	to	REL	other	other				
+tulil	jkpp	0019	dava	PURP_again	other	other				
+tulil	jkpp	0019	i-bakət	3SG.F.PST-change	v:pred	v		pred		
+tulil	jkpp	0019	təvənm	after	rv	rv				
+tulil	jkpp	0019	=a	=PAT	=ln	=ln				
+tulil	jkpp	0019	nan	mom	np:p	np		p	3034	
+tulil	jkpp	0019	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0019	#	#	##	##				
+tulil	jkpp	0019	dava	PURP_again	other	other				
+tulil	jkpp	0019	iep	3SG.F	pro.h:a	pro	h	a	3034	
+tulil	jkpp	0019	i-lukaut	3SG.F.PST-look_after[tok pisin]	v:pred	v		pred		
+tulil	jkpp	0019	bem	at	rv	rv				
+tulil	jkpp	0019	udu	1PL	pro.1:p	pro	1	p	3004	
+tulil	jkpp	0019	nga-n	1SG-COM	pro.1:appos	pro	1	appos	3002	
+tulil	jkpp	0019	=a	=PAT	=rn	=rn				
+tulil	jkpp	0019	ngə=	1SG.POSS.INAL=	=rn_pro.1:poss	=rn_pro	1	poss	3002	
+tulil	jkpp	0019	mativon	brother	rn_np.h	rn_np	h		3020	
+tulil	jkpp	0019	=nəvənik	=PL.CL:DIM	=rn	=rn				
+tulil	jkpp	0020	#	#	##	##				
+tulil	jkpp	0020	0	0	0.h:s	0	h	s	3020	
+tulil	jkpp	0020	io	then	other	other				
+tulil	jkpp	0020	tə-mume	3PL.PST-tell	v:pred	v		pred		
+tulil	jkpp	0020	#	#	##	##				
+tulil	jkpp	0020	me	and	other	other				
+tulil	jkpp	0020	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0020	o	TOP	other	other				
+tulil	jkpp	0020	iaor	afraid	other:pred	other		pred		
+tulil	jkpp	0020	#	#	##	##				
+tulil	jkpp	0020	0	0	0.h:s	0	h	s	3020	
+tulil	jkpp	0020	doto	when;if	other	other				
+tulil	jkpp	0020	məte	like	other	other				
+tulil	jkpp	0020	tə-məngar	3PL.PST-say	v:pred	v		pred		
+tulil	jkpp	0020	#	#	#cc	#cc				
+tulil	jkpp	0020	0	0	0.h:s	0	h	s		
+tulil	jkpp	0020	tat-e	3PL-QUOT	other	other				
+tulil	jkpp	0020	at-iau	3SG.M.PST-fly	v:pred	v		pred		
+tulil	jkpp	0020	ba	in	adp	adp				
+tulil	jkpp	0020	maok	sky	np:l	np		l	3009	
+tulil	jkpp	0020	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0020	#	#	#	#				
+tulil	jkpp	0020	0	0	0.h:s	0	h	s		
+tulil	jkpp	0020	io	then	other	other				
+tulil	jkpp	0020	at-nəvən	3SG.M.NPST-fall	v:pred	v		pred		
+tulil	jkpp	0020	tə=	to=	=adp	=adp				
+tulil	jkpp	0020	ba	in	adp	adp				
+tulil	jkpp	0020	məngəd	village	np:g	np		g	3035	new
+tulil	jkpp	0020	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0020	a-vi	3SG.M-PROX1	rn	rn				
+tulil	jkpp	0020	Ravup	Ravup	rn_pn_np	rn_pn_np				
+tulil	jkpp	0020	#	#	#	#				
+tulil	jkpp	0020	0	0	0.h:s	0	h	s	3036	new
+tulil	jkpp	0020	to	SUB	other	other				
+tulil	jkpp	0020	məte	like	other	other				
+tulil	jkpp	0020	go	NSPEC	pro.h:dt_s	pro	h	dt_s	3036	
+tulil	jkpp	0020	to	REL	other	other				
+tulil	jkpp	0020	idə-ngəp	3N.PST-die	v:pred	v		pred		
+tulil	jkpp	0020	o	TOP	other	other				
+tulil	jkpp	0020	nanbət	like_that	other	other				
+tulil	jkpp	0020	to	SUB	other	other				
+tulil	jkpp	0020	təpm	with	adp	adp				
+tulil	jkpp	0020	=a	=PAT	=ln	=ln				
+tulil	jkpp	0020	gəri	what	np:other	np		other		
+tulil	jkpp	0020	#	#	##	##				
+tulil	jkpp	0020	0	0	0.h:s	0	h	s	3020	
+tulil	jkpp	0020	tat-e	3PL-QUOT	other:pred	other		pred		
+tulil	jkpp	0020	tor	wood	np:other	np		other		
+tulil	jkpp	0020	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0020	#	#	##	##				
+tulil	jkpp	0020	io	then	other	other				
+tulil	jkpp	0020	voin	ghost	np:a	np		a	3031	
+tulil	jkpp	0020	i-re	3N.NPST-carry	v:pred	v		pred		
+tulil	jkpp	0020	ta-bət	3PL-PROX2	dem_pro.h:p	dem_pro	h	p	3036	
+tulil	jkpp	0020	#	#	#	#				
+tulil	jkpp	0020	0	0	0:a	0		a		
+tulil	jkpp	0020	i-re	3N.NPST-carry	v:pred	v		pred		
+tulil	jkpp	0020	idabi	spirit	np:p	np		p	3037	new
+tulil	jkpp	0020	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0020	to	belong_to	adp	adp				
+tulil	jkpp	0020	a-bət	3SG.M-PROX2	dem_pro.h:g	dem_pro	h	g	3036	
+tulil	jkpp	0020	#	#	#rc	#rc				
+tulil	jkpp	0020	0	0	0.h:s	0	h	s	3036	
+tulil	jkpp	0020	to	REL	other	other				
+tulil	jkpp	0020	v-əngəp	3SG.M.PST-die	v:pred	v		pred		
+tulil	jkpp	0020	#	#	#	#				
+tulil	jkpp	0020	0	0	0:s	0		s		
+tulil	jkpp	0020	da	PURP	other	other				
+tulil	jkpp	0020	nə-mumə	LOC-DOWN.FAR	dem_other:pred	dem_other		pred		
+tulil	jkpp	0020	tə=	to=	=adp	=adp				
+tulil	jkpp	0020	ba	in	adp	adp				
+tulil	jkpp	0020	Ravup	Ravup	pn_np:l	pn_np		l	3035	
+tulil	jkpp	0021	#	#	##	##				
+tulil	jkpp	0021	io	then	other	other				
+tulil	jkpp	0021	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0021	avar	also	other	other				
+tulil	jkpp	0021	ngan-e	1SG-QUOT	other:pred	other		pred		
+tulil	jkpp	0021	#	#	##	##				
+tulil	jkpp	0021	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0021	me	and	other	other				
+tulil	jkpp	0021	ngə-mətor	1SG.PST-sit	v:pred	v		pred		
+tulil	jkpp	0021	ko	just	other	other				
+tulil	jkpp	0021	nandi	like_this	other	other				
+tulil	jkpp	0021	#	#	#	#				
+tulil	jkpp	0021	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0021	o	TOP	other	other				
+tulil	jkpp	0021	təpm	with	adp	adp				
+tulil	jkpp	0021	=a	=PAT	=ln	=ln				
+tulil	jkpp	0021	iaor	fear	np:pred	np		pred		
+tulil	jkpp	0021	ti	of	adp	adp				
+tulil	jkpp	0021	voin	ghost	np:obl	np		obl	3031	
+tulil	jkpp	0022	#	#	##	##				
+tulil	jkpp	0022	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0022	io	then	other	other				
+tulil	jkpp	0022	nandi	like_this	other	other				
+tulil	jkpp	0022	nəvon	same_thing	np:dt	np		dt		
+tulil	jkpp	0022	nəvon	same_thing	nc	nc				
+tulil	jkpp	0022	nəvon	same_thing	nc	nc				
+tulil	jkpp	0022	io	then	adp	adp				
+tulil	jkpp	0022	tə=	to=	=adp	=adp				
+tulil	jkpp	0022	mənu	back_of	np:dt	np		dt		
+tulil	jkpp	0022	vət-bət	3SG.SEG-PROX2	rn	rn				
+tulil	jkpp	0022	ava	again	other	other				
+tulil	jkpp	0022	ngə-mu	1SG.PST-put	v:pred	v		pred		
+tulil	jkpp	0022	tən	think	vother:p	vother		p		
+tulil	jkpp	0022	təpm	with	adp	adp				
+tulil	jkpp	0022	=a	=PAT	=ln	=ln				
+tulil	jkpp	0022	iaor	fear	np:obl	np		obl	3038	bridging
+tulil	jkpp	0022	#	#	##neg	##neg				
+tulil	jkpp	0022	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0022	kori	NEG	other	other				
+tulil	jkpp	0022	ngə-p~pi	1SG.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0022	nga-togən	1SG-alone	other	other				
+tulil	jkpp	0022	#	#	#	#				
+tulil	jkpp	0022	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0022	doto	when;if	other	other				
+tulil	jkpp	0022	bə=	ASP=	=other	=other				
+tulil	jkpp	0022	nga-toti	1SG.NPST-see	v:pred	v		pred		
+tulil	jkpp	0022	a-bət	3SG.M-PROX2	dem_pro:p	dem_pro		p	3039	new
+tulil	jkpp	0022	#	#	#rc	#rc				
+tulil	jkpp	0022	0	0	0.h:s	0	h	s		
+tulil	jkpp	0022	to	REL	other	other				
+tulil	jkpp	0022	at-iau	3SG.M.NPST-fly	v:pred	v		pred		
+tulil	jkpp	0022	təpm	with	adp	adp				
+tulil	jkpp	0022	=a	=PAT	=ln	=ln				
+tulil	jkpp	0022	vən-bət	3SG.AUG-PROX2	cl_pro:obl	cl_pro		obl		
+tulil	jkpp	0022	#	#	#	#				
+tulil	jkpp	0022	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0022	io	then	other	other				
+tulil	jkpp	0022	bə=	ASP=	=other	=other				
+tulil	jkpp	0022	ngə-tən	1SG.PST-think	v:pred	v		pred		
+tulil	jkpp	0022	tə=	to=	=adp	=adp				
+tulil	jkpp	0022	be	at	adp	adp				
+tulil	jkpp	0022	tən	think	np:obl	np		obl	3040	bridging
+tulil	jkpp	0022	to	belong_to	rn	rn				
+tulil	jkpp	0022	nan	mother	rn_np.h	rn_np	h		3001	
+tulil	jkpp	0022	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0022	#	#	#	#				
+tulil	jkpp	0022	et-e	3SG.F-QUOT	other:pred	other		pred		
+tulil	jkpp	0022	#	#	#	#				
+tulil	jkpp	0022	voin	ghost	np:a	np		a	3031	
+tulil	jkpp	0022	u-bət	3N-PROX2	rn	rn				
+tulil	jkpp	0022	b=	ASP=	=other	=other				
+tulil	jkpp	0022	idə-re	3N.PST-carry	v:pred	v		pred		
+tulil	jkpp	0022	idabi	spirit	np:p	np		p	3037	
+tulil	jkpp	0022	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0023	#	#	##	##				
+tulil	jkpp	0023	io	then	other	other				
+tulil	jkpp	0023	ava	again	other	other				
+tulil	jkpp	0023	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3002	
+tulil	jkpp	0023	laik	big	ln_np.h:dt_poss	ln_np	h	dt_poss	3016	
+tulil	jkpp	0023	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0023	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	3016	
+tulil	jkpp	0023	dərng	old	np.h:s	np	h	s	3019	
+tulil	jkpp	0023	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0023	i-ngəp	3SG.F.PST-die	v:pred	v		pred		
+tulil	jkpp	0023	e-Pətətain	ART.F-Pətətain	pn_np.h:dt	pn_np	h	dt	3019	
+tulil	jkpp	0023	#	#	##	##				
+tulil	jkpp	0023	me	and	other	other				
+tulil	jkpp	0023	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3002	
+tulil	jkpp	0023	laik	big	np:s	np		s	3016	
+tulil	jkpp	0023	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0023	o	TOP	other	other				
+tulil	jkpp	0023	to-Valubən	ART.M-Valubən	pn_np:pred	pn_np		pred		
+tulil	jkpp	0023	#	#	##	##				
+tulil	jkpp	0023	iap	3SG.M	pro.h:dt_poss	pro	h	dt_poss	3016	
+tulil	jkpp	0023	o	TOP	other	other				
+tulil	jkpp	0023	v=	3SG.M.POSS=	=ln_pro.h:poss	=ln_pro	h	poss	3016	
+tulil	jkpp	0023	uil	son;daughter	np:s	np		s	3041	new
+tulil	jkpp	0023	=vənik	=vənik	=rn	=rn				
+tulil	jkpp	0023	o	TOP	other	other				
+tulil	jkpp	0023	akəra	just	other	other				
+tulil	jkpp	0023	balakətəria	four.CL:MASC	np:pred	np		pred		
+tulil	jkpp	0023	məte	like	other	other				
+tulil	jkpp	0023	e-Tadar	ART.F-Tadar	pn_np.h:appos	pn_np	h	appos	3042	bridging
+tulil	jkpp	0023	idə-mat	3N.PST-get	rn	rn				
+tulil	jkpp	0023	məni	first	rn	rn				
+tulil	jkpp	0023	to-Varuvi	ART.M-Varuvi	rn_pn_np.h	rn_pn_np	h		3043	bridging
+tulil	jkpp	0023	io	then	rn	rn				
+tulil	jkpp	0023	Martin	Martin	rn_pn_np.h	rn_pn_np	h		3044	bridging
+tulil	jkpp	0023	me	and	rn	rn				
+tulil	jkpp	0023	e-Patin	ART.F-Patin	rn_pn_np.h	rn_pn_np	h		3045	bridging
+tulil	jkpp	0023	#	#	##	##				
+tulil	jkpp	0023	e-Patin	ART.F-Patin	pn_np.h:s	pn_np	h	s	3045	
+tulil	jkpp	0023	ar	still	other	other				
+tulil	jkpp	0023	idil	small	np:pred	np		pred		
+tulil	jkpp	0023	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0023	#	#	#	#				
+tulil	jkpp	0023	me	and	other	other				
+tulil	jkpp	0023	ve=	3SG.F.POSS=	=ln_pro.h:poss	=ln_pro	h	poss	3045	
+tulil	jkpp	0023	tti	parent	np.h:s	np	h	s	3019	
+tulil	jkpp	0023	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0023	i-ngəp	3SG.F.PST-die	v:pred	v		pred		
+tulil	jkpp	0023	nə-mə	LOC-DOWN	dem_other:l	dem_other		l	3027	
+tulil	jkpp	0024	#	#	##	##				
+tulil	jkpp	0024	io	then	other	other				
+tulil	jkpp	0024	ngang	1SG	pro.1:dt	pro	1	dt	3002	
+tulil	jkpp	0024	o	TOP	other	other				
+tulil	jkpp	0024	məte	like	other	other				
+tulil	jkpp	0024	nandi	like_this	other	other				
+tulil	jkpp	0024	ba	in	nc	nc				
+tulil	jkpp	0024	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0024	konəng	only	other	other				
+tulil	jkpp	0024	ngə-mətor	1SG.PST-sit	v:pred	v		pred		
+tulil	jkpp	0024	ngan-a	1SG-COM	adp	adp				
+tulil	jkpp	0024	vov	aunt	np.h:obl	np	h	obl	3019	
+tulil	jkpp	0024	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0024	e-bət	3SG.F-PROX2	rn	rn				
+tulil	jkpp	0024	#	#	##neg	##neg				
+tulil	jkpp	0024	me	and	other	other				
+tulil	jkpp	0024	ngang	1SG	pro.1:a	pro	1	a	3002	
+tulil	jkpp	0024	kori	NEG	other	other				
+tulil	jkpp	0024	ngə-təm	1SG.PST-know	v:pred	v		pred		
+tulil	jkpp	0024	#	#	#cc:p	#cc		p		
+tulil	jkpp	0024	ngan-e	1SG-QUOT	other	other				
+tulil	jkpp	0024	nagapon	how	other:pred	other		pred		
+tulil	jkpp	0025	#	#	##	##				
+tulil	jkpp	0025	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0025	doto	when;if	other	other				
+tulil	jkpp	0025	bə=	ASP=	=other	=other				
+tulil	jkpp	0025	ngə-toti	1SG.PST-see	v:pred	v		pred		
+tulil	jkpp	0025	=e	=3SG.F.PAT	=pro.h:p	=pro	h	p	3019	
+tulil	jkpp	0025	#	#	#	#				
+tulil	jkpp	0025	to	SUB	other	other				
+tulil	jkpp	0025	kəbərək	blood	np:s	np		s	3046	new
+tulil	jkpp	0025	b=	ASP=	=other	=other				
+tulil	jkpp	0025	idə-loti	3N.PST-spilloti	v:pred	v		pred		
+tulil	jkpp	0025	do	here;now	other	other				
+tulil	jkpp	0025	ba	in	adp	adp				
+tulil	jkpp	0025	i=	i=	=ln_pro.1:poss	=ln_pro	1	poss	3046	
+tulil	jkpp	0025	venang	something	np:l	np		l		
+tulil	jkpp	0025	#	#	##	##				
+tulil	jkpp	0025	me	and	other	other				
+tulil	jkpp	0025	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0025	konəng	only	other	other				
+tulil	jkpp	0025	ngan-e	1SG-QUOT	other:pred	other		pred		
+tulil	jkpp	0025	#	#	##	##				
+tulil	jkpp	0025	na	na	nc	nc				
+tulil	jkpp	0025	e-Patin	ART.F-Patin	pn_np.h:s	pn_np	h	s	3045	
+tulil	jkpp	0025	to	REL	other	other				
+tulil	jkpp	0025	ar	still	other	other				
+tulil	jkpp	0025	idil	small	np.h:pred	np	h	pred		
+tulil	jkpp	0025	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0025	#	#	##	##				
+tulil	jkpp	0025	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0025	io	then	other	other				
+tulil	jkpp	0025	ngə-kət	1SG.PST-lift	v:pred	v		pred		
+tulil	jkpp	0025	mən	off	rv	rv				
+tulil	jkpp	0025	=e	=3SG.F.PAT	=pro.h:p	=pro	h	p	3019	
+tulil	jkpp	0025	təkə=	to=	=adp	=adp				
+tulil	jkpp	0025	do	here	other:g	other		g	3047	new
+tulil	jkpp	0026	#	#	##	##				
+tulil	jkpp	0026	me	and	other	other				
+tulil	jkpp	0026	vov	aunt	np.h:a	np	h	a	3019	
+tulil	jkpp	0026	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0026	b=	ASP=	=other	=other				
+tulil	jkpp	0026	i-muek	3SG.F.PST-puke	v:pred	v		pred		
+tulil	jkpp	0026	n	APPL	rv	rv				
+tulil	jkpp	0026	=a	=PAT	=ln	=ln				
+tulil	jkpp	0026	kəbərək	blood	np:p	np		p	3046	
+tulil	jkpp	0026	#	#	##	##				
+tulil	jkpp	0026	lət	arrive	v:pred	v		pred		
+tulil	jkpp	0026	n	APPL	rv	rv				
+tulil	jkpp	0026	=idə	=3N	=np:s	=np		s		
+tulil	jkpp	0026	do	here	other:g	other		g	3048	new
+tulil	jkpp	0026	#	#	##	##				
+tulil	jkpp	0026	0	0	0.h:s	0	h	s	3019	
+tulil	jkpp	0026	io	then	other	other				
+tulil	jkpp	0026	i-ngəp	3SG.F.PST-die	v:pred	v		pred		
+tulil	jkpp	0026	tə=	to=	=adp	=adp				
+tulil	jkpp	0026	be	at	adp	adp				
+tulil	jkpp	0026	ibən	ground	np:g	np		g	3049	bridging
+tulil	jkpp	0027	#	#	##	##				
+tulil	jkpp	0027	go	NSPEC	pro.h:a	pro	h	a		
+tulil	jkpp	0027	it-anəng	3N.NPST-run	v:pred	v		pred		
+tulil	jkpp	0027	mat	get	rv	rv				
+tulil	jkpp	0027	=a	=PAT	=ln	=ln				
+tulil	jkpp	0027	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3002	
+tulil	jkpp	0027	laik	big	np.h:p	np	h	p	3016	
+tulil	jkpp	0027	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0027	#	#	#	#				
+tulil	jkpp	0027	0	0	0.h:a	0	h	a	3016	
+tulil	jkpp	0027	to	SUB	other	other				
+tulil	jkpp	0027	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	jkpp	0027	mat	get	rv	rv				
+tulil	jkpp	0027	=a	=PAT	=ln	=ln				
+tulil	jkpp	0027	kəlum	green.sp.	np:p	np		p	3050	new
+tulil	jkpp	0027	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	jkpp	0027	ba	in	adp	adp				
+tulil	jkpp	0027	Evek	Evek	pn_np:g	pn_np		g	3051	new
+tulil	jkpp	0027	#	#	#	#				
+tulil	jkpp	0027	ve	because	other	other				
+tulil	jkpp	0027	kəlu(m)	green.sp.	np:s	np		s	3050	
+tulil	jkpp	0027	=bət	=bət	=rn	=rn				
+tulil	jkpp	0027	i-to	3N-belong_to	adp	adp				
+tulil	jkpp	0027	udu	1PL	ln_pro.1:obl	ln_pro	1	obl	3004	
+tulil	jkpp	0027	nə-mə	LOC-DOWN	dem_other:pred	dem_other		pred		
+tulil	jkpp	0028	#	#	##	##				
+tulil	jkpp	0028	io	then	other	other				
+tulil	jkpp	0028	e-Tadar	ART.F-Tadar	pn_np.h:a	pn_np	h	a	3042	
+tulil	jkpp	0028	i-kər	3SG.F.PST-raise	v:pred	v		pred		
+tulil	jkpp	0028	tang	REFL	pro.h:p	pro	h	p	3042	
+tulil	jkpp	0028	#	#	##neg	##neg				
+tulil	jkpp	0028	ar	still	other	other				
+tulil	jkpp	0028	kori	NEG	other	other				
+tulil	jkpp	0028	mərek	good	other:pred	other		pred		
+tulil	jkpp	0028	n	APPL	rv	rv				
+tulil	jkpp	0028	=e	=3SG.F.PAT	=pro.h:s	=pro	h	s	3042	
+tulil	jkpp	0028	#	#	#cc	#cc				
+tulil	jkpp	0028	0	0	0.h:s	0	h	s	3042	
+tulil	jkpp	0028	da	PURP	other	other				
+tulil	jkpp	0028	e-taro	3SG.F-fast	v:pred	v		pred		
+tulil	jkpp	0028	#	#	##	##				
+tulil	jkpp	0028	0	0	0.h:s	0	h	s	3042	
+tulil	jkpp	0028	e-n	3SG.F-COM	adp	adp				
+tulil	jkpp	0028	=a	=PAT	=ln	=ln				
+tulil	jkpp	0028	to-Varuvi	ART.M-Varuvi	pn_np:dt	pn_np		dt	3043	
+tulil	jkpp	0028	ipə-p~pi	3DL.M.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0028	#	#	#	#				
+tulil	jkpp	0028	0	0	0.h:s	0	h	s	3052	bridging
+tulil	jkpp	0028	i-tau	3DL.M.PST-meet	v:pred	v		pred		
+tulil	jkpp	0028	it-n	3DL.M-COM	adp	adp				
+tulil	jkpp	0028	=a	=PAT	=ln	=ln				
+tulil	jkpp	0028	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3002	
+tulil	jkpp	0028	laik	big	np.h:obl	np	h	obl	3016	
+tulil	jkpp	0028	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0028	nə-mə	LOC-DOWN	dem_other:l	dem_other		l		
+tulil	jkpp	0029	#	#	##	##				
+tulil	jkpp	0029	iap	3SG.M	pro.h:s	pro	h	s	3016	
+tulil	jkpp	0029	o	TOP	other	other				
+tulil	jkpp	0029	təpm	with	adp	adp				
+tulil	jkpp	0029	=a	=PAT	=ln	=ln				
+tulil	jkpp	0029	kəlum	green.sp.	np:pred	np		pred	3050	
+tulil	jkpp	0029	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0029	ga	across	adp	adp				
+tulil	jkpp	0029	və=	3SG.M.POSS.INAL=	=ln_pro.h:poss	=ln_pro	h	poss	3016	
+tulil	jkpp	0029	kən	neck	np:other	np		other	3053	bridging
+tulil	jkpp	0029	#	#	##	##				
+tulil	jkpp	0029	0	0	0.h:a	0	h	a	3016	
+tulil	jkpp	0029	bə=	ASP=	=other	=other				
+tulil	jkpp	0029	v-unə	3SG.M.PST-throw	v:pred	v		pred		
+tulil	jkpp	0029	təvat	release	rv	rv				
+tulil	jkpp	0029	n	APPL	rv	rv				
+tulil	jkpp	0029	=a	=3SG.M.PAT	=pro:p	=pro		p	3050	
+tulil	jkpp	0029	#	#	##	##				
+tulil	jkpp	0029	0	0	0.h:s	0	h	s	3016	
+tulil	jkpp	0029	tə-p~pi	3PL.PST-RED~walk	v:pred	v		pred		
+tulil	jkpp	0029	nə-m~mə	LOC-RED~DOWN	dem_other:g	dem_other		g		
+tulil	jkpp	0030	#	#	##	##				
+tulil	jkpp	0030	io	then	other	other				
+tulil	jkpp	0030	məte	like	other	other				
+tulil	jkpp	0030	var	also	other	other				
+tulil	jkpp	0030	nan	mom	np.h:predex	np	h	predex	3001	
+tulil	jkpp	0030	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0030	e-Vuet	ART.F-Vuet	pn_np.h:appos	pn_np	h	appos	3001	
+tulil	jkpp	0030	#	#	##	##				
+tulil	jkpp	0030	0	0	0.h:s	0	h	s	3004	
+tulil	jkpp	0030	tə-manəng	3PL.PST-run	v:pred	v		pred		
+tulil	jkpp	0030	#	#	##	##				
+tulil	jkpp	0030	0	0	0.h:s	0	h	s	3019	
+tulil	jkpp	0030	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3004	
+tulil	jkpp	0030	vov	aunt	np.h:dt_s	np	h	dt_s	3019	
+tulil	jkpp	0030	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0030	o	TOP	other	other				
+tulil	jkpp	0030	b=	ASP=	=other	=other				
+tulil	jkpp	0030	i-ngəp	3SG.F.PST-die	v:pred	v		pred		
+tulil	jkpp	0030	#	#	##	##				
+tulil	jkpp	0030	0	0	0.h:a	0	h	a	3004	
+tulil	jkpp	0030	tə-kəbənət	3PL.PST-clean	v:pred	v		pred		
+tulil	jkpp	0030	=e	=3SG.F.PAT	=pro.h:p	=pro	h	p	3019	
+tulil	jkpp	0030	#	#	##	##				
+tulil	jkpp	0030	0	0	0.h:a	0	h	a	3004	
+tulil	jkpp	0030	tə-tur	3PL.PST-wash	v:pred	v		pred		
+tulil	jkpp	0030	=e	=3SG.F.PAT	=pro.h:p	=pro	h	p	3019	
+tulil	jkpp	0030	#	#	##	##				
+tulil	jkpp	0030	0	0	0.h:a	0	h	a	3004	
+tulil	jkpp	0030	tə-mu	3PL.PST-put	v:pred	v		pred		
+tulil	jkpp	0030	=e	=3SG.F.PAT	=pro.h:p	=pro	h	p	3019	
+tulil	jkpp	0030	nə-bət	LOC-PROX2	dem_other:g	dem_other		g		
+tulil	jkpp	0031	#	#	##	##				
+tulil	jkpp	0031	0	0	0.1:s	0	1	s	3004	
+tulil	jkpp	0031	du-təbu	1PL.PST-practice_custom	v:pred	v		pred		
+tulil	jkpp	0032	#	#	##	##				
+tulil	jkpp	0032	bə=	ASP=	=other	=other				
+tulil	jkpp	0032	bərtəm	night	np:dt	np		dt		
+tulil	jkpp	0032	o	TOP	other	other				
+tulil	jkpp	0032	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0032	o	TOP	other	other				
+tulil	jkpp	0032	ve	also	other	other				
+tulil	jkpp	0032	iaor	afraid	other:pred	other		pred		
+tulil	jkpp	0032	ti	of	adp	adp				
+tulil	jkpp	0032	voin	ghost	np:obl	np		obl	3031	
+tulil	jkpp	0032	#	#	#	#				
+tulil	jkpp	0032	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0032	tove	because	other	other				
+tulil	jkpp	0032	ngə-tən	1PL.PST-think	v:pred	v		pred		
+tulil	jkpp	0032	#	#	#cc	#cc				
+tulil	jkpp	0032	ngan-e	1SG-QUOT	other	other				
+tulil	jkpp	0032	e-vi	3SG.F-PROX1	dem_pro:dt_s	dem_pro		dt_s	3019	
+tulil	jkpp	0032	o	TOP	other	other				
+tulil	jkpp	0032	bə	ASP	other	other				
+tulil	jkpp	0032	e-tə=	3SG.F=	=pro.h:s	=pro	h	s	3019	
+tulil	jkpp	0032	ba	in	adp	adp				
+tulil	jkpp	0032	məngəd	home	np:pred	np		pred		
+tulil	jkpp	0032	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0032	to	belong_to	rn	rn				
+tulil	jkpp	0032	voin	ghost	rn_np	rn_np			3031	
+tulil	jkpp	0032	#	#	#	#				
+tulil	jkpp	0032	0	0	0.h:a	0	h	a	3031	
+tulil	jkpp	0032	dava	PURP_again	other	other				
+tulil	jkpp	0032	ta-re	3PL.NPST-carry	v:pred	v		pred		
+tulil	jkpp	0032	ve	3SG.F.POSS	ln_pro.h:poss	ln_pro	h	poss	3019	
+tulil	jkpp	0032	idabi	spirit	np:p	np		p	3054	bridging
+tulil	jkpp	0032	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0032	nə-mumə	LOC-DOWN.FAR	dem_other	dem_other				
+tulil	jkpp	0032	tə=	to=	=adp	=adp				
+tulil	jkpp	0032	ba	in	adp	adp				
+tulil	jkpp	0032	Ravup	Ravup	pn_np:g	pn_np		g	3032	
+tulil	jkpp	0033	#	#	##	##				
+tulil	jkpp	0033	nə-bət	LOC-PROX2	dem_other:dt	dem_other		dt		
+tulil	jkpp	0033	ba	in	adp	adp				
+tulil	jkpp	0033	laləng	year	np:dt	np		dt		
+tulil	jkpp	0033	katum	all;finished	rn	rn				
+tulil	jkpp	0033	o	TOP	other	other				
+tulil	jkpp	0033	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3002	
+tulil	jkpp	0033	iaor	iaor	np:predex	np		predex	3038	
+tulil	jkpp	0034	#	#	##	##				
+tulil	jkpp	0034	io	then	other	other				
+tulil	jkpp	0034	mərek	good	other:pred	other		pred		
+tulil	jkpp	0034	konəng	only	other	other				
+tulil	jkpp	0034	#	#	##	##				
+tulil	jkpp	0034	0	0	0.h:a	0	h	a	3004	
+tulil	jkpp	0034	tə-mərov	3PL.PST-bury	v:pred	v		pred		
+tulil	jkpp	0034	=e	=3SG.F.PAT	=pro.h:p	=pro	h	p	3019	
+tulil	jkpp	0034	#	#	##	##				
+tulil	jkpp	0034	0	0	0.h:a	0	h	a	3004	
+tulil	jkpp	0034	təmərov	3PL.PST-bury	v:pred	v		pred		
+tulil	jkpp	0034	=e	=3SG.F.PAT	=pro.h:p	=pro	h	p	3019	
+tulil	jkpp	0034	#	#	##neg	##neg				
+tulil	jkpp	0034	ta-bət	3PL-PROX2	dem_pro:s	dem_pro		s	3004	
+tulil	jkpp	0034	kori	NEG	other	other				
+tulil	jkpp	0034	tə-t~tən	3PL.PST-RED~think	v:pred	v		pred		
+tulil	jkpp	0034	kup	thorough	rv	rv				
+tulil	jkpp	0034	#	#	##	##				
+tulil	jkpp	0034	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0034	ngang	1SG	pro.1:dt_a	pro	1	dt_a	3002	
+tulil	jkpp	0034	o	TOP	other	other				
+tulil	jkpp	0034	ve	again	other	other				
+tulil	jkpp	0034	ngə-mu	1SG.PST-put	v:pred	v		pred		
+tulil	jkpp	0034	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3002	
+tulil	jkpp	0034	ttən	think	vother:p	vother		p		
+tulil	jkpp	0034	be	at	adp	adp				
+tulil	jkpp	0034	voin	ghost	np:obl	np		obl	3031	
+tulil	jkpp	0035	#	#	##	##				
+tulil	jkpp	0035	io	then	other	other				
+tulil	jkpp	0035	vareot	long_time	other:predex	other		predex		
+tulil	jkpp	0035	vəvat	very	rv	rv				
+tulil	jkpp	0036	#	#	##	##				
+tulil	jkpp	0036	məte	like	other	other				
+tulil	jkpp	0036	bə=	ASP=	=other	=other				
+tulil	jkpp	0036	bavonbə	NEAR.PAST	np:dt	np		dt		
+tulil	jkpp	0036	konəng	only	other	other				
+tulil	jkpp	0036	be	at	adp	adp				
+tulil	jkpp	0036	laləng	year	np:dt	np		dt		
+tulil	jkpp	0036	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0036	a-p~mə	3SG.M-RED~DOWN	rn	rn				
+tulil	jkpp	0036	a-mumə	3SG.M-DOWN.FAR	rn	rn				
+tulil	jkpp	0036	məte	like	rn	rn				
+tulil	jkpp	0036	təgət	one	rn	rn				
+tulil	jkpp	0036	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0036	me	and	rn	rn				
+tulil	jkpp	0036	nereita	six.CL:MASC	rn	rn				
+tulil	jkpp	0036	ko	plus	rn	rn				
+tulil	jkpp	0036	mukəm_magərung	three.CL:MASC	rn	rn				
+tulil	jkpp	0036	me	and	rn	rn				
+tulil	jkpp	0036	libəti	five.CL:MASC	rn	rn				
+tulil	jkpp	0036	me	and	rn	rn				
+tulil	jkpp	0036	nereita	six.CL:MASC	rn	rn				
+tulil	jkpp	0036	ko	plus	rn	rn				
+tulil	jkpp	0036	mukəm	two.CL:MASC	rn	rn				
+tulil	jkpp	0036	laləng	year	rn_np	rn_np			3055	new
+tulil	jkpp	0036	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0036	a-bət	3SG.M-PROX2	rn	rn				
+tulil	jkpp	0036	ava	again	other	other				
+tulil	jkpp	0036	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3002	
+tulil	jkpp	0036	kəvov	nephew;niece	np.h:dt_poss	np	h	dt_poss	3056	new
+tulil	jkpp	0036	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0036	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	3056	
+tulil	jkpp	0036	itən	name	np:s	np		s	3057	bridging
+tulil	jkpp	0036	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0036	Tagong	Tagong	pn_np:pred	pn_np		pred		
+tulil	jkpp	0036	#	#	##neg	##neg				
+tulil	jkpp	0036	kori	NEG	other	other				
+tulil	jkpp	0036	go	NSPEC	ln	ln				
+tulil	jkpp	0036	Tagong	Tagong	pn_np.h:pred	pn_np	h	pred		
+tulil	jkpp	0036	a-mumə	3SG.M-DOWN.FAR	rn	rn				
+tulil	jkpp	0036	dərng	old	np.h:appos	np	h	appos	3056	
+tulil	jkpp	0036	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0036	Tagong	Tagong	pn_np.h:appos	pn_np	h	appos	3056	
+tulil	jkpp	0036	#	#	##	##				
+tulil	jkpp	0036	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3002	
+tulil	jkpp	0036	kəvov	dog	np.h:pred	np	h	pred	3056	
+tulil	jkpp	0036	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0036	#	#	#rc	#rc				
+tulil	jkpp	0036	0	0	0.h:s	0	h	s	3056	
+tulil	jkpp	0036	to	REL	other	other				
+tulil	jkpp	0036	b=	ASP=	=other	=other				
+tulil	jkpp	0036	at-e~mengəp	3SG.M.NPST-RED~sleep	v:pred	v		pred		
+tulil	jkpp	0036	ko	only	other	other				
+tulil	jkpp	0036	nə-p~bo	LOC-RED~UP	dem_other	dem_other				
+tulil	jkpp	0036	ba	in	adp	adp				
+tulil	jkpp	0036	Malobanga	Malobanga	pn_np:l	pn_np		l	3058	new
+tulil	jkpp	0037	#	#	##	##				
+tulil	jkpp	0037	udu	1PL	nc_pro.1	nc_pro	1		3004	
+tulil	jkpp	0037	lang	want	v:pred	v		pred		
+tulil	jkpp	0037	m	APPL	rv	rv				
+tulil	jkpp	0037	=udu	=1PL	=pro.1:s	=pro	1	s	3004	
+tulil	jkpp	0037	#	#	#	#				
+tulil	jkpp	0037	0	0	0.1:a	0	1	a	3004	
+tulil	jkpp	0037	da	PURP	other	other				
+tulil	jkpp	0037	d-ət	1PL.NPST-eat	v:pred	v		pred		
+tulil	jkpp	0037	=a	=PAT	=ln	=ln				
+tulil	jkpp	0037	bəli	pig	np:p	np		p	3059	new
+tulil	jkpp	0037	#	#	##	##				
+tulil	jkpp	0037	0	0	0.1:s	0	1	s	3004	
+tulil	jkpp	0037	io	then	other	other				
+tulil	jkpp	0037	du-p~pi	1PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0037	#	#	##	##				
+tulil	jkpp	0037	0	0	0.1:s	0	1	s	3004	
+tulil	jkpp	0037	du-mə=nəmumə	1PL.PST-from=LOC.DOWN.FAR	other:pred	other		pred		
+tulil	jkpp	0037	ba	in	adp	adp				
+tulil	jkpp	0037	tipur	bush	np:l	np		l	3060	new
+tulil	jkpp	0037	nə-bo	LOC-UP	dem_other	dem_other				
+tulil	jkpp	0037	#	#	##	##				
+tulil	jkpp	0037	0	0	0.h:a	0	h	a	3004	
+tulil	jkpp	0037	ta-t~tak	3PL.NPST-RED~call	v:pred	v		pred		
+tulil	jkpp	0037	be	at	rv	rv				
+tulil	jkpp	0037	tipur	bush	np:p	np		p	3060	
+tulil	jkpp	0037	u-bət	3N-PROX2	rn	rn				
+tulil	jkpp	0037	n	INSTR	adp	adp				
+tulil	jkpp	0037	=a	=PAT	=ln	=ln				
+tulil	jkpp	0037	Gəngənit	Gəngənit	pn_np:other	pn_np		other	3061	bridging
+tulil	jkpp	0037	me	and	rn	rn				
+tulil	jkpp	0037	Gaepka	Gaepka	rn_pn_np	rn_pn_np				
+tulil	jkpp	0037	me	and	rn	rn				
+tulil	jkpp	0037	Silivit	Silivit	rn_pn_np	rn_pn_np				
+tulil	jkpp	0037	#	#	##	##				
+tulil	jkpp	0037	io	then	other	other				
+tulil	jkpp	0037	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0037	avar	also	other	other				
+tulil	jkpp	0037	kəra	just_then	other	other				
+tulil	jkpp	0037	mamani	first	np:pred	np		pred		
+tulil	jkpp	0037	=von	=SG.CL:DIM	=rn	=rn				
+tulil	jkpp	0037	#	#	#cc	#cc				
+tulil	jkpp	0037	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0037	da	PURP	other	other				
+tulil	jkpp	0037	nga-nə	1SG-COM	adp	adp				
+tulil	jkpp	0037	=ta	=3PL	=pro.h:pred	=pro	h	pred	3062	bridging
+tulil	jkpp	0038	#	#	##	##				
+tulil	jkpp	0038	0	0	0.1:s	0	1	s	3004	
+tulil	jkpp	0038	io	then	other	other				
+tulil	jkpp	0038	du-p~pi	1PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0038	#	#	##	##				
+tulil	jkpp	0038	0	0	0.1:s	0	1	s	3004	
+tulil	jkpp	0038	du-ba	1PL-in	adp	adp				
+tulil	jkpp	0038	a-rot	ART-road	np:pred	np		pred		
+tulil	jkpp	0038	#	#	##	##				
+tulil	jkpp	0038	0	0	0.1:a	0	1	a	3004	
+tulil	jkpp	0038	io	then	other	other				
+tulil	jkpp	0038	du-vən	1PL.PST-hit	v:pred	v		pred		
+tulil	jkpp	0038	m	APPL	rv	rv				
+tulil	jkpp	0038	=a	=PAT	=ln	=ln				
+tulil	jkpp	0038	bəli	pig	np:p	np		p	3059	
+tulil	jkpp	0038	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0039	#	#	##	##				
+tulil	jkpp	0039	0	0	0.1:a	0	1	a	3004	
+tulil	jkpp	0039	me	and	other	other				
+tulil	jkpp	0039	doto	when;if	other	other				
+tulil	jkpp	0039	məte	like	other	other				
+tulil	jkpp	0039	bə	ASP	other	other				
+tulil	jkpp	0039	be	at	adp	adp				
+tulil	jkpp	0039	laləng	year	np:dt	np		dt	3063	new
+tulil	jkpp	0039	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0039	a-bət	3SG.M-PROX2	rn	rn				
+tulil	jkpp	0039	io	then	other	other				
+tulil	jkpp	0039	du-re	1PL.PST-carry	v:pred	v		pred		
+tulil	jkpp	0039	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	3064	bridging
+tulil	jkpp	0039	#	#	#neg	#neg				
+tulil	jkpp	0039	tove	because	other	other				
+tulil	jkpp	0039	ba	in	adp	adp				
+tulil	jkpp	0039	tipur	bush	np:dt	np		dt	3060	
+tulil	jkpp	0039	o	TOP	other	other				
+tulil	jkpp	0039	kori	NEG	other	other				
+tulil	jkpp	0039	go	NSPEC	ln	ln				
+tulil	jkpp	0039	mətmət	food	np:predex	np		predex		
+tulil	jkpp	0039	#	#	##	##				
+tulil	jkpp	0039	0	0	0.1:a	0	1	a	3004	
+tulil	jkpp	0039	avar	also	other	other				
+tulil	jkpp	0039	udu	1PL	nc_pro.1	nc_pro	1		3004	
+tulil	jkpp	0039	du-re	1PL.PST-carry	v:pred	v		pred		
+tulil	jkpp	0039	ləmat	coconut	np:p	np		p	3065	new
+tulil	jkpp	0039	#	#	##	##				
+tulil	jkpp	0039	0	0	0.1:a	0	1	a	3004	
+tulil	jkpp	0039	me	and	other	other				
+tulil	jkpp	0039	du-re	1PL.PST-carry	v:pred	v		pred		
+tulil	jkpp	0039	a-pərəgum	ART-wild_taro	np:p	np		p	3066	new
+tulil	jkpp	0039	me	and	rn	rn				
+tulil	jkpp	0039	ləvək	banana	rn_np	rn_np			3067	new
+tulil	jkpp	0039	#	#	##	##				
+tulil	jkpp	0039	0	0	0.1:s	0	1	s	3004	
+tulil	jkpp	0039	du-p~pi	1PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0039	du-n	1PL-COM	adp	adp				
+tulil	jkpp	0039	=a	=PAT	=ln	=ln				
+tulil	jkpp	0039	avar	also	ln	ln				
+tulil	jkpp	0039	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3004	
+tulil	jkpp	0039	kəvop	dog	np.h:obl	np	h	obl	3068	new
+tulil	jkpp	0039	təgət	one	rn	rn				
+tulil	jkpp	0039	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0039	#	#	#	#				
+tulil	jkpp	0039	va	3SG.M.POSS	ln_pro.h:poss	ln_pro	h	poss	3068	
+tulil	jkpp	0039	itən	name	np:s	np		s	3069	bridging
+tulil	jkpp	0039	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0039	to-Kabang	ART.M-Kabang	pn_np:pred	pn_np		pred		
+tulil	jkpp	0039	#	#	##	##				
+tulil	jkpp	0039	a-vi	3SG.M-PROX1	dem_pro:a	dem_pro		a	3068	
+tulil	jkpp	0039	a-tuk	3SG.M.NPST-give	v:pred	v		pred		
+tulil	jkpp	0039	=a	=PAT	=ln	=ln				
+tulil	jkpp	0039	kəvop	dog	np:p	np		p	3070	new
+tulil	jkpp	0040	#	#	##	##				
+tulil	jkpp	0040	0	0	0.h:s	0	h	s	3071	bridging
+tulil	jkpp	0040	io	then	other	other				
+tulil	jkpp	0040	ngun	1DL	pro.1:dt_s	pro	1	dt_s	3071	
+tulil	jkpp	0040	nga-n	1SG-COM	adp	adp				
+tulil	jkpp	0040	=a	=PAT	=ln	=ln				
+tulil	jkpp	0040	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3002	
+tulil	jkpp	0040	kəvova	kəvova	np.h:obl	np	h	obl	3068	
+tulil	jkpp	0040	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0040	a-vi	3SG.M-PROX1	rn	rn				
+tulil	jkpp	0040	ngun	1DL	pro.1:appos	pro	1	appos	3071	
+tulil	jkpp	0040	o	TOP	other	other				
+tulil	jkpp	0040	ngunu-p~pi	1DL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0040	konəng	only	other	other				
+tulil	jkpp	0040	#	#	##	##				
+tulil	jkpp	0040	me	and	other	other				
+tulil	jkpp	0040	iap	3SG.M	pro.h:s	pro	h	s	3068	
+tulil	jkpp	0040	#	#	#rc	#rc				
+tulil	jkpp	0040	to	REL	other	other				
+tulil	jkpp	0040	məte	like	other	other				
+tulil	jkpp	0040	təda	for	adp	adp				
+tulil	jkpp	0040	manəng	run	vother:pred	vother		pred		
+tulil	jkpp	0040	=a	=PAT	=ln	=ln				
+tulil	jkpp	0040	bəli	pig	np:p	np		p	3059	
+tulil	jkpp	0040	%	%	%	%				
+tulil	jkpp	0040	o	TOP	other	other				
+tulil	jkpp	0040	to-Kabang	ART.M-Kabang	pn_np.h:pred	pn_np	h	pred	3068	
+tulil	jkpp	0041	#	#	##	##				
+tulil	jkpp	0041	lət	arrive	v:pred	v		pred		
+tulil	jkpp	0041	n	APPL	rv	rv				
+tulil	jkpp	0041	=udu	=1PL	=pro.1:s	=pro	1	s	3071	
+tulil	jkpp	0041	nə-bo	LOC-UP	dem_other:g	dem_other		g		
+tulil	jkpp	0041	#	#	##	##				
+tulil	jkpp	0041	0	0	0.1:s	0	1	s	3071	
+tulil	jkpp	0041	du-mengəp	1PL.PST-sleep	v:pred	v		pred		
+tulil	jkpp	0041	#	#	##	##				
+tulil	jkpp	0041	0	0	0.1:a	0	1	a	3071	
+tulil	jkpp	0041	du-kəbənət	1PL.PST-make	v:pred	v		pred		
+tulil	jkpp	0041	=a	=PAT	=ln	=ln				
+tulil	jkpp	0041	kəlak	house	np:p	np		p	3072	new
+tulil	jkpp	0041	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0041	n	INSTR	adp	adp				
+tulil	jkpp	0041	=a	=PAT	=ln	=ln				
+tulil	jkpp	0041	mərəm	flower	np:obl	np		obl	3073	new
+tulil	jkpp	0041	#	#	##	##				
+tulil	jkpp	0041	0	0	0.1:s	0	1	s	3071	
+tulil	jkpp	0041	du-mengəp	1PL.PST-sleep	v:pred	v		pred		
+tulil	jkpp	0042	#	#	##	##				
+tulil	jkpp	0042	#	#	#	#				
+tulil	jkpp	0042	lət	arrive	v:pred	v		pred		
+tulil	jkpp	0042	n	APPL	rv	rv				
+tulil	jkpp	0042	=udu	=1PL	=pro.1:s	=pro	1	s	3071	
+tulil	jkpp	0042	%	%	%	%				
+tulil	jkpp	0042	o	TOP	other	other				
+tulil	jkpp	0042	0	0	0.1:a	0	1	a	3071	
+tulil	jkpp	0042	du-vən	1PL.PST-hit	v:pred	v		pred		
+tulil	jkpp	0042	təvi	along	rv	rv				
+tulil	jkpp	0042	n	APPL	rv	rv				
+tulil	jkpp	0042	=a	=PAT	=ln	=ln				
+tulil	jkpp	0042	bəli	pig	np:p	np		p	3064	
+tulil	jkpp	0042	bəli	pig	np:appos	np		appos	3064	
+tulil	jkpp	0042	vaku	woman	rn	rn				
+tulil	jkpp	0042	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0043	#	#	##	##				
+tulil	jkpp	0043	0	0	0.1:s	0	1	s	3071	
+tulil	jkpp	0043	təkə=	to=	=adp	=adp				
+tulil	jkpp	0043	nə-bo	LOC-UP	dem_other:dt	dem_other		dt		
+tulil	jkpp	0043	məna	first	other	other				
+tulil	jkpp	0043	du-tət	1PL.PST-cut	v:pred	v		pred		
+tulil	jkpp	0043	=e	=3SG.F.PAT	=pro.h:p	=pro	h	p	3064	
+tulil	jkpp	0043	#	#	#	#				
+tulil	jkpp	0043	0	0	0.1:a	0	1	a	3071	
+tulil	jkpp	0043	du-vəraie	1PL.PST-mumu	v:pred	v		pred		
+tulil	jkpp	0043	=e	=3SG.F.PAT	=pro.h:p	=pro	h	p	3064	
+tulil	jkpp	0043	ar	still	other	other				
+tulil	jkpp	0043	nə-bət	LOC-PROX2	dem_other	dem_other				
+tulil	jkpp	0043	ko	only	other	other				
+tulil	jkpp	0043	be	at	adp	adp				
+tulil	jkpp	0043	vəti	day	np:other	np		other	3074	bridging
+tulil	jkpp	0043	=von	=SG.CL:DIM	=rn	=rn				
+tulil	jkpp	0043	non-bət	3SG.DIM-PROX2	nc	nc				
+tulil	jkpp	0044	mərek	good	nc	nc				
+tulil	jkpp	0045	#	#	##	##				
+tulil	jkpp	0045	mənibərui	morning	np:dt	np		dt	3075	bridging
+tulil	jkpp	0045	a-vi	3SG.M-PROX1	dem_pro.h:a	dem_pro	h	a		
+tulil	jkpp	0045	to-Kabang	ART.M-Kabang	pn_np.h:appos	pn_np	h	appos	3068	
+tulil	jkpp	0045	bə=	ASP=	=other	=other				
+tulil	jkpp	0045	və-tuk	3SG.M.PST-give	v:pred	v		pred		
+tulil	jkpp	0045	mat	get	rv	rv				
+tulil	jkpp	0045	=a	=PAT	=ln	=ln				
+tulil	jkpp	0045	kəvop	dog	np:p	np		p	3070	
+tulil	jkpp	0045	#	#	##	##				
+tulil	jkpp	0045	0	0	0.1:s	0	1	s	3071	
+tulil	jkpp	0045	me	and	other	other				
+tulil	jkpp	0045	udu	1PL	pro.1:dt_s	pro	1	dt_s	3071	
+tulil	jkpp	0045	o	TOP	other	other				
+tulil	jkpp	0045	bə=	ASP=	=other	=other				
+tulil	jkpp	0045	du-mətor	1PL.PST-sit	v:pred	v		pred		
+tulil	jkpp	0045	ba	in	adp	adp				
+tulil	jkpp	0045	məngəd	village	np:l	np		l	3072	
+tulil	jkpp	0045	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0045	ba	in	rn	rn				
+tulil	jkpp	0045	tipur	bush	rn_np	rn_np			3060	
+tulil	jkpp	0045	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0045	e-bət	3SG.F-PROX2	rn	rn				
+tulil	jkpp	0045	#	#	#	#				
+tulil	jkpp	0045	0	0	0.1:a	0	1	a	3071	
+tulil	jkpp	0045	to	REL	other	other				
+tulil	jkpp	0045	du-kəbənət	1PL.PST-make	v:pred	v		pred		
+tulil	jkpp	0045	=a	=PAT	=ln	=ln				
+tulil	jkpp	0045	du	1PL.POSS	ln_pro.1:poss	ln_pro	1	poss	3071	
+tulil	jkpp	0045	kəlak	house	np:p	np		p	3072	
+tulil	jkpp	0045	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0045	#	#	#	#				
+tulil	jkpp	0045	0	0	0.1:s	0	1	s	3071	
+tulil	jkpp	0045	da	PURP	other	other				
+tulil	jkpp	0045	də-tor	1PL.NPST-sit	v:pred	v		pred		
+tulil	jkpp	0045	#	#	#	#				
+tulil	jkpp	0045	0	0	0.1:a	0	1	a	3071	
+tulil	jkpp	0045	me	and	other	other				
+tulil	jkpp	0045	də-tel	1PL.NPST-search	v:pred	v		pred		
+tulil	jkpp	0045	=a	=PAT	=ln	=ln				
+tulil	jkpp	0045	vətə	meat	np:p	np		p	3076	bridging
+tulil	jkpp	0045	io	then	other	other				
+tulil	jkpp	0045	təkə=	to=	=adp	=adp				
+tulil	jkpp	0045	nə-bət	LOC-PROX2	dem_other:l	dem_other		l	3072	
+tulil	jkpp	0046	#	#	##	##				
+tulil	jkpp	0046	0	0	0.h:a	0	h	a	3068	
+tulil	jkpp	0046	iap	3SG.M	pro.h:dt_a	pro	h	dt_a	3068	
+tulil	jkpp	0046	o	TOP	other	other				
+tulil	jkpp	0046	və-kər	3SG.M.PST-raise	v:pred	v		pred		
+tulil	jkpp	0046	tang	REFL	pro.h:p	pro	h	p	3068	
+tulil	jkpp	0046	mənibərui	morning	other	other				
+tulil	jkpp	0046	#	#	##	##				
+tulil	jkpp	0046	0	0	0.h:a_ds	0	h	a_ds	3068	
+tulil	jkpp	0046	io	then	other	other				
+tulil	jkpp	0046	v-əngar	3SG.M.PST-say	v:pred	v		pred		
+tulil	jkpp	0046	tuk	give	rv	rv				
+tulil	jkpp	0046	ngang	1SG	pro.1:p	pro	1	p	3002	
+tulil	jkpp	0046	at-e	3SG.M-QUOT	other	other				
+tulil	jkpp	0046	#	#	##ds	##ds				
+tulil	jkpp	0046	nə-bo	LOC-UP	dem_other:dt	dem_other		dt		
+tulil	jkpp	0046	ba	in	adp	adp				
+tulil	jkpp	0046	məngəd	home	np:dt	np		dt	3077	new
+tulil	jkpp	0046	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0046	a-bo	3SG.M-UP	rn	rn				
+tulil	jkpp	0046	Gaepka	Gaepka	rn_pn_np	rn_pn_np				
+tulil	jkpp	0046	a-to	3SG.M-belong_to	rn	rn				
+tulil	jkpp	0046	Mərubət	Baining	rn_pn_np	rn_pn_np			3078	new
+tulil	jkpp	0046	ləmat	coconut	np:s	np		s	3079	new
+tulil	jkpp	0046	mukəm	two.CL:MASC	rn	rn				
+tulil	jkpp	0046	ip-bo	3DL.M-UP	dem_pro:pred_l	dem_pro		pred_l		
+tulil	jkpp	0047	#	#	##	##				
+tulil	jkpp	0047	0	0	0.h:a_ds	0	h	a_ds	3068	
+tulil	jkpp	0047	me	and	other	other				
+tulil	jkpp	0047	v-ukin	3SG.M.PST-	v:pred	v		pred		
+tulil	jkpp	0047	mat	get	rv	rv				
+tulil	jkpp	0047	ngang	1SG	pro.1:p	pro	1	p	3002	
+tulil	jkpp	0047	at-e	3SG.M-QUOT	other	other				
+tulil	jkpp	0047	#	#	##ds	##ds				
+tulil	jkpp	0047	0	0	0.2:s	0	2	s	3002	
+tulil	jkpp	0047	ngi-vəde	1SG-this_way	other:pred	other		pred		
+tulil	jkpp	0047	#	#	#	#				
+tulil	jkpp	0047	0	0	0.2:a	0	2	a	3002	
+tulil	jkpp	0047	da	PURP	other	other				
+tulil	jkpp	0047	ngi-tulai	1SG.NPST-send_someone	v:pred	v		pred		
+tulil	jkpp	0047	udu	1PL	pro.1:p	pro	1	p	3071	
+tulil	jkpp	0047	nə-bo	LOC-UP	dem_other:g	dem_other		g		
+tulil	jkpp	0047	#	#	#	#				
+tulil	jkpp	0047	0	0	0.1:a	0	1	a	3071	
+tulil	jkpp	0047	me	and	other	other				
+tulil	jkpp	0047	də-ton	1PL.NPST-look	v:pred	v		pred		
+tulil	jkpp	0047	da	on	rv	rv				
+tulil	jkpp	0047	go	NSPEC	ln	ln				
+tulil	jkpp	0047	ləmat	coconut	np:p	np		p	3080	bridging
+tulil	jkpp	0047	nə-bo	LOC-UP	dem_other:l	dem_other		l	3077	
+tulil	jkpp	0047	#	#	#	#				
+tulil	jkpp	0047	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0047	io	then	other	other				
+tulil	jkpp	0047	ngi-re	1SG.NPST-carry	v:pred	v		pred		
+tulil	jkpp	0047	gət	NSPEC	pro.h:p	pro	h	p	3081	bridging
+tulil	jkpp	0047	=ip	=3DL.M	=rn	=rn				
+tulil	jkpp	0047	nu-vəde	LOC-this_way	dem_other:g	dem_other		g	3072	
+tulil	jkpp	0047	da	PURP	rn	rn				
+tulil	jkpp	0047	təkə=	to=	=rn	=rn				
+tulil	jkpp	0047	do	here	rn	rn				
+tulil	jkpp	0047	ba	in	rn	rn				
+tulil	jkpp	0047	məngədə	home	rn_np	rn_np				
+tulil	jkpp	0047	ləm	new	rn	rn				
+tulil	jkpp	0047	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0047	a-vi	3SG.M-PROX1	rn	rn				
+tulil	jkpp	0047	#	#	#rc	#rc				
+tulil	jkpp	0047	0	0	0.1:a	0	1	a	3071	
+tulil	jkpp	0047	to	REL	other	other				
+tulil	jkpp	0047	du-kəbənəta	1PL.PST-make	v:pred	v		pred		
+tulil	jkpp	0047	=a	=3SG.M.PAT	=pro:p	=pro		p	3072	
+tulil	jkpp	0048	#	#	##	##				
+tulil	jkpp	0048	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0048	du-mənan	1PL.PST-listen	v:pred	v		pred		
+tulil	jkpp	0048	#	#	##	##				
+tulil	jkpp	0048	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0048	ngə-tulai	1SG.PST-send_someone	v:pred	v		pred		
+tulil	jkpp	0048	ta	1PL?	pro.h:p	pro	h	p	3082	bridging
+tulil	jkpp	0048	#	#	#	#				
+tulil	jkpp	0048	0	0	0.1:a	0	1	a	3071	
+tulil	jkpp	0048	ava	again	other	other				
+tulil	jkpp	0048	du-tər	1PL.PST-meet	v:pred	v		pred		
+tulil	jkpp	0048	ko	only	rv	rv				
+tulil	jkpp	0048	n	APPL	rv	rv				
+tulil	jkpp	0048	=a	=PAT	=ln	=ln				
+tulil	jkpp	0048	bəli	pig	np:p	np		p	3083	new
+tulil	jkpp	0048	laik	big	rn	rn				
+tulil	jkpp	0048	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0048	ar	still	other	other				
+tulil	jkpp	0048	mənibərui	morning	other	other				
+tulil	jkpp	0048	#	#	##	##				
+tulil	jkpp	0048	0	0	0.h:a	0	h	a	3068	
+tulil	jkpp	0048	v-anəng	3SG.M.PST-chase	v:pred	v		pred		
+tulil	jkpp	0048	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	3083	
+tulil	jkpp	0048	a-n	3SG.M-COM	adp	adp				
+tulil	jkpp	0048	=a	=PAT	=ln	=ln				
+tulil	jkpp	0048	kəvop	dog	np:obl	np		obl	3070	
+tulil	jkpp	0048	#	#	##	##				
+tulil	jkpp	0048	kəvop	dog	np:a	np		a	3070	
+tulil	jkpp	0048	b=	ASP=	=other	=other				
+tulil	jkpp	0048	idə-mat	3N.PST-get	v:pred	v		pred		
+tulil	jkpp	0048	=a	=3SG.M.PAT	=pro:p	=pro		p	3083	
+tulil	jkpp	0048	#	#	##	##				
+tulil	jkpp	0048	0	0	0.h:s	0	h	s	3083	
+tulil	jkpp	0048	io	then	other	other				
+tulil	jkpp	0048	v-erən	3SG.M.PST-run	v:pred	v		pred		
+tulil	jkpp	0048	nandi	like_this	other	other				
+tulil	jkpp	0048	nə-mumə	LOC-DOWN.FAR	dem_other	dem_other				
+tulil	jkpp	0048	tə=	to=	=adp	=adp				
+tulil	jkpp	0048	bəro	at_creek	np:g	np		g	3084	new
+tulil	jkpp	0049	#	#	##	##				
+tulil	jkpp	0049	0	0	0.1:a	0	1	a	3071	
+tulil	jkpp	0049	du-vən	1PL.PST-hit	v:pred	v		pred		
+tulil	jkpp	0049	m	APPL	rv	rv				
+tulil	jkpp	0049	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	3083	
+tulil	jkpp	0049	#	#	##	##				
+tulil	jkpp	0049	0	0	0.1:a	0	1	a	3071	
+tulil	jkpp	0049	du-tət	1PL.PST-cut	v:pred	v		pred		
+tulil	jkpp	0049	ləm	new;fresh	rv	rv				
+tulil	jkpp	0049	n	APPL	rv	rv				
+tulil	jkpp	0049	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	3083	
+tulil	jkpp	0049	#	#	##	##				
+tulil	jkpp	0049	0	0	0.1:a	0	1	a	3071	
+tulil	jkpp	0049	tə-m~man	3PL.PST-RED~remove	v:pred	v		pred		
+tulil	jkpp	0049	=a	=PAT	=ln	=ln				
+tulil	jkpp	0049	iduti	intestine	np:p	np		p	3085	bridging
+tulil	jkpp	0049	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0049	#	#	##	##				
+tulil	jkpp	0049	0	0	0.1:a	0	1	a	3071	
+tulil	jkpp	0049	me	and	other	other				
+tulil	jkpp	0049	kəbərk	blood	np:dt_p	np		dt_p	3086	bridging
+tulil	jkpp	0049	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0049	o	TOP	other	other				
+tulil	jkpp	0049	du-vun	1PL.PST-throw	v:pred	v		pred		
+tulil	jkpp	0049	=e	=3SG.F.PAT	=pro:p	=pro		p	3086	
+tulil	jkpp	0049	#	#	##	##				
+tulil	jkpp	0049	0	0	0.h:a	0	h	a	3068	
+tulil	jkpp	0049	me	and	other	other				
+tulil	jkpp	0049	iduti	intestine	np:dt_p	np		dt_p	3085	
+tulil	jkpp	0049	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0049	o	TOP	other	other				
+tulil	jkpp	0049	tə-kəbənəta	3PL.PST-clean	v:pred	v		pred		
+tulil	jkpp	0049	=a	=3SG.M.PAT	=pro:p	=pro		p	3085	
+tulil	jkpp	0049	#	#	##	##				
+tulil	jkpp	0049	0	0	0.h:a	0	h	a	3068	
+tulil	jkpp	0049	ava	again	other	other				
+tulil	jkpp	0049	tə-tukir	3PL.PST-stick_in	v:pred	v		pred		
+tulil	jkpp	0049	n	INSTR	rv	rv				
+tulil	jkpp	0049	=a	=3SG.M.PAT	=pro:p	=pro		p	3085	
+tulil	jkpp	0049	nə-mu	LOC-IN	dem_other:g	dem_other		g		
+tulil	jkpp	0049	#	#	##	##				
+tulil	jkpp	0049	0	0	0.h:a	0	h	a	3068	
+tulil	jkpp	0049	0	0	0:p	0		p		
+tulil	jkpp	0049	tə-tingit	3PL.PST-sew	v:pred	v		pred		
+tulil	jkpp	0049	n	INSTR	adp	adp				
+tulil	jkpp	0049	=a	=PAT	=ln	=ln				
+tulil	jkpp	0049	kəbit	rope	np:obl	np		obl	3087	new
+tulil	jkpp	0049	lok	big	rn	rn				
+tulil	jkpp	0049	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0050	#	#	##	##				
+tulil	jkpp	0050	0	0	0.1:s	0	1	s	3071	
+tulil	jkpp	0050	io	then	other	other				
+tulil	jkpp	0050	ngunu-matər	1DL.PST-stand	v:pred	v		pred		
+tulil	jkpp	0050	nandi	like_this	other	other				
+tulil	jkpp	0050	#	#	##	##				
+tulil	jkpp	0050	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3002	
+tulil	jkpp	0050	kəvov	dog/nephew?	np:s_ds	np		s_ds	3068	
+tulil	jkpp	0050	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0050	v-əngar	3SG.M.PST-say	v:pred	v		pred		
+tulil	jkpp	0050	at-e	3SG.M-QUOT	other	other				
+tulil	jkpp	0050	#	#	##ds	##ds				
+tulil	jkpp	0050	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3068	
+tulil	jkpp	0050	laik	big	np:voc	np		voc	3002	
+tulil	jkpp	0050	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0050	#	#	#cc:s	#cc		s		
+tulil	jkpp	0050	0	0	0.2:a	0	2	a	3002	
+tulil	jkpp	0050	b=	ASP=	=other	=other				
+tulil	jkpp	0050	inə-mənan	2PL.PST-hear	v:pred	v		pred		
+tulil	jkpp	0050	=a	=PAT	=ln	=ln				
+tulil	jkpp	0050	bokbok	talk	np:p	np		p	3088	new
+tulil	jkpp	0050	u-və	3N-NSPEC	rn	rn				
+tulil	jkpp	0050	mən=	from=	=rn	=rn				
+tulil	jkpp	0050	bəvon	from/before?	rn	rn				
+tulil	jkpp	0050	#	#	#rc	#rc				
+tulil	jkpp	0050	0	0	0:p2	0		p2	3088	
+tulil	jkpp	0050	to	REL	other	other				
+tulil	jkpp	0050	laik	big	np.h:a	np	h	a	3089	new
+tulil	jkpp	0050	=ta	=ta	=rn	=rn				
+tulil	jkpp	0050	tə-bokbok	3PL.PST-talk	v:pred	v		pred		
+tulil	jkpp	0050	tuk	give	rv	rv				
+tulil	jkpp	0050	udu	1PL	pro.1:p	pro	1	p	3071	
+tulil	jkpp	0050	be	at	adp	adp				
+tulil	jkpp	0050	Ravup	Ravup	pn_np:obl	pn_np		obl	3032	
+tulil	jkpp	0050	%	%	%	%				
+tulil	jkpp	0050	o	TOP	other	other				
+tulil	jkpp	0050	kəra	just	other	other				
+tulil	jkpp	0050	a-vi	3SG.M-PROX1	dem_pro:pred	dem_pro		pred		
+tulil	jkpp	0051	#	#	##	##				
+tulil	jkpp	0051	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0051	ngə-matər	1SG.PST-stand	v:pred	v		pred		
+tulil	jkpp	0051	#	#	##	##				
+tulil	jkpp	0051	0	0	0.1:a	0	1	a	3071	
+tulil	jkpp	0051	bə	ASP	other	other				
+tulil	jkpp	0051	ngunu-təmuləna	1DL.PST-join	v:pred	v		pred		
+tulil	jkpp	0051	=a	=PAT	=ln	=ln				
+tulil	jkpp	0051	bokbok	talk	np:p	np		p	3088	
+tulil	jkpp	0051	bə=	ASP=	=rn	=rn				
+tulil	jkpp	0051	be	at	rn	rn				
+tulil	jkpp	0051	vəti	3N.DIM	rn	rn				
+tulil	jkpp	0051	#	#	#	#				
+tulil	jkpp	0051	0	0	0.1:a	0	1	a	3071	
+tulil	jkpp	0051	tove	because	other	other				
+tulil	jkpp	0051	mən=	from=	=other	=other				
+tulil	jkpp	0051	bəvon	before	other	other				
+tulil	jkpp	0051	du-mənamənana	1PL.PST-RED~hear	v:pred	v		pred		
+tulil	jkpp	0051	=a	=PAT	=ln	=ln				
+tulil	jkpp	0051	u-vi	3N-PROX1	dem_pro:p	dem_pro		p	3088	
+tulil	jkpp	0051	#	#	#rc	#rc				
+tulil	jkpp	0051	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0051	0	0	0:p	0		p	3088	
+tulil	jkpp	0051	to	REL	other	other				
+tulil	jkpp	0051	bə=	ASP=	=other	=other				
+tulil	jkpp	0051	ngə-məngar	1SG.PST-say	v:pred	v		pred		
+tulil	jkpp	0051	bem	at	other	other				
+tulil	jkpp	0052	#	#	##	##				
+tulil	jkpp	0052	io	then	other	other				
+tulil	jkpp	0052	ngang	1SG	pro.1:dt_poss	pro	1	dt_poss	3002	
+tulil	jkpp	0052	pək	bright	np:pred	np		pred		
+tulil	jkpp	0052	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0052	da	on	adp	adp				
+tulil	jkpp	0052	ng(ə)=	1SG.POSS=	=ln_pro.1:poss	=ln_pro	1	poss	3002	
+tulil	jkpp	0052	umi	eye	np:obl	np		obl	3090	bridging
+tulil	jkpp	0052	#	#	##	##				
+tulil	jkpp	0052	0	0	0.1:s_ds	0	1	s_ds	3002	
+tulil	jkpp	0052	me	and	other	other				
+tulil	jkpp	0052	mə(n)=	from=	=adp	=adp				
+tulil	jkpp	0052	nə-mumə	LOC-DOWN.FAR	dem_other:l	dem_other		l		
+tulil	jkpp	0052	ngə-məngar	1SG.PST-say	v:pred	v		pred		
+tulil	jkpp	0052	ngan-e	1SG-QUOT	other	other				
+tulil	jkpp	0052	#	#	##ds	##ds				
+tulil	jkpp	0052	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0052	o	TOP	other	other				
+tulil	jkpp	0052	iaor	afraid	other:pred	other		pred		
+tulil	jkpp	0052	#	#	#ds	#ds				
+tulil	jkpp	0052	o	TOP	other	other				
+tulil	jkpp	0052	do	here;now	other	other				
+tulil	jkpp	0052	bə=	ASP=	=other	=other				
+tulil	jkpp	0052	pək	bright	np:pred	np		pred		
+tulil	jkpp	0052	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0052	da	on	adp	adp				
+tulil	jkpp	0052	ng(ə)=	1SG.POSS=	=ln_pro.1:poss	=ln_pro	1	poss	3002	
+tulil	jkpp	0052	mi	eye	np:obl	np		obl	3090	
+tulil	jkpp	0052	ngan-e	1SG-QUOT	other	other				
+tulil	jkpp	0052	#	#	##ds	##ds				
+tulil	jkpp	0052	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0052	o	TOP	other	other				
+tulil	jkpp	0052	ar	still	other	other				
+tulil	jkpp	0052	ngə-ton	1SG.PST-look	v:pred	v		pred		
+tulil	jkpp	0052	#	#	#	#				
+tulil	jkpp	0052	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0052	me	and	other	other				
+tulil	jkpp	0052	ngə-matər	1SG.PST-stand	v:pred	v		pred		
+tulil	jkpp	0052	bərənm	over	adp	adp				
+tulil	jkpp	0052	=a	=PAT	=ln	=ln				
+tulil	jkpp	0052	ioi	water	np:l	np		l	3032	
+tulil	jkpp	0052	=vəp	=vəp	=rn	=rn				
+tulil	jkpp	0052	#	#	#neg	#neg				
+tulil	jkpp	0052	ko	NEG	other	other				
+tulil	jkpp	0052	go	NSPEC	ln	ln				
+tulil	jkpp	0052	kabar	long	other:predex	other		predex		
+tulil	jkpp	0052	məte	like	other	other				
+tulil	jkpp	0052	nə-mu	LOC-IN	other	other				
+tulil	jkpp	0052	konəng	only	other	other				
+tulil	jkpp	0052	#	#	#	#				
+tulil	jkpp	0052	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0052	to	SUB	other	other				
+tulil	jkpp	0052	kəlak	house	np:dt	np		dt	3032	
+tulil	jkpp	0052	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0052	nə-mu	LOC-IN	rn	rn				
+tulil	jkpp	0052	be	at	rn	rn				
+tulil	jkpp	0052	tə-mulən	3PL.PST-join	v:pred	v		pred		
+tulil	jkpp	0052	ioi	water	np:p	np		p	3032	
+tulil	jkpp	0052	kon	only	rn	rn				
+tulil	jkpp	0052	bəp	bəp	rn	rn				
+tulil	jkpp	0052	navodi	like_this	other	other				
+tulil	jkpp	0053	#	#	##	##				
+tulil	jkpp	0053	0	0	0.1:s_ds	0	1	s_ds	3002	
+tulil	jkpp	0053	ngan-e	1SG-QUOT	other:pred	other		pred		
+tulil	jkpp	0053	#	#	##ds	##ds				
+tulil	jkpp	0053	o	INTERJ	other	other				
+tulil	jkpp	0053	laik	big	np.h:s	np	h	s	3089	
+tulil	jkpp	0053	=ta	=ta	=rn	=rn				
+tulil	jkpp	0053	o	TOP	other	other				
+tulil	jkpp	0053	təpm	with	adp	adp				
+tulil	jkpp	0053	=a	=PAT	=ln	=ln				
+tulil	jkpp	0053	kəmak	lie	np:pred	np		pred		
+tulil	jkpp	0054	#	#	##	##				
+tulil	jkpp	0054	do	here;now	other:s	other		s		
+tulil	jkpp	0054	o	TOP	other	other				
+tulil	jkpp	0054	venang	something	np:pred	np		pred		
+tulil	jkpp	0054	#	#	#rc	#rc				
+tulil	jkpp	0054	0	0	0.h:s	0	h	s	3089	
+tulil	jkpp	0054	to	REL	other	other				
+tulil	jkpp	0054	bəvon	before	other	other				
+tulil	jkpp	0054	o	TOP	other	other				
+tulil	jkpp	0054	tat-e	3PL-QUOT	v:pred	v		pred		
+tulil	jkpp	0054	#	#	#cc	#cc				
+tulil	jkpp	0054	voin	ghost	np:a	np		a	3031	
+tulil	jkpp	0054	it-at	3N.NPST-get	v:pred	v		pred		
+tulil	jkpp	0054	=a	=PAT	=ln	=ln				
+tulil	jkpp	0054	molimoli	people	np.h:p	np	h	p	3036	
+tulil	jkpp	0054	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0054	#	#	#	#				
+tulil	jkpp	0054	0	0	0.h:s	0	h	s	3036	
+tulil	jkpp	0054	io	then	other	other				
+tulil	jkpp	0054	at-anəng	3SG.M.NPST-run	v:pred	v		pred		
+tulil	jkpp	0054	navodi	like_this	other	other				
+tulil	jkpp	0054	o	TOP	other	other				
+tulil	jkpp	0054	təkə=	to=	=adp	=adp				
+tulil	jkpp	0054	nə-mu	LOC-IN	dem_other:g	dem_other		g	3032	
+tulil	jkpp	0054	me	and	rn	rn				
+tulil	jkpp	0054	tor	wood	rn_np	rn_np				
+tulil	jkpp	0054	me	and	rn	rn				
+tulil	jkpp	0054	ve	ve	rn	rn				
+tulil	jkpp	0054	kənakənaru	hibiscus_flower	rn_np	rn_np				
+tulil	jkpp	0054	me	and	rn	rn				
+tulil	jkpp	0054	gu	which	rn	rn				
+tulil	jkpp	0054	venang	something	rn	rn				
+tulil	jkpp	0054	kup	all	rn	rn				
+tulil	jkpp	0054	nə-bət	LOC-PROX2	rn	rn				
+tulil	jkpp	0055	#	#	##	##				
+tulil	jkpp	0055	io	then	other	other				
+tulil	jkpp	0055	pət	pət	v:pred	v		pred		
+tulil	jkpp	0055	mən(ə)	off	other	other				
+tulil	jkpp	0055	=a	=PAT	=ln	=ln				
+tulil	jkpp	0055	bitəmut	believe	np:s_sv	np		s_sv	3091	bridging
+tulil	jkpp	0055	mərot	old	rn	rn				
+tulil	jkpp	0056	#	#	##	##				
+tulil	jkpp	0056	0	0	0.1:s	0	1	s	3071	
+tulil	jkpp	0056	io	then	other	other				
+tulil	jkpp	0056	du-liu	1PL.PST-return	v:pred	v		pred		
+tulil	jkpp	0056	#	#	#	#				
+tulil	jkpp	0056	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0056	me	and	other	other				
+tulil	jkpp	0056	bə=	ASP=	=other	=other				
+tulil	jkpp	0056	ngə-bokbok	1SG.PST-talk	v:pred	v		pred		
+tulil	jkpp	0056	nandi	like_this	other	other				
+tulil	jkpp	0056	#	#	##	##				
+tulil	jkpp	0056	0	0	0.h:s	0	h	s	3019	
+tulil	jkpp	0056	me	and	other	other				
+tulil	jkpp	0056	nan	mom	np:dt_s	np		dt_s	3019	
+tulil	jkpp	0056	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0056	e-mu	3SG.F-IN	rn	rn				
+tulil	jkpp	0056	muitəm	two.CL:FEM	rn	rn				
+tulil	jkpp	0056	n	APPL	rn	rn				
+tulil	jkpp	0056	=e	=3SG.F.PAT	=rn	=rn				
+tulil	jkpp	0056	o	TOP	other	other				
+tulil	jkpp	0056	b=	ASP=	=other	=other				
+tulil	jkpp	0056	i-ngəp	3SG.F.PST-die	v:pred	v		pred		
+tulil	jkpp	0056	#	#	##	##				
+tulil	jkpp	0056	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0056	me	and	other	other				
+tulil	jkpp	0056	do	here;now	other:dt	other		dt		
+tulil	jkpp	0056	məte	like	other	other				
+tulil	jkpp	0056	ngan-o~bokbok	1SG.NPST-RED~talk	v:pred	v		pred		
+tulil	jkpp	0056	navodi	like_this	other	other				
+tulil	jkpp	0057	#	#	##	##				
+tulil	jkpp	0057	#	#	#	#				
+tulil	jkpp	0057	0	0	0.1:s	0	1	s	3071	
+tulil	jkpp	0057	io	then	other	other				
+tulil	jkpp	0057	du-liu	1PL.PST-return	v:pred	v		pred		
+tulil	jkpp	0057	%	%	%	%				
+tulil	jkpp	0057	o	TOP	other	other				
+tulil	jkpp	0057	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0057	ngə-məngar	1SG.PST-say	v:pred	v		pred		
+tulil	jkpp	0058	#	#	##	##				
+tulil	jkpp	0058	0	0	0.h:s	0	h	s	3002	
+tulil	jkpp	0058	io	then	other	other				
+tulil	jkpp	0058	bə=	ASP=	=other	=other				
+tulil	jkpp	0058	mə(n)=	from=	=adp	=adp				
+tulil	jkpp	0058	nə-bət	LOC-PROX2	other:dt	other		dt		
+tulil	jkpp	0058	o	TOP	other	other				
+tulil	jkpp	0058	ngang	1SG	pro.1:dt_s	pro	1	dt_s	3002	
+tulil	jkpp	0058	o	TOP	other	other				
+tulil	jkpp	0058	bə=	ASP=	=other	=other				
+tulil	jkpp	0058	ngə-p~pi	1SG.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0058	kup	thoroughly	rv	rv				
+tulil	jkpp	0058	bə=	ASP=	=other	=other				
+tulil	jkpp	0058	vəd(ə)	for	adp	adp				
+tulil	jkpp	0058	=a	=PAT	=ln	=ln				
+tulil	jkpp	0058	vətak	3PL.SEG	cl_pro:obl	cl_pro		obl	3092	new
+tulil	jkpp	0058	#	#	#rc	#rc				
+tulil	jkpp	0058	0	0	0.h:a	0	h	a		
+tulil	jkpp	0058	0	0	0:p	0		p		
+tulil	jkpp	0058	to	REL	other	other				
+tulil	jkpp	0058	tat-e	3PL-QUOT	other:pred	other		pred		
+tulil	jkpp	0058	vəvat	very	np:p2	np		p2		
+tulil	jkpp	0058	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0059	#	#	##	##				
+tulil	jkpp	0059	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0059	Piupiu	Piupiu	pn_np:dt	pn_np		dt	3093	new
+tulil	jkpp	0059	avar	also	other	other				
+tulil	jkpp	0059	nga-mə(n)=	1SG-from=	=adp	=adp				
+tulil	jkpp	0059	nə-mumə	LOC-DOWN.FAR	dem_other:pred_l	dem_other		pred_l		
+tulil	jkpp	0059	bərodəm	inside	rn	rn				
+tulil	jkpp	0059	=a	=PAT	=rn	=rn				
+tulil	jkpp	0059	#	#	##	##				
+tulil	jkpp	0059	0	0	0.h:s	0	h	s	3004	
+tulil	jkpp	0059	a-vi	3SG.M-PROX1	dem_pro:dt	dem_pro		dt		
+tulil	jkpp	0059	o	TOP	other	other				
+tulil	jkpp	0059	tat-e	3PL-QUOT	other:pred	other		pred		
+tulil	jkpp	0059	#	#	#cc	#cc				
+tulil	jkpp	0059	0	0	0.h:s	0	h	s	3093	
+tulil	jkpp	0059	avar	also	other	other				
+tulil	jkpp	0059	və-p~pən	3SG.M.PST-RED~hit	v:pred	v		pred		
+tulil	jkpp	0059	#	#	##	##				
+tulil	jkpp	0059	0	0	0.h:s	0	h	s	3004	
+tulil	jkpp	0059	me	and	other	other				
+tulil	jkpp	0059	tat-e	3PL-QUOT	other:pred	other		pred		
+tulil	jkpp	0059	#	#	#cc	#cc				
+tulil	jkpp	0059	0	0	0:s	0		s	3092	
+tulil	jkpp	0059	avar	also	other	other				
+tulil	jkpp	0059	məngəd	home	np:pred	np		pred		
+tulil	jkpp	0059	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0059	to	belong_to	rn	rn				
+tulil	jkpp	0059	voin	ghost	rn	rn			3031	
+tulil	jkpp	0059	#	#	##	##				
+tulil	jkpp	0059	me	and	other	other				
+tulil	jkpp	0059	vəvat	monster	ln_np:poss	ln_np		poss	3094	bridging
+tulil	jkpp	0059	=a	=SG.CL:MASC	=ln	=ln				
+tulil	jkpp	0059	va	3SG.M.POSS	ln_pro:poss	ln_pro		poss	3093	
+tulil	jkpp	0059	itən	name	np:s	np		s	3095	bridging
+tulil	jkpp	0059	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0059	Piupiu	Piupiu	pn_np:pred	pn_np		pred		
+tulil	jkpp	0060	#	#	##	##				
+tulil	jkpp	0060	0	0	0.1:a	0	1	a	3004	
+tulil	jkpp	0060	udu	1PL	pro.1:dt_a	pro	1	dt_a	3004	
+tulil	jkpp	0060	katum	all;finished	rn	rn				
+tulil	jkpp	0060	konəng	only	rn	rn				
+tulil	jkpp	0060	do	here;now	rn	rn				
+tulil	jkpp	0060	Tulil	Tulil	pn_np.h:appos	pn_np	h	appos	3096	bridging
+tulil	jkpp	0060	o	TOP	other	other				
+tulil	jkpp	0060	du-təm	1PL.PST-know	v:pred	v		pred		
+tulil	jkpp	0060	=a	=3SG.MASC	=pro.h:p	=pro	h	p	3093	
+tulil	jkpp	0060	tə=	to=	=rn	=rn				
+tulil	jkpp	0060	be	at	rn	rn				
+tulil	jkpp	0060	Bior	Tolai	rn_pn_np	rn_pn_np			3097	new
+tulil	jkpp	0060	mən=	from=	=rn	=rn				
+tulil	jkpp	0060	be	at	rn	rn				
+tulil	jkpp	0060	Nəpəpər	Nəpəpər	rn_pn_np	rn_pn_np			3098	new
+tulil	jkpp	0061	#	#	##	##				
+tulil	jkpp	0061	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0061	ngə-munman	1SG.PST-enter;exit	v:pred	v		pred		
+tulil	jkpp	0062	#	#	##	##				
+tulil	jkpp	0062	0	0	0.h:a	0	h	a	3002	
+tulil	jkpp	0062	ngə-məngar	1SG.PST-say	v:pred	v		pred		
+tulil	jkpp	0062	tuk	give	rv	rv				
+tulil	jkpp	0062	=a	=PAT	=ln	=ln				
+tulil	jkpp	0062	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3002	
+tulil	jkpp	0062	kəvop	nephew;niece	np.h:p	np	h	p	3099	new
+tulil	jkpp	0062	mukəm_magərung	three.CL:MASC	rn	rn				
+tulil	jkpp	0062	to-Lait	ART.M-Lait	pn_np.h:appos	pn_np	h	appos	3100	bridging
+tulil	jkpp	0062	təgəta	one.CL:MASC	rn	rn				
+tulil	jkpp	0062	to-Uvi	ART.M-Uvi	rn_pn_np.h	rn_pn_np	h		3101	bridging
+tulil	jkpp	0062	#	#	#rc.neg	#rc.neg				
+tulil	jkpp	0062	0	0	0.h:s	0	h	s	3101	
+tulil	jkpp	0062	ar	still	other	other				
+tulil	jkpp	0062	kori	NEG	other	other				
+tulil	jkpp	0062	v-əngəp	3SG.M.PST-die	v:pred	v		pred		
+tulil	jkpp	0062	#	#	#	#				
+tulil	jkpp	0062	0	0	0.h:s	0	h	s	3101	
+tulil	jkpp	0062	ar	still	other	other				
+tulil	jkpp	0062	a-p~mə	3SG.M-RED~DOWN	dem_other:pred	dem_other		pred		
+tulil	jkpp	0062	konəng	only	rn	rn				
+tulil	jkpp	0062	%	%	%	%				
+tulil	jkpp	0062	to-Pitdiat	ART.M-Pitdiat	pn_np.h:appos	pn_np	h	appos	3102	bridging
+tulil	jkpp	0062	#	#	#rc.neg	#rc.neg				
+tulil	jkpp	0062	0	0	0.h:s	0	h	s		
+tulil	jkpp	0062	ar	still	other	other				
+tulil	jkpp	0062	kori	NEG	other	other				
+tulil	jkpp	0062	v-əngəp	3SG.M.PST-die	v:pred	v		pred		
+tulil	jkpp	0062	#	#	#	#				
+tulil	jkpp	0062	0	0	0.h:s	0	h	s	3102	
+tulil	jkpp	0062	ar	still	other	other				
+tulil	jkpp	0062	a-p~mə	3SG.M-RED~DOWN	dem_other:pred	dem_other		pred		
+tulil	jkpp	0062	konəng	only	rn	rn				
+tulil	jkpp	0062	#	#	##	##				
+tulil	jkpp	0062	Atven	Atven	pn_np.h:s	pn_np	h	s	3103	new
+tulil	jkpp	0062	o	TOP	other	other				
+tulil	jkpp	0062	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3002	
+tulil	jkpp	0062	makut	in_law	np.h:pred	np	h	pred		
+tulil	jkpp	0062	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0062	#	#	#	#				
+tulil	jkpp	0062	0	0	0.h:s	0	h	s	3103	
+tulil	jkpp	0062	ar	still	other	other				
+tulil	jkpp	0062	a-p~mə	3SG.M-RED~DOWN	dem_other:pred	dem_other		pred		
+tulil	jkpp	0062	konəng	only	nc	nc				
+tulil	jkpp	0063	#	#	##	##				
+tulil	jkpp	0063	udu	1PL	pro.1:dt_s	pro	1	dt_s	3104	new
+tulil	jkpp	0063	da	PURP	other	other				
+tulil	jkpp	0063	a-moli	ART-person	np.h:pred	np	h	pred		
+tulil	jkpp	0063	neireita	six.CL:MASC	rn	rn				
+tulil	jkpp	0063	ko	plus	rn	rn				
+tulil	jkpp	0063	mukəm	two.CL:MASC	rn	rn				
+tulil	jkpp	0063	udu	1PL	pro.1:s	pro	1	s	3104	
+tulil	jkpp	0063	#	#	#	#				
+tulil	jkpp	0063	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0063	to	SUB	other	other				
+tulil	jkpp	0063	da	PURP	other	other				
+tulil	jkpp	0063	du-p~pi	1PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0063	nə-mumə	LOC-DOWN.FAR	dem_other:g	dem_other		g		
+tulil	jkpp	0064	#	#	##	##				
+tulil	jkpp	0064	0	0	0.1:a_ds	0	1	a_ds	3002	
+tulil	jkpp	0064	ngə-məngar	1SG.PST-say	v:pred	v		pred		
+tulil	jkpp	0064	tuk	give	rv	rv				
+tulil	jkpp	0064	ta	1PL	pro.h:p	pro	h	p		
+tulil	jkpp	0064	ngan-e	1SG-QUOT	other	other				
+tulil	jkpp	0064	#	#	##ds	##ds				
+tulil	jkpp	0064	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0064	də-p~pi	1PL.NPST-RED~go	v:pred	v		pred		
+tulil	jkpp	0064	#	#	##ds	##ds				
+tulil	jkpp	0064	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0064	də-tel(ə)	1DL.NPST-search	v:pred	v		pred		
+tulil	jkpp	0064	=a	=PAT	=ln	=ln				
+tulil	jkpp	0064	go	NSPEC	ln	ln				
+tulil	jkpp	0064	məte	like	ln	ln				
+tulil	jkpp	0064	u-vi	3N-PROX1	dem_pro:p	dem_pro		p		
+tulil	jkpp	0064	navodi	like_this	ln	ln				
+tulil	jkpp	0064	a-purpur	ART-flower	np:appos	np		appos	3105	new
+tulil	jkpp	0064	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0064	#	#	#	#				
+tulil	jkpp	0064	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0064	0	0	0:p	0		p	3105	
+tulil	jkpp	0064	da	PURP	other	other				
+tulil	jkpp	0064	d-əkən	1PL.NPST-plant	v:pred	v		pred		
+tulil	jkpp	0064	nə-mə	LOC-DOWN	other	other				
+tulil	jkpp	0064	nə-mə	LOC-DOWN	adp	adp				
+tulil	jkpp	0064	to	belong_to	ln	ln				
+tulil	jkpp	0064	a-pəlnə	ART-house(Kuanua)	np:l	np		l	3106	new
+tulil	jkpp	0064	lotu	church(Kuanua)	rn	rn				
+tulil	jkpp	0065	#	#	##	##				
+tulil	jkpp	0065	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0065	io	then	other	other				
+tulil	jkpp	0065	ngə-p~pi	1SG.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0065	ngan-e	1SG-QUOT	other	other				
+tulil	jkpp	0065	#	#	##ds	##ds				
+tulil	jkpp	0065	0	0	0.h:s	0	h	s	3002	
+tulil	jkpp	0065	tat-o~bokbok	3PL.NPST-RED~talk	v:pred	v		pred		
+tulil	jkpp	0065	#	#	#cc	#cc				
+tulil	jkpp	0065	0	0	0:s	0		s	3106	
+tulil	jkpp	0065	tat-e	3PL-QUOT	other	other				
+tulil	jkpp	0065	məngədə	village	np:pred	np		pred		
+tulil	jkpp	0065	mərek	good	rn	rn				
+tulil	jkpp	0065	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0065	#	#	#	#				
+tulil	jkpp	0065	me	and	other	other				
+tulil	jkpp	0065	a-mesin	ART-grass_cutter	np:s	np		s	3107	new
+tulil	jkpp	0065	e-tərat	3SG.F.NPST-weed	v:pred	v		pred		
+tulil	jkpp	0065	#	#	#	#				
+tulil	jkpp	0065	io	then	other	other				
+tulil	jkpp	0065	da	PURP	other	other				
+tulil	jkpp	0065	ta	3PL.POSS	ln_pro.h:poss	ln_pro	h	poss		
+tulil	jkpp	0065	go	NSPEC	ln	ln				
+tulil	jkpp	0065	venang	something	np:predex	np		predex		
+tulil	jkpp	0065	mə(n)=	from=	=rn	=rn				
+tulil	jkpp	0065	nə-bət	LOC-PROX2	rn	rn				
+tulil	jkpp	0065	#	#	#ac	#ac				
+tulil	jkpp	0065	0	0	0:s	0		s	3105	
+tulil	jkpp	0065	tove	because	other	other				
+tulil	jkpp	0065	mən=	from=	=adp	=adp				
+tulil	jkpp	0065	ba	in	adp	adp				
+tulil	jkpp	0065	vəvat	monster	np:pred	np		pred		
+tulil	jkpp	0065	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0065	da	PURP	other	other				
+tulil	jkpp	0065	tə=	to=	=adp	=adp				
+tulil	jkpp	0065	pədəm	later	other	other				
+tulil	jkpp	0066	#	#	##	##				
+tulil	jkpp	0066	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0066	du-p~pi	1PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0066	nə-mumə	LOC-DOWN.FAR	dem_other:g	dem_other		g		
+tulil	jkpp	0066	#	#	#	#				
+tulil	jkpp	0066	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0066	du-p~pi	1PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0066	ba	in	adp	adp				
+tulil	jkpp	0066	venang	something	ln	ln				
+tulil	jkpp	0066	kətəbukbuk	thick_mud	np:l	np		l	3108	new
+tulil	jkpp	0066	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0066	#	#	##	##				
+tulil	jkpp	0066	toktok	end	v:pred	v		pred		
+tulil	jkpp	0066	=a	=PAT	=ln	=ln				
+tulil	jkpp	0066	kilap	mud	np:s_sv	np		s_sv	3108	
+tulil	jkpp	0066	do	here;now	other	other				
+tulil	jkpp	0067	#	#	##	##				
+tulil	jkpp	0067	0	0	0.1:s	0	1	s	3108	
+tulil	jkpp	0067	io	then	other	other				
+tulil	jkpp	0067	udu	1PL	pro.1:dt_s	pro	1	dt_s	3108	
+tulil	jkpp	0067	o	TOP	other	other				
+tulil	jkpp	0067	du-p~pi	1PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0067	nə-m~mə	LOC-RED~DOWN	dem_other:g	dem_other		g		
+tulil	jkpp	0067	#	#	##	##				
+tulil	jkpp	0067	kərvuk	sunk	v:pred	v		pred		
+tulil	jkpp	0067	n	APPL	rv	rv				
+tulil	jkpp	0067	=a	=PAT	=ln	=ln				
+tulil	jkpp	0067	nga=	1SG.POSS=	=ln_pro.1:poss	=ln_pro	1	poss	3002	
+tulil	jkpp	0067	mərkəm	leg	np:s_sv	np		s_sv	3109	bridging
+tulil	jkpp	0067	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0067	nə-m~mə	LOC-RED~DOWN	dem_other:g	dem_other		g		
+tulil	jkpp	0067	#	#	##	##				
+tulil	jkpp	0067	toktok	end;last	v:pred	v		pred		
+tulil	jkpp	0067	=a	=PAT	=ln	=ln				
+tulil	jkpp	0067	kilap	mud	np:s_sv	np		s_sv	3108	
+tulil	jkpp	0067	do	here;now	other:l	other		l		
+tulil	jkpp	0068	#	#	##	##				
+tulil	jkpp	0068	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0068	avar	also	other	other				
+tulil	jkpp	0068	nəvon	like_this	other	other				
+tulil	jkpp	0068	do	here;now	other	other				
+tulil	jkpp	0068	va	again	other	other				
+tulil	jkpp	0068	nga-tek	1SG.NPST-pull_out	v:pred	v		pred		
+tulil	jkpp	0068	=a	=3SG.M.PAT	=pro:p	=pro		p		
+tulil	jkpp	0068	navodi	like_this	other	other			3109	
+tulil	jkpp	0068	#	#	##	##				
+tulil	jkpp	0068	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0068	ava	again	other	other				
+tulil	jkpp	0068	nga-tek	1SG.NPST-pull_out	v:pred	v		pred		
+tulil	jkpp	0068	=a	=3SG.M.PAT	=pro:p	=pro		p	3109	
+tulil	jkpp	0068	navodi	like_this	other	other				
+tulil	jkpp	0068	ava	again	other	other				
+tulil	jkpp	0068	nandi	like_this	other	other				
+tulil	jkpp	0068	ava	again	other	other				
+tulil	jkpp	0068	#	#	##	##				
+tulil	jkpp	0068	mə(n)=	from=	=adp	=adp				
+tulil	jkpp	0068	nə-bət	LOC-PROX2	other:dt	other		dt		
+tulil	jkpp	0068	o	TOP	other	other				
+tulil	jkpp	0068	navodi	like_this	other:pred	other		pred		
+tulil	jkpp	0069	#	#	##	##				
+tulil	jkpp	0069	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0069	du-vi	1PL.PST-go	v:pred	v		pred		
+tulil	jkpp	0069	#	#	##	##				
+tulil	jkpp	0069	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0069	du-vi	1PL.PST-go	v:pred	v		pred		
+tulil	jkpp	0069	#	#	##	##				
+tulil	jkpp	0069	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0069	du-vi	1PL.PST-go	v:pred	v		pred		
+tulil	jkpp	0069	#	#	##	##				
+tulil	jkpp	0069	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0069	ngan-e	1SG-QUOT	other:pred	other		pred		
+tulil	jkpp	0069	#	#	##	##				
+tulil	jkpp	0069	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0069	ngə-mu	1SG.PST-put	v:pred	v		pred		
+tulil	jkpp	0069	ngə=	1SG.POSS=	=ln_pro.1:poss	=ln_pro	1	poss	3002	
+tulil	jkpp	0069	nok	hand	np:p	np		p	3110	bridging
+tulil	jkpp	0069	navodi	like_this	other	other				
+tulil	jkpp	0069	ngan-e	1SG-QUOT	other	other				
+tulil	jkpp	0069	#	#	#neg	#neg				
+tulil	jkpp	0069	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0069	da	PURP	other	other				
+tulil	jkpp	0069	kori	NEG	other	other				
+tulil	jkpp	0069	d-əngar	1PL.NPST-say	v:pred	v		pred		
+tulil	jkpp	0069	#	#	#ac	#ac				
+tulil	jkpp	0069	tove	because	other	other				
+tulil	jkpp	0069	iaor	afraid	np:predex	np		predex		
+tulil	jkpp	0069	#	#	#ac	#ac				
+tulil	jkpp	0069	ti	lest	other	other				
+tulil	jkpp	0069	vəvat	monster	np:a	np		a	3093	
+tulil	jkpp	0069	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0069	at-at	3SG.M.NPST-get	v:pred	v		pred		
+tulil	jkpp	0069	=a	=PAT	=ln	=ln				
+tulil	jkpp	0069	du	1PL.POSS	ln_pro.1:poss	ln_pro	1	poss	3104	
+tulil	jkpp	0069	kən	voice	np:p	np		p	3111	bridging
+tulil	jkpp	0070	#	#	##neg	##neg				
+tulil	jkpp	0070	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0070	ngang	1SG	pro.1:dt_a	pro	1	dt_a	3002	
+tulil	jkpp	0070	o	TOP	other	other				
+tulil	jkpp	0070	kori	NEG	other	other				
+tulil	jkpp	0070	ngə-bitəmut	1SG.PST-believe	v:pred	v		pred		
+tulil	jkpp	0070	bətm	with	rv	rv				
+tulil	jkpp	0070	=a	=PAT	=ln	=ln				
+tulil	jkpp	0070	u-vi	3N-PROX1	dem_pro:p	dem_pro		p		
+tulil	jkpp	0071	#	#	##	##				
+tulil	jkpp	0071	ngang	1SG	pro.1:s	pro	1	s	3002	
+tulil	jkpp	0071	nga-nogət	1SG-first	other:pred	other		pred		
+tulil	jkpp	0072	#	#	##	##				
+tulil	jkpp	0072	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0072	du-p~pi	1PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0072	nandi	like_this	other	other				
+tulil	jkpp	0072	nə-m~bo	LOC-RED~UP	dem_other:g	dem_other		g		
+tulil	jkpp	0072	nə-m~bo	LOC-RED~UP	nc	nc				
+tulil	jkpp	0072	#	#	##	##				
+tulil	jkpp	0072	me	and	other	other				
+tulil	jkpp	0072	ava	again	other	other				
+tulil	jkpp	0072	ta-və	3PL-NSPEC	dem_pro.h:a	dem_pro	h	a	3112	bridging
+tulil	jkpp	0072	(gesture)	(gesture)	nc	nc				
+tulil	jkpp	0072	və-buk	3SG.M.PST-lip_sound	v:pred	v		pred		
+tulil	jkpp	0072	konə	only	rv	rv				
+tulil	jkpp	0072	ngang	1SG	pro.1:p	pro	1	p	3002	
+tulil	jkpp	0073	#	#	##	##				
+tulil	jkpp	0073	0	0	0.h:a	0	h	a	3093	
+tulil	jkpp	0073	a-tir	3SG.NPST-ask	v:pred	v		pred		
+tulil	jkpp	0073	ngang	1SG	pro.1:p	pro	1	p	3002	
+tulil	jkpp	0073	at-e	3SG.M-QUOT	other	other				
+tulil	jkpp	0073	#	#	##	##				
+tulil	jkpp	0073	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0073	ngan-e	1SG-QUOT	other:pred	other		pred		
+tulil	jkpp	0074	#	#	##neg	##neg				
+tulil	jkpp	0074	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0074	io	then	other	other				
+tulil	jkpp	0074	kori	NEG	other	other				
+tulil	jkpp	0074	du-bokbok	1PL.PST-talk	v:pred	v		pred		
+tulil	jkpp	0075	#	#	##	##				
+tulil	jkpp	0075	kutet	yellow_mud	np:predex	np		predex	3108	
+tulil	jkpp	0075	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0075	katum	all;finished	other	other				
+tulil	jkpp	0075	kon	only	other	other				
+tulil	jkpp	0075	nə-bət	LOC-PROX2	other:l	other		l		
+tulil	jkpp	0075	#	#	##	##				
+tulil	jkpp	0075	0	0	0.h:s	0	h	s	3108	
+tulil	jkpp	0075	me	and	other	other				
+tulil	jkpp	0075	a-bət	3SG.M-PROX2	dem_pro:dt	dem_pro		dt		
+tulil	jkpp	0075	ar	still	rn	rn				
+tulil	jkpp	0075	mən=	from=	=rn	=rn				
+tulil	jkpp	0075	bəvon	before	rn	rn				
+tulil	jkpp	0075	be	at	rn	rn				
+tulil	jkpp	0075	laik	big	rn_np.h	rn_np	h		3089	
+tulil	jkpp	0075	=ta	=ta	=rn	=rn				
+tulil	jkpp	0075	o	TOP	other	other				
+tulil	jkpp	0075	tə-p~pi	3PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0075	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	jkpp	0075	ga	across	adp	adp				
+tulil	jkpp	0075	Toviloga	Toviloga	pn_np:g	pn_np		g	3113	new
+tulil	jkpp	0075	nə-bət	LOC-PROX2	rn	rn				
+tulil	jkpp	0075	#	#	#	#				
+tulil	jkpp	0075	o	TOP	other	other				
+tulil	jkpp	0075	laik	big	np.h:s	np	h	s	3089	
+tulil	jkpp	0075	=ta	=ta	=rn	=rn				
+tulil	jkpp	0075	tə-p~pi	3PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0075	ba	in	adp	adp				
+tulil	jkpp	0075	tuk	road	np:l	np		l	3113	
+tulil	jkpp	0075	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0075	a-bət	3SG.M-PROX2	rn	rn				
+tulil	jkpp	0076	#	#	##neg	##neg				
+tulil	jkpp	0076	me	and	other	other				
+tulil	jkpp	0076	do	here;now	other	other				
+tulil	jkpp	0076	kori	NEG	other	other				
+tulil	jkpp	0076	moli	real	other:pred	other		pred		
+tulil	jkpp	0076	#	#	##neg	##neg				
+tulil	jkpp	0076	kori	NEG	other	other				
+tulil	jkpp	0076	moli	real	other:pred	other		pred		
+tulil	jkpp	0076	#	#	#	#				
+tulil	jkpp	0076	0	0	0.h:s	0	h	s		
+tulil	jkpp	0076	da	PURP	other	other				
+tulil	jkpp	0076	tə-p~pi	3PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0076	do	here;now	other:g	other		g		
+tulil	jkpp	0076	#	#	#	#				
+tulil	jkpp	0076	tove	because	other	other				
+tulil	jkpp	0076	vəvat	monster	np:predex	np		predex	3093	
+tulil	jkpp	0076	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0077	#	#	##	##				
+tulil	jkpp	0077	0	0	0.h:s	0	h	s	3089	
+tulil	jkpp	0077	io	then	other	other				
+tulil	jkpp	0077	va	again	other	other				
+tulil	jkpp	0077	təkə=	to=	=other	=other				
+tulil	jkpp	0077	nə-bo	LOC-UP	dem_other:pred	dem_other		pred		
+tulil	jkpp	0077	ga	across	adp	adp				
+tulil	jkpp	0077	Ekaevoi	Ekaevoi	pn_np:g	pn_np		g	3114	new
+tulil	jkpp	0077	#	#	##	##				
+tulil	jkpp	0077	0	0	0.h:s	0	h	s	3089	
+tulil	jkpp	0077	io	then	other	other				
+tulil	jkpp	0077	tə-p~pi	3PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0077	nandi	like_this	other	other				
+tulil	jkpp	0077	me	and	other	other				
+tulil	jkpp	0077	vəvat	very	other	other				
+tulil	jkpp	0078	#	#	##	##				
+tulil	jkpp	0078	io	then	other	other				
+tulil	jkpp	0078	u-vi	3N-PROX1	dem_pro:s	dem_pro		s	3093	
+tulil	jkpp	0078	#	#	#rc	#rc				
+tulil	jkpp	0078	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0078	0	0	0:p	0		p		
+tulil	jkpp	0078	to	REL	other	other				
+tulil	jkpp	0078	ngan-o~bokbok	1SG.NPST-RED~talk	v:pred	v		pred		
+tulil	jkpp	0078	bem	at	rv	rv				
+tulil	jkpp	0078	%	%	%	%				
+tulil	jkpp	0078	o	TOP	other	other				
+tulil	jkpp	0078	mədərəp	middle	other:pred	other		pred		
+tulil	jkpp	0078	konəng	only	rv	rv				
+tulil	jkpp	0079	#	#	##	##				
+tulil	jkpp	0079	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0079	io	then	other	other				
+tulil	jkpp	0079	da	PURP	other	other				
+tulil	jkpp	0079	ngə-kər	1SG.PST-raise	v:pred	v		pred		
+tulil	jkpp	0079	tang	REFL	pro.h:p	pro	h	p	3002	
+tulil	jkpp	0079	#	#	##	##				
+tulil	jkpp	0079	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0079	da	PURP	other	other				
+tulil	jkpp	0079	nga-ton	1SG.NPST-look	v:pred	v		pred		
+tulil	jkpp	0080	#	#	##	##				
+tulil	jkpp	0080	təre	true	other	other				
+tulil	jkpp	0080	moli	real	other	other				
+tulil	jkpp	0080	iap	3SG.M	pro.h:s	pro	h	s	3093	
+tulil	jkpp	0080	avar	also	other	other				
+tulil	jkpp	0080	və-tor	3SG.M.PST-sit	v:pred	v		pred		
+tulil	jkpp	0080	#	#	##neg	##neg				
+tulil	jkpp	0080	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0080	me	and	other	other				
+tulil	jkpp	0080	kori	NEG	other	other				
+tulil	jkpp	0080	ngə-toti	1SG.PST-see	v:pred	v		pred		
+tulil	jkpp	0080	go	NSPEC	ln	ln				
+tulil	jkpp	0080	təreuk	thing.PL	np:p	np		p		
+tulil	jkpp	0080	#	#	#	#				
+tulil	jkpp	0080	o	TOP	other	other				
+tulil	jkpp	0080	bərivu	wind	np:a	np		a	3115	new
+tulil	jkpp	0080	konəng	only	rn	rn				
+tulil	jkpp	0080	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0080	və-kər	3SG.M.PST-raise	v:pred	v		pred		
+tulil	jkpp	0080	tang	REFL	refl:p	refl		p	3115	
+tulil	jkpp	0080	#	#	##	##				
+tulil	jkpp	0080	me	and	other	other				
+tulil	jkpp	0080	itnav	storm	np:a	np		a	3116	new
+tulil	jkpp	0080	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0080	məte	like	other	other				
+tulil	jkpp	0080	pələ~pələp	RED~lightning	np:appos	np		appos	3117	bridging
+tulil	jkpp	0080	me	and	rn	rn				
+tulil	jkpp	0080	kəru~kərung	RED~thunder	rn_np	rn_np			3118	bridging
+tulil	jkpp	0080	me	and	rn	rn				
+tulil	jkpp	0080	bərivu	wind	rn_np	rn_np			3115	
+tulil	jkpp	0080	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0080	və-venang	3SG.M.PST-do_sth	v:pred	v		pred		
+tulil	jkpp	0080	n	APPL	rv	rv				
+tulil	jkpp	0080	=udu	=1PL	=pro.1:p	=pro	1	p	3104	
+tulil	jkpp	0080	me	and	other	other				
+tulil	jkpp	0080	kəvənav	rain	np:dt	np		dt	3119	bridging
+tulil	jkpp	0080	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0080	#	#	##	##				
+tulil	jkpp	0080	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0080	du-merən	1PL.PST-run	v:pred	v		pred		
+tulil	jkpp	0080	#	#	#	#				
+tulil	jkpp	0080	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0080	da	PURP	other	other				
+tulil	jkpp	0080	bə=	ASP=	=other	=other				
+tulil	jkpp	0080	də-vun(ə)	1PL.NPST-throw	v:pred	v		pred		
+tulil	jkpp	0080	=a	=PAT	=ln	=ln				
+tulil	jkpp	0080	du	1PL.POSS	ln_pro.1:poss	ln_pro	1	poss	3104	
+tulil	jkpp	0080	katə	leg.PL	np:p	np		p	3120	bridging
+tulil	jkpp	0080	navodi	like_this	other	other				
+tulil	jkpp	0080	me	and	other	other				
+tulil	jkpp	0080	nandi	like_this	other	other				
+tulil	jkpp	0080	#	#	##	##				
+tulil	jkpp	0080	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0080	me	and	other	other				
+tulil	jkpp	0080	nə-bo	LOC-UP	other:dt	other		dt		
+tulil	jkpp	0080	du-p~pi	1PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0080	#	#	#	#				
+tulil	jkpp	0080	o	TOP	other	other				
+tulil	jkpp	0080	idə=	3N.POSS=	=ln_pro.h:poss	=ln_pro	h	poss	3104	
+tulil	jkpp	0080	katə	leg.PL	np:predex	np		predex	3120	
+tulil	jkpp	0080	təgə	one	rn	rn				
+tulil	jkpp	0080	=vəti	=SG.CL:SEG	=rn	=rn				
+tulil	jkpp	0080	#	#	#	#				
+tulil	jkpp	0080	ngang	1SG	pro.1:dt_poss	pro	1	dt_poss	3104	
+tulil	jkpp	0080	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3104	
+tulil	jkpp	0080	təgə	one	np:predex	np		predex	3121	bridging
+tulil	jkpp	0080	=vəti	=SG.CL:SEG	=rn	=rn				
+tulil	jkpp	0080	o	TOP	other	other				
+tulil	jkpp	0080	ava	again	other	other				
+tulil	jkpp	0080	a-və	3SG.M-NSPEC	other	other				
+tulil	jkpp	0081	#	#	##	##				
+tulil	jkpp	0081	bə=	ASP=	=other	=other				
+tulil	jkpp	0081	iaor	NC	other:pred	other		pred		
+tulil	jkpp	0081	udu	1PL	pro.1:s	pro	1	s	3104	
+tulil	jkpp	0081	#	#	#ac	#ac				
+tulil	jkpp	0081	tove	because	other	other				
+tulil	jkpp	0081	pələ~pələp	RED~lightning	np:predex	np		predex	3117	
+tulil	jkpp	0081	me	and	rn	rn				
+tulil	jkpp	0081	kəru~kərung	RED~thunder	rn_np	rn_np			3118	
+tulil	jkpp	0082	#	#	##	##				
+tulil	jkpp	0082	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0082	du-telə	1PL.PST-search	v:pred	v		pred		
+tulil	jkpp	0082	kori	NEG	other	other				
+tulil	jkpp	0082	#	#	##neg	##neg				
+tulil	jkpp	0082	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0082	kori	NEG	other	other				
+tulil	jkpp	0082	du-toti	1PL.PST-see	v:pred	v		pred		
+tulil	jkpp	0082	go	NSPEC	ln	ln				
+tulil	jkpp	0082	təreuk	thing.PL	np:p	np		p		
+tulil	jkpp	0082	#	#	##	##				
+tulil	jkpp	0082	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0082	me	and	other	other				
+tulil	jkpp	0082	təre	true	other	other				
+tulil	jkpp	0082	moli	real	other	other				
+tulil	jkpp	0082	du-toti	1PL.PST-see	v:pred	v		pred		
+tulil	jkpp	0082	konəng	only	rv	rv				
+tulil	jkpp	0082	n	APPL	rv	rv				
+tulil	jkpp	0082	=a	=PAT	=ln	=ln				
+tulil	jkpp	0082	u-vi	3N-PROX1	dem_pro:p	dem_pro		p	3116	
+tulil	jkpp	0083	#	#	##	##				
+tulil	jkpp	0083	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0083	du-merən	1PL.PST-run	v:pred	v		pred		
+tulil	jkpp	0083	ava	again	rv	rv				
+tulil	jkpp	0083	təkə=	to=	=adp	=adp				
+tulil	jkpp	0083	nə-mə	LOC-DOWN	other	other				
+tulil	jkpp	0083	ga	across	adp	adp				
+tulil	jkpp	0083	Laikpoi	Laikpoi	pn_np:g	pn_np		g	3122	new
+tulil	jkpp	0083	idə-n	3N-COM	rn	rn				
+tulil	jkpp	0083	=a	=PAT	=rn	=rn				
+tulil	jkpp	0083	voi-bət	3SG.FLAT-PROX2	rn	rn				
+tulil	jkpp	0083	Piupiu	Piupiu	rn_pn_np	rn_pn_np			3123	new
+tulil	jkpp	0083	#	#	##	##				
+tulil	jkpp	0083	ioi	water	ln_np:poss	ln_np		poss	3124	bridging
+tulil	jkpp	0083	=voi	=SG.CL:FLAT	=ln	=ln				
+tulil	jkpp	0083	idə	3N	ln_pro:poss	ln_pro		poss	3123	
+tulil	jkpp	0083	itən	name	np:s	np		s	3125	bridging
+tulil	jkpp	0083	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0083	ar	still	other	other				
+tulil	jkpp	0083	tə=	to=	=adp	=adp				
+tulil	jkpp	0083	be	at	adp	adp				
+tulil	jkpp	0083	vəvat	monster	np:pred	np		pred	3093	
+tulil	jkpp	0083	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0084	#	#	##	##				
+tulil	jkpp	0084	vənu	sun	np:predex	np		predex	3126	unused
+tulil	jkpp	0084	mərek	good	rn	rn				
+tulil	jkpp	0084	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0084	#	#	##	##				
+tulil	jkpp	0084	vənu	sun	np:predex	np		predex	3126	
+tulil	jkpp	0084	laik	big	rn	rn				
+tulil	jkpp	0084	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0084	#	#	##	##				
+tulil	jkpp	0084	idə-təp	3N.PST-dry	v:pred	v		pred		
+tulil	jkpp	0084	mat	get	rv	rv				
+tulil	jkpp	0084	udu	1PL	pro.1:s_iv	pro	1	s_iv	3104	
+tulil	jkpp	0084	#	#	##	##				
+tulil	jkpp	0084	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0084	du-mengəp	1PL.PST-sleep	v:pred	v		pred		
+tulil	jkpp	0084	nə-bət	LOC-PROX2	other:l	other		l	3124	
+tulil	jkpp	0085	#	#	##neg	##neg				
+tulil	jkpp	0085	io	then	other	other				
+tulil	jkpp	0085	kori	NEG	other	other				
+tulil	jkpp	0085	go	NSPEC	ln	ln				
+tulil	jkpp	0085	kəvənav	rain	np:predex	np		predex		
+tulil	jkpp	0085	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0085	nə-mə	LOC-DOWN	other:l	other		l		
+tulil	jkpp	0085	#	#	##	##				
+tulil	jkpp	0085	me	and	other	other				
+tulil	jkpp	0085	avar	also	other	other				
+tulil	jkpp	0085	kəvənav	rain	np:s	np		s	3127	new
+tulil	jkpp	0085	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0085	o	TOP	other	other				
+tulil	jkpp	0085	do	here;now	other:pred	other		pred		
+tulil	jkpp	0085	konəng	only	rv	rv				
+tulil	jkpp	0086	#	#	##	##				
+tulil	jkpp	0086	io	then	other	other				
+tulil	jkpp	0086	idə-təp	3N.PST-dry	v:pred	v		pred		
+tulil	jkpp	0086	mat	get	rv	rv				
+tulil	jkpp	0086	=a	=PAT	=ln	=ln				
+tulil	jkpp	0086	du	1PL.POSS	ln_pro.1:poss	ln_pro	1	poss	3104	
+tulil	jkpp	0086	məl	məl	np:s_iv	np		s_iv	3128	new
+tulil	jkpp	0086	#	#	##	##				
+tulil	jkpp	0086	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0086	me	and	other	other				
+tulil	jkpp	0086	ngi-təma	2SG.PST-know	v:pred	v		pred		
+tulil	jkpp	0086	=a	=PAT	=ln	=ln				
+tulil	jkpp	0086	du	1PL.POSS	ln_pro.1:poss	ln_pro	1	poss	3104	
+tulil	jkpp	0086	mətor	sit	np:p	np		p	3129	new
+tulil	jkpp	0086	ba	in	rn	rn				
+tulil	jkpp	0086	tipur	bush	rn_np	rn_np			3060	
+tulil	jkpp	0086	#	#	##	##				
+tulil	jkpp	0086	udu	1PL	pro.1:dt	pro	1	dt	3104	
+tulil	jkpp	0086	adəpen	underpant(English)	np:predex	np		predex	3130	new
+tulil	jkpp	0086	ko(n)	only	rn	rn				
+tulil	jkpp	0086	=bətəng	=PL.CL:SEG	=rn	=rn				
+tulil	jkpp	0086	#	#	#neg	#neg				
+tulil	jkpp	0086	me	and	other	other				
+tulil	jkpp	0086	kori	NEG	other	other				
+tulil	jkpp	0086	go	NSPEC	ln	ln				
+tulil	jkpp	0086	a-tərautet	ART-trousers	np:predex	np		predex		
+tulil	jkpp	0086	#	#	#neg	#neg				
+tulil	jkpp	0086	me	and	other	other				
+tulil	jkpp	0086	kori	NEG	other	other				
+tulil	jkpp	0086	nanbət	like_that	other:pred	other		pred		
+tulil	jkpp	0086	me	and	other	other				
+tulil	jkpp	0086	a-tingilit	ART-Tshirt	nc	nc				
+tulil	jkpp	0086	#	#	#	#				
+tulil	jkpp	0086	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0086	tove	because	other	other				
+tulil	jkpp	0086	du-mu	1PL.PST-put	v:pred	v		pred		
+tulil	jkpp	0086	idə	3N	pro:p	pro		p	3130	
+tulil	jkpp	0086	ve	just	other	other				
+tulil	jkpp	0086	məl	clothes	np:appos	np		appos	3130	
+tulil	jkpp	0086	u-bət	3N-PROX2	rn	rn				
+tulil	jkpp	0086	to	belong_to	rn	rn				
+tulil	jkpp	0086	kəvər	white	rn_np.h	rn_np	h		3131	new
+tulil	jkpp	0086	=ta	=ta	=rn	=rn				
+tulil	jkpp	0086	#	#	#	#				
+tulil	jkpp	0086	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0086	to	SUB	other	other				
+tulil	jkpp	0086	da	PURP	other	other				
+tulil	jkpp	0086	du-mu	1PL.PST-put	v:pred	v		pred		
+tulil	jkpp	0086	idə	3N	pro:p	pro		p	3130	
+tulil	jkpp	0086	bətəpmə	over	adp	adp				
+tulil	jkpp	0086	tang	REFL	refl:g	refl		g	3104	
+tulil	jkpp	0086	tove	because	adp	adp				
+tulil	jkpp	0086	ti	of	adp	adp				
+tulil	jkpp	0086	kənunət	mosquito	np:other	np		other	3132	new
+tulil	jkpp	0087	#	#	##	##				
+tulil	jkpp	0087	muləgəp	two	ln	ln				
+tulil	jkpp	0087	nəvon	time	np:dt	np		dt	3133	new
+tulil	jkpp	0087	idə-təp	3N.PST-dry	v:pred	v		pred		
+tulil	jkpp	0087	mat	get	rv	rv				
+tulil	jkpp	0087	udu	1PL	pro.1:s_iv	pro	1	s_iv	3104	
+tulil	jkpp	0087	#	#	##	##				
+tulil	jkpp	0087	0	0	0.1:s_ds	0	1	s_ds	3002	
+tulil	jkpp	0087	ngan-e	1SG-QUOT	other:pred	other		pred		
+tulil	jkpp	0087	#	#	##ds	##ds				
+tulil	jkpp	0087	=a	=SG.CL:MASC	=pro:s	=pro		s		
+tulil	jkpp	0087	nagapon	how	other:pred	other		pred		
+tulil	jkpp	0087	#	#	##	##				
+tulil	jkpp	0087	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0087	ngə-tir	1SG.PST-ask	v:pred	v		pred		
+tulil	jkpp	0087	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	3112	
+tulil	jkpp	0087	#	#	#ds	#ds				
+tulil	jkpp	0087	ta-və	1PL-NSPEC	dem_pro:dt_poss	dem_pro		dt_poss	3134	bridging
+tulil	jkpp	0087	b=	ASP=	=other	=other				
+tulil	jkpp	0087	imanmanin	bitter;sour	other:pred	other		pred		
+tulil	jkpp	0087	n	APPL	rv	rv				
+tulil	jkpp	0087	=a	=PAT	=ln	=ln				
+tulil	jkpp	0087	ta	1PL.POSS	ln_pro.h:poss	ln_pro	h	poss	3134	
+tulil	jkpp	0087	kəl	face	np:s	np		s	3135	bridging
+tulil	jkpp	0087	=vənik	=vənik	=rn	=rn				
+tulil	jkpp	0087	#	#	##neg	##neg				
+tulil	jkpp	0087	me	and	other	other				
+tulil	jkpp	0087	bə=	ASP=	=other	=other				
+tulil	jkpp	0087	kori	NEG	other	other				
+tulil	jkpp	0087	mərek	good	other:pred	other		pred		
+tulil	jkpp	0087	bətmə	with	adp	adp				
+tulil	jkpp	0087	ta	3PL	pro.h:obl	pro	h	obl	3134	
+tulil	jkpp	0087	#	#	#ac	#ac				
+tulil	jkpp	0087	tove	because	other	other				
+tulil	jkpp	0087	u-vi	3N-PROX1	dem_pro:dt_s	dem_pro		dt_s	3136	bridging
+tulil	jkpp	0087	bə=	ASP=	=other	=other				
+tulil	jkpp	0087	lət	arrive	v:pred	v		pred		
+tulil	jkpp	0087	n	APPL	rv	rv				
+tulil	jkpp	0087	=idə	=3N	=pro:s_sv	=pro		s_sv	3136	
+tulil	jkpp	0087	bətm	with	adp	adp				
+tulil	jkpp	0087	=udu	=1PL	=pro.1:obl	=pro	1	obl	3104	
+tulil	jkpp	0087	nə-bo	LOC-UP	other	other				
+tulil	jkpp	0087	ba	in	adp	adp				
+tulil	jkpp	0087	tipur	bush	np:l	np		l	3060	
+tulil	jkpp	0088	#	#	##	##				
+tulil	jkpp	0088	0	0	0.1:a_ds	0	1	a_ds	3002	
+tulil	jkpp	0088	ngə-məngar	1SG.PST-say	v:pred	v		pred		
+tulil	jkpp	0088	tuk	give	rv	rv				
+tulil	jkpp	0088	ta	3PL	pro.h:p	pro	h	p	3134	
+tulil	jkpp	0088	ngan-e	1SG-QUOT	other	other				
+tulil	jkpp	0088	#	#	##ds	##ds				
+tulil	jkpp	0088	#	#	#ac	#ac				
+tulil	jkpp	0088	0	0	0.2:a	0	2	a	3134	
+tulil	jkpp	0088	doto	when;if	other	other				
+tulil	jkpp	0088	inə-bitəmut	2PL.PST-believe	v:pred	v		pred		
+tulil	jkpp	0088	moli	real	rv	rv				
+tulil	jkpp	0088	bətm	with	rv	rv				
+tulil	jkpp	0088	=a	=PAT	=ln	=ln				
+tulil	jkpp	0088	Laika	god	np:p	np		p	3137	unused
+tulil	jkpp	0088	%	%	%	%				
+tulil	jkpp	0088	o	TOP	other	other				
+tulil	jkpp	0088	0	0	0.2:s	0	2	s	3134	
+tulil	jkpp	0088	inə-vəde	2PL-this_way	other:pred	other		pred		
+tulil	jkpp	0088	#	#	##ds	##ds				
+tulil	jkpp	0088	me	and	other	other				
+tulil	jkpp	0088	iap	3SG.M	pro.h:s	pro	h	s	3138	bridging
+tulil	jkpp	0088	#	#	#neg	#neg				
+tulil	jkpp	0088	0	0	0.h:a	0	h	a	3138	
+tulil	jkpp	0088	to	REL	other	other				
+tulil	jkpp	0088	kori	NEG	other	other				
+tulil	jkpp	0088	və-bitəmut	3SG.M.PST-believe	v:pred	v		pred		
+tulil	jkpp	0088	bətm	with	rv	rv				
+tulil	jkpp	0088	=a	=PAT	=ln	=ln				
+tulil	jkpp	0088	Laika	god	np:p	np		p	3137	
+tulil	jkpp	0088	%	%	%	%				
+tulil	jkpp	0088	o	TOP	other	other				
+tulil	jkpp	0088	və-tor	3SG.M.PAT-sit	v:pred	v		pred		
+tulil	jkpp	0089	#	#	##	##				
+tulil	jkpp	0089	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0089	du-kər	1PL.PST-raise	v:pred	v		pred		
+tulil	jkpp	0089	tang	REFL	refl.h:p	refl	h	p	3104	
+tulil	jkpp	0089	#	#	##	##				
+tulil	jkpp	0089	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0089	du-p~pi	1PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0089	ava	again	other	other				
+tulil	jkpp	0089	nə-m~bo	LOC-RED~UP	other:g	other		g		
+tulil	jkpp	0089	muləgəp	two	ln	ln				
+tulil	jkpp	0089	nəvon	time	np:other	np		other	3133	
+tulil	jkpp	0089	#	#	#	#				
+tulil	jkpp	0089	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0089	o	TOP	other	other				
+tulil	jkpp	0089	du-p~pi	1PL.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0089	nandi	like_this	other	other				
+tulil	jkpp	0089	#	#	#neg	#neg				
+tulil	jkpp	0089	ko	NEG	other	other				
+tulil	jkpp	0089	go	NSPEC	ln	ln				
+tulil	jkpp	0089	kəvənav	rain	np:predex	np		predex		
+tulil	jkpp	0089	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0089	von	3SG.DIM	nc	nc				
+tulil	jkpp	0089	konəng	only	nc	nc				
+tulil	jkpp	0089	von	3SG.DIM	nc	nc				
+tulil	jkpp	0089	konəng	only	nc	nc				
+tulil	jkpp	0089	von	3SG.DIM	nc	nc				
+tulil	jkpp	0089	konəng	only	nc	nc				
+tulil	jkpp	0089	ar	still	nc	nc				
+tulil	jkpp	0089	tə=	to=	nc	nc				
+tulil	jkpp	0089	be	at	nc	nc				
+tulil	jkpp	0089	vət	3SG.SEG	nc	nc				
+tulil	jkpp	0089	#	#	#rc	#rc				
+tulil	jkpp	0089	to	REL	other	other				
+tulil	jkpp	0089	ngang	1SG	pro.1:a	pro	1	a	3104	
+tulil	jkpp	0089	ngə-mu	1SG.PST-put	v:pred	v		pred		
+tulil	jkpp	0089	ngə=	1SG.POSS.INAL=	=ln_pro.1:poss	=ln_pro	1	poss	3104	
+tulil	jkpp	0089	katə	leg	np:p	np		p	3120	
+tulil	jkpp	0089	mənu	back_of	adp	adp				
+tulil	jkpp	0089	nang	tree	np:g	np		g	3139	new
+tulil	jkpp	0089	laik	big	rn	rn				
+tulil	jkpp	0089	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0089	nə-mə	LOC-DOWN	rn	rn				
+tulil	jkpp	0089	ba	in	rn	rn				
+tulil	jkpp	0089	venang	something	rn_np	rn_np				
+tulil	jkpp	0089	#	#	##neg	##neg				
+tulil	jkpp	0089	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0089	kori	NEG	other	other				
+tulil	jkpp	0089	du-toti	1PL.PST-see	v:pred	v		pred		
+tulil	jkpp	0089	vətə	meat	np:p	np		p	3140	new
+tulil	jkpp	0089	#	#	##	##				
+tulil	jkpp	0089	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0089	me	and	other	other				
+tulil	jkpp	0089	du-toti	1PL.PST-see	v:pred	v		pred		
+tulil	jkpp	0089	ko	only	rv	rv				
+tulil	jkpp	0089	n	APPL	rv	rv				
+tulil	jkpp	0089	=a	=PAT	=ln	=ln				
+tulil	jkpp	0089	lukluk	fish_shadow	np:p	np		p	3141	new
+tulil	jkpp	0089	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0089	be	at	adp	adp				
+tulil	jkpp	0089	nə-mə	LOC-DOWN	other:l	other		l		
+tulil	jkpp	0089	#	#	#	#				
+tulil	jkpp	0089	0	0	0:s	0		s	3104	
+tulil	jkpp	0089	to	SUB	other	other				
+tulil	jkpp	0089	idə-p~pi	3N.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0089	#	#	#	#				
+tulil	jkpp	0089	0	0	0:s	0		s	3141	
+tulil	jkpp	0089	idə-p~pi	3N.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0089	navodi	like_this	other	other				
+tulil	jkpp	0089	#	#	##	##				
+tulil	jkpp	0089	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0089	du-toti	1PL.PST-see	v:pred	v		pred		
+tulil	jkpp	0089	ko	only	rv	rv				
+tulil	jkpp	0089	n	APPL	rv	rv				
+tulil	jkpp	0089	=a	=PAT	=ln	=ln				
+tulil	jkpp	0089	məlivuv	NC	np:p	np		p	3141	
+tulil	jkpp	0089	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0089	#	#	##neg	##neg				
+tulil	jkpp	0089	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0089	me	and	other	other				
+tulil	jkpp	0089	vətə	meat	np:dt_p	np		dt_p	3140	
+tulil	jkpp	0089	o	TOP	other	other				
+tulil	jkpp	0089	kori	NEG	other	other				
+tulil	jkpp	0089	dutoti	1PL.PST-see	v:pred	v		pred		
+tulil	jkpp	0089	idə	3N	pro:p	pro		p	3140	
+tulil	jkpp	0089	məte	like	adp	adp				
+tulil	jkpp	0089	a-marek	ART-fish.sp.	np:dt	np		dt	3142	bridging
+tulil	jkpp	0089	kətiləm	prawn	rn	rn			3143	bridging
+tulil	jkpp	0089	kəgorə	eel	rn	rn			3144	bridging
+tulil	jkpp	0090	#	#	##	##				
+tulil	jkpp	0090	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0090	io	then	other	other				
+tulil	jkpp	0090	ngə-mu	1SG.PST-put	v:pred	v		pred		
+tulil	jkpp	0090	ngə=	1SG.POSS.INAL=	=ln_pro.1:poss	=ln_pro	1	poss	3002	
+tulil	jkpp	0090	katə	leg.PL	np:p	np		p	3109	
+tulil	jkpp	0090	mənu	back_of	adp	adp				
+tulil	jkpp	0090	kəbəram	plant.sp.	np:g	np		g	3145	new
+tulil	jkpp	0090	laik	big	rn	rn				
+tulil	jkpp	0090	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0090	#	#	#nc	#nc				
+tulil	jkpp	0090	kəbəram	plant.sp.	nc_np	nc_np			3145	
+tulil	jkpp	0090	=a	=SG.CL:MASC	nc	nc				
+tulil	jkpp	0090	a-bət	3SG.M-PROX2	nc	nc				
+tulil	jkpp	0090	o	TOP	nc	nc				
+tulil	jkpp	0090	vət	vət	nc	nc				
+tulil	jkpp	0090	me	and	nc	nc				
+tulil	jkpp	0090	v-ətor	3SG.M.PST-sit	nc	nc				
+tulil	jkpp	0090	navodi	like_this	nc	nc				
+tulil	jkpp	0091	#	#	##	##				
+tulil	jkpp	0091	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0091	kavar	just_then	other	other				
+tulil	jkpp	0091	ngan-e	1SG-QUOT	other:pred	other		pred		
+tulil	jkpp	0091	#	#	##	##				
+tulil	jkpp	0091	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0091	muləgəp	two	ln	ln				
+tulil	jkpp	0091	nəvon	time	np:dt	np		dt	3133	
+tulil	jkpp	0091	dava	PURP_again	other	other				
+tulil	jkpp	0091	ngə-mu	1SG.PST-put	v:pred	v		pred		
+tulil	jkpp	0091	ngə	1SG.POSS.INAL	ln_pro.1:poss	ln_pro	1	poss	3002	
+tulil	jkpp	0091	katə	leg.PL	np:p	np		p	3109	
+tulil	jkpp	0091	nə-bo	LOC-UP	other	other				
+tulil	jkpp	0091	be	at	adp	adp				
+tulil	jkpp	0091	vət	3SG.SEG	other:g	other		g		
+tulil	jkpp	0091	ko	only	other	other				
+tulil	jkpp	0091	#	#	#	#				
+tulil	jkpp	0091	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0091	to	SUB	other	other				
+tulil	jkpp	0091	bə=	ASP=	=other	=other				
+tulil	jkpp	0091	ngə-mu	1SG.PST-put	v:pred	v		pred		
+tulil	jkpp	0091	ngə	1SG.POSS.INAL	ln_pro.1:poss	ln_pro	1	poss	3002	
+tulil	jkpp	0091	katə	leg.PL	np:p	np		p	3109	
+tulil	jkpp	0091	be	at	adp	adp				
+tulil	jkpp	0091	maməni	one	np:g	np		g	3139	
+tulil	jkpp	0091	=von	=SG.CL:DIM	=rn	=rn				
+tulil	jkpp	0091	#	#	#	#				
+tulil	jkpp	0091	ava	again	other	other				
+tulil	jkpp	0091	pələp	lightning	np:predex	np		predex	3117	
+tulil	jkpp	0091	#	#	#	#				
+tulil	jkpp	0091	0	0	0:a	0		a		
+tulil	jkpp	0091	ava	again	other	other				
+tulil	jkpp	0091	it-e	3N.NPST-QUOT	other:pred	other		pred		
+tulil	jkpp	0091	kərung	thunder	np:p	np		p	3118	
+tulil	jkpp	0091	#	#	#	#				
+tulil	jkpp	0091	ava	again	other	other				
+tulil	jkpp	0091	pələp	lightning	np:predex	np		predex	3117	
+tulil	jkpp	0091	#	#	#	#				
+tulil	jkpp	0091	ava	again	other	other				
+tulil	jkpp	0091	kərung	thunder	np:predex	np		predex	3118	
+tulil	jkpp	0091	#	#	#	#				
+tulil	jkpp	0091	ava	again	other	other				
+tulil	jkpp	0091	pələp	lightning	np:predex	np		predex	3117	
+tulil	jkpp	0091	#	#	#	#				
+tulil	jkpp	0091	ava	again	other	other				
+tulil	jkpp	0091	kərung	thunder	np:predex	np		predex	3118	
+tulil	jkpp	0092	#	#	##	##				
+tulil	jkpp	0092	iap	3SG.M	pro.h:s	pro	h	s	3146	bridging
+tulil	jkpp	0092	#	#	#rc	#rc				
+tulil	jkpp	0092	0	0	0.h:s	0	h	s	3146	
+tulil	jkpp	0092	to	REL	other	other				
+tulil	jkpp	0092	a-pədəm	3SG.M-later	other:pred	other		pred		
+tulil	jkpp	0092	%	%	%	%				
+tulil	jkpp	0092	ava	again	other	other				
+tulil	jkpp	0092	a-nogət	3SG.M-first	other:pred	other		pred		
+tulil	jkpp	0092	#	#	##	##				
+tulil	jkpp	0092	me	and	other	other				
+tulil	jkpp	0092	va	again	other	other				
+tulil	jkpp	0092	ngang	1SG	pro.1:dt_s	pro	1	dt_s	3002	
+tulil	jkpp	0092	#	#	#rc	#rc				
+tulil	jkpp	0092	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0092	to	REL	other	other				
+tulil	jkpp	0092	nga-nogət	1SG-first	other:pred	other		pred		
+tulil	jkpp	0092	%	%	%	%				
+tulil	jkpp	0092	o	TOP	other	other				
+tulil	jkpp	0092	bə	ASP	other	other				
+tulil	jkpp	0092	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0092	nga-pədəm	1SG-later	other:pred	other		pred		
+tulil	jkpp	0093	#	#	##	##				
+tulil	jkpp	0093	0	0	0.h:s	0	h	s	3147	bridging
+tulil	jkpp	0093	a-və	3SG.M-NSPEC	nc	nc				
+tulil	jkpp	0093	at-nəvən	3SG.M.NPST-fall	v:pred	v		pred		
+tulil	jkpp	0093	#	#	#	#				
+tulil	jkpp	0093	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0093	o	TOP	other	other				
+tulil	jkpp	0093	d-ərkat	1PL.NPST-leave_behind	v:pred	v		pred		
+tulil	jkpp	0093	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	3147	
+tulil	jkpp	0093	#	#	#	#				
+tulil	jkpp	0093	to	SUB	other	other				
+tulil	jkpp	0093	udu	1PL	pro.1:s	pro	1	s	3104	
+tulil	jkpp	0093	o	TOP	other	other				
+tulil	jkpp	0093	iaor	afraid	np:pred	np		pred		
+tulil	jkpp	0093	#	#	##	##				
+tulil	jkpp	0093	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0093	du-merən	1PL.PST-run	v:pred	v		pred		
+tulil	jkpp	0093	#	#	##	##				
+tulil	jkpp	0093	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0093	du-merən	1PL.PST-run	v:pred	v		pred		
+tulil	jkpp	0093	#	#	##	##				
+tulil	jkpp	0093	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0093	du-merən	1PL.PST-run	v:pred	v		pred		
+tulil	jkpp	0093	ar	still	other	other				
+tulil	jkpp	0093	təkə=	to=	=adp	=adp				
+tulil	jkpp	0093	nə-mə	LOC-DOWN	other:g	other		g		
+tulil	jkpp	0094	#	#	##	##				
+tulil	jkpp	0094	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0094	du-leir	1PL.PST-harm	v:pred	v		pred		
+tulil	jkpp	0094	moli	real	rv	rv				
+tulil	jkpp	0094	#	#	#	#				
+tulil	jkpp	0094	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0094	to	SUB	other	other				
+tulil	jkpp	0094	du-kuv	1PL.PST-pull	v:pred	v		pred		
+tulil	jkpp	0094	=a	=PAT	=ln	=ln				
+tulil	jkpp	0094	du	1PL.POSS	ln_pro.1:poss	ln_pro	1	poss	3104	
+tulil	jkpp	0094	katə	leg.PL	np:p	np		p	3120	
+tulil	jkpp	0094	mən=	from=	=adp	=adp				
+tulil	jkpp	0094	ba	in	adp	adp				
+tulil	jkpp	0094	kətəbukbuk	thick_mud	np:l	np		l	3108	
+tulil	jkpp	0094	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0094	#	#	#	#				
+tulil	jkpp	0094	kati	SUB	other	other				
+tulil	jkpp	0094	avar	also	other	other				
+tulil	jkpp	0094	pək	bright	np:predex	np		predex		
+tulil	jkpp	0094	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0095	#	#	##	##				
+tulil	jkpp	0095	nə-bo	LOC-UP	other:dt	other		dt		
+tulil	jkpp	0095	kətəbukbuk	thick_mud	np:predex	np		predex	3108	
+tulil	jkpp	0095	katum	all;finished	rn	rn				
+tulil	jkpp	0095	konəng	only	rn	rn				
+tulil	jkpp	0095	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0095	#	#	##	##				
+tulil	jkpp	0095	me	and	other	other				
+tulil	jkpp	0095	ioi	water	np:s	np		s	3148	new
+tulil	jkpp	0095	kurek	bad	rn	rn				
+tulil	jkpp	0095	u-bət	3N-PROX2	dem_pro:pred	dem_pro		pred		
+tulil	jkpp	0095	#	#	#rc	#rc				
+tulil	jkpp	0095	0	0	0:s	0		s	3148	
+tulil	jkpp	0095	to	REL	other	other				
+tulil	jkpp	0095	idə-morən	3N.PST-cover	v:pred	v		pred		
+tulil	jkpp	0095	ulang	yellow	other	other				
+tulil	jkpp	0096	#	#	##	##				
+tulil	jkpp	0096	io	then	other	other				
+tulil	jkpp	0096	təkə=	to=	=adp	=adp				
+tulil	jkpp	0096	nə-mə	LOC-DOWN	dem_other:pred	dem_other		pred		
+tulil	jkpp	0096	#	#	##	##				
+tulil	jkpp	0096	ava	again	other	other				
+tulil	jkpp	0096	məgət	same_as	other:pred	other		pred		
+tulil	jkpp	0096	tang	REFL	nc	nc				
+tulil	jkpp	0096	konəng	only	other	other				
+tulil	jkpp	0096	#	#	##	##				
+tulil	jkpp	0096	vənu	sun	np:s	np		s	3126	
+tulil	jkpp	0096	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0096	və-tor	3SG.M.PAT-sit	v:pred	v		pred		
+tulil	jkpp	0096	#	#	##neg	##neg				
+tulil	jkpp	0096	kori	NEG	other	other				
+tulil	jkpp	0096	go	NSPEC	ln	ln				
+tulil	jkpp	0096	kəvənav	rain	np:predex	np		predex		
+tulil	jkpp	0096	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0096	nə-mə	LOC-DOWN	other	other				
+tulil	jkpp	0096	ga	across	adp	adp				
+tulil	jkpp	0096	Laikpoi	Laikpoi	pn_np:l	pn_np		l	3122	
+tulil	jkpp	0096	idə-n	3N-COM	rn	rn				
+tulil	jkpp	0096	=a	=PAT	=rn	=rn				
+tulil	jkpp	0096	Piupiu	Piupiu	rn_np	rn_np			3123	
+tulil	jkpp	0096	#	#	##	##				
+tulil	jkpp	0096	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0096	ava	again	other	other				
+tulil	jkpp	0096	du-mətor	1PL.PST-sit	v:pred	v		pred		
+tulil	jkpp	0097	#	#	##	##				
+tulil	jkpp	0097	vareot	long_time	other	other				
+tulil	jkpp	0097	vareot	long_time	nc	nc				
+tulil	jkpp	0097	vareot	long_time	nc	nc				
+tulil	jkpp	0097	vareot	long_time	nc	nc				
+tulil	jkpp	0097	idə-təp	3N.PST-dry	v:pred	v		pred		
+tulil	jkpp	0097	mat	get	rv	rv				
+tulil	jkpp	0097	udu	1PL	pro.1:s_iv	pro	1	s_iv	3104	
+tulil	jkpp	0097	#	#	#neg	#neg				
+tulil	jkpp	0097	tove	because	other	other				
+tulil	jkpp	0097	ko	NEG	other	other				
+tulil	jkpp	0097	go	NSPEC	ln	ln				
+tulil	jkpp	0097	kəvənav	rain	np:predex	np		predex		
+tulil	jkpp	0097	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0097	nə-mə	LOC-DOWN	other:l	other		l		
+tulil	jkpp	0097	#	#	##	##				
+tulil	jkpp	0097	mə(n)=	from=	=adp	=adp				
+tulil	jkpp	0097	nə-bo	LOC-UP	other:pred	other		pred		
+tulil	jkpp	0097	n	APPL	rv	rv				
+tulil	jkpp	0097	=a	=PAT	=ln	=ln				
+tulil	jkpp	0097	iləm	flood	np:s	np		s	3149	new
+tulil	jkpp	0097	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0097	#	#	##	##				
+tulil	jkpp	0097	0	0	0.h:s	0	h	s	3104	
+tulil	jkpp	0097	bə=	ASP=	=other	=other				
+tulil	jkpp	0097	və-p~pi	3SG.M.PST-RED~go	v:pred	v		pred		
+tulil	jkpp	0098	#	#	##	##				
+tulil	jkpp	0098	ta	3PL	pro.h:s_ds	pro	h	s_ds	3112	
+tulil	jkpp	0098	tat-e	3PL-QUOT	other:pred	other		pred		
+tulil	jkpp	0098	#	#	#ds_neg	#ds_neg				
+tulil	jkpp	0098	0	0	0.1:s	0	1	s	3112	
+tulil	jkpp	0098	bə=	ASP=	=other	=other				
+tulil	jkpp	0098	kori	NEG	other	other				
+tulil	jkpp	0098	də-p~pi	1PL.NPST-RED~go	v:pred	v		pred		
+tulil	jkpp	0098	#	#	##	##				
+tulil	jkpp	0098	0	0	0.1:s_ds	0	1	s_ds	3002	
+tulil	jkpp	0098	ngan-e	1SG-QUOT	other:pred	other		pred		
+tulil	jkpp	0098	#	#	##ds	##ds				
+tulil	jkpp	0098	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0098	nga-lar	1SG.NPST-try	v:pred	v		pred		
+tulil	jkpp	0098	bemə	at	rv	rv				
+tulil	jkpp	0098	nging	2SG	pro.2:p	pro	2	p	3112	
+tulil	jkpp	0098	muləgəp_magə	three	np:other	np		other	3150	new
+tulil	jkpp	0098	=von	=SG.CL:DIM	=rn	=rn				
+tulil	jkpp	0098	#	#	##	##				
+tulil	jkpp	0098	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0098	dava	PURP_again	other	other				
+tulil	jkpp	0098	du-m~bo	1PL-RED~UP	other:pred	other		pred		
+tulil	jkpp	0098	#	#	#ac	#ac				
+tulil	jkpp	0098	doto	when;if	other	other				
+tulil	jkpp	0098	bə=	ASP=	=other	=other				
+tulil	jkpp	0098	muləgəp_magə	three	np:s	np		s	3150	
+tulil	jkpp	0098	=von	=SG.CL:DIM	=rn	=rn				
+tulil	jkpp	0098	o	TOP	other	other				
+tulil	jkpp	0098	toktok	end;last	other:pred	other		pred		
+tulil	jkpp	0098	#	#	#	#				
+tulil	jkpp	0098	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0098	da	PURP	other	other				
+tulil	jkpp	0098	bə=	ASP=	=other	=other				
+tulil	jkpp	0098	də-liu	1PL.NPST-return	v:pred	v		pred		
+tulil	jkpp	0099	#	#	#neg	#neg				
+tulil	jkpp	0099	kori	NEG	other	other				
+tulil	jkpp	0099	go	NSPEC	other	other				
+tulil	jkpp	0099	varvar	happy	other:pred	other		pred		
+tulil	jkpp	0099	ta	3PL	pro.h:s	pro	h	s	3112	
+tulil	jkpp	0099	təda	for	adp	adp				
+tulil	jkpp	0099	pi	go	np:obl	np		obl	3151	bridging
+tulil	jkpp	0100	#	#	##	##				
+tulil	jkpp	0100	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0100	ngə-matər	1SG.PST-stand	v:pred	v		pred		
+tulil	jkpp	0100	#	#	##	##				
+tulil	jkpp	0100	0	0	0.1:s	0	1	s	3002	
+tulil	jkpp	0100	ngan-e	1SG-QUOT	other:pred	other		pred		
+tulil	jkpp	0100	#	#	##ds	##ds				
+tulil	jkpp	0100	ngang	1SG	pro.1:dt_s	pro	1	dt_s	3002	
+tulil	jkpp	0100	o	TOP	other	other				
+tulil	jkpp	0100	lang	want	v:pred	v		pred		
+tulil	jkpp	0100	mə	APPL	rv	rv				
+tulil	jkpp	0100	ngang	1SG	pro.1:s_sv	pro	1	s_sv	3002	
+tulil	jkpp	0100	#	#	#cc	#cc				
+tulil	jkpp	0100	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0100	da	PURP	other	other				
+tulil	jkpp	0100	ava	again	other	other				
+tulil	jkpp	0100	du-m~bo	1PL-RED~UP	other:pred	other		pred		
+tulil	jkpp	0101	#	#	##	##				
+tulil	jkpp	0101	to-Lait	ART.M-Lait	pn_np.h:s_ds	pn_np	h	s_ds	3100	
+tulil	jkpp	0101	v-əngar	3SG.M.PST-say	v:pred	v		pred		
+tulil	jkpp	0101	at-e	3SG.M-QUOT	other	other				
+tulil	jkpp	0101	#	#	##ds	##ds				
+tulil	jkpp	0101	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	3100	
+tulil	jkpp	0101	laik	big	np.h:voc	np	h	voc	3002	
+tulil	jkpp	0101	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0101	#	#	#ds	#ds				
+tulil	jkpp	0101	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0101	do	here;now	other:dt	other		dt		
+tulil	jkpp	0101	o	TOP	other	other				
+tulil	jkpp	0101	du-m~bo	1PL-RED~UP	dem_other:pred	dem_other		pred		
+tulil	jkpp	0101	me	and	other	other				
+tulil	jkpp	0101	#	#	#	#				
+tulil	jkpp	0101	a-vi	3SG.M-PROX1	dem_pro:a	dem_pro		a	3093	
+tulil	jkpp	0101	a-pə~vən	3SG.M.NPST-RED~hit	v:pred	v		pred		
+tulil	jkpp	0101	ko	only	rv	rv				
+tulil	jkpp	0101	n	APPL	rv	rv				
+tulil	jkpp	0101	=udu	=1PL	=pro.1:p	=pro	1	p	3104	
+tulil	jkpp	0101	#	#	#	#				
+tulil	jkpp	0101	io	then	other	other				
+tulil	jkpp	0101	ti	lest	other	other				
+tulil	jkpp	0101	bə=	ASP=	=other	=other				
+tulil	jkpp	0101	gət	NSPEC	pro.h:s	pro	h	s	3152	bridging
+tulil	jkpp	0101	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0101	a-təup	3SG.M.NPST-die	v:pred	v		pred		
+tulil	jkpp	0102	#	#	##	##				
+tulil	jkpp	0102	ngang	1SG	pro.1:s_ds	pro	1	s_ds	3002	
+tulil	jkpp	0102	ngan-e	1SG-QUOT	other:pred	other		pred		
+tulil	jkpp	0102	#	#	##ds	##ds				
+tulil	jkpp	0102	0	0	0.2:a	0	2	a	3100	
+tulil	jkpp	0102	nging	2SG	pro.2:dt_s	pro	2	dt_s	3100	
+tulil	jkpp	0102	o	TOP	other	other				
+tulil	jkpp	0102	ngi-bitəmut	2SG.PST-believe	v:pred	v		pred		
+tulil	jkpp	0102	bətm	with	rv	rv				
+tulil	jkpp	0102	=a	=PAT	=ln	=ln				
+tulil	jkpp	0102	guria	who.SG.CL:MASC	pro.h:p	pro	h	p		
+tulil	jkpp	0102	idabi	spirit	np:dt_p	np		dt_p	3153	new
+tulil	jkpp	0102	mədən	smooth;straight	rn	rn				
+tulil	jkpp	0102	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0102	ba	or	rn	rn				
+tulil	jkpp	0102	idabi	spirit	rn_np	rn_np			3154	new
+tulil	jkpp	0102	vor	crooked	rn	rn				
+tulil	jkpp	0102	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0103	#	#	##	##				
+tulil	jkpp	0103	0	0	0.h:s	0	h	s	3100	
+tulil	jkpp	0103	io	then	other	other				
+tulil	jkpp	0103	ava	again	other	other				
+tulil	jkpp	0103	v-ənan	3SG.M.PST-listen	v:pred	v		pred		
+tulil	jkpp	0104	#	#	##	##				
+tulil	jkpp	0104	0	0	0.1:s_ds	0	1	s_ds	3002	
+tulil	jkpp	0104	ngan-e	1SG-QUOT	other:pred	other		pred		
+tulil	jkpp	0104	#	#	##ds	##ds				
+tulil	jkpp	0104	ngang	1SG	pro.1:dt_s	pro	1	dt_s	3002	
+tulil	jkpp	0104	lang	want	v:pred	v		pred		
+tulil	jkpp	0104	mə	APPL	rv	rv				
+tulil	jkpp	0104	ngang	1SG	pro.1:s_sv	pro	1	s_sv	3002	
+tulil	jkpp	0104	#	#	#ds_cc	#ds_cc				
+tulil	jkpp	0104	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0104	dava	PURP_again	other	other				
+tulil	jkpp	0104	ngə-tinak	1SG.PST-request	v:pred	v		pred		
+tulil	jkpp	0104	ngən	1PL	pro.2:p	pro	2	p	3112	
+tulil	jkpp	0104	#	#	#	#				
+tulil	jkpp	0104	məle	rest	v:pred	v		pred		
+tulil	jkpp	0104	vəvat	very	rv	rv				
+tulil	jkpp	0104	moli	real	rv	rv				
+tulil	jkpp	0104	n	APPL	rv	rv				
+tulil	jkpp	0104	udu	1PL	pro.1:s_sv	pro	1	s_sv	3104	
+tulil	jkpp	0105	#	#	##	##				
+tulil	jkpp	0105	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0105	du-mət	1PL.PST-eat	v:pred	v		pred		
+tulil	jkpp	0105	mat	get	rv	rv				
+tulil	jkpp	0105	=a	=PAT	=ln	=ln				
+tulil	jkpp	0105	məna	first	ln	ln				
+tulil	jkpp	0105	ve	just	ln	ln				
+tulil	jkpp	0105	lokmət	wet	np:p	np		p	3155	new
+tulil	jkpp	0105	u-bət	3N-PROX2	rn	rn				
+tulil	jkpp	0105	#	#	#	#				
+tulil	jkpp	0105	to	SUB	other	other				
+tulil	jkpp	0105	bə	ASP=	=other	=other				
+tulil	jkpp	0105	lokmət	wet	other:pred	other		pred		
+tulil	jkpp	0105	idə	3N	pro:s	pro		s	3155	
+tulil	jkpp	0105	ba	in	adp	adp				
+tulil	jkpp	0105	du	1PL.POSS	ln_pro.1:poss	ln_pro	1	poss	3104	
+tulil	jkpp	0105	kabak	basket	np:other	np		other	3156	new
+tulil	jkpp	0105	#	#	##	##				
+tulil	jkpp	0105	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0105	me	and	other	other				
+tulil	jkpp	0105	du	1PL.POSS	ln_pro.1:poss	ln_pro	1	poss	3104	
+tulil	jkpp	0105	mətmət	food	np:dt	np		dt	3155	
+tulil	jkpp	0105	#	#	#rc	#rc				
+tulil	jkpp	0105	0	0	0:s	0		s	3155	
+tulil	jkpp	0105	to	REL	other	other				
+tulil	jkpp	0105	məte	like	adp	adp				
+tulil	jkpp	0105	a-pəvərai	ART-singapore	np:pred	np		pred		
+tulil	jkpp	0105	a-topiok	ART-cassava	rn_np	rn_np				
+tulil	jkpp	0105	=pətəng	=PL.CL:SEG	=rn	=rn				
+tulil	jkpp	0105	#	#	#rc	#rc				
+tulil	jkpp	0105	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0105	to	REL	other	other				
+tulil	jkpp	0105	du-venang	1PL.PST-venang	v:pred	v		pred		
+tulil	jkpp	0105	n	APPL	rv	rv				
+tulil	jkpp	0105	=a	=PAT	=ln	=ln				
+tulil	jkpp	0105	ləmat	coconut	np:p	np		p	3157	new
+tulil	jkpp	0105	=pəlak	=PL.CL:PIECE	=rn	=rn				
+tulil	jkpp	0105	#	#	#	#				
+tulil	jkpp	0105	o	TOP	other	other				
+tulil	jkpp	0105	məna	first	ln	ln				
+tulil	jkpp	0105	kəvənav	rain	np:a	np		a	3119	
+tulil	jkpp	0105	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0105	i-vat	3SG.F.PST-wet	v:pred	v		pred		
+tulil	jkpp	0105	idə	3N	pro:p	pro		p	3155	
+tulil	jkpp	0105	#	#	#	#				
+tulil	jkpp	0105	io	then	other	other				
+tulil	jkpp	0105	malot	soft	v:pred	v		pred		
+tulil	jkpp	0105	kup	thoroughly	rv	rv				
+tulil	jkpp	0105	n	APPL	rv	rv				
+tulil	jkpp	0105	=idə	=3N	=pro:s_sv	=pro		s_sv	3155	
+tulil	jkpp	0105	#	#	#	#				
+tulil	jkpp	0105	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0105	0	0	0:p	0		p		
+tulil	jkpp	0105	o	TOP	other	other				
+tulil	jkpp	0105	du-mət	1PL.PST-eat	v:pred	v		pred		
+tulil	jkpp	0105	mat	get	rv	rv				
+tulil	jkpp	0106	#	#	##	##				
+tulil	jkpp	0106	io	then	other	other				
+tulil	jkpp	0106	vənu	sun	np:predex	np		predex	3126	
+tulil	jkpp	0106	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0106	#	#	##	##				
+tulil	jkpp	0106	vareot	long_time	other:pred	other		pred		
+tulil	jkpp	0106	udu	1PL	pro.1:s	pro	1	s	3104	
+tulil	jkpp	0106	#	#	##	##				
+tulil	jkpp	0106	0	0	0.1:a	0	1	a	3104	
+tulil	jkpp	0106	io	then	other	other				
+tulil	jkpp	0106	akəra	just	other	other				
+tulil	jkpp	0106	va	again	other	other				
+tulil	jkpp	0106	du-kər	1PL.PST-raise	v:pred	v		pred		
+tulil	jkpp	0106	tang	REFL	refl.h:p	refl	h	p	3104	
+tulil	jkpp	0106	muləgəp_magə	three	np:other	np		other	3150	
+tulil	jkpp	0106	=von	=SG.CL:DIM	=rn	=rn				
+tulil	jkpp	0107	#	#	##	##				
+tulil	jkpp	0107	io	then	other	other				
+tulil	jkpp	0107	lət	arrive	v:pred	v		pred		
+tulil	jkpp	0107	n	APPL	rv	rv				
+tulil	jkpp	0107	=udu	=1PL	=pro.1:s_sv	=pro	1	s_sv	3104	
+tulil	jkpp	0107	nə-bo	LOC-UP	other:g	other		g		
+tulil	jkpp	0107	#	#	##	##				
+tulil	jkpp	0107	ava	again	other	other				
+tulil	jkpp	0107	məgət	same_as	other:pred	other		pred		
+tulil	jkpp	0107	tang	REFL	rv	rv				
+tulil	jkpp	0107	konəng	only	rv	rv				
+tulil	jkpp	0107	#	#	##	##				
+tulil	jkpp	0107	0	0	0.1:a	0	1	a	3002	
+tulil	jkpp	0107	ava	again	other	other				
+tulil	jkpp	0107	ngə-mu	1SG.PST-put	v:pred	v		pred		
+tulil	jkpp	0107	ngə=	1SG.POSS.INAL=	=ln_pro.1:poss	=ln_pro	1	poss	3002	
+tulil	jkpp	0107	katə	leg.PL	np:p	np		p	3109	
+tulil	jkpp	0107	mənu	back_of	adp	adp				
+tulil	jkpp	0107	kəbəram	plant.sp.	np:g	np		g	3145	
+tulil	jkpp	0107	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0107	#	#	#nc	#nc				
+tulil	jkpp	0107	ava	again	nc	nc				
+tulil	jkpp	0107	pələp	lightning	nc_np	nc_np			3117	
+tulil	jkpp	0107	o	TOP	nc	nc				
+tulil	jkpp	0107	bə	ASP=	nc	nc				
+tulil	jkpp	0107	[INAUDIBLE]	NC	nc	nc				
+tulil	jkpp	0107	vəvat	very	nc	nc				
+tulil	jkpp	0107	n	APPL	nc	nc				
+tulil	jkpp	0107	=a	=SG.CL:MASC	nc	nc				
+tulil	jkpp	0107	#	#	#	#				
+tulil	jkpp	0107	0	0	0.h:a	0	h	a	3158	new
+tulil	jkpp	0107	məte	like	other	other				
+tulil	jkpp	0107	doto	when;if	other	other				
+tulil	jkpp	0107	tə-vun(ə)	3PL.PST-throw	v:pred	v		pred		
+tulil	jkpp	0107	=a	=PAT	=ln	=ln				
+tulil	jkpp	0107	venang	something	np:p	np		p		
+tulil	jkpp	0107	nandi	like_this	other	other				
+tulil	jkpp	0107	a-ka	ART-iron_roof	np:appos	np		appos	3159	new
+tulil	jkpp	0107	=vələ	=vələ	=rn	=rn				
+tulil	jkpp	0107	#	#	#	#				
+tulil	jkpp	0107	0	0	0.h:a	0	h	a	3158	
+tulil	jkpp	0107	to	to	other	other				
+tulil	jkpp	0107	tə-vume	3PL.PST-hit	v:pred	v		pred		
+tulil	jkpp	0107	vələ	vələ	pro:p	pro		p	3159	
+tulil	jkpp	0107	ba	in	adp	adp				
+tulil	jkpp	0107	du	1PL.POSS	ln_pro.1:poss	ln_pro	1	poss	3104	
+tulil	jkpp	0107	təmək	ear	np:l	np		l	3160	bridging
+tulil	jkpp	0107	%	%	%	%				
+tulil	jkpp	0107	o	TOP	other	other				
+tulil	jkpp	0107	von	3SG.DIM	other	other				
+tulil	jkpp	0107	to	SUB	other	other				
+tulil	jkpp	0107	da	PURP	other	other				
+tulil	jkpp	0107	var	also	other	other				
+tulil	jkpp	0107	bə=	ASP=	=other	=other				
+tulil	jkpp	0107	kəvənav	rain	np:predex	np		predex	3119	
+tulil	jkpp	0107	=e	=SG.CL:FEM	=rn	=rn				
+tulil	jkpp	0107	me	and	rn	rn				
+tulil	jkpp	0107	gəri	what	rn_np	rn_np				
+tulil	jkpp	0107	#	#	##	##				
+tulil	jkpp	0107	me	and	other	other				
+tulil	jkpp	0107	bərivu	wind	np:a	np		a	3115	
+tulil	jkpp	0107	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0107	bə=	ASP=	=other	=other				
+tulil	jkpp	0107	dame	SUBJ.PURP	other	other				
+tulil	jkpp	0107	bə=	ASP=	=other	=other				
+tulil	jkpp	0107	a-kət	3SG.M.NPST-lift	v:pred	v		pred		
+tulil	jkpp	0107	mən(ə)	off	rv	rv				
+tulil	jkpp	0107	=a	=PAT	=ln	=ln				
+tulil	jkpp	0107	gət	NSPEC	np:p	np		p	3161	bridging
+tulil	jkpp	0107	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0107	#	#	#	#				
+tulil	jkpp	0107	0	0	0:a	0		a	3115	
+tulil	jkpp	0107	da	PURP	other	other				
+tulil	jkpp	0107	a-pun(ə)	3SG.M.NPST-throw	v:pred	v		pred		
+tulil	jkpp	0107	=a	=3SG.M.PAT	=pro:p	=pro		p	3161	
+tulil	jkpp	0107	təkə=	to=	=adp	=adp				
+tulil	jkpp	0107	nə-mu	LOC-IN	other:g	other		g		
+tulil	jkpp	0107	#	#	#	#				
+tulil	jkpp	0107	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0107	o	TOP	other	other				
+tulil	jkpp	0107	von	3SG.DIM	other	other				
+tulil	jkpp	0107	to	REL	other	other				
+tulil	jkpp	0107	da	PURP	other	other				
+tulil	jkpp	0107	var	also	other	other				
+tulil	jkpp	0107	bə=	ASP=	=other	=other				
+tulil	jkpp	0107	du-merən	1PL.PST-run	v:pred	v		pred		
+tulil	jkpp	0107	kəbəko(k)	various	rv	rv				
+tulil	jkpp	0107	kup	thoroughly	rv	rv				
+tulil	jkpp	0107	#	#	#neg	#neg				
+tulil	jkpp	0107	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0107	to	to	other	other				
+tulil	jkpp	0107	bə=	ASP=	=other	=other				
+tulil	jkpp	0107	kori	NEG	other	other				
+tulil	jkpp	0107	du-təm	1PL.PST-know	v:pred	v		pred		
+tulil	jkpp	0107	#	#	#	#				
+tulil	jkpp	0107	me	and	other	other				
+tulil	jkpp	0107	bə=	ASP=	=other	=other				
+tulil	jkpp	0107	vul	night	np:predex	np		predex	3162	new
+tulil	jkpp	0107	=a	=SG.CL:MASC	=rn	=rn				
+tulil	jkpp	0108	#	#	##	##				
+tulil	jkpp	0108	io	then	other	other				
+tulil	jkpp	0108	do	here;now	other	other				
+tulil	jkpp	0108	toktok	end;last	other:pred	other		pred		
+tulil	jkpp	0108	n	APPL	rn	rn				
+tulil	jkpp	0108	=a	=PAT	=ln	=ln				
+tulil	jkpp	0108	vət-bət	3SG.SEG-PROX2	dem_pro:s	dem_pro		s		
+tulil	jkpp	0109	#	#	##	##				
+tulil	jkpp	0109	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0109	io	then	other	other				
+tulil	jkpp	0109	du-liu	1PL.PST-return	v:pred	v		pred		
+tulil	jkpp	0109	#	#	#	#				
+tulil	jkpp	0109	0	0	0.1:s	0	1	s	3104	
+tulil	jkpp	0109	o	TOP	other	other				
+tulil	jkpp	0109	bə=	ASP=	=other	=other				
+tulil	jkpp	0109	du-mətor	1PL.PST-sit	v:pred	v		pred		
+tulil	jkpp	0109	vəvavon	quiet	rv	rv				
+tulil	jkpp	0109	konəng	only	rv	rv				
+tulil	jkpp	0109	nə-bət	LOC-PROX2	other:l	other		l		
+tulil	jkpp	0110	#	#	#nc	#nc				
+tulil	jkpp	0110	nga	1SG.POSS	nc	nc				
+tulil	jkpp	0110	bokbok	talk	nc	nc				
+tulil	jkpp	0110	u-vi	3N-PROX1	nc	nc				
+tulil	jkpp	0110	(#)	(#)	nc	nc				
+tulil	jkpp	0110	to	REL	nc	nc				
+tulil	jkpp	0110	ngə-bokbok	1SG.PST-talk	nc	nc				
+tulil	jkpp	0110	be	at	nc	nc				
+tulil	jkpp	0110	vət-bət	3SG.SEG-PROX2	nc	nc				
+tulil	jkpp	0110	(#)	(#)	nc	nc				
+tulil	jkpp	0110	to	REL	nc	nc				
+tulil	jkpp	0110	b=	ASP=	nc	nc				
+tulil	jkpp	0110	inə-mənan	2PL.PST-listen	nc	nc				
+tulil	jkpp	0110	mərek	good	nc	nc				

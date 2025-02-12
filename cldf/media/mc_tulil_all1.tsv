@@ -1,0 +1,900 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+tulil	all1	0001	#	#	#nc	#nc				
+tulil	all1	0001	ngang	1SG	nc	nc				
+tulil	all1	0001	o	TOP	nc	nc				
+tulil	all1	0001	nga	1SG.POSS	nc	nc				
+tulil	all1	0001	itən	name	nc	nc				
+tulil	all1	0001	=e	=SG.CL:FEM	nc	nc				
+tulil	all1	0001	Augustine	Augustine	nc	nc				
+tulil	all1	0001	Rickie	Rickie	nc	nc				
+tulil	all1	0002	#	#	#nc	#nc				
+tulil	all1	0002	me	and	nc	nc				
+tulil	all1	0002	do	here;now	nc	nc				
+tulil	all1	0002	nga-nəngar	1SG.NPST-say	nc	nc				
+tulil	all1	0002	be	at	nc	nc				
+tulil	all1	0002	a-pir	ART-story	nc	nc				
+tulil	all1	0002	to	REL	nc	nc				
+tulil	all1	0002	ngə-mat	1SG.PST-get	nc	nc				
+tulil	all1	0002	idə	3N	nc	nc				
+tulil	all1	0002	bətm	with	nc	nc				
+tulil	all1	0002	=a	=PAT	nc	nc				
+tulil	all1	0002	nga	1SG.POSS	nc	nc				
+tulil	all1	0002	iaia	grandpa	nc	nc				
+tulil	all1	0003	#	#	#nc	#nc				
+tulil	all1	0003	nga	1SG.POSS	nc	nc				
+tulil	all1	0003	iaia	grandpa	nc_np.h	nc_np	h		1004	bridging
+tulil	all1	0003	və-m~ume	3SG.M.PST-RED~tell	nc	nc				
+tulil	all1	0003	ngang	1SG	nc	nc				
+tulil	all1	0003	at-e	3SG.M-QUOT	nc	nc				
+tulil	all1	0003	#	#	##	##				
+tulil	all1	0003	ar	still	other	other				
+tulil	all1	0003	bəvon	before	other	other				
+tulil	all1	0003	kup	far	other	other				
+tulil	all1	0003	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	all1	0003	ba	in	adp	adp				
+tulil	all1	0003	ibən	earth	np:dt	np		dt	1001	new
+tulil	all1	0003	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0003	dova	at_the_place_of	adp	adp				
+tulil	all1	0003	Butəm	Butəm	pn_np:dt	pn_np		dt	1001	
+tulil	all1	0003	o	TOP	other	other				
+tulil	all1	0003	tor	wood	np:s	np		s	1002	new
+tulil	all1	0003	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0003	b=	ASP=	=other	=other				
+tulil	all1	0003	i-mətor	3SG.F.PST-sit	v:pred	v		pred		
+tulil	all1	0003	#	#	##	##				
+tulil	all1	0003	0	0	0.h:s	0	h	s	1002	new
+tulil	all1	0003	b=	ASP=	=other	=other				
+tulil	all1	0003	i-mətor	3SG.F.PST-sit	v:pred	v		pred		
+tulil	all1	0003	kia	first	other	other				
+tulil	all1	0003	#	#	##	##				
+tulil	all1	0003	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0003	me	and	other	other				
+tulil	all1	0003	doto	when;if	other	other				
+tulil	all1	0003	vəti	day	np:dt	np		dt		
+tulil	all1	0003	təgə	one	rn	rn				
+tulil	all1	0003	=von	=SG.CL:DIM	=rn	=rn				
+tulil	all1	0003	o	TOP	other	other				
+tulil	all1	0003	v=	3SG.M.POSS=	=ln_pro.h:poss	=ln_pro	h	poss	1004	
+tulil	all1	0003	ativon	brother	np:dt_s	np		dt_s	1003	bridging
+tulil	all1	0003	o	TOP	other	other				
+tulil	all1	0003	və-ppi	3SG.M.PST-RED~walk;go	v:pred	v		pred		
+tulil	all1	0003	tə=	to=	=adp	=adp				
+tulil	all1	0003	ga	across	adp	adp				
+tulil	all1	0003	gup	hunt	np:obl	np		obl	1005	new
+tulil	all1	0003	to-Kankan	ART.M-Kankan	pn_np.h:dt	pn_np	h	dt	1003	
+tulil	all1	0004	#	#	##	##				
+tulil	all1	0004	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0004	və-p~pi	3SG.M.PST-RED~walk;go	v:pred	v		pred		
+tulil	all1	0004	tə=	to=	=adp	=adp				
+tulil	all1	0004	ga	across	adp	adp				
+tulil	all1	0004	gup	hunt	np:obl	np		obl	1005	
+tulil	all1	0004	#	#	##	##				
+tulil	all1	0004	io	then	other	other				
+tulil	all1	0004	kəvənau	rain	np:a	np		a	1006	new
+tulil	all1	0004	laik	big	rn	rn				
+tulil	all1	0004	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0004	i-tər	3SG.F.PST-meet	v:pred	v		pred		
+tulil	all1	0004	=a	=3SG.M.PAT	=pro.h:p	=pro	h	p	1003	
+tulil	all1	0004	nə-bo	LOC-UP	dem_other	dem_other				
+tulil	all1	0004	ba	in	adp	adp				
+tulil	all1	0004	tipur	forest	np:l	np		l	1007	new
+tulil	all1	0004	io	then	other	other				
+tulil	all1	0004	#	#	#ac	#ac				
+tulil	all1	0004	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0004	to	SUB	other	other				
+tulil	all1	0004	və-teltel	3SG.M.PST-wander	v:pred	v		pred		
+tulil	all1	0004	a-n	3SG.M-with	adp	adp				
+tulil	all1	0004	=a	=PAT	=ln	=ln				
+tulil	all1	0004	kəvop	dog	np:obl	np		obl	1008	new
+tulil	all1	0005	#	#	##	##				
+tulil	all1	0005	#	#	#	#				
+tulil	all1	0005	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0005	io	then	other	other				
+tulil	all1	0005	mata	until	other	other				
+tulil	all1	0005	da	PURP	other	other				
+tulil	all1	0005	bə=	ASP=	=other	=other				
+tulil	all1	0005	və-liu	3SG.M.PST-return	v:pred	v		pred		
+tulil	all1	0005	o	TOP	other	other				
+tulil	all1	0005	nə-mumə	LOC-DOWN.FAR	dem_other	dem_other				
+tulil	all1	0005	da	PURP	adp	adp				
+tulil	all1	0005	Voi	3SG.FLAT	pn_np:l	pn_np		l	1009	new
+tulil	all1	0005	bəli	pig	rn	rn				
+tulil	all1	0005	ioi	water	np:appos	np		appos	1009	
+tulil	all1	0005	laik	big	rn	rn				
+tulil	all1	0005	=poi	=SG.CL:FLAT	=rn	=rn				
+tulil	all1	0005	#	#	#rc	#rc				
+tulil	all1	0005	to	REL	other	other				
+tulil	all1	0005	voi	SG.FLAT	ln_np:poss	ln_np		poss		
+tulil	all1	0005	idə	3N	ln_pro:poss	ln_pro		poss		
+tulil	all1	0005	itən	name	np:s	np		s	1010	bridging
+tulil	all1	0005	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0005	Voi	Voi	pn_np:pred	pn_np		pred		
+tulil	all1	0005	bəli	pig	rn	rn				
+tulil	all1	0005	%	%	%	%				
+tulil	all1	0005	%	%	%	%				
+tulil	all1	0005	o	TOP	other	other				
+tulil	all1	0005	0	0	0.h:a	0	h	a	1003	
+tulil	all1	0005	və-tər	3SG.M.PST-meet	v:pred	v		pred		
+tulil	all1	0005	=a	=PAT	=ln	=ln				
+tulil	all1	0005	ioi	water	np:p	np		p	1009	
+tulil	all1	0005	=voi	=SG.CL:FLAT	=rn	=rn				
+tulil	all1	0005	#	#	#rc	#rc				
+tulil	all1	0005	to	REL	other	other				
+tulil	all1	0005	bə=	ASP=	=other	=other				
+tulil	all1	0005	iləm	flood	np:pred	np		pred		
+tulil	all1	0005	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0006	#	#	##	##				
+tulil	all1	0006	#	#	#ac	#ac				
+tulil	all1	0006	doto	when;if	other	other				
+tulil	all1	0006	bə=	ASP=	=other	=other				
+tulil	all1	0006	iləm	flood	np:pred	np		pred		
+tulil	all1	0006	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0006	da	PURP	adp	adp				
+tulil	all1	0006	ioi	water	np:l	np		l	1009	
+tulil	all1	0006	=voi	=SG.CL:FLAT	=rn	=rn				
+tulil	all1	0006	%	%	%	%				
+tulil	all1	0006	o	TOP	other	other				
+tulil	all1	0006	0	0	0.h:a	0	h	a	1003	
+tulil	all1	0006	və-kəbənət	3SG.M.PST-make	v:pred	v		pred		
+tulil	all1	0006	=a	=PAT	=ln	=ln				
+tulil	all1	0006	tarn	umbrella	np:p	np		p	1011	new
+tulil	all1	0006	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0006	#	#	#	#				
+tulil	all1	0006	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0006	da	PURP	other	other				
+tulil	all1	0006	və-matər	3SG.M.PST-stand	v:pred	v		pred		
+tulil	all1	0006	ba	in	adp	adp				
+tulil	all1	0006	a-bəbət	ART-bank	ln_np:poss	ln_np		poss		
+tulil	all1	0006	idə=	3N.POSS=	ln_pro:poss	ln_pro		poss	1009	
+tulil	all1	0006	kən	neck	np:l	np		l	1012	bridging
+tulil	all1	0006	mən=	from=	=adp	=adp				
+tulil	all1	0006	be	at	adp	adp				
+tulil	all1	0006	vəret	side	np:appos	np		appos	1013	bridging
+tulil	all1	0006	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0006	e-mu	3SG.F-IN	rn	rn				
+tulil	all1	0007	#	#	##	##				
+tulil	all1	0007	me	and	other	other				
+tulil	all1	0007	voi	SG.FLAT	pro:dt_a	pro		dt_a	1009	
+tulil	all1	0007	o	TOP	other	other				
+tulil	all1	0007	bə=	ASP=	=other	=other				
+tulil	all1	0007	voi	SG.FLAT	pro:a	pro		a	1009	
+tulil	all1	0007	idə-re	3N.PST-carry	v:pred	v		pred		
+tulil	all1	0007	nangə	tree.PL	np:p	np		p	1014	new
+tulil	all1	0008	#	#	##	##				
+tulil	all1	0008	0	0	0:a	0		a	1015	bridging
+tulil	all1	0008	idə-bok	3N.PST-break	v:pred	v		pred		
+tulil	all1	0008	=a	=PAT	=ln	=ln				
+tulil	all1	0008	nangə	tree	np:p	np		p	1014	
+tulil	all1	0008	#	#	##	##				
+tulil	all1	0008	voi	SG.FLAT	cl_pro:a	cl_pro		a	1009	
+tulil	all1	0008	idə-povər	3N.PST-dig	v:pred	v		pred		
+tulil	all1	0008	mən	off	rv	rv				
+tulil	all1	0008	=a	=PAT	=ln	=ln				
+tulil	all1	0008	nangə	tree	np:p	np		p	1014	
+tulil	all1	0008	#	#	##	##				
+tulil	all1	0008	io	then	other	other				
+tulil	all1	0008	voi	SG.FLAT	cl_pro:a	cl_pro		a	1009	
+tulil	all1	0008	idə-re	3N.PST-carry	v:pred	v		pred		
+tulil	all1	0008	idə	3N	pro:p	pro		p	1014	
+tulil	all1	0008	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	all1	0008	ba	in	adp	adp				
+tulil	all1	0008	ioi	water	np:l	np		l	1009	
+tulil	all1	0008	=voi	=SG.CL:FLAT	=rn	=rn				
+tulil	all1	0008	#	#	#	#				
+tulil	all1	0008	0	0	0:s	0		s	1009	
+tulil	all1	0008	da	PURP	other	other				
+tulil	all1	0008	nə-m~mə	LOC-RED~DOWN	dem_other:pred_l	dem_other		pred_l		
+tulil	all1	0008	tə=	to=	=other	=other				
+tulil	all1	0008	be	at	adp	adp				
+tulil	all1	0008	viuv	sea	np:g	np		g	1016	new
+tulil	all1	0008	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0009	#	#	##	##				
+tulil	all1	0009	#	#	#ac	#ac				
+tulil	all1	0009	doto	when;if	other	other				
+tulil	all1	0009	voi	SG.FLAT	cl_pro:a	cl_pro		a	1009	
+tulil	all1	0009	idə-re	3N.PST-carry	v:pred	v		pred		
+tulil	all1	0009	nangə	tree	np:p	np		p	1014	
+tulil	all1	0009	navonbət	like.that	other	other				
+tulil	all1	0009	%	%	%	%				
+tulil	all1	0009	io	then	other	other				
+tulil	all1	0009	iap	3SG.M	pro.h:dt_s	pro	h	dt_s	1003	
+tulil	all1	0009	o	TOP	other	other				
+tulil	all1	0009	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0009	və-məto~mətor	3SG.M.PST-RED~sit	v:pred	v		pred		
+tulil	all1	0009	konəng	only	other	other				
+tulil	all1	0009	#	#	##	##				
+tulil	all1	0009	0	0	0.h:a	0	h	a	1003	
+tulil	all1	0009	me	and	other	other				
+tulil	all1	0009	və-t~ton	3SG.M.PST-RED~look	v:pred	v		pred		
+tulil	all1	0009	be	at	rv	rv				
+tulil	all1	0009	=boi	=SG.FLAT	=pro:p	=pro		p	1009	
+tulil	all1	0009	#	#	#	#				
+tulil	all1	0009	da	PURP	other	other				
+tulil	all1	0009	məle	rest	v:pred	v		pred		
+tulil	all1	0009	bətəpm	all.over	rv	rv				
+tulil	all1	0009	=a	=PAT	=ln	=ln				
+tulil	all1	0009	iləm	flood	np:s_sv	np		s_sv	1015	
+tulil	all1	0009	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0009	#	#	##	##				
+tulil	all1	0009	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0009	io	then	other	other				
+tulil	all1	0009	iap	3SG.M	pro.h:dt_s	pro	h	dt_s	1003	
+tulil	all1	0009	o	TOP	other	other				
+tulil	all1	0009	a-təvək	3SG.M.NPST-cross	v:pred	v		pred		
+tulil	all1	0009	təkə=	to=	=other	=other				
+tulil	all1	0009	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	all1	0009	ba	in	adp	adp				
+tulil	all1	0009	məngəd	home;village	np:g	np		g	1017	bridging
+tulil	all1	0009	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0010	#	#	##	##				
+tulil	all1	0010	#	#	#ac	#ac				
+tulil	all1	0010	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0010	doto	when;if	other	other				
+tulil	all1	0010	və-m~atər	3SG.M.PST-RED~stand	v:pred	v		pred		
+tulil	all1	0010	nanbət	like.that	other	other				
+tulil	all1	0010	%	%	%	%				
+tulil	all1	0010	io	then	other	other				
+tulil	all1	0010	0	0	0.h:a	0	h	a	1003	
+tulil	all1	0010	və-ton	3SG.M.PST-look	v:pred	v		pred		
+tulil	all1	0010	mat	get	rv	rv				
+tulil	all1	0010	=a	=PAT	=ln	=ln				
+tulil	all1	0010	tor	wood	np:p	np		p	1018	new
+tulil	all1	0010	laik	big	rn	rn				
+tulil	all1	0010	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0010	kabar	long	np:appos	np		appos	1018	
+tulil	all1	0010	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0010	mə=	from=	=adp	=adp				
+tulil	all1	0010	nə-bo	LOC-UP	dem_other:l	dem_other		l		
+tulil	all1	0010	#	#	#	#				
+tulil	all1	0010	to	SUB	other	other				
+tulil	all1	0010	ioi	water	np:a	np		a	1009	
+tulil	all1	0010	=voi	=SG.FLAT	=rn	=rn				
+tulil	all1	0010	idə-r~re	3N.PST-RED~carry	v:pred	v		pred		
+tulil	all1	0010	=e	=3SG.F.PAT	=pro.h:p	=pro	h	p	1018	
+tulil	all1	0011	#	#	##neg	##neg				
+tulil	all1	0011	0	0	0:s	0		s	1018	
+tulil	all1	0011	tor	wood	np:dt_s	np		dt_s	1018	
+tulil	all1	0011	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0011	e-bət	3SG.F-PROX2	rn	rn				
+tulil	all1	0011	o	TOP	other	other				
+tulil	all1	0011	kori	NEG	other	other				
+tulil	all1	0011	go	NSPEC	ln	ln				
+tulil	all1	0011	tor	wood	np:pred	np		pred		
+tulil	all1	0011	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0011	#	#	##	##				
+tulil	all1	0011	0	0	0:s	0		s	1018	
+tulil	all1	0011	tor	wood	np:dt_s	np		dt_s	1018	
+tulil	all1	0011	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0011	e-bət	3SG.F-PROX2	rn	rn				
+tulil	all1	0011	o	TOP	other	other				
+tulil	all1	0011	vəvat	monster	np:pred	np		pred		
+tulil	all1	0011	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0011	#	#	##	##				
+tulil	all1	0011	ve	3SG.F.POSS	ln_pro:poss	ln_pro		poss	1018	
+tulil	all1	0011	itən	name	np:s	np		s	1019	bridging
+tulil	all1	0011	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0011	Levator	Levator	pn_np:pred	pn_np		pred		
+tulil	all1	0012	#	#	##	##				
+tulil	all1	0012	#	#	#ac	#ac				
+tulil	all1	0012	doto	when;if	other	other				
+tulil	all1	0012	voi	SG.FLAT	pro:a	pro		a	1009	
+tulil	all1	0012	idə-re	3N.PST-carry	v:pred	v		pred		
+tulil	all1	0012	=e	=3SG.F.PAT	=pro:p	=pro		p	1018	
+tulil	all1	0012	mən=	from=	=adp	=adp				
+tulil	all1	0012	nə-bo	LOC-UP	dem_other:l	dem_other		l		
+tulil	all1	0012	%	%	%	%				
+tulil	all1	0012	io	then	other	other				
+tulil	all1	0012	təkə=	to=	=adp	=adp				
+tulil	all1	0012	nə-bət	LOC-PROX2	dem_other	dem_other				
+tulil	all1	0012	tə=	to=	=adp	=adp				
+tulil	all1	0012	ga	across	adp	adp				
+tulil	all1	0012	u=	3SG.M.POSS=	=ln_pro.h:poss	=ln_pro	h	poss	1003	
+tulil	all1	0012	mi	eye	np:dt_g	np		dt_g		
+tulil	all1	0012	o	TOP	other	other				
+tulil	all1	0012	0	0	0:a	0		a	1018	
+tulil	all1	0012	i-tar	3SG.F.PST-stick	v:pred	v		pred		
+tulil	all1	0012	=a	=PAT	=ln	=ln				
+tulil	all1	0012	i=	3SG.F.POSS.AL=	=pro:poss	=pro		poss	1018	
+tulil	all1	0012	nung	bottom	np:p	np		p	1020	bridging
+tulil	all1	0012	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0012	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	all1	0012	ga	across	adp	adp				
+tulil	all1	0012	u=	3SG.M.POSS=	=ln_pro.h:poss	=ln_pro	h	poss	1003	
+tulil	all1	0012	mi	eye	np:g	np		g		
+tulil	all1	0012	be	at	adp	adp				
+tulil	all1	0012	abəbət	bank	np:appos	np		appos	1012	
+tulil	all1	0012	#	#	#nc	#nc				
+tulil	all1	0012	me	and	nc	nc				
+tulil	all1	0012	nə-mu	LOC-IN	nc	nc				
+tulil	all1	0012	ba	in	nc	nc				
+tulil	all1	0012	iləm	flood	nc	nc				
+tulil	all1	0012	=a	=SG.CL:MASC	nc	nc				
+tulil	all1	0013	#	#	##	##				
+tulil	all1	0013	io	then	other	other				
+tulil	all1	0013	mata	until	other	other				
+tulil	all1	0013	ioi	water	np:a	np		a	1009	
+tulil	all1	0013	=voi	=SG.CL:FLAT	=rn	=rn				
+tulil	all1	0013	idə-rei	3N.PST-move	v:pred	v		pred		
+tulil	all1	0013	n	APPL	rv	rv				
+tulil	all1	0013	=a	=PAT	=ln	=ln				
+tulil	all1	0013	i=	3SG.F.POSS=	=ln_pro:poss	=ln_pro		poss	1018	
+tulil	all1	0013	lat	head	np:p	np		p	1021	bridging
+tulil	all1	0013	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0013	nandi	like.this	other	other				
+tulil	all1	0013	#	#	##	##				
+tulil	all1	0013	0	0	0:s	0		s	1021	
+tulil	all1	0013	io	then	other	other				
+tulil	all1	0013	v-up	3SG.M.PST-hook	v:pred	v		pred		
+tulil	all1	0013	nə-mu	LOC-IN	dem_other	dem_other				
+tulil	all1	0013	be	at	adp	adp				
+tulil	all1	0013	vəret	side	np:l	np		l	1022	bridging
+tulil	all1	0013	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0013	e-mu	3SG.F-IN	rn	rn				
+tulil	all1	0013	term	beside	rn_adp	rn_adp				
+tulil	all1	0013	=a	=PAT	=rn	=rn				
+tulil	all1	0013	ioi	water	rn_np	rn_np			1009	
+tulil	all1	0013	=voi	=SG.CL:FLAT	=rn	=rn				
+tulil	all1	0013	mə=	from=	=rn	=rn				
+tulil	all1	0013	nə-mu	LOC-IN	rn_dem	rn_dem				
+tulil	all1	0014	#	#	##	##				
+tulil	all1	0014	#	#	#ac	#ac				
+tulil	all1	0014	0	0	0:s	0		s	1018	
+tulil	all1	0014	doto	when;if	other	other				
+tulil	all1	0014	b=	ASP=	=other	=other				
+tulil	all1	0014	i-mup	3SG.F.PST-hook	v:pred	v		pred		
+tulil	all1	0014	nə-mu	LOC-IN	dem_other	dem_other				
+tulil	all1	0014	be	at	adp	adp				
+tulil	all1	0014	vəret	side	np:l	np		l	1022	
+tulil	all1	0014	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0014	e-mu	3SG.F-IN	rn	rn				
+tulil	all1	0014	%	%	%	%				
+tulil	all1	0014	io	then	other	other				
+tulil	all1	0014	to-Kankan	ART.M-Kankan	pn_np.h:a	pn_np	h	a	1003	
+tulil	all1	0014	0	0	0:s	0		s		
+tulil	all1	0014	və-lar	3SG.M.PST-try	v:pred	v		pred		
+tulil	all1	0014	bem	at	rv	rv				
+tulil	all1	0014	=e	=3SG.F.PAT	=pro:p	=pro		p	1018	
+tulil	all1	0014	#	#	#	#				
+tulil	all1	0014	0	0	0.h:a	0	h	a	1003	
+tulil	all1	0014	to	SUB	other	other				
+tulil	all1	0014	və-p~ətuk	3SG.M.PST-RED~step	v:pred	v		pred		
+tulil	all1	0014	mənu	back.of	rv	rv				
+tulil	all1	0014	=e	=3SG.F.PAT	=pro:p	=pro		p	1018	
+tulil	all1	0014	a-te	3SG.M-QUOT	other	other				
+tulil	all1	0014	#	#	#cc	#cc				
+tulil	all1	0014	ti	lest	other	other				
+tulil	all1	0014	doto	when;if	other	other				
+tulil	all1	0014	iləm	flood	np:a	np		a	1015	
+tulil	all1	0014	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0014	ava	again	other	other				
+tulil	all1	0014	a-re	3SG.M.NPST-carry	v:pred	v		pred		
+tulil	all1	0014	=e	=3SG.F	=pro:p	=pro		p	1018	
+tulil	all1	0014	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	all1	0014	tə=	to=	=adp	=adp				
+tulil	all1	0014	ba	in	adp	adp				
+tulil	all1	0014	ioi	water	np:g	np		g	1009	
+tulil	all1	0014	=voi	=SG.CL:FLAT	=rn	=rn				
+tulil	all1	0014	təpm	with.on	adp	adp				
+tulil	all1	0014	=a	=3SG.M.PAT	=np:obl	=np		obl	1003	
+tulil	all1	0015	#	#	##	##				
+tulil	all1	0015	#	#	#ac	#ac				
+tulil	all1	0015	0	0	0.h:a	0	h	a	1003	
+tulil	all1	0015	doto	when;if	other	other				
+tulil	all1	0015	v-ətuk	3SG.M.PST-step	v:pred	v		pred		
+tulil	all1	0015	mənu	back.of	rv	rv				
+tulil	all1	0015	=e	=3SG.F.PAT	=pro:p	=pro		p	1018	
+tulil	all1	0015	#	#	#	#				
+tulil	all1	0015	0	0	0:s	0		s	1018	
+tulil	all1	0015	me	and	other	other				
+tulil	all1	0015	tiktik	thick	other:pred	other		pred		
+tulil	all1	0015	%	%	%	%				
+tulil	all1	0015	io	then	other	other				
+tulil	all1	0015	bə=	ASP=	=other	=other				
+tulil	all1	0015	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0015	v-atang	3SG.M.PAT-jump	v:pred	v		pred		
+tulil	all1	0015	tə=	to=	=adp	=adp				
+tulil	all1	0015	mənu	back.of	adp	adp				
+tulil	all1	0015	=e	=3SG.F.PAT	=pro:l	=pro		l	1018	
+tulil	all1	0015	#	#	#	#				
+tulil	all1	0015	0	0	0.h:a	0	h	a	1003	
+tulil	all1	0015	da	PURP	other	other				
+tulil	all1	0015	bə=	ASP=	=other	=other				
+tulil	all1	0015	və-təvək	3SG.M.PAT-cross	v:pred	v		pred		
+tulil	all1	0015	=a	=PAT	=ln	=ln				
+tulil	all1	0015	iləm	flood	np:p	np		p	1015	
+tulil	all1	0015	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0015	a-n	3SG.M-with	adp	adp				
+tulil	all1	0015	=a	=PAT	=ln	=ln				
+tulil	all1	0015	kəvop	dog	np:obl	np		obl	1008	
+tulil	all1	0016	#	#	##	##				
+tulil	all1	0016	#	#	#ac	#ac				
+tulil	all1	0016	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0016	doto	when;if	other	other				
+tulil	all1	0016	və-təvək	3SG.M.PST-cross	v:pred	v		pred		
+tulil	all1	0016	tə=	to=	=adp	=adp				
+tulil	all1	0016	be	at	adp	adp				
+tulil	all1	0016	vəret	side	np:l	np		l	1033	
+tulil	all1	0016	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0016	e-mu	3SG.F-IN	rn	rn				
+tulil	all1	0016	%	%	%	%				
+tulil	all1	0016	#	#	#ac	#ac				
+tulil	all1	0016	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0016	io	then	other	other				
+tulil	all1	0016	doto	when;if	other	other				
+tulil	all1	0016	bə=	ASP=	=other	=other				
+tulil	all1	0016	be	at	adp	adp				
+tulil	all1	0016	vəret	side	np:pred_l	np		pred_l	1033	
+tulil	all1	0016	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0016	e-mu	3SG.F-IN	rn	rn				
+tulil	all1	0016	%	%	%	%				
+tulil	all1	0016	o	TOP	other	other				
+tulil	all1	0016	ava	again	other	other				
+tulil	all1	0016	0	0	0.h:a	0	h	a	1003	
+tulil	all1	0016	və-bənakən	3SG.M.PST-turn	v:pred	v		pred		
+tulil	all1	0016	tang	REFL	pro.h:p	pro	h	p	1018	
+tulil	all1	0016	#	#	#	#				
+tulil	all1	0016	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0016	da	PURP	other	other				
+tulil	all1	0016	və-ton	3SG.M.PST-look	v:pred	v		pred		
+tulil	all1	0016	tə=	to=	=adp	=adp				
+tulil	all1	0016	bətəpm	all.over	adp	adp				
+tulil	all1	0016	=a	=PAT	=ln	=ln				
+tulil	all1	0016	tor	wood	np:obl	np		obl	1018	
+tulil	all1	0016	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0016	e-vi	3SG.F-PROX1	rn	rn				
+tulil	all1	0016	#	#	##	##				
+tulil	all1	0016	io	then	other	other				
+tulil	all1	0016	iləm	flood	np:a	np		a	1015	
+tulil	all1	0016	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0016	ava	again	other	other				
+tulil	all1	0016	və-kup	3SG.M.PST-pull.out	v:pred	v		pred		
+tulil	all1	0016	mat	get	rv	rv				
+tulil	all1	0016	=a	=PAT	=ln	=ln				
+tulil	all1	0016	tor	wood	np:p	np		p	1018	
+tulil	all1	0016	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0016	#	#	##	##				
+tulil	all1	0016	0	0	0.h:a	0	h	a	1015	
+tulil	all1	0016	io	then	other	other				
+tulil	all1	0016	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	all1	0016	=e	=3SG.F.PAT	=pro:p	=pro		p	1018	
+tulil	all1	0016	ava	still	other	other				
+tulil	all1	0016	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	all1	0016	ba	in	adp	adp				
+tulil	all1	0016	ioi	water	np:l	np		l	1009	
+tulil	all1	0016	=voi	=SG.CL:FLAT	=rn	=rn				
+tulil	all1	0016	#	#	##	##				
+tulil	all1	0016	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0016	io	then	other	other				
+tulil	all1	0016	iap	3SG.M	pro.h:dt_s	pro	h	dt_s	1003	
+tulil	all1	0016	o	TOP	other	other				
+tulil	all1	0016	bə=	ASP=	=other	=other				
+tulil	all1	0016	və-p~pi	3SG.M.PST-RED~walk;go	v:pred	v		pred		
+tulil	all1	0016	tə=	to=	=adp	=adp				
+tulil	all1	0016	ba	in	adp	adp				
+tulil	all1	0016	məngəd	home;village	np:l	np		l	1017	
+tulil	all1	0016	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0017	#	#	##	##				
+tulil	all1	0017	#	#	#ac	#ac				
+tulil	all1	0017	doto	when;if	other	other				
+tulil	all1	0017	lət-n	arrive-APPL	v:pred	v		pred		
+tulil	all1	0017	=a	=3SG.M.PAT	=pro.h:s_sv	=pro	h	s_sv	1003	
+tulil	all1	0017	ba	in	adp	adp				
+tulil	all1	0017	məngəd	home	np:g	np		g	1017	
+tulil	all1	0017	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0017	%	%	%	%				
+tulil	all1	0017	o	TOP	other	other				
+tulil	all1	0017	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0017	və-m~ume	3SG.M.PST-RED~tell	v:pred	v		pred		
+tulil	all1	0017	at-e	3SG.M-QUOT	other	other				
+tulil	all1	0018	#	#	##ds	##ds				
+tulil	all1	0018	0	0	0.1:s	0	1	s	1003	
+tulil	all1	0018	ngang	1SG	pro.1:dt_s	pro	1	dt_s	1003	
+tulil	all1	0018	o	TOP	other	other				
+tulil	all1	0018	ngə-təvək	1SG.PST-cross	v:pred	v		pred		
+tulil	all1	0018	mənu	back.of	adp	adp				
+tulil	all1	0018	tor	wood	np:obl	np		obl	1018	
+tulil	all1	0018	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0018	#	#	##	##				
+tulil	all1	0018	me	and	other	other				
+tulil	all1	0018	#	#	#ac	#ac				
+tulil	all1	0018	0	0	0.1:s	0	1	s	1003	
+tulil	all1	0018	doto	when;if	other	other				
+tulil	all1	0018	ngə-təvək	1SG.PST-cross	v:pred	v		pred		
+tulil	all1	0018	katum	all;finish	rv	rv				
+tulil	all1	0018	%	%	%	%				
+tulil	all1	0018	io	then	other	other				
+tulil	all1	0018	iləm	flood	np:a	np		a	1015	
+tulil	all1	0018	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0018	ava	again;still	other	other				
+tulil	all1	0018	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	all1	0018	tor	wood	np:p	np		p	1018	
+tulil	all1	0018	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0018	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	all1	0018	ba	in	adp	adp				
+tulil	all1	0018	ioi	water	np:l	np		l	1009	
+tulil	all1	0018	=voi	=SG.CL:FLAT	=rn	=rn				
+tulil	all1	0019	#	#	##	##				
+tulil	all1	0019	#	#	#ac	#ac				
+tulil	all1	0019	doto	when;if	other	other				
+tulil	all1	0019	təbərtəm	evening	np:pred	np		pred		
+tulil	all1	0019	#	#	#rc	#rc				
+tulil	all1	0019	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0019	to	SUB	other	other				
+tulil	all1	0019	da	PURP	other	other				
+tulil	all1	0019	bə=	ASP=	=other	=other				
+tulil	all1	0019	v-engəp	3SG.M.PST-sleep	v:pred	v		pred		
+tulil	all1	0019	%	%	%	%				
+tulil	all1	0019	io	then	other	other				
+tulil	all1	0019	ava	again;still	other	other				
+tulil	all1	0019	0	0	0.h:a	0	h	a	1003	
+tulil	all1	0019	və-ton	3SG.M.PST-look	v:pred	v		pred		
+tulil	all1	0019	kəbərion	dream	np:p	np		p	1024	new
+tulil	all1	0019	moli	again	other	other				
+tulil	all1	0019	nə	APPL	adp	adp				
+tulil	all1	0019	tang	REFL	pro.h:obl	pro	h	obl	1003	
+tulil	all1	0019	#	#	#rc	#rc				
+tulil	all1	0019	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0019	to	REL	other	other				
+tulil	all1	0019	və-təvək	3SG.M.PST-cross	v:pred	v		pred		
+tulil	all1	0019	mənu	back.of	adp	adp				
+tulil	all1	0019	tor	wood	np:obl	np		obl	1018	
+tulil	all1	0019	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0020	#	#	##	##				
+tulil	all1	0020	io	then	other	other				
+tulil	all1	0020	#	#	#ac	#ac				
+tulil	all1	0020	0	0	0.h:s	0	h	s	1003	
+tulil	all1	0020	doto	when;if	other	other				
+tulil	all1	0020	bə=	ASP=	=other	=other				
+tulil	all1	0020	v-atər	3SG.M.PST-stand	v:pred	v		pred		
+tulil	all1	0020	tə=	to=	=adp	=adp				
+tulil	all1	0020	be	at	adp	adp				
+tulil	all1	0020	vəret	side	np:l	np		l	1022	
+tulil	all1	0020	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0020	e-mu	3SG.F-IN	rn	rn				
+tulil	all1	0020	be	at	adp	adp				
+tulil	all1	0020	vəret	side	np:appos	np		appos	1022	
+tulil	all1	0020	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0020	e-vəde	3SG.F-this_way	rn	rn				
+tulil	all1	0020	#	#	#rc_purp	#rc_purp				
+tulil	all1	0020	to	REL	other	other				
+tulil	all1	0020	da	PURP	other	other				
+tulil	all1	0020	bə=	ASP=	=other	=other				
+tulil	all1	0020	tə=	to=	=adp	=adp				
+tulil	all1	0020	ba	in	adp	adp				
+tulil	all1	0020	məngəda	home;village	np:pred_l	np		pred_l	1017	
+tulil	all1	0020	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0020	%	%	%	%				
+tulil	all1	0020	io	then	other	other				
+tulil	all1	0020	kəra	just_then	other	other				
+tulil	all1	0020	0	0	0.h:a	0	h	a	1003	
+tulil	all1	0020	və-toti	3SG.M.PST-see	v:pred	v		pred		
+tulil	all1	0020	tor	wood	np:p	np		p	1018	
+tulil	all1	0020	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0020	e-vi	3SG.F-PROX1	rn	rn				
+tulil	all1	0020	#	#	#	#			1018	
+tulil	all1	0020	0	0	0.d:s	0	d	s	1018	
+tulil	all1	0020	to	SUB	other	other				
+tulil	all1	0020	kəra	just_then	other	other				
+tulil	all1	0020	i-məngar	3SG.F.PST-say	v:pred	v		pred		
+tulil	all1	0020	pəka	clear	rv	rv				
+tulil	all1	0020	tuka	give	adp	adp				
+tulil	all1	0020	=a	=3SG.M.PAT	=pro.h:g	=pro	h	g	1003	
+tulil	all1	0020	et-e	3SG.F-QUOT	other	other				
+tulil	all1	0021	#	#	##ds	##ds				
+tulil	all1	0021	nging	2SG	pro.2:a	pro	2	a	1003	
+tulil	all1	0021	ngi-təm	2SG.PST-know	v:pred	v		pred		
+tulil	all1	0021	konəng	only	rv	rv				
+tulil	all1	0021	nə	APPL	rv	rv				
+tulil	all1	0021	ngang	1SG	pro.1:p	pro	1	p	1018	
+tulil	all1	0022	#	#	##ds	##ds				
+tulil	all1	0022	ngang	1SG	pro.1:s	pro	1	s	1018	
+tulil	all1	0022	konəng	only	other	other				
+tulil	all1	0022	Levator	Levator	pn_np:pred	pn_np		pred		
+tulil	all1	0023	#	#	##ds	##ds				
+tulil	all1	0023	0	0	0.1:a	0	1	a	1018	
+tulil	all1	0023	me	and	other	other				
+tulil	all1	0023	#	#	#ds_ac	#ds_ac				
+tulil	all1	0023	kati	SUBJ	other	other				
+tulil	all1	0023	nging	2SG	pro.2:dt_s	pro	2	dt_s	1003	
+tulil	all1	0023	o	TOP	other	other				
+tulil	all1	0023	kəməron	different	np:pred	np		pred		
+tulil	all1	0023	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0023	nging	2SG	pro.2:s	pro	2	s	1003	
+tulil	all1	0023	%	%	%	%				
+tulil	all1	0023	o	TOP	other	other				
+tulil	all1	0023	ka	SUBJ	other	other				
+tulil	all1	0023	ngə-vən-mə	1SG.PST-hit-APPL	v:pred	v		pred		
+tulil	all1	0023	nging	2SG	pro.2:p	pro	2	p	1003	
+tulil	all1	0023	məgət	today	other	other				
+tulil	all1	0023	#	#	##ds.neg	##ds.neg				
+tulil	all1	0023	0	0	0.2:s	0	2	s	1003	
+tulil	all1	0023	bə	ASP	other	other				
+tulil	all1	0023	kori	NEG	other	other				
+tulil	all1	0023	ngi-liu	2SG.NPST-return	v:pred	v		pred		
+tulil	all1	0024	#	#	##	##				
+tulil	all1	0024	io	then	other	other				
+tulil	all1	0024	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	1025	bridging
+tulil	all1	0024	iaia	grandpa	np.h:s	np	h	s	1004	
+tulil	all1	0024	və-m~ume	3SG.M.PST-RED~tell	v:pred	v		pred		
+tulil	all1	0024	at-e	3SG.M-QUOT	other	other				
+tulil	all1	0024	#	#	#	#				
+tulil	all1	0024	0	0	0.h:s	0	h	s	1004	
+tulil	all1	0024	avar	again;still	other	other				
+tulil	all1	0024	və-m~ume	3SG.M.PST-RED~tell	v:pred	v		pred		
+tulil	all1	0024	at-e	3SG.M-QUOT	other	other				
+tulil	all1	0024	#	#	##	##				
+tulil	all1	0024	nə-bət	LOC-PROX2	dem_other	dem_other				
+tulil	all1	0024	ba	in	adp	adp				
+tulil	all1	0024	ibən	earth	np:other	np		other	1001	
+tulil	all1	0024	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0024	nə-bət	LOC-PROX2	dem_other	dem_other				
+tulil	all1	0024	dova	at_the_place_of	adp	adp				
+tulil	all1	0024	Butəm	Butəm	pn_np:other	pn_np		other	1001	
+tulil	all1	0024	ba	in	adp	adp				
+tulil	all1	0024	tipur	forest	np:other	np		other	1007	
+tulil	all1	0024	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	all1	0024	dova	at_the_place_of	adp	adp				
+tulil	all1	0024	Butəm	Butəm	pn_np:l	pn_np		l	1001	
+tulil	all1	0024	o	TOP	other	other				
+tulil	all1	0024	tor	wood	np:predex	np		predex	1018	
+tulil	all1	0024	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0024	#	#	#	#				
+tulil	all1	0024	0	0	0.d:a	0	d	a	1018	
+tulil	all1	0024	to	REL	other	other				
+tulil	all1	0024	et-a~mat	3SG.F.NPST-RED~get	v:pred	v		pred		
+tulil	all1	0024	=a	=PAT	=ln	=ln				
+tulil	all1	0024	Voi	3SG.FLAT	pn_np:p	pn_np		p	1009	
+tulil	all1	0024	Bəli	pig	rn	rn				
+tulil	all1	0024	mə=	from=	=adp	=adp				
+tulil	all1	0024	nə-bo	LOC-UP	dem_other	dem_other				
+tulil	all1	0024	be	at	adp	adp				
+tulil	all1	0024	voi	SG.FLAT	ln_pro:poss	ln_pro		poss	1009	
+tulil	all1	0024	idə=	3N.POSS=	=ln_pro:poss	=ln_pro		poss	1009	
+tulil	all1	0024	lat	head	np:l	np		l	1026	bridging
+tulil	all1	0024	=a	=SG.CL:MASC	=rn	=rn				
+tulil	all1	0024	nə-m~mə	LOC-RED~DOWN	dem_other	dem_other				
+tulil	all1	0024	#	#	#	#				
+tulil	all1	0024	0	0	0.d:a	0	d	a	1018	
+tulil	all1	0024	me	and	other	other				
+tulil	all1	0024	et-a~mat	3SG.F.NPST-RED~get	v:pred	v		pred		
+tulil	all1	0024	=poi	=3SG.FLAT	=pro:p	=pro		p	1009	
+tulil	all1	0024	mə=	from=	=adp	=adp				
+tulil	all1	0024	nə-mə	LOC-DOWN	nc	nc				
+tulil	all1	0024	nə-m~bo	LOC-RED~UP	nc	nc				
+tulil	all1	0024	nə-m~mə	LOC-RED~DOWN	dem_other:l	dem_other		l		
+tulil	all1	0024	tə=	tə=	=adp	=adp				
+tulil	all1	0024	ba	in	adp	adp				
+tulil	all1	0024	Vərgoi	Vərgoi	pn_np:g	pn_np		g	1027	new
+tulil	all1	0024	#	#	#	#				
+tulil	all1	0024	0	0	0.d:a	0	d	a	1018	
+tulil	all1	0024	io	then	other	other				
+tulil	all1	0024	nə-m~mə	LOC-RED~DOWN	dem_other:dt	dem_other		dt		
+tulil	all1	0024	tə=	to=	=adp	=adp				
+tulil	all1	0024	be	at	adp	adp				
+tulil	all1	0024	viuv	sea	np:g	np		g	1016	
+tulil	all1	0024	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0024	et-u~mu	3SG.F.NPST-RED~put	v:pred	v		pred		
+tulil	all1	0024	von	3SG.DIM	pro:p	pro		p	1009	
+tulil	all1	0024	navonbət	like.that	other	other				
+tulil	all1	0025	#	#	##	##				
+tulil	all1	0025	avar	again;still	other	other				
+tulil	all1	0025	be	at	adp	adp				
+tulil	all1	0025	maok	time;space	np:pred	np		pred	1028	bridging
+tulil	all1	0025	idə	3N	pro:s_sv	pro		s_sv		
+tulil	all1	0025	#	#	#rc	#rc				
+tulil	all1	0025	to	REL	other	other				
+tulil	all1	0025	avar	again;stillr	other	other				
+tulil	all1	0025	iep	3SG.F	pro.d:s	pro	d	s	1018	
+tulil	all1	0025	da	PURP	other	other				
+tulil	all1	0025	et-i~vi	3SG.F.NPST-RED~go;walk	v:pred	v		pred		
+tulil	all1	0026	#	#	##	##				
+tulil	all1	0026	#	#	#ac	#ac				
+tulil	all1	0026	0	0	0.d:s	0	d	s	1018	
+tulil	all1	0026	doto	when;if	other	other				
+tulil	all1	0026	da	PURP	other	other				
+tulil	all1	0026	et-i~vi	3SG.F.NPST-RED~go;walk	v:pred	v		pred		
+tulil	all1	0026	#	#	#	#				
+tulil	all1	0026	0	0	0.d:s	0	d	s	1018	
+tulil	all1	0026	me	and	other	other				
+tulil	all1	0026	da	PURP	other	other				
+tulil	all1	0026	et-unman	3SG.F.NPST-enter;exit	v:pred	v		pred		
+tulil	all1	0026	təkə=	to=	=adp	=adp				
+tulil	all1	0026	nə-mu	LOC-IN	dem_other	dem_other				
+tulil	all1	0026	ba	in	adp	adp				
+tulil	all1	0026	viu	sea	np:g	np		g	1016	
+tulil	all1	0026	laik	big	rn	rn				
+tulil	all1	0026	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0026	%	%	%	%				
+tulil	all1	0026	o	TOP	other	other				
+tulil	all1	0026	nə-bo	LOC-UP	dem_other	dem_other				
+tulil	all1	0026	0	0	0.d:a	0	d	a	1018	
+tulil	all1	0026	e-təng	3SG.F.NPST-put_on	v:pred	v		pred		
+tulil	all1	0026	mat	get	rv	rv				
+tulil	all1	0026	=a	=PAT	=ln	=ln				
+tulil	all1	0026	ro	bamboo	np:p	np		p	1029	new
+tulil	all1	0026	=vətak	=PL.CL:SEG	=rn	=rn				
+tulil	all1	0026	bətəpmə	all_over	adp	adp				
+tulil	all1	0026	tang	REFL	refl.d:obl	refl	d	obl	1018	
+tulil	all1	0026	me	and	other	other				
+tulil	all1	0026	nangə	tree	np:other	np		other	1030	new
+tulil	all1	0026	bətəpmə	all_over	other	other				
+tulil	all1	0026	tang	REFL	refl.d:other	refl	d	other	1018	
+tulil	all1	0026	#	#	#	#				
+tulil	all1	0026	0	0	0.d:a	0	d	a	1018	
+tulil	all1	0026	io	then	other	other				
+tulil	all1	0026	da	PURP	other	other				
+tulil	all1	0026	et-at	3SG.F.NPST-get	v:pred	v		pred		
+tulil	all1	0026	=a	=PAT	=ln	=ln				
+tulil	all1	0026	viuv	sea	np:p	np		p	1016	
+tulil	all1	0026	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0027	#	#	##	##				
+tulil	all1	0027	#	#	#ac	#ac				
+tulil	all1	0027	0	0	0.h:a	0	h	a	1031	new
+tulil	all1	0027	doto	when;if	other	other				
+tulil	all1	0027	ta-toti	3PL.NPST-see	v:pred	v		pred		
+tulil	all1	0027	=e	=3SG.F.PAT	=pro.d:p	=pro	d	p	1018	
+tulil	all1	0027	mə=	from=	=adp	=adp				
+tulil	all1	0027	nə-mu	LOC-IN	dem_other	dem_other				
+tulil	all1	0027	be	at	adp	adp				
+tulil	all1	0027	NiuAiland	NiuAiland	pn_np:l	pn_np		l	1032	new
+tulil	all1	0027	ba	in	adp	adp				
+tulil	all1	0027	viuv	sea	np:other	np		other	1016	
+tulil	all1	0027	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0027	%	%	%	%				
+tulil	all1	0027	o	TOP	other	other				
+tulil	all1	0027	0	0	0.h:s	0	h	s	1031	
+tulil	all1	0027	ta-t~ton	3PL.NPST-RED~look	v:pred	v		pred		
+tulil	all1	0027	tuk	give	adp	adp				
+tulil	all1	0027	=a	=PAT	=ln	=ln				
+tulil	all1	0027	ailand	island	np:obl	np		obl	1033	bridging
+tulil	all1	0027	tat-e	3PL-QUOT	other	other				
+tulil	all1	0027	ailand	island	other	other				
+tulil	all1	0027	#	#	#rc	#rc				
+tulil	all1	0027	0	0	0:s	0		s	1033	
+tulil	all1	0027	to	SUB	other	other				
+tulil	all1	0027	at-i~vi	3SG.M.NPST-walk;go	v:pred	v		pred		
+tulil	all1	0027	nə-mu	LOC-IN	dem_other	dem_other				
+tulil	all1	0027	ba	in	adp	adp				
+tulil	all1	0027	viuv	sea	np:l	np		l	1016	
+tulil	all1	0027	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0027	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	all1	0027	#	#	#	#			1033	
+tulil	all1	0027	0	0	0:s	0		s	1033	
+tulil	all1	0027	me	and	other	other				
+tulil	all1	0027	a-liu	3SG.M.NPST-return	v:pred	v		pred		
+tulil	all1	0027	mə=	from=	=adp	=adp				
+tulil	all1	0027	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	all1	0027	nu-vəde	LOC-this_way	np:l	np		l		
+tulil	all1	0028	#	#	#nc	#nc				
+tulil	all1	0028	mən=	from=	nc	nc				
+tulil	all1	0028	do	here;now	nc	nc				
+tulil	all1	0028	be	at	nc	nc				
+tulil	all1	0028	South	South	nc	nc				
+tulil	all1	0028	coast	coast	nc	nc				
+tulil	all1	0028	nə-m~mə	LOC-RED~DOWN	nc	nc				
+tulil	all1	0028	tə=	to=	nc	nc				
+tulil	all1	0028	be	at	nc	nc				
+tulil	all1	0028	North	North	nc	nc				
+tulil	all1	0028	coast	coast	nc	nc				
+tulil	all1	0028	me	and	nc	nc				
+tulil	all1	0028	mə=	from=	nc	nc				
+tulil	all1	0028	nə-mə	LOC-DOWN	nc	nc				
+tulil	all1	0028	be	at	nc	nc				
+tulil	all1	0028	North	North	nc	nc				
+tulil	all1	0028	coast	coast	nc	nc				
+tulil	all1	0028	da	PURP	nc	nc				
+tulil	all1	0028	təkə=	to=	nc	nc				
+tulil	all1	0028	do	here;now	nc	nc				
+tulil	all1	0028	be	at	nc	nc				
+tulil	all1	0028	South	South	nc	nc				
+tulil	all1	0028	coast	coast	nc	nc				
+tulil	all1	0029	#	#	##	##				
+tulil	all1	0029	0	0	0.h:s	0	h	s	1031	
+tulil	all1	0029	io	then	other	other				
+tulil	all1	0029	nə-mumə	LOC-DOWN.FAR	dem_other	dem_other				
+tulil	all1	0029	be	at	adp	adp				
+tulil	all1	0029	Niu	Niu	pn_np:l	pn_np		l	1032	
+tulil	all1	0029	Ailand	Ailand	rn	rn				
+tulil	all1	0029	o	TOP	other	other				
+tulil	all1	0029	tat-o~bokbok	3PL.NPST-RED~talk	v:pred	v		pred		
+tulil	all1	0029	tat-e	3PL-QUOT	other	other				
+tulil	all1	0029	#	#	##ds	##ds				
+tulil	all1	0029	nə-bo	LOC-UP	dem_other	dem_other				
+tulil	all1	0029	Levator	Levator	pn_np:s	pn_np		s	1018	
+tulil	all1	0029	e-bət	3SG.F-PROX2	dem_other:pred	dem_other		pred		
+tulil	all1	0029	#	#	##ds	##ds				
+tulil	all1	0029	0	0	0:s	0		s	1018	
+tulil	all1	0029	b=	ASP=	=other	=other				
+tulil	all1	0029	e-l~liu	3SG.F.NPST-RED~return	v:pred	v		pred		
+tulil	all1	0029	təkə=	to=	=adp	=adp				
+tulil	all1	0029	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	all1	0029	da	PURP	adp	adp				
+tulil	all1	0029	Vərgoi	Vərgoi	pn_np:g	pn_np		g	1027	
+tulil	all1	0030	#	#	##	##				
+tulil	all1	0030	bə=	ASP=	=other	=other				
+tulil	all1	0030	mə=	from=	=adp	=adp				
+tulil	all1	0030	nə-mə	LOC-DOWN	dem_other:pred_l	dem_other		pred_l	1016	
+tulil	all1	0030	n	APPL	rv	rv				
+tulil	all1	0030	=e	=3SG.F.PAT	=pro.d:s_sv	=pro	d	s_sv	1018	
+tulil	all1	0030	#	#	##	##				
+tulil	all1	0030	0	0	0.d:s	0	d	s	1018	
+tulil	all1	0030	io	then	other	other				
+tulil	all1	0030	b=	ASP=	=other	=other				
+tulil	all1	0030	e-liu	3SG.F.NPST-return	v:pred	v		pred		
+tulil	all1	0030	tə=	to=	=adp	=adp				
+tulil	all1	0030	da	on	adp	adp				
+tulil	all1	0030	Vərgoi	Vərgoi	pn_np:g	pn_np		g	1027	
+tulil	all1	0030	təkə=	to=	=adp	=adp				
+tulil	all1	0030	nə-mə	LOC-DOWN	dem_other	dem_other				
+tulil	all1	0030	ga	across	adp	adp				
+tulil	all1	0030	Vərgoi	Vərgoi	pn_np:dt_g	pn_np		dt_g	1027	
+tulil	all1	0030	idə-n	3N-with	adp	adp				
+tulil	all1	0030	=a	=PAT	=ln	=ln				
+tulil	all1	0030	viuv	sea	np:obl	np		obl	1016	
+tulil	all1	0030	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0030	#	#	##	##				
+tulil	all1	0030	0	0	0.d:a	0	d	a	1018	
+tulil	all1	0030	et-a~man	3SG.F.NPST-RED~remove	v:pred	v		pred		
+tulil	all1	0030	təvat	release	rv	rv				
+tulil	all1	0030	n	APPL	rv	rv				
+tulil	all1	0030	=a	=PAT	=ln	=ln				
+tulil	all1	0030	ro	bamboo	np:p	np		p	1029	
+tulil	all1	0030	=vətak	=PL.CL:SEG	=rn	=rn				
+tulil	all1	0030	me	and	rn	rn				
+tulil	all1	0030	nangə	tree	rn_np	rn_np			1030	
+tulil	all1	0030	bətəpmə	all_over	adp	adp				
+tulil	all1	0030	tang	REFL	refl.d:obl	refl	d	obl	1018	
+tulil	all1	0030	#	#	##	##				
+tulil	all1	0030	iova	then_again	other	other				
+tulil	all1	0030	e-m~bo	3SG.F-RED~UP	dem_other:pred	dem_other		pred		
+tulil	all1	0030	ba	in	adp	adp				
+tulil	all1	0030	Vərgoi	Vərgoi	pn_np:l	pn_np		l	1027	
+tulil	all1	0030	#	#	#purp	#purp				
+tulil	all1	0030	dava	PURP_again;still	other	other				
+tulil	all1	0030	0	0	0.d:s	0	d	s	1018	
+tulil	all1	0030	e-teltel	3SG.F.NPST-wander	v:pred	v		pred		
+tulil	all1	0030	nə-bo	LOC-UP	dem_other	dem_other				
+tulil	all1	0030	ba	in	adp	adp				
+tulil	all1	0030	ioi	water	np:l	np		l	1027	
+tulil	all1	0030	=voi	=SG.CL:FLAT	=rn	=rn				
+tulil	all1	0030	o	TOP	other	other				
+tulil	all1	0030	#	#	#neg	#neg				
+tulil	all1	0030	nə-bət	LOC-PROX2	dem_other:dt	dem_other		dt		
+tulil	all1	0030	o	TOP	other	other				
+tulil	all1	0030	kori	NEG	other	other				
+tulil	all1	0030	go	NSPEC	ln	ln				
+tulil	all1	0030	nangə	tree	np:predex	np		predex	1030	
+tulil	all1	0030	bətəpm	all_over	adp	adp				
+tulil	all1	0030	=e	=3SG.F	=pro.d:obl	=pro	d	obl	1018	
+tulil	all1	0030	#	#	##	##				
+tulil	all1	0030	me	and	other	other				
+tulil	all1	0030	#	#	#ac	#ac				
+tulil	all1	0030	0	0	0.d:s	0	d	s	1018	
+tulil	all1	0030	doto	when;if	other	other				
+tulil	all1	0030	et-u~munman	3SG.F.NPST-RED~enter;exit	v:pred	v		pred		
+tulil	all1	0030	tə=	to=	=adp	=adp				
+tulil	all1	0030	ba	in	adp	adp				
+tulil	all1	0030	viuv	sea	np:g	np		g	1016	
+tulil	all1	0030	=e	=SG.CL:FEM	=rn	=rn				
+tulil	all1	0030	%	%	%	%				
+tulil	all1	0030	o	TOP	other	other				
+tulil	all1	0030	nə-bo	LOC-UP	dem_other:s	dem_other		s		
+tulil	all1	0030	nangə	tree	np:predex	np		predex	1030	
+tulil	all1	0030	bətəpm	all_over	adp	adp				
+tulil	all1	0030	=e	=3SG.F.PAT	=pro.d:obl	=pro	d	obl	1018	
+tulil	all1	0031	#	#	#nc	#nc				
+tulil	all1	0031	nga	1SG.POSS	nc_pro.1	nc_pro	1		1025	
+tulil	all1	0031	a-pir	ART-story	nc	nc				
+tulil	all1	0031	idil	small	nc	nc				
+tulil	all1	0031	o	TOP	nc	nc				
+tulil	all1	0031	nə-bət	LOC-PROX2	nc	nc				
+tulil	all1	0031	konəng	only	nc	nc				
+tulil	all1	0031	bem	at	nc	nc				
+tulil	all1	0031	=a	=PAT	nc	nc				
+tulil	all1	0031	Levator	Levator	nc_pn_np	nc_pn_np			1018	
+tulil	all1	0032	#	#	#nc	#nc				
+tulil	all1	0032	nə-bət	LOC-PROX2	nc	nc				
+tulil	all1	0032	konəng	only	nc	nc				
+tulil	all1	0032	me	and	nc	nc				
+tulil	all1	0032	mərek	good	nc	nc				
+tulil	all1	0032	vəvat	very	nc	nc				

@@ -1,0 +1,1444 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+tulil	lrdw	0001	#	#	#nc	#nc				
+tulil	lrdw	0001	mərek	good	nc	nc				
+tulil	lrdw	0001	vəvat	very	nc	nc				
+tulil	lrdw	0001	bətm	with	nc	nc				
+tulil	lrdw	0001	=a	=PAT	nc	nc				
+tulil	lrdw	0001	Mr Mark	Mr_Mark	nc	nc				
+tulil	lrdw	0001	me	and	nc	nc				
+tulil	lrdw	0001	va	3SG.M.POSS	nc	nc				
+tulil	lrdw	0001	ləidi	lady	nc	nc				
+tulil	lrdw	0001	(#)	(#)	nc	nc				
+tulil	lrdw	0001	kori	NEG	nc	nc				
+tulil	lrdw	0001	(#)	(#)	nc	nc				
+tulil	lrdw	0001	ngə-təm	1SG.PST-know	nc	nc				
+tulil	lrdw	0001	=a	=PAT	nc	nc				
+tulil	lrdw	0001	ve	3SG.F.POSS	nc	nc				
+tulil	lrdw	0001	itən	name	nc	nc				
+tulil	lrdw	0001	=e	=SG.CL:FEM	nc	nc				
+tulil	lrdw	0002	(#)	(#)	nc	nc				
+tulil	lrdw	0002	mərek	good	nc	nc				
+tulil	lrdw	0002	vəvat	very	nc	nc				
+tulil	lrdw	0003	(#)	(#)	nc	nc				
+tulil	lrdw	0003	do	here;now	nc	nc				
+tulil	lrdw	0003	(#)	(#)	nc	nc				
+tulil	lrdw	0003	ngan-əngar	1SG.NPST-say	nc	nc				
+tulil	lrdw	0003	be	at	nc	nc				
+tulil	lrdw	0003	a-pir	ART-story	nc	nc				
+tulil	lrdw	0003	be	at	nc	nc				
+tulil	lrdw	0003	kəvov	dog	nc	nc				
+tulil	lrdw	0003	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0003	a-n	3SG.M-with	nc	nc				
+tulil	lrdw	0003	=a	=PAT	nc	nc				
+tulil	lrdw	0003	tudək	wallaby	nc	nc				
+tulil	lrdw	0003	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0004	#	#	##	##				
+tulil	lrdw	0004	kəvov	dog	np.d:dt_s	np	d	dt_s	5001	new
+tulil	lrdw	0004	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0004	a-n	3SG.M-COM	rn	rn				
+tulil	lrdw	0004	=a	=PAT	=rn	=rn				
+tulil	lrdw	0004	tudək	wallaby	rn_np.d	rn_np	d		5002	new
+tulil	lrdw	0004	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0004	o	TOP	other	other				
+tulil	lrdw	0004	bəvon	before	other:dt	other		dt		
+tulil	lrdw	0004	o	TOP	other	other				
+tulil	lrdw	0004	ip	3DL.M	pro.d:s	pro	d	s	5003	bridging
+tulil	lrdw	0004	o	TOP	other	other				
+tulil	lrdw	0004	məgət	like	adp	adp				
+tulil	lrdw	0004	tang	REFL	refl.d:pred	refl	d	pred		
+tulil	lrdw	0004	ip	3DL.M	rn_pro.d	rn_pro	d			
+tulil	lrdw	0004	#	#	#	#				
+tulil	lrdw	0004	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0004	to	SUB	other	other				
+tulil	lrdw	0004	ipə-p~pi	3DL.M.PST-RED~go;walk	v:pred	v		pred		
+tulil	lrdw	0004	n	with	adp	adp				
+tulil	lrdw	0004	=a	=PAT	=ln	=ln				
+tulil	lrdw	0004	mərkəm	leg	np:obl	np		obl	5004	bridging
+tulil	lrdw	0004	balakətəria	four	rn	rn				
+tulil	lrdw	0005	#	#	##	##				
+tulil	lrdw	0005	navonbət	like_that	other	other				
+tulil	lrdw	0005	kəvov	dog	np.d:dt	np	d	dt	5001	
+tulil	lrdw	0005	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0005	a-n	3SG.M-with	rn	rn				
+tulil	lrdw	0005	=a	=PAT	=rn	=rn				
+tulil	lrdw	0005	tudək	wallaby	rn_np.d	rn_np	d		5002	
+tulil	lrdw	0005	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0005	o	TOP	other	other				
+tulil	lrdw	0005	kəvov	dog	ln_np.d:poss	ln_np	d	poss	5001	
+tulil	lrdw	0005	=a	=SG.CL:MASC	=ln	=ln				
+tulil	lrdw	0005	va	3SG.M.POSS	ln_pro.d:poss	ln_pro	d	poss	5001	
+tulil	lrdw	0005	var	friend	np:s	np		s	5002	
+tulil	lrdw	0005	mərek	good	rn	rn				
+tulil	lrdw	0005	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0005	tudək	wallaby	np.d:pred	np	d	pred		
+tulil	lrdw	0005	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0006	#	#	##	##				
+tulil	lrdw	0006	vəti	day	np:dt	np		dt		
+tulil	lrdw	0006	təgə	one	rn	rn				
+tulil	lrdw	0006	=von	=von	=rn	=rn				
+tulil	lrdw	0006	o	TOP	other	other				
+tulil	lrdw	0006	kəvov	dog	np.d:s_ds	np	d	s_ds	5001	
+tulil	lrdw	0006	=a	=SG.CL:MASC	=ln	=ln				
+tulil	lrdw	0006	v-əngar	3SG.M.PST-say	v:pred	v		pred		
+tulil	lrdw	0006	tuk	give	adp	adp				
+tulil	lrdw	0006	=a	=PAT	=ln	=ln				
+tulil	lrdw	0006	tudək	wallaby	np.d:obl	np	d	obl	5002	
+tulil	lrdw	0006	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0006	ate	3SG.M-QUOT	other	other				
+tulil	lrdw	0006	#	#	##ds	##ds				
+tulil	lrdw	0006	ləi	ləi	other	other				
+tulil	lrdw	0006	a-bo	3SG.M-UP	dem_pro.2:voc	dem_pro	2	voc	5002	
+tulil	lrdw	0006	0	0	0.1:s	0	1	s	5003	
+tulil	lrdw	0006	da	PURP	other	other				
+tulil	lrdw	0006	ngu-teltel	1DL.NPST-wander	v:pred	v		pred		
+tulil	lrdw	0006	ba	in	adp	adp				
+tulil	lrdw	0006	viuv	sea	np:l	np		l	5005	new
+tulil	lrdw	0006	=e	=SG.CL:FEM	=rn	=rn				
+tulil	lrdw	0006	#	#	##ds	##ds				
+tulil	lrdw	0006	0	0	0.1:s	0	1	s	5003	
+tulil	lrdw	0006	ngut-nanət	1DL.NPST-swim	v:pred	v		pred		
+tulil	lrdw	0006	navodi	like_this	other	other				
+tulil	lrdw	0007	#	#	##	##				
+tulil	lrdw	0007	tudək	wallaby	np.d:s_ds	np	d	s_ds	5002	
+tulil	lrdw	0007	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0007	v-əngar	3SG.M.PST-say	v:pred	v		pred		
+tulil	lrdw	0007	at-e	3SG.M-QUOT	other	other				
+tulil	lrdw	0007	#	#	##ds.neg	##ds.neg				
+tulil	lrdw	0007	0	0	0.1:a	0	1	a	5002	
+tulil	lrdw	0007	məie	but	other	other				
+tulil	lrdw	0007	ngang	1SG	pro.1:dt_s	pro	1	dt_s	5002	
+tulil	lrdw	0007	o	TOP	other	other				
+tulil	lrdw	0007	kori	NEG	other	other				
+tulil	lrdw	0007	ngə-təm	1SG.PST-know	v:pred	v		pred		
+tulil	lrdw	0007	mərek	good	rv	rv				
+tulil	lrdw	0007	n	APPL	rv	rv				
+tulil	lrdw	0007	=a	=PAT	=ln	=ln				
+tulil	lrdw	0007	nanət	swim	np:p	np		p	5006	bridging
+tulil	lrdw	0008	#	#	##	##				
+tulil	lrdw	0008	kəvov	dog	np.d:s_ds	np	d	s_ds	5001	
+tulil	lrdw	0008	=a	=SG.CL:MASC	=ln	=ln				
+tulil	lrdw	0008	at-e	3SG.M-QUOT	other:pred	other		pred		
+tulil	lrdw	0008	#	#	#ds	#ds				
+tulil	lrdw	0008	0	0	0.1:a	0	1	a	5001	
+tulil	lrdw	0008	0	0	0:p2	0		p2	5006	
+tulil	lrdw	0008	oh	oh	other	other				
+tulil	lrdw	0008	va	still;again	other	other				
+tulil	lrdw	0008	ngan-ume	1SG.NPST-tell	v:pred	v		pred		
+tulil	lrdw	0008	nging	2SG	pro.2:p	pro	2	p	5002	
+tulil	lrdw	0008	#	#	##ds	##ds				
+tulil	lrdw	0008	me	and	other	other				
+tulil	lrdw	0008	be	at	adp	adp				
+tulil	lrdw	0008	vəti	day	np:dt	np		dt		
+tulil	lrdw	0008	=von	=von	=rn	=rn				
+tulil	lrdw	0008	non-bət	3SG.DIM-PROX2	rn	rn				
+tulil	lrdw	0008	#	#	#rc_purp	#rc_purp				
+tulil	lrdw	0008	0	0	0.1:s	0	1	s	5001	
+tulil	lrdw	0008	to	REL	other	other				
+tulil	lrdw	0008	da	PURP	other	other				
+tulil	lrdw	0008	ngunu-mumə	1DL-DOWN.FAR	dem_other:pred	dem_other		pred		
+tulil	lrdw	0008	tə=	to=	=adp	=adp				
+tulil	lrdw	0008	ba	in	adp	adp				
+tulil	lrdw	0008	viuv	sea	np:g	np		g	5005	
+tulil	lrdw	0008	=e	=SG.CL:FEM	=rn	=rn				
+tulil	lrdw	0008	#	#	#ac_purp	#ac_purp				
+tulil	lrdw	0008	0	0	0.1:s	0	1	s	5001	
+tulil	lrdw	0008	da	PURP	other	other				
+tulil	lrdw	0008	ngut-nanət	1DL.NPST-swim	v:pred	v		pred		
+tulil	lrdw	0008	%	%	%	%				
+tulil	lrdw	0008	o	TOP	other	other				
+tulil	lrdw	0008	0	0	0.2:a	0	2	a		
+tulil	lrdw	0008	ngi-re	2SG.NPST-carry	v:pred	v		pred		
+tulil	lrdw	0008	ngi	2SG.POSS	ln_pro.2:poss	ln_pro	2	poss	5002	
+tulil	lrdw	0008	go	NSPEC	ln	ln				
+tulil	lrdw	0008	ragum	green	np:p	np		p	5007	new
+tulil	lrdw	0008	#	#	##ds	##ds				
+tulil	lrdw	0008	0	0	0.2:a	0	2	a	5002	
+tulil	lrdw	0008	ngi-re	2SG.NPST-carry	v:pred	v		pred		
+tulil	lrdw	0008	ngi	2SG.POSS	ln_pro.2:poss	ln_pro	2	poss	5002	
+tulil	lrdw	0008	go	NSPEC	ln	ln				
+tulil	lrdw	0008	mətmət	food	np:p	np		p	5007	
+tulil	lrdw	0008	#	#	##ds	##ds				
+tulil	lrdw	0008	me	and	other	other				
+tulil	lrdw	0008	ngang	1SG	pro.1:a	pro	1	a	5001	
+tulil	lrdw	0008	avar	also	other	other				
+tulil	lrdw	0008	nga-re	1SG.NPST-carry	v:pred	v		pred		
+tulil	lrdw	0008	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	5001	
+tulil	lrdw	0008	go	NSPEC	ln	ln				
+tulil	lrdw	0008	mətmət	food	np:p	np		p	5008	bridging
+tulil	lrdw	0008	#	#	#ac_purp	#ac_purp				
+tulil	lrdw	0008	0	0	0.1:s	0	1	s	5001	
+tulil	lrdw	0008	da	PURP	other	other				
+tulil	lrdw	0008	doto	when;if	other	other				
+tulil	lrdw	0008	ngut-nanət	1DL.NPST-swim	v:pred	v		pred		
+tulil	lrdw	0008	me	and	other	other				
+tulil	lrdw	0008	#	#	#	#				
+tulil	lrdw	0008	varvar	happy	other:pred	other		pred		
+tulil	lrdw	0008	ngun	1DL	pro.1:s_sv	pro	1	s_sv	5003	
+tulil	lrdw	0008	nə-mumə	LOC-DOWN.FAR	other	other				
+tulil	lrdw	0008	bəro	at_creek	np:l	np		l	5009	new
+tulil	lrdw	0008	#	#	#	#				
+tulil	lrdw	0008	0	0	0.1:a	0	1	a	5003	
+tulil	lrdw	0008	to	SUB	other	other				
+tulil	lrdw	0008	ngut-anəng	1DL.NPST-run	v:pred	v		pred		
+tulil	lrdw	0008	kup	through	rv	rv				
+tulil	lrdw	0008	nə	APPL	rv	rv				
+tulil	lrdw	0008	tang	REFL	refl.d:p	refl	d	p	5003	
+tulil	lrdw	0008	ba	in	adp	adp				
+tulil	lrdw	0008	viuv	sea	np:l	np		l	5005	
+tulil	lrdw	0008	=e	=SG.CL:FEM	=rn	=rn				
+tulil	lrdw	0008	#	#	#	#				
+tulil	lrdw	0008	0	0	0.1:a	0	1	a	5003	
+tulil	lrdw	0008	o	TOP	other	other				
+tulil	lrdw	0008	ar	still	other	other				
+tulil	lrdw	0008	ngunu-re	1DL.NPST-carry	v:pred	v		pred		
+tulil	lrdw	0008	təgət	together	rv	rv				
+tulil	lrdw	0008	n	APPL	rv	rv				
+tulil	lrdw	0008	=a	=PAT	=ln	=ln				
+tulil	lrdw	0008	ngunu	1DL.POSS	ln_pro.1:poss	ln_pro	1	poss	5003	
+tulil	lrdw	0008	mətmət	food	np:p	np		p	5010	bridging
+tulil	lrdw	0009	#	#	##neg	##neg				
+tulil	lrdw	0009	bə	ASP	other	other				
+tulil	lrdw	0009	be	at	adp	adp				
+tulil	lrdw	0009	vəti	day	np:dt	np		dt	5011	bridging
+tulil	lrdw	0009	=von	=von	=rn	=rn				
+tulil	lrdw	0009	#	#	#rc	#rc				
+tulil	lrdw	0009	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0009	von	von	other	other				
+tulil	lrdw	0009	to	REL	other	other				
+tulil	lrdw	0009	ik-gun	3DL.M.PST-count	v:pred	v		pred		
+tulil	lrdw	0009	#	#	#cc_purp	#cc_purp				
+tulil	lrdw	0009	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0009	da	PURP	other	other				
+tulil	lrdw	0009	b=	ASP=	=other	=other				
+tulil	lrdw	0009	ip-vi	3DL.M.PST-	v:pred	v		pred		
+tulil	lrdw	0009	tə=	to=	=adp	=adp				
+tulil	lrdw	0009	ba	in	adp	adp				
+tulil	lrdw	0009	rumi	meeting	np:g	np		g	5012	bridging
+tulil	lrdw	0009	nə	APPL	nc	nc				
+tulil	lrdw	0009	tang	REFL	nc	nc				
+tulil	lrdw	0009	term	beside	nc	nc				
+tulil	lrdw	0009	=a	=PAT	nc	nc				
+tulil	lrdw	0009	viuv	viuv	nc	nc				
+tulil	lrdw	0009	=e	=SG.CL:FEM	=rn	=rn				
+tulil	lrdw	0009	%	%	%	%				
+tulil	lrdw	0009	o	TOP	other	other				
+tulil	lrdw	0009	kəvov	dog	np.d:dt_a	np	d	dt_a	5001	
+tulil	lrdw	0009	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0009	o	TOP	other	other				
+tulil	lrdw	0009	kori	NEG	other	other				
+tulil	lrdw	0009	0	0	0.d:a	0	d	a	5003	
+tulil	lrdw	0009	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	lrdw	0009	go	NSPEC	ln	ln				
+tulil	lrdw	0009	təreuk	thing.PL	np:p	np		p		
+tulil	lrdw	0009	#	#	##neg	##neg				
+tulil	lrdw	0009	0	0	0.d:a	0	d	a	5001	
+tulil	lrdw	0009	kori	NEG	other	other				
+tulil	lrdw	0009	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	lrdw	0009	va	3SG.M.POSS	ln_pro.d:poss	ln_pro	d	poss	5001	
+tulil	lrdw	0009	go	NSPEC	ln	ln				
+tulil	lrdw	0009	mətmət	food	np:p	np		p	5008	
+tulil	lrdw	0009	#	#	##	##				
+tulil	lrdw	0009	0	0	0.d:a	0	d	a	5001	
+tulil	lrdw	0009	0	0	0:p	0		p	5008	
+tulil	lrdw	0009	me	and	other	other				
+tulil	lrdw	0009	v-ət	3SG.M.PST-eat	v:pred	v		pred		
+tulil	lrdw	0009	mat	finish	rv	rv				
+tulil	lrdw	0009	konəng	only	rv	rv				
+tulil	lrdw	0009	term	beside	adp	adp				
+tulil	lrdw	0009	=a	=PAT	=ln	=ln				
+tulil	lrdw	0009	tuk	road	np:l	np		l	5013	new
+tulil	lrdw	0009	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0009	n	APPL	adp	adp				
+tulil	lrdw	0009	=a	=PAT	=ln	=ln				
+tulil	lrdw	0009	avar	also	ln	ln				
+tulil	lrdw	0009	iap	3SG.M	ln_pro.d:poss	ln_pro	d	poss	5001	
+tulil	lrdw	0009	va	3SG.M.POSS	ln_pro.d	ln_pro	d			
+tulil	lrdw	0009	mətmət	food	np:dt_p	np		dt_p	5008	
+tulil	lrdw	0009	#	#	#rc	#rc				
+tulil	lrdw	0009	0	0	0.d:a	0	d	a	5001	
+tulil	lrdw	0009	idə	3N	pro:dt_p	pro		dt_p	5008	
+tulil	lrdw	0009	to	REL	other	other				
+tulil	lrdw	0009	at-ə~mət	3SG.M.NPST-RED~eat	v:pred	v		pred		
+tulil	lrdw	0009	idə	3N	pro:p	pro		p	5008	
+tulil	lrdw	0009	term	beside	adp	adp				
+tulil	lrdw	0009	=a	=PAT	=ln	=ln				
+tulil	lrdw	0009	tuk	road	np:l	np		l	5013	
+tulil	lrdw	0009	navodi	like_this	other	other				
+tulil	lrdw	0010	#	#	##	##				
+tulil	lrdw	0010	0	0	0.d:a	0	d	a	5002	
+tulil	lrdw	0010	me	and	other	other				
+tulil	lrdw	0010	tudək	wallaby	np:dt_a	np		dt_a	5002	
+tulil	lrdw	0010	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0010	o	TOP	other	other				
+tulil	lrdw	0010	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	lrdw	0010	təvai	green.sp.	np:p	np		p	5007	
+tulil	lrdw	0010	me	and	nc	nc				
+tulil	lrdw	0010	təbək	green.sp.	nc	nc				
+tulil	lrdw	0010	me	and	nc	nc				
+tulil	lrdw	0010	kətəbek	green.sp.	nc	nc				
+tulil	lrdw	0010	me	and	nc	nc				
+tulil	lrdw	0010	kəlum	green.sp.	nc	nc				
+tulil	lrdw	0010	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0010	#	#	#rc	#rc				
+tulil	lrdw	0010	0	0	0.d:a	0	d	a	5002	
+tulil	lrdw	0010	to	REL	other	other				
+tulil	lrdw	0010	və-rək	3SG.M.PST-pick	v:pred	v		pred		
+tulil	lrdw	0010	mat	finish	rv	rv				
+tulil	lrdw	0010	idə	3N	pro:p	pro		p	5007	
+tulil	lrdw	0011	#	#	##	##				
+tulil	lrdw	0011	0	0	0.d:a	0	d	a	5002	
+tulil	lrdw	0011	io	then	other	other				
+tulil	lrdw	0011	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	lrdw	0011	idə	3N	pro:p	pro		p	5007	
+tulil	lrdw	0012	#	#	##	##				
+tulil	lrdw	0012	io	then	other	other				
+tulil	lrdw	0012	a-vi	3SG.M-PROX1	dem_pro.d:dt_a	dem_pro	d	dt_a	5002	
+tulil	lrdw	0012	tudək	wallaby	np.d:appos	np	d	appos	5002	
+tulil	lrdw	0012	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0012	o	TOP	other	other				
+tulil	lrdw	0012	#	#	#ac	#ac				
+tulil	lrdw	0012	0	0	0.d:a	0	d	a	5002	
+tulil	lrdw	0012	ve	because	other	other				
+tulil	lrdw	0012	at-ə~mət	3SG.M.NPST-RED~eat	v:pred	v		pred		
+tulil	lrdw	0012	=a	=PAT	=ln	=ln				
+tulil	lrdw	0012	mətmət	food	np:p	np		p	5014	bridging
+tulil	lrdw	0012	#	#	#rc	#rc				
+tulil	lrdw	0012	0	0	0:s	0		s	5014	
+tulil	lrdw	0012	to	REL	other	other				
+tulil	lrdw	0012	ləm	raw	np:pred	np		pred		
+tulil	lrdw	0012	%	%	%	%				
+tulil	lrdw	0012	io	then	other	other				
+tulil	lrdw	0012	iap	3SG.M	pro.d:dt_a	pro	d	dt_a	5002	
+tulil	lrdw	0012	o	TOP	other	other				
+tulil	lrdw	0012	0	0	0.d:a	0	d	a	5002	
+tulil	lrdw	0012	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	lrdw	0012	u-vi	3N-PROX1	dem_pro:p	dem_pro		p	5007	
+tulil	lrdw	0012	təvai	green.sp.	np:appos	np		appos	5007	
+tulil	lrdw	0012	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0012	me	and	nc	nc				
+tulil	lrdw	0012	kətəbek	green.sp.	nc	nc				
+tulil	lrdw	0012	me	and	nc	nc				
+tulil	lrdw	0012	kəlum	green.sp.	nc	nc				
+tulil	lrdw	0013	#	#	##	##				
+tulil	lrdw	0013	0	0	0.d:a	0	d	a	5002	
+tulil	lrdw	0013	io	then	other	other				
+tulil	lrdw	0013	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	lrdw	0013	idə	3N	pro:p	pro		p	5007	
+tulil	lrdw	0013	təkə=	to=	=adp	=adp				
+tulil	lrdw	0013	nə-mu	LOC-IN	dem_other:g	dem_other		g	5012	
+tulil	lrdw	0013	#	#	##neg	##neg				
+tulil	lrdw	0013	me	and	other	other				
+tulil	lrdw	0013	va	3SG.M.POSS	ln_pro.d:poss	ln_pro	d	poss	5002	
+tulil	lrdw	0013	var	friend	np.d:a	np	d	a	5001	
+tulil	lrdw	0013	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0013	kəvov	dog	np.d:appos	np	d	appos	5001	
+tulil	lrdw	0013	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0013	kori	NEG	other	other				
+tulil	lrdw	0013	və-re	3SG.M.PST-carry	v:pred	v		pred		
+tulil	lrdw	0013	go	NSPEC	ln	ln				
+tulil	lrdw	0013	təreuk	thing.PL	np:p	np		p		
+tulil	lrdw	0013	#	#	##	##				
+tulil	lrdw	0013	0	0	0.d:s	0	d	s	5002	
+tulil	lrdw	0013	iap	3SG.M	pro.d:dt_s	pro	d	dt_s	5002	
+tulil	lrdw	0013	o	TOP	other	other				
+tulil	lrdw	0013	v-ət	3SG.M.PST-eat	v:pred	v		pred		
+tulil	lrdw	0013	mat	finish	rv	rv				
+tulil	lrdw	0013	konəng	only	rv	rv				
+tulil	lrdw	0013	navodi	like_this	other	other				
+tulil	lrdw	0013	#	#	#neg	#neg				
+tulil	lrdw	0013	0	0	0.d:a	0	d	a	5002	
+tulil	lrdw	0013	to	SUB	other	other				
+tulil	lrdw	0013	var	also	other	other				
+tulil	lrdw	0013	kori	NEG	other	other				
+tulil	lrdw	0013	v-ən-m	3SG.M.PST-hit-APPL	v:pred	v		pred		
+tulil	lrdw	0013	=a	=PAT	=ln	=ln				
+tulil	lrdw	0013	go	NSPEC	ln	ln				
+tulil	lrdw	0013	vətə	meat	np:p	np		p		
+tulil	lrdw	0013	=von	=SG.CL:DIM	=rn	=rn				
+tulil	lrdw	0013	#	#	#rc_purp	#rc_purp				
+tulil	lrdw	0013	0	0	0.d:a	0	d	a	5001	
+tulil	lrdw	0013	da	PURP	other	other				
+tulil	lrdw	0013	a-re	3SG.M.NPST-carry	v:pred	v		pred		
+tulil	lrdw	0013	va	3SG.M.POSS	ln_pro.d:poss	ln_pro	d	poss	5001	
+tulil	lrdw	0013	go	NSPEC	ln	ln				
+tulil	lrdw	0013	ton	bone	np:p	np		p	5008	
+tulil	lrdw	0013	=e	=SG.CL:FEM	=rn	=rn				
+tulil	lrdw	0013	#	#	##	##				
+tulil	lrdw	0013	0	0	0.d:a	0	d	a	5001	
+tulil	lrdw	0013	iap	3SG.M	pro.d:dt_s	pro	d	dt_s	5001	
+tulil	lrdw	0013	o	TOP	other	other				
+tulil	lrdw	0013	v-ət	3SG.M.PST-eat	v:pred	v		pred		
+tulil	lrdw	0013	mat	mat	rv	rv				
+tulil	lrdw	0013	konəng	only	rv	rv				
+tulil	lrdw	0013	n	APPL	rv	rv				
+tulil	lrdw	0013	=a	=PAT	=ln	=ln				
+tulil	lrdw	0013	mətmət	food	np:p	np		p	5008	
+tulil	lrdw	0013	term	beside	adp	adp				
+tulil	lrdw	0013	=a	=PAT	=ln	=ln				
+tulil	lrdw	0013	tuk	road	np:l	np		l	5013	
+tulil	lrdw	0013	navodi	like_this	other	other				
+tulil	lrdw	0013	#	#	#rc	#rc				
+tulil	lrdw	0013	idə	3N	pro:s	pro		s	5008	
+tulil	lrdw	0013	to	REL	other	other				
+tulil	lrdw	0013	avar	also	other	other				
+tulil	lrdw	0013	iap	3SG.M	ln_pro.d:poss	ln_pro	d	poss	5001	
+tulil	lrdw	0013	va	3SG.M.POSS	ln_pro.d:poss	ln_pro	d	poss	5001	
+tulil	lrdw	0013	mətmət	food	np:pred	np		pred		
+tulil	lrdw	0014	#	#	##	##				
+tulil	lrdw	0014	bə=	ASP=	=other	=other				
+tulil	lrdw	0014	lət	arrive-APPL	v:pred	v		pred		
+tulil	lrdw	0014	n	APPL	rv	rv				
+tulil	lrdw	0014	=ip	=3DL.M	=pro.d:s_sv	=pro	d	s_sv	5003	
+tulil	lrdw	0014	#	#	##	##				
+tulil	lrdw	0014	io	then	other	other				
+tulil	lrdw	0014	tudək	wallaby	np.d:a	np	d	a	5002	
+tulil	lrdw	0014	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0014	və-tir	3SG.M.PST-ask	v:pred	v		pred		
+tulil	lrdw	0014	=a	=PAT	=ln	=ln				
+tulil	lrdw	0014	kəvov	dog	np.d:p	np	d	p	5001	
+tulil	lrdw	0014	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0014	at-e	3SG.M-QUOT	other	other				
+tulil	lrdw	0014	#	#	##ds	##ds				
+tulil	lrdw	0014	ləi	ləi	other	other				
+tulil	lrdw	0014	a-bo	3SG.M-UP	pro.2:voc	pro	2	voc	5001	
+tulil	lrdw	0014	ava	still	other	other				
+tulil	lrdw	0014	nging	2SG	pro.2:dt	pro	2	dt	5001	
+tulil	lrdw	0014	o	TOP	other	other				
+tulil	lrdw	0014	mətmət	food	np:s	np		s	5008	
+tulil	lrdw	0014	u-bi	3N-where	intrg_other:pred	intrg_other		pred		
+tulil	lrdw	0014	#	#	#ds	#ds				
+tulil	lrdw	0014	0	0	0.1:a	0	1	a	5002	
+tulil	lrdw	0014	to	SUB	other	other				
+tulil	lrdw	0014	ngang	1SG	pro.1:a	pro	1	a	5002	
+tulil	lrdw	0014	o	TOP	other	other				
+tulil	lrdw	0014	ngə-re	1SG.PST-carry	v:pred	v		pred		
+tulil	lrdw	0014	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	5002	
+tulil	lrdw	0014	ragum	greens	np:p	np		p	5007	
+tulil	lrdw	0014	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0014	a-vi	3SG.M-PROX1	rn	rn				
+tulil	lrdw	0015	#	#	##	##				
+tulil	lrdw	0015	io	then	other	other				
+tulil	lrdw	0015	kəvov	dog	np.d:s_ds	np	d	s_ds	5001	
+tulil	lrdw	0015	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0015	v-əngar	3SG.M.PST-say	v:pred	v		pred		
+tulil	lrdw	0015	at-e	3SG.M-QUOT	other	other				
+tulil	lrdw	0015	#	#	##ds	##ds				
+tulil	lrdw	0015	0	0	0.1:s	0	1	s	5001	
+tulil	lrdw	0015	ngang	1SG	pro.1:dt_s	pro	1	dt_s	5001	
+tulil	lrdw	0015	o	TOP	other	other				
+tulil	lrdw	0015	ngə-mət	1SG.PST-eat	v:pred	v		pred		
+tulil	lrdw	0015	mat	finish	rv	rv				
+tulil	lrdw	0015	konəng	only	rv	rv				
+tulil	lrdw	0015	nə-vibo	LOC-UP.NEAR	dem_other	dem_other				
+tulil	lrdw	0015	konəng	only	other	other				
+tulil	lrdw	0015	term	beside	adp	adp				
+tulil	lrdw	0015	=a	=SG.CL:MASC	=ln	=ln				
+tulil	lrdw	0015	tuk	road	np:l	np		l	5013	
+tulil	lrdw	0015	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0015	mətmət	food	np:dt	np		dt	5008	
+tulil	lrdw	0015	konəng	only	rn	rn				
+tulil	lrdw	0015	navodi	like_this	rn	rn				
+tulil	lrdw	0016	#	#	##ds	##ds				
+tulil	lrdw	0016	0	0	0.2:a	0	2	a	5002	
+tulil	lrdw	0016	me	and	other	other				
+tulil	lrdw	0016	nging	2SG	pro.2:dt_a	pro	2	dt_a	5002	
+tulil	lrdw	0016	o	TOP	other	other				
+tulil	lrdw	0016	bə	ASP	other	other				
+tulil	lrdw	0016	ngire	2SG.PST-carry	v:pred	v		pred		
+tulil	lrdw	0016	ngi	2SG.POSS	ln_pro.2:poss	ln_pro	2	poss	5002	
+tulil	lrdw	0016	mətmət	food	np:p	np		p	5007	
+tulil	lrdw	0016	u-bət	3N-PROX2	rn	rn				
+tulil	lrdw	0016	#	#	#ds_rc	#ds_rc				
+tulil	lrdw	0016	0	0	0.1:a	0	1	a	5001	
+tulil	lrdw	0016	to	REL	other	other				
+tulil	lrdw	0016	ngang	1SG	pro.1:dt_a	pro	1	dt_a	5001	
+tulil	lrdw	0016	o	TOP	other	other				
+tulil	lrdw	0016	kori	NEG	other	other				
+tulil	lrdw	0016	ngan-ə~mət	1SG.NPST-RED~eat	v:pred	v		pred		
+tulil	lrdw	0016	=a	=PAT	=ln	=ln				
+tulil	lrdw	0016	u-bət	3N-PROX2	dem_pro:p	dem_pro		p	5007	
+tulil	lrdw	0016	#	#	#ds	#ds				
+tulil	lrdw	0016	to	SUB	other	other				
+tulil	lrdw	0016	u-bət	3N-PROX2	dem_pro:s	dem_pro		s	5007	
+tulil	lrdw	0016	o	TOP	other	other				
+tulil	lrdw	0016	ləm	raw	np:pred	np		pred		
+tulil	lrdw	0016	#	#	#ds	#ds				
+tulil	lrdw	0016	0	0	0.2:a	0	2	a	5002	
+tulil	lrdw	0016	me	and	other	other				
+tulil	lrdw	0016	nging	2SG	pro.2:dt_a	pro	2	dt_a	5002	
+tulil	lrdw	0016	o	TOP	other	other				
+tulil	lrdw	0016	ve	because	other	other				
+tulil	lrdw	0016	ngin-ə~mət	2SG.NPST-RED~eat	v:pred	v		pred		
+tulil	lrdw	0016	=a	=PAT	=ln	=ln				
+tulil	lrdw	0016	ləm	raw	np:p	np		p	5014	
+tulil	lrdw	0016	#	#	##ds	##ds				
+tulil	lrdw	0016	0	0	0.2:a	0	2	a	5002	
+tulil	lrdw	0016	io	then	other	other				
+tulil	lrdw	0016	ngi-re	2SG.NPST-carry	v:pred	v		pred		
+tulil	lrdw	0016	kəlum	green.sp.	np:p	np		p	5007	
+tulil	lrdw	0016	me	and	rn	rn				
+tulil	lrdw	0016	təvai	green.sp.	rn_np	rn_np				
+tulil	lrdw	0016	me	and	rn	rn				
+tulil	lrdw	0016	kətəbek	green.sp.	rn_np	rn_np				
+tulil	lrdw	0017	#	#	##ds	##ds				
+tulil	lrdw	0017	0	0	0.1:a	0	1	a	5003	
+tulil	lrdw	0017	io	then	other	other				
+tulil	lrdw	0017	do	here;now	other:dt	other		dt		
+tulil	lrdw	0017	bə	ASP	other	other				
+tulil	lrdw	0017	ngut-atme	1DL.NPST-do	v:pred	v		pred		
+tulil	lrdw	0017	da	PURP	rv	rv				
+tulil	lrdw	0017	gəri	what	intrg_other:p	intrg_other		p		
+tulil	lrdw	0018	#	#	##	##				
+tulil	lrdw	0018	kəvov	dog	np.d:s_ds	np	d	s_ds	5001	
+tulil	lrdw	0018	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0018	at-e	3SG.M-QUOT	other:pred	other		pred		
+tulil	lrdw	0018	#	#	##ds	##ds				
+tulil	lrdw	0018	0	0	0.1:s	0	1	s	5003	
+tulil	lrdw	0018	oh	oh	other	other				
+tulil	lrdw	0018	ngu-turən	1DL.NPST-wash	v:pred	v		pred		
+tulil	lrdw	0018	nandi	like_this	other	other				
+tulil	lrdw	0018	#	#	##ds	##ds				
+tulil	lrdw	0018	turən	wash	vother:pred	vother		pred		
+tulil	lrdw	0018	ba	in	adp	adp				
+tulil	lrdw	0018	viuv	sea	np:l	np		l	5005	
+tulil	lrdw	0018	=e	=SG.CL:FEM	=rn	=rn				
+tulil	lrdw	0019	#	#	##	##				
+tulil	lrdw	0019	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0019	io	then	other	other				
+tulil	lrdw	0019	itə-turən	3DL.M.PST-wash	v:pred	v		pred		
+tulil	lrdw	0019	ba	in	adp	adp				
+tulil	lrdw	0019	viuv	sea	np:l	np		l	5005	
+tulil	lrdw	0019	=e	=SG.CL:FEM	=rn	=rn				
+tulil	lrdw	0019	navonbət	like_that	other	other				
+tulil	lrdw	0020	#	#	##	##				
+tulil	lrdw	0020	io	then	other	other				
+tulil	lrdw	0020	kəvov	dog	np.d:s_ds	np	d	s_ds	5001	
+tulil	lrdw	0020	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0020	at-e	3SG.M-QUOT	other:pred	other		pred		
+tulil	lrdw	0020	#	#	#ds	#ds				
+tulil	lrdw	0020	0	0	0.1:s	0	1	s	5003	
+tulil	lrdw	0020	ləi	ləi	other	other				
+tulil	lrdw	0020	a-bo	3SG.M-UP	pro.2:voc	pro	2	voc	5002	
+tulil	lrdw	0020	ngut-nanət	1DL.NPST-swim	v:pred	v		pred		
+tulil	lrdw	0020	#	#	##ds	##ds				
+tulil	lrdw	0020	0	0	0.1:s	0	1	s	5003	
+tulil	lrdw	0020	ngut-nanət	1DL.NPST-swim	v:pred	v		pred		
+tulil	lrdw	0020	#	#	#ac_purp	#ac_purp				
+tulil	lrdw	0020	0	0	0.1:s	0	1	s	5003	
+tulil	lrdw	0020	da	PURP	other	other				
+tulil	lrdw	0020	ngu-təvək	1DL.NPST-cross	v:pred	v		pred		
+tulil	lrdw	0020	tə=	to=	=adp	=adp				
+tulil	lrdw	0020	be	at	adp	adp				
+tulil	lrdw	0020	vəret	side	np:g	np		g	5015	new
+tulil	lrdw	0020	=e	=SG.CL:FEM	=rn	=rn				
+tulil	lrdw	0020	e-mu	3SG.F-IN	rn	rn				
+tulil	lrdw	0021	#	#	##	##				
+tulil	lrdw	0021	io	then	other	other				
+tulil	lrdw	0021	tudək	wallaby	np.d:s_ds	np	d	s_ds	5002	
+tulil	lrdw	0021	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0021	at-e	3SG.M-QUOT	other:pred	other		pred		
+tulil	lrdw	0021	#	#	#ds.neg	#ds.neg				
+tulil	lrdw	0021	0	0	0.1:a	0	1	a	5002	
+tulil	lrdw	0021	məie	but	other	other				
+tulil	lrdw	0021	ngang	1SG	pro.1:dt_a	pro	1	dt_a	5002	
+tulil	lrdw	0021	o	TOP	other	other				
+tulil	lrdw	0021	kori	NEG	other	other				
+tulil	lrdw	0021	ngə-təm	1SG.PST-know	v:pred	v		pred		
+tulil	lrdw	0021	mərek	good	rv	rv				
+tulil	lrdw	0021	n	APPL	rv	rv				
+tulil	lrdw	0021	=a	=PAT	=ln	=ln				
+tulil	lrdw	0021	nanət	swim	np:p	np		p	5006	
+tulil	lrdw	0022	#	#	##	##				
+tulil	lrdw	0022	io	then	other	other				
+tulil	lrdw	0022	kəvov	dog	np.d:s_ds	np	d	s_ds	5001	
+tulil	lrdw	0022	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0022	at-e	3SG.M-QUOT	other:pred	other		pred		
+tulil	lrdw	0022	#	#	#ds	#ds				
+tulil	lrdw	0022	0	0	0.1:s	0	1	s	5003	
+tulil	lrdw	0022	ava	just	other	other				
+tulil	lrdw	0022	ngut-nanət	1DL.NPST-swim	v:pred	v		pred		
+tulil	lrdw	0022	konəng	only	rv	rv				
+tulil	lrdw	0022	#	#	##ds	##ds				
+tulil	lrdw	0022	#	#	#ac	#ac				
+tulil	lrdw	0022	me	and	other	other				
+tulil	lrdw	0022	doto	when;if	other	other				
+tulil	lrdw	0022	popou	tired	v:pred	v		pred		
+tulil	lrdw	0022	ngi=	2SG.POSS=	=ln_pro.2:poss	=ln_pro	2	poss	5002	
+tulil	lrdw	0022	nok	hand	np:s_sv	np		s_sv	5016	bridging
+tulil	lrdw	0022	%	%	%	%				
+tulil	lrdw	0022	o	TOP	other	other				
+tulil	lrdw	0022	ngang	1SG	pro.1:a	pro	1	a	5001	
+tulil	lrdw	0022	nga-re	1SG.NPST-carry	v:pred	v		pred		
+tulil	lrdw	0022	nging	2SG	pro.2:p	pro	2	p	5002	
+tulil	lrdw	0022	nga	1SG.POSS	ln_pro.1:poss	ln_pro	1	poss	5001	
+tulil	lrdw	0022	var	friend	np.d:appos	np	d	appos	5002	
+tulil	lrdw	0022	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0022	navondi	like_this	other	other				
+tulil	lrdw	0023	#	#	##	##				
+tulil	lrdw	0023	0	0	0.d:s	0	d	s	5001	
+tulil	lrdw	0023	io	then	other	other				
+tulil	lrdw	0023	bə=	ASP=	=other	=other				
+tulil	lrdw	0023	v-atang	3SG.M.PST-jump	v:pred	v		pred		
+tulil	lrdw	0023	#	#	##	##				
+tulil	lrdw	0023	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0023	it-matang	3DL.M.PST-jump	v:pred	v		pred		
+tulil	lrdw	0023	tə=	tə=	=adp	=adp				
+tulil	lrdw	0023	ba	in	adp	adp				
+tulil	lrdw	0023	viuv	sea	np:g	np		g	5005	
+tulil	lrdw	0023	=e	=SG.CL:FEM	=rn	=rn				
+tulil	lrdw	0023	#	#	#purp	#purp				
+tulil	lrdw	0023	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0023	da	PURP	other	other				
+tulil	lrdw	0023	bə	ASP	other	other				
+tulil	lrdw	0023	it-nə~nanət	3DL.M.PST-RED~swim	v:pred	v		pred		
+tulil	lrdw	0023	nə-mumə	LOC-DOWN.FAR	dem_other:l	dem_other		l		
+tulil	lrdw	0023	tan	across	other	other				
+tulil	lrdw	0023	#	#	#purp	#purp				
+tulil	lrdw	0023	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0023	da	PURP	other	other				
+tulil	lrdw	0023	it-təvək	3DL.M.PST-cross	v:pred	v		pred		
+tulil	lrdw	0023	məgəte	like	other	other				
+tulil	lrdw	0023	#	#	#ac	#ac				
+tulil	lrdw	0023	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0023	doto	when;if	other	other				
+tulil	lrdw	0023	it-təvək	3DL.M.PST-cross	v:pred	v		pred		
+tulil	lrdw	0023	#	#	#	#				
+tulil	lrdw	0023	o	TOP	other	other				
+tulil	lrdw	0023	məgəte	like	other	other				
+tulil	lrdw	0023	mə=	from=	=adp	=adp				
+tulil	lrdw	0023	nə-mu	LOC-IN	dem_other:pred	dem_other		pred		
+tulil	lrdw	0023	be	at	adp	adp				
+tulil	lrdw	0023	Vuvu	Vuvu	pn_np:l	pn_np		l	5017	new
+tulil	lrdw	0023	#	#	#	#				
+tulil	lrdw	0023	təkə=	to=	=adp	=adp				
+tulil	lrdw	0023	nə-mumə	LOC-DOWN.FAR	dem_other:pred	dem_other		pred		
+tulil	lrdw	0023	be	at	adp	adp				
+tulil	lrdw	0023	Vuatom	Vuatom	pn_np:g	pn_np		g	5018	new
+tulil	lrdw	0024	#	##	##	##				
+tulil	lrdw	0024	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0024	it-təvək	3DL.M.PST-cross	v:pred	v		pred		
+tulil	lrdw	0024	navonbət	like_that	other	other				
+tulil	lrdw	0024	nə-mumə	LOC-DOWN.FAR	dem_other:g	dem_other		g		
+tulil	lrdw	0024	tan	across	other	other				
+tulil	lrdw	0025	#	#	##	##				
+tulil	lrdw	0025	io	then	other	other				
+tulil	lrdw	0025	tudək	wallaby	np.d:s	np	d	s	5002	
+tulil	lrdw	0025	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0025	ar	ar	nc	nc				
+tulil	lrdw	0025	təpm	with	adp	adp				
+tulil	lrdw	0025	=a	=PAT	=ln	=ln				
+tulil	lrdw	0025	va	3SG.M.POSS	ln_pro.d:poss	ln_pro	d	poss	5002	
+tulil	lrdw	0025	ragum	greens	np:pred	np		pred	5007	
+tulil	lrdw	0025	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0025	navodi	like_this	other	other				
+tulil	lrdw	0025	#	#	#	#				
+tulil	lrdw	0025	0	0	0.d:s	0	d	s	5002	
+tulil	lrdw	0025	to	SUB	other	other				
+tulil	lrdw	0025	və-nanət	3SG.M.PST-swim	v:pred	v		pred		
+tulil	lrdw	0025	təpma	with	adp	adp				
+tulil	lrdw	0025	=a	=PAT	=ln	=ln				
+tulil	lrdw	0025	va	3SG.M.POSS	ln_pro.d:poss	ln_pro	d	poss	5002	
+tulil	lrdw	0025	ragum	greens	np:obl	np		obl	5007	
+tulil	lrdw	0025	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0026	#	#	##neg	##neg				
+tulil	lrdw	0026	io	then	other	other				
+tulil	lrdw	0026	ba	in	adp	adp				
+tulil	lrdw	0026	viuv	sea	np:dt	np		dt	5005	
+tulil	lrdw	0026	=e	=SG.CL:FEM	=rn	=rn				
+tulil	lrdw	0026	o	TOP	other	other				
+tulil	lrdw	0026	tudək	wallaby	np.d:s	np	d	s	5002	
+tulil	lrdw	0026	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0026	kori	NEG	other	other				
+tulil	lrdw	0026	və-nanət	3SG.M.PST-swim	v:pred	v		pred		
+tulil	lrdw	0026	mərek	good	rv	rv				
+tulil	lrdw	0026	#	#	#	#				
+tulil	lrdw	0026	0	0	0:s	0		s	5002	
+tulil	lrdw	0026	to	SUB	other	other				
+tulil	lrdw	0026	təməng	heavy	np:pred	np		pred		
+tulil	lrdw	0026	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0026	#	#	#	#				
+tulil	lrdw	0026	to	SUB	other	other				
+tulil	lrdw	0026	viuv	viuv	np:s	np		s	5005	
+tulil	lrdw	0026	=e	=SG.CL:FEM	=rn	=rn				
+tulil	lrdw	0026	i-tavəkai	3SG.F.PST-hold_tight	v:pred	v		pred		
+tulil	lrdw	0026	be	at	adp	adp				
+tulil	lrdw	0026	ragum	greens	np:obl	np		obl	5007	
+tulil	lrdw	0026	#	#	#	#				
+tulil	lrdw	0026	0	0	0.d:a	0	d	a	5002	
+tulil	lrdw	0026	io	then	other	other				
+tulil	lrdw	0026	i-liuv	3SG.F.PST-return	v:pred	v		pred		
+tulil	lrdw	0026	=a	=3SG.M.PAT	=pro.d:p	=pro	d	p		
+tulil	lrdw	0027	#	#	##	##				
+tulil	lrdw	0027	0	0	0.d:s_ds	0	d	s_ds	5002	
+tulil	lrdw	0027	və-t~tak	3SG.M.PST-RED~call	v:pred	v		pred		
+tulil	lrdw	0027	at-e	3SG.M-QUOT	other	other				
+tulil	lrdw	0027	#	#	##ds	##ds				
+tulil	lrdw	0027	0	0	0.2:a	0	2	a	5001	
+tulil	lrdw	0027	ləi	ləi	other	other				
+tulil	lrdw	0027	ngin-atər	2SG.NPST-stand	v:pred	v		pred		
+tulil	lrdw	0027	mat	wait	rv	rv				
+tulil	lrdw	0027	ngang	1SG	pro.1:p	pro	1	p	5002	
+tulil	lrdw	0027	nə-bət	LOC-PROX2	dem_other:l	dem_other		l		
+tulil	lrdw	0027	navondi	like_this	other	other				
+tulil	lrdw	0027	#	#	##ds.neg	##ds.neg				
+tulil	lrdw	0027	0	0	0.1:s	0	1	s	5002	
+tulil	lrdw	0027	ngang	1SG	pro.1:dt_s	pro	1	dt_s	5002	
+tulil	lrdw	0027	o	TOP	other	other				
+tulil	lrdw	0027	bə	ASP	other	other				
+tulil	lrdw	0027	kori	NEG	other	other				
+tulil	lrdw	0027	nga-taup	1SG.NPST-grab	v:pred	v		pred		
+tulil	lrdw	0027	mənu	back.of	adp	adp				
+tulil	lrdw	0027	nging	2SG	pro.2:obl	pro	2	obl	5001	
+tulil	lrdw	0027	navodi	like_this	other	other				
+tulil	lrdw	0027	#	#	#	#				
+tulil	lrdw	0027	0	0	0.2:s	0	2	s	5001	
+tulil	lrdw	0027	to	SUB	other	other				
+tulil	lrdw	0027	nging	2SG	pro.2:dt_s	pro	2	dt_s	5001	
+tulil	lrdw	0027	o	TOP	other	other				
+tulil	lrdw	0027	bə	ASP	other	other				
+tulil	lrdw	0027	ngi-taro	2SG.PST-hurry	v:pred	v		pred		
+tulil	lrdw	0027	məgemə	leave_behind	adp	adp				
+tulil	lrdw	0027	ngang	1SG	pro.1:obl	pro	1	obl	5002	
+tulil	lrdw	0027	#	#	#	#				
+tulil	lrdw	0027	me	and	other	other				
+tulil	lrdw	0027	ngang	1SG	pro.1:dt_poss	pro	1	dt_poss	5002	
+tulil	lrdw	0027	o	TOP	other	other				
+tulil	lrdw	0027	bə	ASP	other	other				
+tulil	lrdw	0027	popou	tired	v:pred	v		pred		
+tulil	lrdw	0027	ngə=	1SG.POSS=	=ln_pro.1:poss	=ln_pro	1	poss	5002	
+tulil	lrdw	0027	nok	hand	np:s_sv	np		s_sv	5016	
+tulil	lrdw	0028	#	#	##	##				
+tulil	lrdw	0028	kəvov	dog	np.d:s	np	d	s	5001	
+tulil	lrdw	0028	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0028	və-loktang	3SG.M.PST-circle_around	v:pred	v		pred		
+tulil	lrdw	0028	nə-m~bo	LOC-RED~UP	dem_other:l	dem_other		l		
+tulil	lrdw	0028	#	#	#nc	#nc				
+tulil	lrdw	0028	ava	again	nc	nc				
+tulil	lrdw	0028	nə-m~mə	LOC-RED~DOWN	nc	nc				
+tulil	lrdw	0028	(#)	(#)	nc	nc				
+tulil	lrdw	0028	ava	again	nc	nc				
+tulil	lrdw	0028	tuk	to	nc	nc				
+tulil	lrdw	0028	=a	=3SG.M.PAT	nc	nc				
+tulil	lrdw	0028	#	#	##	##				
+tulil	lrdw	0028	0	0	0.d:s_ds	0	d	s_ds	5001	
+tulil	lrdw	0028	ava	again	other	other				
+tulil	lrdw	0028	v-əngar	3SG.M.PST-say	v:pred	v		pred		
+tulil	lrdw	0028	at-e	3SG.M-QUOT	other	other				
+tulil	lrdw	0028	#	#	#ds	#ds				
+tulil	lrdw	0028	0	0	0.1:s	0	1	s	5003	
+tulil	lrdw	0028	ava	again	other	other				
+tulil	lrdw	0028	ngu-p~pi	1DL.NPST-RED~go	v:pred	v		pred		
+tulil	lrdw	0028	təgət	together	rv	rv				
+tulil	lrdw	0028	navodi	like_this	other	other				
+tulil	lrdw	0029	#	#	##	##				
+tulil	lrdw	0029	0	0	0.d:s_ds	0	d	s_ds	5002	
+tulil	lrdw	0029	ate	3SG.M-QUOT	other:pred	other		pred		
+tulil	lrdw	0029	#	#	#ds.neg	#ds.neg				
+tulil	lrdw	0029	kori	NEG	other	other				
+tulil	lrdw	0029	ngang	1SG	pro.1:dt_poss	pro	1	dt_poss	5002	
+tulil	lrdw	0029	bə=	bə=	=other	=other				
+tulil	lrdw	0029	popou	tired	v:pred	v		pred		
+tulil	lrdw	0029	ngə=	1SG.POSS.INAL=	=ln_pro.1:poss	=ln_pro	1	poss	5002	
+tulil	lrdw	0029	nok	hand	np:s_sv	np		s_sv	5016	
+tulil	lrdw	0029	#	#	#ds	#ds				
+tulil	lrdw	0029	akra	just_then	other	other				
+tulil	lrdw	0029	bə	ASP	other	other				
+tulil	lrdw	0029	kərvuk	drown	v:pred	v		pred		
+tulil	lrdw	0029	nə	APPL	rv	rv				
+tulil	lrdw	0029	ngang	1SG	pro.1:s_sv	pro	1	s_sv	5002	
+tulil	lrdw	0029	#	#	#neg	#neg				
+tulil	lrdw	0029	0	0	0.1:a	0	1	a	5002	
+tulil	lrdw	0029	to	SUB	other	other				
+tulil	lrdw	0029	ngang	1SG	pro.1:dt_a	pro	1	dt_a	5002	
+tulil	lrdw	0029	o	TOP	other	other				
+tulil	lrdw	0029	kori	NEG	other	other				
+tulil	lrdw	0029	ngə-təm	1SG.PST-know	v:pred	v		pred		
+tulil	lrdw	0029	mərek	good	rv	rv				
+tulil	lrdw	0029	n	APPL	rv	rv				
+tulil	lrdw	0029	=a	=PAT	=ln	=ln				
+tulil	lrdw	0029	nanət	swim	np:p	np		p	5006	
+tulil	lrdw	0030	#	#	##	##				
+tulil	lrdw	0030	kəvov	dog	np.d:s_ds	np	d	s_ds	5001	
+tulil	lrdw	0030	=a	=SG.CL:MASC	=ln	=ln				
+tulil	lrdw	0030	at-e	3SG.M-QUOT	other:pred	other		pred		
+tulil	lrdw	0030	#	#	##ds	##ds				
+tulil	lrdw	0030	0	0	0.2:s	0	2	s	5002	
+tulil	lrdw	0030	io	then	other	other				
+tulil	lrdw	0030	do	here;now	other:dt	other		dt		
+tulil	lrdw	0030	o	TOP	other	other				
+tulil	lrdw	0030	ngin-atang	2SG.NPST-jump	v:pred	v		pred		
+tulil	lrdw	0030	tə=	to=	=adp	=adp				
+tulil	lrdw	0030	mənu	back.of	adp	adp				
+tulil	lrdw	0030	ngang	1SG	pro.1:obl	pro	1	obl	5001	
+tulil	lrdw	0030	#	#	##ds	##ds				
+tulil	lrdw	0030	0	0	0.2:s	0	2	s	5002	
+tulil	lrdw	0030	ngi-bet	2SG.NPST-hold	v:pred	v		pred		
+tulil	lrdw	0030	be	at	adp	adp				
+tulil	lrdw	0030	ngə=	1SG.POSS=	=ln_pro.1:poss	=ln_pro	1	poss	5001	
+tulil	lrdw	0030	kən	neck	np:obl	np		obl	5019	bridging
+tulil	lrdw	0030	#	#	##	##				
+tulil	lrdw	0030	me	and	other	other				
+tulil	lrdw	0030	ngang	1SG	pro.1:s	pro	1	s	5001	
+tulil	lrdw	0030	nga-nanət	1SG.NPST-swim	v:pred	v		pred		
+tulil	lrdw	0030	təpmə	with	adp	adp				
+tulil	lrdw	0030	ngun	1DL	pro.1:obl	pro	1	obl	5003	
+tulil	lrdw	0030	#	#	##ds	##ds				
+tulil	lrdw	0030	0	0	0.d:a	0	d	a	5002	
+tulil	lrdw	0030	me	and	other	other				
+tulil	lrdw	0030	ragum	greens	np:dt_p	np		dt_p	5007	
+tulil	lrdw	0030	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0030	a-bət	3SG.M-PROX2	rn	rn				
+tulil	lrdw	0030	o	TOP	other	other				
+tulil	lrdw	0030	ar	still	other	other				
+tulil	lrdw	0030	ngin-u	2SG.NPST-put	v:pred	v		pred		
+tulil	lrdw	0030	=a	=3SG.M.PAT	=pro:p	=pro		p	5007	
+tulil	lrdw	0030	nə-bət	LOC-PROX2	dem_other:g	dem_other		g		
+tulil	lrdw	0030	mənu	back.of	rn	rn				
+tulil	lrdw	0030	ngang	1SG	rn_pro.1	rn_pro	1		5001	
+tulil	lrdw	0031	#	#	##	##				
+tulil	lrdw	0031	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0031	io	then	other	other				
+tulil	lrdw	0031	it-nə~nanət	3DL.PST-RED~swim	v:pred	v		pred		
+tulil	lrdw	0031	me	and	other	other				
+tulil	lrdw	0031	təpm	with	adp	adp				
+tulil	lrdw	0031	=a	=PAT	=ln	=ln				
+tulil	lrdw	0031	ragum	greens	np:obl	np		obl	5007	
+tulil	lrdw	0031	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0031	təkə=	to=	=adp	=adp				
+tulil	lrdw	0031	nə-mu	LOC-IN	dem_other	dem_other				
+tulil	lrdw	0031	moli	moli	adp	adp				
+tulil	lrdw	0031	mədərəp	middle	np:g	np		g	5020	bridging
+tulil	lrdw	0032	#	#	##	##				
+tulil	lrdw	0032	ava	again	other	other				
+tulil	lrdw	0032	kəvov	dog	np.d:s_ds	np	d	s_ds	5001	
+tulil	lrdw	0032	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0032	ate	3SG.M-QUOT	other:pred	other		pred		
+tulil	lrdw	0032	#	#	##ds	##ds				
+tulil	lrdw	0032	0	0	0.1:s_sv	0	1	s_sv	5001	
+tulil	lrdw	0032	fsh	fsh	other	other				
+tulil	lrdw	0032	ngang	1SG	pro.1:dt_s	pro	1	dt_s	5001	
+tulil	lrdw	0032	o	TOP	other	other				
+tulil	lrdw	0032	nalət	tired	other:pred	other		pred		
+tulil	lrdw	0032	navodi	like_this	other	other				
+tulil	lrdw	0032	#	#	##ds	##ds				
+tulil	lrdw	0032	0	0	0.1:s	0	1	s	5003	
+tulil	lrdw	0032	ngunu	ngunu	pro.1:dt_s	pro	1	dt_s	5003	
+tulil	lrdw	0032	o	TOP	other	other				
+tulil	lrdw	0032	bə=	ASP=	=other	=other				
+tulil	lrdw	0032	ngu-toup	1DL.NPST-die	v:pred	v		pred		
+tulil	lrdw	0032	#	#	#	#				
+tulil	lrdw	0032	to	SUB	other	other				
+tulil	lrdw	0032	nging	2SG	pro.2:dt	pro	2	dt	5002	
+tulil	lrdw	0032	o	TOP	other	other				
+tulil	lrdw	0032	ragum	greens	np:a	np		a	5007	
+tulil	lrdw	0032	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0032	a-bət	3SG.M-PROX1	rn	rn				
+tulil	lrdw	0032	a-raot	3SG.NPST-drag	v:pred	v		pred		
+tulil	lrdw	0032	vəkai	tight	rv	rv				
+tulil	lrdw	0032	nə	APPL	rv	rv				
+tulil	lrdw	0032	ngun	1DL	pro.1:p	pro	1	p	5003	
+tulil	lrdw	0032	#	#	##ds	##ds				
+tulil	lrdw	0032	0	0	0.2:a	0	2	a	5002	
+tulil	lrdw	0032	ngi-bun	2SG.NPST-throw_away	v:pred	v		pred		
+tulil	lrdw	0032	=a	=PAT	=ln	=ln				
+tulil	lrdw	0032	ragum	greens	np:p	np		p	5007	
+tulil	lrdw	0032	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0032	navodi	like_this	other	other				
+tulil	lrdw	0033	#	#	##	##				
+tulil	lrdw	0033	0	0	0.d:a	0	d	a	5002	
+tulil	lrdw	0033	io	then	other	other				
+tulil	lrdw	0033	v-un	3SG.M.PST-throw_away	v:pred	v		pred		
+tulil	lrdw	0033	=a	=PAT	=ln	=ln				
+tulil	lrdw	0033	ragum	greens	np:p	np		p	5007	
+tulil	lrdw	0033	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0034	#	#	##	##				
+tulil	lrdw	0034	0	0	0.d:s_ds	0	d	s_ds	5001	
+tulil	lrdw	0034	io	then	other	other				
+tulil	lrdw	0034	at-e	3SG.M-QUOT	other:pred	other		pred		
+tulil	lrdw	0034	#	#	#ds	#ds				
+tulil	lrdw	0034	0	0	0.2:s	0	2	s	5002	
+tulil	lrdw	0034	io	then	other	other				
+tulil	lrdw	0034	ngi-bet	2SG.NPST-hold	v:pred	v		pred		
+tulil	lrdw	0034	be	at	adp	adp				
+tulil	lrdw	0034	ngə=	1SG.POSS.INAL=	=ln_pro.1:poss	=ln_pro	1	poss	5001	
+tulil	lrdw	0034	kən	neck	np:obl	np		obl	5019	
+tulil	lrdw	0035	#	#	#purp	#purp				
+tulil	lrdw	0035	0	0	0.d:s	0	d	s	5002	
+tulil	lrdw	0035	io	then	other	other				
+tulil	lrdw	0035	da	PURP	other	other				
+tulil	lrdw	0035	v-et	3SG.M.PST-hold	v:pred	v		pred		
+tulil	lrdw	0035	do	here;now	other	other				
+tulil	lrdw	0035	be	at	adp	adp				
+tulil	lrdw	0035	və=	3SG.M.POSS.INAL=	=ln_pro.d:poss	=ln_pro	d	poss	5001	
+tulil	lrdw	0035	kən	neck	np:obl	np		obl	5019	
+tulil	lrdw	0035	navodi	like_this	other	other				
+tulil	lrdw	0036	#	#	##	##				
+tulil	lrdw	0036	0	0	0.d:s_ds	0	d	s_ds	5001	
+tulil	lrdw	0036	io	then	other	other				
+tulil	lrdw	0036	at-e	3SG.M-QUOT	other:pred	other		pred		
+tulil	lrdw	0036	#	#	#ds.neg	#ds.neg				
+tulil	lrdw	0036	0	0	0.1:s	0	1	s	5001	
+tulil	lrdw	0036	oʔo	oʔo	other	other				
+tulil	lrdw	0036	kori	NEG	other	other				
+tulil	lrdw	0036	nga-nanət	1SG.NPST-swim	v:pred	v		pred		
+tulil	lrdw	0036	mərek	good	rv	rv				
+tulil	lrdw	0036	#	#	#ds	#ds				
+tulil	lrdw	0036	0	0	0.2:s	0	2	s	5002	
+tulil	lrdw	0036	to	SUB	other	other				
+tulil	lrdw	0036	nging	2SG	pro.2:dt_s	pro	2	dt_s	5002	
+tulil	lrdw	0036	o	TOP	other	other				
+tulil	lrdw	0036	ngi-vet	2SG.PST-hold	v:pred	v		pred		
+tulil	lrdw	0036	do	here;now	other	other				
+tulil	lrdw	0036	#	#	##ds	##ds				
+tulil	lrdw	0036	0	0	0.2:s	0	2	s	5002	
+tulil	lrdw	0036	məie	but	other	other				
+tulil	lrdw	0036	ngi-bet	2SG.NPST-hold	v:pred	v		pred		
+tulil	lrdw	0036	mətə	in_mouth	rv	rv				
+tulil	lrdw	0036	ngang	1SG	nc_pro.1	nc_pro	1		5001	
+tulil	lrdw	0037	#	#	#purp	#purp				
+tulil	lrdw	0037	io	then	other	other				
+tulil	lrdw	0037	da	PURP	other	other				
+tulil	lrdw	0037	kəvov	dog	np.d:a	np	d	a	5001	
+tulil	lrdw	0037	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0037	v-it	3SG.M.PST-open	v:pred	v		pred		
+tulil	lrdw	0037	=a	=PAT	=ln	=ln				
+tulil	lrdw	0037	və=	3SG.M.POSS.INAL=	=ln_pro.d:poss	=ln_pro	d	poss	5001	
+tulil	lrdw	0037	kiov	mouth	np:p	np		p	5021	bridging
+tulil	lrdw	0037	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0037	#	#	#	#				
+tulil	lrdw	0037	me	and	other	other				
+tulil	lrdw	0037	tudək	wallaby	np.d:s	np	d	s	5002	
+tulil	lrdw	0037	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0037	v-u	3SG.M.PST-put	v:pred	v		pred		
+tulil	lrdw	0037	və=	3SG.M.POSS.INAL=	=ln_pro.d:poss	=ln_pro	d	poss	5002	
+tulil	lrdw	0037	nok	hand	np:p	np		p	5016	
+tulil	lrdw	0037	=pətakəm	=DL.CL:SEG	=rn	=rn				
+tulil	lrdw	0037	do	here;now	other	other				
+tulil	lrdw	0037	mət	in_mouth	nc	nc				
+tulil	lrdw	0037	=a	=PAT	nc	nc				
+tulil	lrdw	0037	kəvov	dog	nc_np.d	nc_np	d		5001	
+tulil	lrdw	0037	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0038	#	#	##	##				
+tulil	lrdw	0038	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0038	io	then	other	other				
+tulil	lrdw	0038	it-təvək	3DL.M.PST-cross	v:pred	v		pred		
+tulil	lrdw	0038	nə-mumə	LOC-DOWN.FAR	dem_other:l	dem_other		l		
+tulil	lrdw	0038	tan	across	other	other				
+tulil	lrdw	0039	#	#	##	##				
+tulil	lrdw	0039	tudək	wallaby	np.d:s_ds	np	d	s_ds	5002	
+tulil	lrdw	0039	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0039	at-e	3SG.M-QUOT	other:pred	other		pred		
+tulil	lrdw	0039	#	#	#ds	#ds				
+tulil	lrdw	0039	fh	fh	other	other				
+tulil	lrdw	0039	nging	2SG	pro.2:a	pro	2	a	5001	
+tulil	lrdw	0039	ava	also	other	other				
+tulil	lrdw	0039	ngi-kə~kutəng	2SG.NPST-RED~cut	v:pred	v		pred		
+tulil	lrdw	0039	ngang	1SG	ln_pro.1	ln_pro	1			
+tulil	lrdw	0039	ngə=	1SG.POSS.INAL=	=ln_pro.1:poss	=ln_pro	1	poss	5002	
+tulil	lrdw	0039	nok	hand	np:p	np		p	5016	
+tulil	lrdw	0040	#	#	##	##				
+tulil	lrdw	0040	ava	again	other	other				
+tulil	lrdw	0040	kəvov	dog	np.d:s_ds	np	d	s_ds	5001	
+tulil	lrdw	0040	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0040	at-e	3SG.M-QUOT	other:pred	other		pred		
+tulil	lrdw	0040	#	#	#ds	#ds				
+tulil	lrdw	0040	0	0	0.2:a	0	2	a	5002	
+tulil	lrdw	0040	oʔo	oʔo	other	other				
+tulil	lrdw	0040	do	here;now	other:dt	other		dt		
+tulil	lrdw	0040	tova	because	other	other				
+tulil	lrdw	0040	do	here;now	other:dt	other		dt		
+tulil	lrdw	0040	məte	like	other	other				
+tulil	lrdw	0040	#	#	#purp	#purp				
+tulil	lrdw	0040	0	0	0.2:s	0	2	s	5002	
+tulil	lrdw	0040	da	PURP	other	other				
+tulil	lrdw	0040	nging	2SG	pro.2:dt_s	pro	2	dt_s	5002	
+tulil	lrdw	0040	o	TOP	other	other				
+tulil	lrdw	0040	ngi-bəlut	2SG.NPST-slip_off	v:pred	v		pred		
+tulil	lrdw	0040	#	#	#	#				
+tulil	lrdw	0040	to	SUB	other	other				
+tulil	lrdw	0040	ka	SUB	other	other				
+tulil	lrdw	0040	avar	still	other	other				
+tulil	lrdw	0040	bər	seperate	v:pred	v		pred		
+tulil	lrdw	0040	nging	2SG	pro.2:s_sv	pro	2	s_sv	5002	
+tulil	lrdw	0040	%	%	%	%				
+tulil	lrdw	0040	məie	but	other	other				
+tulil	lrdw	0040	ngi-nu	2SG.NPST-put	v:pred	v		pred		
+tulil	lrdw	0040	ngi=	2SG.POSS=	=ln_pro.2:poss	=ln_pro	2	poss	5002	
+tulil	lrdw	0040	nok	hand	np:p	np		p	5016	
+tulil	lrdw	0040	təkə=	to=	=adp	=adp				
+tulil	lrdw	0040	nə-mu	LOC-IN	dem_other	dem_other				
+tulil	lrdw	0040	mətə	in_mouth	np:g	np		g	5021	
+tulil	lrdw	0040	ngang	1SG	rn_pro.1	rn_pro	1		5001	
+tulil	lrdw	0040	#	#	#	#				
+tulil	lrdw	0040	0	0	0.2:a	0	2	a	5002	
+tulil	lrdw	0040	ar	just	other	other				
+tulil	lrdw	0040	ngi-ruv	2SG.NPST-hook	v:pred	v		pred		
+tulil	lrdw	0040	=a	=PAT	=ln	=ln				
+tulil	lrdw	0040	ngi=	2SG.POSS=	=ln_pro.2:poss	=ln_pro	2	poss	5002	
+tulil	lrdw	0040	nok	hand	np:p	np		p	5016	
+tulil	lrdw	0040	=pətakəm	=DL.CL:SEG	=rn	=rn				
+tulil	lrdw	0040	tə=	to=	=adp	=adp				
+tulil	lrdw	0040	mətə	in_mouth	np:g	np		g	5021	
+tulil	lrdw	0040	ngang	1SG	rn_pro.1	rn_pro	1		5001	
+tulil	lrdw	0041	#	#	##	##				
+tulil	lrdw	0041	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0041	io	then	other	other				
+tulil	lrdw	0041	navonbət	like_that	other	other				
+tulil	lrdw	0041	i-nə~nanət	3DL.M.PST-RED~swim	v:pred	v		pred		
+tulil	lrdw	0041	#	#	##	##				
+tulil	lrdw	0041	kəvov	dog	np.d:s	np	d	s	5001	
+tulil	lrdw	0041	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0041	və-m~mət	3SG.M.PST-RED~eat	v:pred	v		pred		
+tulil	lrdw	0041	=a	=PAT	=ln	=ln				
+tulil	lrdw	0041	tudək	wallaby	ln_np.d:poss	ln_np	d	poss	5002	
+tulil	lrdw	0041	=a	=SG.CL:MASC	=ln	=ln				
+tulil	lrdw	0041	və=	3SG.M.POSS.INAL=	=ln_pro.d:poss	=ln_pro	d	poss	5002	
+tulil	lrdw	0041	nok	hand	np:p	np		p	5016	
+tulil	lrdw	0041	=pətakəm	=DL.CL:SEG	=rn	=rn				
+tulil	lrdw	0041	do	here;now	other	other				
+tulil	lrdw	0041	navodi	like_this	other	other				
+tulil	lrdw	0041	#	#	#purp	#purp				
+tulil	lrdw	0041	0	0	0.d:a	0	d	a	5001	
+tulil	lrdw	0041	da	PURP	other	other				
+tulil	lrdw	0041	v-u	3SG.M.PST-put	v:pred	v		pred		
+tulil	lrdw	0041	kəvədək	short	rv	rv				
+tulil	lrdw	0041	n	APPL	rv	rv				
+tulil	lrdw	0041	=a	=PAT	=ln	=ln				
+tulil	lrdw	0041	tudək	wallaby	ln_np.d:poss	ln_np	d	poss	5002	
+tulil	lrdw	0041	=a	=SG.CL:MASC	=ln	=ln				
+tulil	lrdw	0041	və=	3SG.M.POSS.INAL=	=ln_pro.d:poss	=ln_pro	d	poss	5002	
+tulil	lrdw	0041	nok	hand	np:p	np		p	5016	
+tulil	lrdw	0042	#	#	##	##				
+tulil	lrdw	0042	ip	3DL.M	pro.d:pred	pro	d	pred	5003	
+tulil	lrdw	0042	konəng	only	other	other				
+tulil	lrdw	0042	navonbət	like_that	other	other				
+tulil	lrdw	0042	#	#	##	##				
+tulil	lrdw	0042	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0042	it-nə~nanət	3DL.M.PST-RED~swim	v:pred	v		pred		
+tulil	lrdw	0042	#	#	##	##				
+tulil	lrdw	0042	bə=	ASP=	=other	=other				
+tulil	lrdw	0042	lət	arrive	v:pred	v		pred		
+tulil	lrdw	0042	n	APPL	rv	rv				
+tulil	lrdw	0042	=ip	=3DL.M	=pro.d:s_sv	=pro	d	s_sv	5003	
+tulil	lrdw	0042	be	at	adp	adp				
+tulil	lrdw	0042	vəret	side	np:g	np		g	5015	
+tulil	lrdw	0042	=e	=SG.CL:FEM	=rn	=rn				
+tulil	lrdw	0042	e-və	3SG.F-NSPEC	rn	rn				
+tulil	lrdw	0042	#	#	#	#				
+tulil	lrdw	0042	0	0	0.d:a	0	d	a	5002	
+tulil	lrdw	0042	o	TOP	other	other				
+tulil	lrdw	0042	kavar	just_then	other	other				
+tulil	lrdw	0042	tudək	wallaby	np.d:dt_a	np	d	dt_a	5002	
+tulil	lrdw	0042	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0042	o	TOP	other	other				
+tulil	lrdw	0042	v-unmə	3SG.M.PST-jump	v:pred	v		pred		
+tulil	lrdw	0042	nə	APPL	rv	rv				
+tulil	lrdw	0042	tang	REFL	refl.d:p	refl	d	p		
+tulil	lrdw	0042	mə=	from=	=adp	=adp				
+tulil	lrdw	0042	nə-mu	LOC-IN	dem_other	dem_other				
+tulil	lrdw	0042	ba	in	adp	adp				
+tulil	lrdw	0042	viuv	sea	np:g	np		g	5005	
+tulil	lrdw	0042	=e	=SG.CL:FEM	=rn	=rn				
+tulil	lrdw	0042	təpm	with	adp	adp				
+tulil	lrdw	0042	=a	=PAT	=ln	=ln				
+tulil	lrdw	0042	və=	3SG.M.POSS.INAL=	=ln_pro.d:poss	=ln_pro	d	poss	5002	
+tulil	lrdw	0042	nok	hand	np:obl	np		obl	5016	
+tulil	lrdw	0042	=pətakəm	=DL.CL:SEG	=rn	=rn				
+tulil	lrdw	0042	#	#	#rc	#rc				
+tulil	lrdw	0042	to	REL	other	other				
+tulil	lrdw	0042	bə=	bə=	=other	=other				
+tulil	lrdw	0042	tomom	cut_off	v:pred	v		pred		
+tulil	lrdw	0042	bətakəm	DL.CL:SEG	pro:s_sv	pro		s_sv	5016	
+tulil	lrdw	0043	#	#	##	##				
+tulil	lrdw	0043	#	#	#ac	#ac				
+tulil	lrdw	0043	0	0	0.d:s	0	d	s	5002	
+tulil	lrdw	0043	kavar	just_then	other	other				
+tulil	lrdw	0043	v-atang	3SG.M.PST-jump	v:pred	v		pred		
+tulil	lrdw	0043	navodi	like_this	other	other				
+tulil	lrdw	0043	%	%	%	%				
+tulil	lrdw	0043	o	TOP	other	other				
+tulil	lrdw	0043	0	0	0.d:s	0	d	s	5002	
+tulil	lrdw	0043	v-erən	3SG.M.PST-run	v:pred	v		pred		
+tulil	lrdw	0043	nə-p~bo	LOC-RED~UP	dem_other:g	dem_other		g		
+tulil	lrdw	0043	#	#	##	##				
+tulil	lrdw	0043	kəvov	dog	np.d:s	np	d	s	5001	
+tulil	lrdw	0043	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0043	bə	ASP	other	other				
+tulil	lrdw	0043	au	au	other:pred	other		pred		
+tulil	lrdw	0043	au	au	rv	rv				
+tulil	lrdw	0043	au	au	rv	rv				
+tulil	lrdw	0043	au	au	rv	rv				
+tulil	lrdw	0043	mənu	back_of	adp	adp				
+tulil	lrdw	0043	tudək	wallaby	np:g	np		g	5002	
+tulil	lrdw	0043	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0043	#	#	##neg	##neg				
+tulil	lrdw	0043	0	0	0.d:s	0	d	s	5001	
+tulil	lrdw	0043	me	and	other	other				
+tulil	lrdw	0043	bə=	ASP=	=other	=other				
+tulil	lrdw	0043	kori	NEG	other	other				
+tulil	lrdw	0043	və-taup	3SG.M.PST-catch	v:pred	v		pred		
+tulil	lrdw	0043	bem	at	adp	adp				
+tulil	lrdw	0043	=a	=3SG.M.PAT	=pro.d:obl	=pro	d	obl	5002	
+tulil	lrdw	0044	#	#	##	##				
+tulil	lrdw	0044	tudək	wallaby	np.d:s	np	d	s	5002	
+tulil	lrdw	0044	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0044	və-loktang	3SG.M.PST-circle_around	v:pred	v		pred		
+tulil	lrdw	0044	#	#	##	##				
+tulil	lrdw	0044	0	0	0.d:s	0	d	s	5002	
+tulil	lrdw	0044	ava	again	other	other				
+tulil	lrdw	0044	və-loktang	3SG.M.PST-circle_around	v:pred	v		pred		
+tulil	lrdw	0044	#	#	##	##				
+tulil	lrdw	0044	0	0	0.d:s	0	d	s	5002	
+tulil	lrdw	0044	ava	again	other	other				
+tulil	lrdw	0044	və-loktang	3SG.M.PST-circle_around	v:pred	v		pred		
+tulil	lrdw	0044	#	#	##	##				
+tulil	lrdw	0044	0	0	0.d:s	0	d	s	5002	
+tulil	lrdw	0044	ava	again	other	other				
+tulil	lrdw	0044	və-loktang	3SG.M.PST-circle_around	v:pred	v		pred		
+tulil	lrdw	0044	#	#	##	##				
+tulil	lrdw	0044	0	0	0.d:s	0	d	s	5002	
+tulil	lrdw	0044	ava	again	other	other				
+tulil	lrdw	0044	və-loktang	3SG.M.PST-circle_around	v:pred	v		pred		
+tulil	lrdw	0044	#	#	##	##				
+tulil	lrdw	0044	0	0	0.d:s	0	d	s	5002	
+tulil	lrdw	0044	ava	again	other	other				
+tulil	lrdw	0044	və-loktang	3SG.M.PST-circle_around	v:pred	v		pred		
+tulil	lrdw	0044	#	#	##neg	##neg				
+tulil	lrdw	0044	kəvov	dog	np.d:s	np	d	s	5001	
+tulil	lrdw	0044	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0044	bə=	ASP=	=other	=other				
+tulil	lrdw	0044	kori	NEG	other	other				
+tulil	lrdw	0044	və-ton	3SG.M.PST-look	v:pred	v		pred		
+tulil	lrdw	0044	tə=	to=	=adp	=adp				
+tulil	lrdw	0044	bem	at	adp	adp				
+tulil	lrdw	0044	=a	3SG.M.PAT=	=pro.d:obl	=pro	d	obl	5002	
+tulil	lrdw	0044	#	#	#	#				
+tulil	lrdw	0044	0	0	0.d:s	0	d	s	5001	
+tulil	lrdw	0044	to	SUB	other	other				
+tulil	lrdw	0044	v-atang	3SG.M.PST-jump	v:pred	v		pred		
+tulil	lrdw	0044	#	#	#	#				
+tulil	lrdw	0044	to	SUB	other	other				
+tulil	lrdw	0044	tudək	wallaby	np.d:dt_poss	np	d	dt_poss	5002	
+tulil	lrdw	0044	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0044	o	TOP	other	other				
+tulil	lrdw	0044	bə	ASP	other	other				
+tulil	lrdw	0044	və=	3SG.M.POSS.INAL=	=ln_pro.d:poss	=ln_pro	d	poss	5002	
+tulil	lrdw	0044	nok	hand	np:s	np		s	5016	
+tulil	lrdw	0044	o	TOP	other	other				
+tulil	lrdw	0044	bə	ASP	other	other				
+tulil	lrdw	0044	kəvədək	short	other:pred	other		pred		
+tulil	lrdw	0044	#	#	#	#				
+tulil	lrdw	0044	me	and	other	other				
+tulil	lrdw	0044	bə	ASP	other	other				
+tulil	lrdw	0044	və=	3SG.M.POSS.INAL=	=ln_pro.d:poss	=ln_pro	d	poss	5002	
+tulil	lrdw	0044	katə	leg.PL	np:s	np		s	5022	bridging
+tulil	lrdw	0044	o	TOP	other	other				
+tulil	lrdw	0044	kabar	long	np:pred	np		pred		
+tulil	lrdw	0044	#	#	#	#				
+tulil	lrdw	0044	me	and	other	other				
+tulil	lrdw	0044	kəbəlu	tail	np:dt_p	np		dt_p	5023	bridging
+tulil	lrdw	0044	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0044	do	here;now	rn	rn				
+tulil	lrdw	0044	ba	in	rn	rn				
+tulil	lrdw	0044	və=	3SG.M.POSS.INAL=	=rn	=rn				
+tulil	lrdw	0044	nung	bottom	rn_np	rn_np				
+tulil	lrdw	0044	o	TOP	other	other				
+tulil	lrdw	0044	iap	3SG.M	pro.d:s	pro	d	s	5002	
+tulil	lrdw	0044	və-t~təmən	3SG.M.PST-RED~push.ground	v:pred	v		pred		
+tulil	lrdw	0044	=a	=3SG.M.PAT	=pro:p	=pro		p	5023	
+tulil	lrdw	0044	#	#	#purp	#purp				
+tulil	lrdw	0044	0	0	0.d:s	0	d	s	5002	
+tulil	lrdw	0044	da	PURP	other	other				
+tulil	lrdw	0044	və-m~matang	3SG.M.PST-RED~jump	v:pred	v		pred		
+tulil	lrdw	0044	navodi	like_this	other	other				
+tulil	lrdw	0044	#	#	#purp	#purp				
+tulil	lrdw	0044	0	0	0.d:s	0	d	s	5002	
+tulil	lrdw	0044	da	PURP	other	other				
+tulil	lrdw	0044	və-m~matang	3SG.M.PST-RED~jump	v:pred	v		pred		
+tulil	lrdw	0044	navodi	like_this	other	other				
+tulil	lrdw	0044	#	#	##neg	##neg				
+tulil	lrdw	0044	0	0	0.d:s	0	d	s	5002	
+tulil	lrdw	0044	me	and	other	other				
+tulil	lrdw	0044	kori	NEG	other	other				
+tulil	lrdw	0044	və-m~manəng	3SG.M.PST-RED~jump	v:pred	v		pred		
+tulil	lrdw	0044	məte	like	adp	adp				
+tulil	lrdw	0044	kəvov	dog	np.d:obl	np	d	obl	5001	
+tulil	lrdw	0044	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0044	#	#	##neg	##neg				
+tulil	lrdw	0044	0	0	0.d:s	0	d	s	5002	
+tulil	lrdw	0044	bə=	ASP=	=other	=other				
+tulil	lrdw	0044	kori	NEG	other	other				
+tulil	lrdw	0044	və-m~manəng	3SG.M.PST-RED~jump	v:pred	v		pred		
+tulil	lrdw	0044	məte	like	adp	adp				
+tulil	lrdw	0044	kəvov	dog	np.d:obl	np	d	obl	5001	
+tulil	lrdw	0044	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0044	navonbət	like_that	other	other				
+tulil	lrdw	0045	#	#	##	##				
+tulil	lrdw	0045	vareot	long_time	v:pred	v		pred		
+tulil	lrdw	0045	=ip	3DL.M=	=pro.d:s_sv	=pro	d	s_sv	5003	
+tulil	lrdw	0045	navonbət	like_that	other	other				
+tulil	lrdw	0045	#	#	#rc	#rc				
+tulil	lrdw	0045	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0045	to	REL	other	other				
+tulil	lrdw	0045	it-lə~loktang	3DL.M.PST-RED~circle_around	v:pred	v		pred		
+tulil	lrdw	0045	#	#	#	#				
+tulil	lrdw	0045	0	0	0.d:s	0	d	s	5003	
+tulil	lrdw	0045	it-lə~loktang	3DL.M.PST-RED~circle_around	v:pred	v		pred		
+tulil	lrdw	0045	#	#	##	##				
+tulil	lrdw	0045	kəvov	dog	np.d:dt_s	np	d	dt_s	5001	
+tulil	lrdw	0045	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0045	bə=	ASP=	=other	=other				
+tulil	lrdw	0045	nalət	tired	v:pred	v		pred		
+tulil	lrdw	0045	=a	=3SG.M.PAT	=pro.d:s_sv	=pro	d	s_sv	5001	
+tulil	lrdw	0045	#	#	#neg	#neg				
+tulil	lrdw	0045	0	0	0.d:a	0	d	a	5001	
+tulil	lrdw	0045	to	SUB	other	other				
+tulil	lrdw	0045	kori	NEG	other	other				
+tulil	lrdw	0045	və-taup	3SG.M.PST-catch	v:pred	v		pred		
+tulil	lrdw	0045	bem	at	rv	rv				
+tulil	lrdw	0045	=a	=PAT	=ln	=ln				
+tulil	lrdw	0045	tudək	wallaby	np.d:p	np	d	p	5002	
+tulil	lrdw	0045	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0045	navodi	like_this	other	other				
+tulil	lrdw	0046	#	#	##	##				
+tulil	lrdw	0046	bə	ASP	other	other				
+tulil	lrdw	0046	mə=	from=	=adp	=adp				
+tulil	lrdw	0046	nə-bət	LOC-PROX2	dem_other	dem_other				
+tulil	lrdw	0046	ba	in	adp	adp				
+tulil	lrdw	0046	maok	time;space	np:dt	np		dt	5024	bridging
+tulil	lrdw	0046	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0046	a-bət	3SG.M-PROX1	rn	rn				
+tulil	lrdw	0046	o	TOP	other	other				
+tulil	lrdw	0046	tudək	wallaby	np.d:a	np	d	a	5002	
+tulil	lrdw	0046	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0046	bə=	ASP=	=other	=other				
+tulil	lrdw	0046	kori	kori	other	other				
+tulil	lrdw	0046	i-rə~ruptang	3DL.M.PST-RED~stick_together	v:pred	v		pred		
+tulil	lrdw	0046	a-n	3SG.M-COM	rv	rv				
+tulil	lrdw	0046	=a	=PAT	=ln	=ln				
+tulil	lrdw	0046	kəvov	dog	np.d:p	np	d	p	5001	
+tulil	lrdw	0046	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0046	navodi	like_this	other	other				
+tulil	lrdw	0046	#	#	#neg	#neg				
+tulil	lrdw	0046	to	SUB	other	other				
+tulil	lrdw	0046	bə=	ASP=	=other	=other				
+tulil	lrdw	0046	məte	like	other	other				
+tulil	lrdw	0046	bə=	ASP=	=other	=other				
+tulil	lrdw	0046	kori	NEG	other	other				
+tulil	lrdw	0046	mərek	good	other:pred	other		pred		
+tulil	lrdw	0046	bətm	with	adp	adp				
+tulil	lrdw	0046	=a	=3SG.M.PAT	=pro.d:obl	=pro	d	obl	5002	
+tulil	lrdw	0046	#	#	#	#				
+tulil	lrdw	0046	to	SUB	other	other				
+tulil	lrdw	0046	va	3SG.M.POSS	ln_pro.d:poss	ln_pro	d	poss	5002	
+tulil	lrdw	0046	var	friend	np.d:a	np	d	a	5001	
+tulil	lrdw	0046	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0046	və-leir	3SG.M.PST-harm	v:pred	v		pred		
+tulil	lrdw	0046	n	APPL	rv	rv				
+tulil	lrdw	0046	=a	=3SG.M.PAT	=pro.d:p	=pro	d	p	5002	
+tulil	lrdw	0046	#	#	#	#				
+tulil	lrdw	0046	0	0	0.d:a	0	d	a	5001	
+tulil	lrdw	0046	to	SUB	other	other				
+tulil	lrdw	0046	və-kutəng	3SG.M.PST-cut	v:pred	v		pred		
+tulil	lrdw	0046	do	here;now	other:p	other		p		
+tulil	lrdw	0046	ga	across	adp	adp				
+tulil	lrdw	0046	və=	3SG.M.POSS.INAL=	=ln_pro.d:poss	=ln_pro	d	poss	5002	
+tulil	lrdw	0046	nok	hand	np:obl	np		obl	5016	
+tulil	lrdw	0046	#	#	#purp	#purp				
+tulil	lrdw	0046	io	then	other	other				
+tulil	lrdw	0046	da	PURP	other	other				
+tulil	lrdw	0046	bə=	ASP=	=other	=other				
+tulil	lrdw	0046	və=	3SG.M.POSS.INAL=	=ln_pro.d:poss	=ln_pro	d	poss	5002	
+tulil	lrdw	0046	nok	hand	np:s	np		s	5016	
+tulil	lrdw	0046	o	TOP	other	other				
+tulil	lrdw	0046	bə=	ASP=	=other	=other				
+tulil	lrdw	0046	navodi	like_this	other:pred	other		pred		
+tulil	lrdw	0046	konəng	only	other	other				
+tulil	lrdw	0046	navodi	like_this	other	other				
+tulil	lrdw	0047	#	#	##	##				
+tulil	lrdw	0047	nə-bət	LOC-PROX2	dem_other:dt_s	dem_other		dt_s		
+tulil	lrdw	0047	o	TOP	other	other				
+tulil	lrdw	0047	a-pir	ART-story	np:pred	np		pred		
+tulil	lrdw	0047	be	at	adp	adp				
+tulil	lrdw	0047	tudək	wallaby	np.d:obl	np	d	obl	5002	
+tulil	lrdw	0047	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0047	a-n	3SG.M-COM	rn	rn				
+tulil	lrdw	0047	=a	=PAT	=rn	=rn				
+tulil	lrdw	0047	kəvov	dog	rn_np.d	rn_np	d		5001	
+tulil	lrdw	0047	=a	=SG.CL:MASC	=rn	=rn				
+tulil	lrdw	0048	#	#	#nc	#nc				
+tulil	lrdw	0048	io	then	nc	nc				
+tulil	lrdw	0048	toktok	end	nc	nc				
+tulil	lrdw	0048	məgət	today	nc	nc				
+tulil	lrdw	0048	(#)	(#)	nc	nc				
+tulil	lrdw	0048	o	TOP	nc	nc				
+tulil	lrdw	0048	kəvov	dog	nc	nc				
+tulil	lrdw	0048	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0048	kori	NEG	nc	nc				
+tulil	lrdw	0048	at-taup	3SG.M.NPST-catch	nc	nc				
+tulil	lrdw	0048	moli	again	nc	nc				
+tulil	lrdw	0048	be	at	nc	nc				
+tulil	lrdw	0048	tudək	wallaby	nc	nc				
+tulil	lrdw	0048	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0048	(#)	(#)	nc	nc				
+tulil	lrdw	0048	doto	when;if	nc	nc				
+tulil	lrdw	0048	(#)	(#)	nc	nc				
+tulil	lrdw	0048	at-a~manənga	3SG.M.NPST-RED~chase	nc	nc				
+tulil	lrdw	0048	=a	=PAT	nc	nc				
+tulil	lrdw	0048	tudək	wallaby	nc	nc				
+tulil	lrdw	0048	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0048	ba	in	nc	nc				
+tulil	lrdw	0048	tipur	bush	nc	nc				
+tulil	lrdw	0048	(#)	(#)	nc	nc				
+tulil	lrdw	0048	kori	NEG	nc	nc				
+tulil	lrdw	0048	moli	real	nc	nc				
+tulil	lrdw	0048	(#)	(#)	nc	nc				
+tulil	lrdw	0048	kori	NEG	nc	nc				
+tulil	lrdw	0048	moli	real	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	aloktang	3SG.M.NPST-circle_around	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	aloktang	3SG.M.NPST-circle_around	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	io	then	nc	nc				
+tulil	lrdw	0049	doto	when;if	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	at-atang	3SG.M.NPST-jump	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	o	TOP	nc	nc				
+tulil	lrdw	0049	kəvov	dog	nc	nc				
+tulil	lrdw	0049	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0049	o	TOP	nc	nc				
+tulil	lrdw	0049	bə=	ASP=	nc	nc				
+tulil	lrdw	0049	kori	NEG	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	a-təm	3SG.M.NPST-know	nc	nc				
+tulil	lrdw	0049	tərvi	fail	nc	nc				
+tulil	lrdw	0049	at-e	3SG.M-QUOT	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	tudək	wallaby	nc	nc				
+tulil	lrdw	0049	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0049	o	TOP	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	v-i	3SG.M.PST-walk	nc	nc				
+tulil	lrdw	0049	nə-bi	LOC-where	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	tove	because	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	at-a~matang	3SG.M.NPST-RED~jump	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	və-m~matang	3SG.M.PST-RED~jump	nc	nc				
+tulil	lrdw	0049	n	INSTR	nc	nc				
+tulil	lrdw	0049	=a	=PAT	nc	nc				
+tulil	lrdw	0049	va	3SG.M.POSS	nc	nc				
+tulil	lrdw	0049	kəbəlu	tail	nc	nc				
+tulil	lrdw	0049	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0049	me	and	nc	nc				
+tulil	lrdw	0049	və=	3SG.M.POSS.INAL=	nc	nc				
+tulil	lrdw	0049	katə	katə	nc	nc				
+tulil	lrdw	0049	kabar	kabar	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	idə	3N	nc	nc				
+tulil	lrdw	0049	idə-pun	3N.PST-throw	nc	nc				
+tulil	lrdw	0049	=a	=3SG.M.PAT	nc	nc				
+tulil	lrdw	0049	nə-mumə	LOC-DOWN.FAR	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	da	PURP	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	doto	when;if	nc	nc				
+tulil	lrdw	0049	bə	ASP	nc	nc				
+tulil	lrdw	0049	reit	slope	nc	nc				
+tulil	lrdw	0049	=e	=SG.CL:FEM	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	at-atang	3SG.M.NPST-jump	nc	nc				
+tulil	lrdw	0049	mə=	from=	nc	nc				
+tulil	lrdw	0049	nə-bo	LOC-UP	nc	nc				
+tulil	lrdw	0049	ar	still	nc	nc				
+tulil	lrdw	0049	nə-mumə	LOC-DOWN.FAR	nc	nc				
+tulil	lrdw	0049	navodi	like_this	nc	nc				
+tulil	lrdw	0049	navodi	like_this	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	(#)	(#)	nc	nc				
+tulil	lrdw	0049	at-atang	3SG.M.NPST-jump	nc	nc				
+tulil	lrdw	0049	nə-bo	LOC-UP	nc	nc				
+tulil	lrdw	0049	ar	still	nc	nc				
+tulil	lrdw	0049	nə-mumə	LOC-DOWN.FAR	nc	nc				
+tulil	lrdw	0050	(#)	(#)	nc	nc				
+tulil	lrdw	0050	nə-bət	LOC-PROX2	nc	nc				
+tulil	lrdw	0050	konəng	only	nc	nc				
+tulil	lrdw	0050	be	at	nc	nc				
+tulil	lrdw	0050	bokbok	story	nc	nc				
+tulil	lrdw	0050	be	at	nc	nc				
+tulil	lrdw	0050	tudək	wallaby	nc	nc				
+tulil	lrdw	0050	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0050	a-n	3SG.M-COM	nc	nc				
+tulil	lrdw	0050	=a	=PAT	nc	nc				
+tulil	lrdw	0050	kəvov	dog	nc	nc				
+tulil	lrdw	0050	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0050	navodi	like_this	nc	nc				
+tulil	lrdw	0050	(#)	(#)	nc	nc				
+tulil	lrdw	0050	mərek	good	nc	nc				
+tulil	lrdw	0051	(#)	(#)	nc	nc				
+tulil	lrdw	0051	maməni	first	nc	nc				
+tulil	lrdw	0051	o	TOP	nc	nc				
+tulil	lrdw	0051	(#)	(#)	nc	nc				
+tulil	lrdw	0051	ip-var	3DL.M.PST-be_friend	nc	nc				
+tulil	lrdw	0051	me	APPL	nc	nc				
+tulil	lrdw	0051	tang	REFL	nc	nc				
+tulil	lrdw	0051	(#)	(#)	nc	nc				
+tulil	lrdw	0051	me	and	nc	nc				
+tulil	lrdw	0051	(#)	(#)	nc	nc				
+tulil	lrdw	0051	it-leir	3DL.M.PST-harm	nc	nc				
+tulil	lrdw	0051	təpmə	with	nc	nc				
+tulil	lrdw	0051	tang	REFL	nc	nc				
+tulil	lrdw	0051	(#)	(#)	nc	nc				
+tulil	lrdw	0051	to	SUB	nc	nc				
+tulil	lrdw	0051	kəvov	dog	nc	nc				
+tulil	lrdw	0051	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0051	və-nitəng	3SG.M.PST-bite	nc	nc				
+tulil	lrdw	0051	da	on	nc	nc				
+tulil	lrdw	0051	tudək	wallaby	nc	nc				
+tulil	lrdw	0051	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0051	və=	3SG.M.POSS.INAL=	nc	nc				
+tulil	lrdw	0051	nok	hand	nc	nc				
+tulil	lrdw	0051	(#)	(#)	nc	nc				
+tulil	lrdw	0051	io	then	nc	nc				
+tulil	lrdw	0051	da	PURP	nc	nc				
+tulil	lrdw	0051	bə	ASP	nc	nc				
+tulil	lrdw	0051	tudək	wallaby	nc	nc				
+tulil	lrdw	0051	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0051	o	TOP	nc	nc				
+tulil	lrdw	0051	bə	ASP	nc	nc				
+tulil	lrdw	0051	navodi	like_this	nc	nc				
+tulil	lrdw	0051	navodi	like_this	nc	nc				
+tulil	lrdw	0051	navodi	like_this	nc	nc				
+tulil	lrdw	0052	(#)	(#)	nc	nc				
+tulil	lrdw	0052	me	and	nc	nc				
+tulil	lrdw	0052	bə	ASP	nc	nc				
+tulil	lrdw	0052	va	3SG.M.POSS	nc	nc				
+tulil	lrdw	0052	mərkəm	thigh	nc	nc				
+tulil	lrdw	0052	konəng	only	nc	nc				
+tulil	lrdw	0052	ip	3DL.M	nc	nc				
+tulil	lrdw	0052	(#)	(#)	nc	nc				
+tulil	lrdw	0052	me	and	nc	nc				
+tulil	lrdw	0052	va	3SG.M.POSS	nc	nc				
+tulil	lrdw	0052	kəbəlu	tail	nc	nc				
+tulil	lrdw	0052	=a	=SG.CL:MASC	nc	nc				
+tulil	lrdw	0052	(#)	(#)	nc	nc				
+tulil	lrdw	0052	idə	3N	nc	nc				
+tulil	lrdw	0052	to	REL	nc	nc				
+tulil	lrdw	0052	(#)	(#)	nc	nc				
+tulil	lrdw	0052	it-təmən	3N.NPST-push	nc	nc				
+tulil	lrdw	0052	=a	=3SG.M.PAT	nc	nc				
+tulil	lrdw	0053	(#)	(#)	nc	nc				
+tulil	lrdw	0053	nəbət	LOC-PROX2	nc	nc				
+tulil	lrdw	0053	konəng	only	nc	nc				
+tulil	lrdw	0053	(#)	(#)	nc	nc				
+tulil	lrdw	0053	me	and	nc	nc				
+tulil	lrdw	0053	mərek	good	nc	nc				
+tulil	lrdw	0053	vəvat	very	nc	nc				
